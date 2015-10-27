@@ -1,0 +1,650 @@
+q proc_to_lambda threaded_in_memory_queue
+Q escape_utils
+q-defer
+q-language number
+q-ruby-driver
+q3 builder redis redis-namespace sinatra
+q4m
+q_auth_ruby_client poodle-rb rails typhoeus
+q_translate
+qa activerecord-import deprecation nokogiri rails rest-client
+qa-rails acts_as_paranoid_boolean_column cells facebox-rails haml kaminari markdown-ruby-china rails
+qa_release_tasks pivotal-tracker
+qa_robusta localized_gems platform_helpers rubigen
+qacloud
+qaddy-client json rest-client
+QaDeS-lax
+QaDeS-qades-sequel
+qadmin activesupport hoe mislav-will_paginate newgem restful_query
+qapi oauth2
+qapi-github
+qapi-meetup qapi
+qarioz-confluencer log4r
+qb_iif
+qbert
+qbert_bot faraday rufus-scheduler sinatra
+qbfc
+qbo_rails quickbooks-ruby quickbooks-ruby-base rails
+qbrick ancestry bootstrap-sass bourbon carrierwave ckeditor coffee-rails devise devise-i18n haml htmlentities inherited_resources jquery-rails jquery-ui-rails mini_magick pg_search rails rails-settings-cached rails-settings-ui rdiscount remotipart sass-rails simple_form
+qbt_client httparty
+qbwc qbxml wash_out
+qbwc_requests activemodel qbxml
+qbxml activesupport builder nokogiri
+qbxml-dtd6 activesupport builder nokogiri
+qc-additions queue_classic
+qc-mailer actionmailer activesupport i18n queue_classic
+qc.rb
+qcloud
+qcmd dnssd json osc-ruby trollop
+qcms
+qcontent activesupport hoe money newgem
+qcore
+qcourses haml pony sequel sinatra sqlite3
+qcumberless cucumber
+qddrud chef
+qdfca
+qdml
+qdoc nokogiri redcarpet
+qdox
+qdsl
+qe activesupport
+qed ansi brass
+qedproject coffee-script guard guard-coffeescript guard-jammit guard-livereload guard-sass jammit net-scp net-sftp net-ssh rake sass uglifier
+qemu daemons
+qemu-toolkit clamp
+qenumerable izzy
+qer
+qfill
+qft
+qfunction gmail_sender ocra tlsmail watir
+qhandout prawn rake
+qif
+qiflib
+qihu360 multi_json multi_xml oauth2
+qihusem httparty
+qiita activesupport faraday faraday_middleware rack rainbow rouge slop
+qiita-build qiita
+qiita-elasticsearch activesupport
+qiita-markdown gemoji github-linguist greenmat html-pipeline mem pygments.rb sanitize
+qiita-markdown-cli qiita-markdown
+qiita-takeout nokogiri thor
+qiita-team-templates
+qiita_mail mail nokogiri qiita thor
+qiita_matome activemodel thor
+qiita_nekosogi_stocker dotenv qiita
+qiita_picks activesupport baby_erubis nokogiri pdfkit qiita ruby-gmail
+qiita_scouter thor
+qiita_team_services activemodel-url_validator faraday faraday_middleware hipchat rails rails-i18n slacken
+qiitan
+qik-loops
+qilin
+qimport
+qingcloud-sdk
+qingcloudserver
+qiniu json mime-types rest-client ruby-hmac
+qiniu-kit json
+qiniu-policy qiniu-kit
+qiniu-rs json mime-types rest-client ruby-hmac
+qiniu-s3 mime-types rest-client
+qiniu2upyun ruby-progressbar
+qiniu_direct_uploader coffee-rails jquery-fileupload-rails qiniu rails sass-rails
+qiniu_form rails uuid
+qiniu_jxb json mime-types rest-client ruby-hmac
+qiniu_jxb_fix json mime-types rest-client ruby-hmac
+qiniu_mini_sdk
+qio
+qipowl crochets psych unicode
+qiubai
+qiwi activemodel activesupport faraday nokogiri rack
+ql treetop
+qlab-ruby osc-ruby
+qlabel-rails jquery-rails railties
+qlang dydx
+Qlee
+qless redis sinatra vegas
+qless-campfire micro-optparse qless tinder
+qless-growl micro-optparse qless ruby-growl
+qless-pool qless rake trollop
+qlg
+qlive rack
+qlive-rails haml-rails qlive rails sass-rails
+qlive-rspec poltergeist qlive-rails rspec-rails
+qlzruby
+qm bson_ext httparty json mongo sinatra sinatra-cross_origin unicorn
+qm-acts-as-generic-controller calendar_date_select qui-common-helpers qui-index-table qui-tabs qui-toolbar rfc822 sort_alphabetical
+qmin
+qml
+qmore gem_logger multi_json qless
+qnotifier json_pure
+qntf thor
+qonf
+qoobaa-aws-sqs
+qoobaa-d2s3
+qoobaa-enum_field
+qoobaa-force_encoding
+qoobaa-javascript_i18n
+qoobaa-liquid
+qoobaa-lol
+qoobaa-oauth ruby-hmac
+qoobaa-opensocial activesupport oauth
+qoobaa-pg
+qoobaa-rack
+qoobaa-s3
+qoobaa-s3_upload_form
+qoobaa-sqlite3-ruby
+qoobaa-sqs
+qoobaa-stree trollop
+qoobaa-to_hash
+qoobaa-user-choices
+qoobaa-vcard
+qoobaa-webrat nokogiri
+qoolife-api activeresource activeresource-response
+qooxview activemodel activerecord activesupport arel chunky_png docsplit gettext helper_classes i18n iconv iniparse json locale multi_json net-ldap rqrcode rqrcode-with-patches rubyzip serialport sqlite3 text
+qor_cache qor_dsl rails
+qor_dsl
+qor_layout qor_dsl rails
+qor_test qor_dsl
+qosme
+qosmeto
+qotd
+qp
+qparser prawn
+qpid happymapper httpclient
+qpid_management qpid_messaging
+qpid_messaging
+qpid_proton json
+qplus json
+qq-pengyou
+qq_17up rest-client
+qq_client rest-client
+qq_connect
+qq_hulian
+qq_more
+qq_weibo
+qqface rails
+qqfileuploader rails
+qqpush rest-client
+qqwry bindata
+qr
+qr4r mojo_magick rqrcode
+qr_code_helper rqrcode
+qrb citrus
+qrcli rqrcode
+qrcode
+qrcode-waze rqrcode
+qrcode_web
+qrcoder mini_magick rqrcode
+qrcx
+qrda_generator health-data-standards hqmf-parser log4r mongoid nokogiri uuid
+qreki
+qrencoder chunky_png
+qreplay pcap_tools trollop
+qreport pg
+qreport_time_parser
+qrio chunky_png
+qrp mongrel
+qrpc abstract em-jack em-wrapper evented-queue eventmachine hashie hash-utils json-rpc-objects PriorityQueue unified-queues uuid
+qrq
+qrscanner
+qrtools hoe png
+qrush-beardo adamwiggins-rest-client
+qrush-clearance
+qrush-factory_girl
+qrush-gemcutter json net-scp
+qrush-jekyll classifier directory_watcher liquid maruku open4 RedCloth
+qrz-callbook xml-simple
+qs dat-worker-pool hella-redis ns-options SystemTimer
+qs-heroku-client faraday
+qs-request-tracker uuid
+qs-resque qs
+qsagi bunny json
+qserver clamp
+QSID
+qspec parallel rspec-core
+qst_client httparty
+qswarm amqp andand eventmachine json nokogiri trollop tweetstream twitter uuid
+qt-commander inifile nokogiri
+qt-deploy-win visual_studio
+qt_connect
+qtapp highline thor
+qtbindings
+qtbindings-qt
+qtc-sdk commander httpclient inifile
+qtext gather qtbindings
+qtime
+qtip2-jquery-rails railties
+qtip2-rails railties
+qtjruby-core extlib
+qtool
+qtousart-sortable_pictures jimiray-acts_as_commentable mbleigh-acts-as-taggable-on mime-types
+qtrefmovie
+qtrix mixlib-cli redis-namespace
+qtruby4
+qtunes cocaine compass compass-susy-plugin rack-flash ruby-audioinfo sinatra thor unicode
+qu multi_json
+qu-airbrake airbrake i18n qu
+qu-cmdwrapper qu-utils
+qu-delayed qu
+qu-exceptional exceptional qu
+qu-mfeindex qu-cmdwrapper qu-utils sqlite3
+qu-mongo mongo qu
+qu-mongoid mongoid qu
+qu-pcr qu-cmdwrapper qu-utils
+qu-rails qu rails
+qu-redis qu redis-namespace simple_uuid
+qu-scheduler qu-redis rufus-scheduler
+qu-seqcluster qu-utils
+qu-spec qu rspec simple_uuid
+qu-thermo
+qu-utils bio os
+qu_mailer actionmailer qu
+quack
+quackingduck-fancyviews haml sinatra
+quacks-like
+quacky activesupport
+quacky-charts coffee-rails json
+quad_sphere
+quaderno httparty
+quadhook activesupport json rack
+QuadraticEquation_MS
+quadrigacx json rest-client
+quaff abnf-parsing milenage system-getifaddrs
+quaid activesupport mongoid
+quake curb
+quake-db_profiling
+quakelive_api nokogiri
+quakelogparser thor
+quakquak awesome_print
+qualaroo httparty
+quality activesupport bigfiles brakeman cane flay flog json punchlist rails_best_practices reek rubocop rubocop-rspec ruby_parser source_finder
+quality-measure-engine delayed_job_mongoid mongoid moped rubyzip
+quality_analyzer
+quality_extensions
+quality_rdoc
+quality_time
+qualitysmith_extensions
+qualtrics activemodel activesupport configatron faraday faraday_middleware
+qualtrics_api faraday faraday_middleware virtus
+qualys erubis httparty json
+quandl activesupport json rest-client
+quandl-config activesupport
+quandl-slack quandl-config slack-notifier
+quandl_babelfish
+quandl_cassandra activemodel colorize cql-rb facter quandl_data scope_composer
+quandl_cassandra_models quandl_cassandra
+quandl_cassinatra activesupport her json quandl_data quandl_logger quandl_operation scope_composer yajl-ruby
+quandl_client activesupport her json quandl_data scope_composer
+quandl_data activemodel quandl_babelfish quandl_operation
+quandl_format quandl_client
+quandl_location activesupport redis
+quandl_logger activesupport gelf
+quandl_operation activesupport quandl_logger
+quandl_ruby
+quandl_sandbox activemodel activesupport aws-sdk net-scp net-ssh-gateway quandl_data
+quandl_utility activesupport quandl-slack rake rubocop thor thor-foodcritic
+quant
+quantcloud
+quantified
+quantify activesupport i18n
+quantify-amee quantify
+quantile
+quantile_estimator
+quantipay-acts_as_secure
+quantipay-authlogic_haapi
+quantipay-foreign-domain-routing
+quantipay-foreign_domain_routing
+quantipay-ssl_requirement rails
+quantity
+quantity-queries compass sass
+quantitymanager
+quantize
+quanto-ruby json oauth2
+quantum
+quantum_leap
+quantum_rng
+quanty
+quapistrano capistrano capistrano
+quarantino faraday json
+quark em-synchrony em-websocket eventmachine hashlib hiredis multi_json redis sinatra sinatra-cross_origin thin
+quarrel
+quarry clio
+quarter_system schrodinger
+quarter_time activesupport i18n
+quartermaster hoe
+quarto nokogiri
+quartz
+quartz-dotnet
+quartz-jruby activesupport
+quartz_flow data_mapper dm-sqlite-adapter dm-types quartz_torrent sinatra
+quartz_flow_plugin_shows quartz_flow
+quartz_torrent base32 bencode log4r pqueue
+quasi narray
+quassertions colorize
+quaternion
+quay docker-api thor
+qubits
+qubole
+qubole_rails_sql_views activerecord rails rake
+quby-mongoid mongoid quby
+qudea
+que
+que-rails que railties
+que-testing que
+que-web erubis que sinatra
+que_mailer actionmailer activesupport pg que rails
+que_tal_rodrigofigueroa
+que_view activerecord que
+quebert beaneater json
+queen
+Queen_Of_Diamonds
+queenbee json
+queencheck colorize
+queenshop
+quench celluloid
+quentonc-jsdoc_helper
+quercle json
+queri activesupport
+querinator rake
+querkle
+querobolsa-bootstrap-sass
+querrel activerecord
+query addressable httparty nokogiri
+query-analyzer
+query-interface-client activemodel activesupport faraday rs_paginator
+query-interface-server sequel
+query-nyc
+query_28io
+query_builder attributes_dsl equalizer ice_nine transproc
+query_cache activerecord rack
+query_dam activerecord redis redis-objects
+query_diet
+query_exec
+query_matchers activesupport
+query_methods_extend
+query_optimizer
+query_params
+query_report actionpack chartify google_visualr gruff kaminari prawn prawn-table rack railties ransack rmagick
+query_result_presenter
+query_reviewer
+query_string_filter treetop
+query_string_interface activesupport
+query_string_parser
+query_string_search
+query_syntax
+query_trace activerecord
+query_trace-rails-3 activerecord
+query_trace3 term-ansicolor
+query_tracer activerecord activesupport
+query_trail rails
+queryable
+queryable_array respond_to_missing
+queryable_hash
+queryable_with activerecord
+queryalize activerecord
+querybuilder rubyless
+queryitis savon
+queryjdbc
+queryparams
+queryparser
+querystring
+ques
+quesadilla named_emoji twitter-text
+queso-daemon-kit eventmachine rubigen
+quest_back activesupport savon
+quest_search
+question colorize
+question-simpleChoice
+question_chain calculated crack hashie hunt inherited_resources mongo_mapper mustache mustache rails
+question_mark_methods
+questionable
+questionable_answers formtastic haml rails stringex
+questionable_surveys formtastic haml rails stringex
+questiongenerator
+questioning_alex
+questioning_authority rails
+questionnaire ckeditor dynamic_form rails sass sass-rails state_machine
+questionnaire_engine rails
+questions
+quetzall-cloud_cache
+queue-bus multi_json redis
+queue_bundle
+queue_classic pg
+queue_classic-later queue_classic
+queue_classic_admin pg queue_classic rails will_paginate will_paginate-bootstrap
+queue_classic_batches queue_classic
+queue_classic_matchers
+queue_classic_plus activerecord activesupport queue_classic queue_classic-later with_advisory_lock
+queue_client amqp bunny eventmachine oj
+queue_ding aquarium
+queue_dispatcher deadlock_retry haml jquery-rails spawnling sys-proctable will_paginate
+queue_fetcher
+queue_it addressable faraday faraday_middleware
+queue_kit
+queue_manager globalid rails redis
+queue_map bunny
+queue_to_the_future
+queue_worker stomp
+queued activerecord resque
+queued-ruby faraday faraday_middleware multi_json
+queued_mail mail rails
+queuehash
+queueing_proxy em-jack eventmachine http_parser.rb thin
+queueing_rabbit amqp bunny json rake
+queuel mono_logger multi_json thread
+queuewrangler
+qui activerecord mysql2
+qui-automatic-form-required-fields
+qui-common-helpers
+qui-index-table
+qui-pagination
+qui-tabs
+qui-toolbar
+quic_cms ckeditor jquery-rails nested_set paperclip rails
+quick brb pry-remote-em rfusefs ruby_parser thor
+quick-api
+quick-bundler bundler
+quick-debug
+quick-etl
+quick-sampler activesupport
+quick-search
+quick-templater
+quick_api
+quick_attr
+quick_auth
+quick_benchmark
+quick_book_gateway oauth
+quick_captcha quick_magick
+quick_cert hoe
+quick_cipher
+quick_config
+quick_dry jquery-rails jquery-ui-rails rails
+quick_file fog mime-types rmagick
+quick_look
+quick_magick
+quick_magick_hooopo
+quick_mem
+quick_queue
+quick_response
+quick_scrapper scrapi
+quick_script
+quick_search ar_condition rails
+quick_serve
+quick_short
+quick_shoulda random_string
+quick_slug
+quick_start
+quick_state
+quick_store activesupport
+quick_test_runner
+quick_utils activesupport daemons
+quickapps_feedback excon sinatra uservoice-ruby
+quickbase activesupport httparty nokogiri
+quickbase_client
+quickbase_record activemodel activesupport advantage_quickbase
+quickblox
+quickbooks
+quickbooks-payments oauth
+quickbooks-ruby activemodel multipart-post nokogiri oauth roxml
+quickbooks-ruby-base quickbooks-ruby
+quickbooks-sinatra-app multi_json omniauth-oauth omniauth-quickbooks rack-flash3 sinatra
+quickbooks_api activesupport buffered_logger nokogiri
+quickbooks_web_connector rails redis-namespace soap2r
+quickcite bibtex-ruby bundler highline json nokogiri
+quickconnect
+quickdraw celluloid filepath filewatcher httparty thor
+quickeebooks activemodel nokogiri oauth roxml
+quicken
+quicken_parser FooBarWidget-money
+quickening activerecord rails
+quickets puma rack-cors roda
+quickfix--jruby
+quickfix-jruby
+quickfix-jruby-fix44
+quickfix_ruby
+quickgraph
+quickie
+quickie_motion
+quickl
+quicklog debug_inspector
+quickmox net-ssh
+quickmug clipboard commander ffi oauth ruby-smugmug safe_yaml
+quickpay-ruby-client httparty
+quickpress mimemagic rubypress thor tilt
+quickroute binary_search bindata
+quickserve webrick
+quickshare hoe newgem
+quicksort
+quicksort_median_of_three
+quickstart contracts erubis escort tilt
+quickstats
+quickstrings
+quicksuite capybara factory_girl_rails ffaker launchy pry-rails rspec-rails selenium-webdriver shoulda-matchers simplecov
+quicksync highline logger
+quicktable rails
+quicktest rspec
+quicktime-player-mac applescript
+quicktravel_client activesupport facets geokit httparty money money_extensions
+quicky
+quid
+quiescent
+quiet_assets railties
+quiet_routes
+quiet_safari railties
+quietbacktrace hoe
+quietus
+quiiq savon
+quijotipsum_api httparty thor
+quik fetcher gli logutils rubyzip textutils
+quik_start curb rubyzip
+quilb bundler colored htmlentities json minitest mysql2 rack ripl ripl-multi_line sass
+quilb-ace quilb
+quilb-cms quilb quilb-searchable quilb-session quilb-user
+quilb-cms-blog quilb quilb-cms
+quilb-cms-code_block quilb quilb-ace quilb-cms
+quilb-cms-default_theme quilb quilb-cms
+quilb-cms-gallery_block quilb quilb-cms
+quilb-cms-heading_block quilb quilb-cms
+quilb-cms-image_block quilb quilb-cms
+quilb-cms-row_block quilb quilb-cms
+quilb-cms-text_block quilb quilb-cms
+quilb-conf quilb
+quilb-font_awesome quilb
+quilb-image quilb
+quilb-searchable quilb
+quilb-session quilb
+quilb-sign_in quilb quilb-user
+quilb-sign_out quilb quilb-user
+quilb-sign_up quilb quilb-user
+quilb-user quilb quilb-session
+quill
+quill-api-client oauth2
+quill-rails railties
+quilt
+quilted-harvested builder happymapper httparty
+quimby json typhoeus
+quincunx optional
+quincy rake
+quine_mc
+quinn-ruby-svg
+quinoa rest-client rspec
+quintly faraday json
+quintus-example-gem paint
+quip unirest
+quirk colorize
+quirkey-gembox activesupport haml mislav-will_paginate rdoc sinatra vegas
+quirkey-imanip hoe
+quirkey-purse crypt git highline hoe termios
+quirkey-qadmin activesupport mislav-will_paginate restful_query
+quirkey-restful_query activesupport chronic
+quirkey-sinatra-gen rack-test rubigen sinatra
+quirkey-static_model activesupport hoe
+quirkey-vegas rack
+quiver activesupport extant lotus-controller lotus-router pry rack rake shotgun thor
+quiverstaskrunner azure-plus colorize nokogiri
+quixote
+quixoten-craigler
+quixoten-puppetdb-terminus
+quiyo dm-core dm-migrations dm-sqlite-adapter librmpd
+quiz
+quiz_dsl
+quiz_master
+quizgame
+quizHanielMaria
+quizkarenjose
+quizlet-ruby faraday_middleware json
+quizzer
+quizzy activesupport config_newton liquid
+qujo activesupport rails resque
+qumulo-rest json
+qunar
+qunit-cli-runner colored
+qunit-rails railties
+qunit-runner colorize thor
+qunit-selenium selenium-webdriver thor
+qunit_for_rails
+qunited
+qunited-rails qunited
+quo_vadis bcrypt-ruby rails
+quora-client json_pure
+quora-webdriver highline watir-scroll watir-webdriver
+quora_notify htmlentities json sqlite3 terminal-notifier
+quorable nokogiri
+quorum bio-blastxmlparser jquery-rails net-ssh rails resque resque-result
+quotable
+quotation-marks sass
+quote
+quote-only
+quote_unquote
+quotefm httparty
+quotejar
+quotemedia
+quotes
+quotewall plist rmagick
+quotey
+quoth nokogiri
+quotinator
+quotr
+quova nokogiri rest-client virtus
+qup maildir
+qurd aws-sdk cabin chef hashie
+quredis json redis sinatra thor
+qusion amqp
+quvi
+qv slop
+qvem railties
+qvod
+qwandry
+qweqwe
+qwerly
+qwerly-ruby
+qwester acts_as_list array_logic paperclip rails
+qwikdoc bundler
+qwiki github-markup haml sinatra
+qwirk rack rumx
+qwirk_active_mq_adapter jruby-activemq qwirk_jms_adapter
+qwirk_jms_adapter gene_pool jruby-activemq jruby-jms qwirk
+qwop_client actionmailer ruby_nsq
+qwrapper bunny logification
+qy_wechat multi_xml nokogiri rails railties roxml
+qyer-mobile-app app_config awesome_print commander lagunitas multi_json rest-client ruby_android
+qype-qype echoe
