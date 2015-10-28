@@ -1,0 +1,4730 @@
+b blockenspiel hitimes
+b-lazy
+b-list
+b001e
+b189877-1
+b1_config rails
+b2b2dot0-fastercsv
+b2b2dot0-sapnwrfc
+b2b_center_api savon socksify
+b2w pry rest-client
+b50d
+b62
+B_123 X_123
+b_encode
+b_named httparty mash
+ba fileutils highline mechanize thor
+ba-webby-pingback amalgalite hpricot json
+baa
+baabedo json rest-client
+babalu
+babar
+babascript args_parser em-rocketio-linda-client json
+babbage
+babbel bing_translator rails
+babble
+babbler
+babel hoe
+babel-source
+babel-transpiler babel-source execjs
+babel_bridge
+babel_diff
+babel_i18n
+babelfish hpricot trollop
+Babelfish
+babelfish-ruby
+babelish google_drive highline json thor xml-simple
+babelphish json ya2yaml
+babelyoda awesome_print builder log4r nokogiri rake rchardet19
+babilu lucy
+bable activesupport
+babney-hominid
+baboon net-scp net-ssh thor
+babosa
+babot boson twitter whenever
+babs bunny hashie
+babu3009-user-agent
+babushka
+babushka-viz
+baby-braspag httpi json nokogiri savon
+baby-bro
+baby_bots
+baby_erubis
+baby_face classifier
+baby_tooth faraday-stack json oauth2
+babycakes activesupport
+babydebugger
+babygitter grit gruff markaby rmagick
+babylon hoe httparty
+babylonia i18n
+babylonia-rails activerecord babylonia
+babynames
+babypool
+babysitter aws-sdk fozzie timecop
+bacardi money
+bacchanalytics activesupport rack
+bacchus rest-client
+baccigalupi-aqua
+bach espeak-ruby json stomp
+bachue-socksify
+back
+back_mark
+back_to_referer_after_form
+backaid
+backarch aws-sdk fog fork gli logger slop
+backbars handlebars_assets
+backbone-associations-rails
+backbone-chooser-rails railties
+backbone-cocktail-rails
+backbone-computedfields-rails
+backbone-deep-rails railties
+backbone-fetch-event
+backbone-filtered-collection railties
+backbone-forms-on-rails railties
+backbone-forms-rails
+backbone-generators jammit
+backbone-handlebars
+backbone-jasmine backbone-on-rails jquery-rails
+backbone-marionette-rails
+backbone-mixpanel
+backbone-nested-attributes rails
+backbone-on-rails eco ejs jquery-rails railties
+backbone-paginator rails
+backbone-paginator-rails
+backbone-queryparams-rails railties
+backbone-radio-rails
+backbone-rails rails
+backbone-rails-pageable rails
+backbone-relational-hal-rails rails
+backbone-relational-rails railties
+backbone-soundmanager2-rails railties
+backbone-source
+backbone-stickit-rails railties
+backbone-subroute-rails
+backbone-support
+backbone-syphon-rails
+backbone-validation-rails
+backbone-view-enhanced-events-declaration-rails
+backbone_editable-rails railties
+backbone_eventbinder_rails rails
+backbone_extensions rails
+backbone_form_helper
+backbone_generator colorize thor
+backbone_handlebars execjs sprockets tilt
+backbone_model_binder-rails
+backbone_mvc rails
+backbone_pageable_rails rails-backbone
+backbone_rails activerecord activerecord rails rails
+backbone_rails_extensions
+backbone_sync-rails rails
+backboneAX
+backboneAXSwitch backboneAX
+backbonejs-rails thor
+backboner
+backbonify rails
+backbrace
+backburner beaneater dante
+backburner_mailer backburner
+backchannel
+backchat
+backchat-client activesupport addressable rest-client
+backdat em-synchrony eventmachine mixlib-cli mixlib-config mixlib-log puma rack redis sinatra tilt yajl-ruby
+backdrop backports sinatra
+backend-application
+backend-toolkit json redis
+backend_translator haml rails redis sinatra
+backendfu
+backenup grit
+backflip
+backgem
+backgridjs-rails rails
+background
+background.js
+background_bunnies bunny ~>0 amqp
+background_cache rack-test redis yajl-ruby
+background_lite activesupport
+background_module
+background_process
+background_proxy
+background_queue algorithms eventmachine ipaddress ipaddress json rufus-scheduler
+background_worker
+backgroundable beaneater
+backgrounded activerecord activesupport
+backgrounded-resque backgrounded resque
+backgrounded_mail backgrounded mail
+backgrounded_mailer backgrounded mail
+backgrounder activesupport json resque
+backgroundmodule
+backgroundrb-rails3 chronic packet rails
+backhead rails
+backitup
+backline activemodel rugged
+backload
+backlog bundler daemons gruff mechanize postgres-pr rails rmagick slave
+backlog-api
+backlog-api-client faraday
+backlog-cli feed-normalizer thor
+backlog4r activesupport
+backlog_api activesupport awesome_print formatador haml net-netrc sinatra thor
+backlog_bulk backlog_jp thor
+backlog_jp faraday
+backlog_jp-pj2json backlog_jp thor
+backlog_kit activesupport faraday faraday_middleware
+backlog_v2_4r httpclient
+backnob slave
+backofen git
+backpack bivouac
+backpack-journal hoe thor
+backpack_journal rest-client thor
+backpack_tf httparty
+backport_new_renderer rails
+backported_strong_parameters actionpack activemodel railties
+backports
+backrack bundler rake thor
+backrub redis
+backs3 activesupport aws-s3
+backscatter
+backstack
+backstop-deploys rest-client scrolls sinatra
+backstop-simple_xlsx_writer
+backstretch-rails railties
+backsum activesupport cocaine logging posix-spawn virtus
+backtalk sass
+backtastic activesupport haml_coffee_assets inflection-js-rails rails-backbone twitter-bootstrap-rails
+backtik-red-herring hoe newgem rack red
+backto
+backtop coffee-rails font-awesome-rails rails sass-rails
+Backtrace_Array Split_Lines
+backtrace_shortener
+backtracer xray
+backtrack
+backtrack-xpath
+backtracker
+backtracking
+backtrail railties
+backtype httparty
+backtyper httparty httparty
+backup addressable atomic aws-ses buftok builder CFPropertyList descendants_tracker dogapi dropbox-sdk equalizer excon faraday fission flowdock fog fog-atmos fog-aws fog-brightbox fog-core fog-ecloud fog-json fog-profitbricks fog-radosgw fog-riakcs fog-sakuracloud fog-serverlove fog-softlayer fog-storm_on_demand fog-terremark fog-vmfusion fog-voxel fog-xml formatador hipchat http httparty http_parser.rb inflecto ipaddress json mail memoizable mime-types mini_portile multi_json multipart-post multi_xml net-scp net-sftp net-ssh nokogiri open4 pagerduty polyglot simple_oauth thor thread_safe treetop twitter unf unf_ext xml-simple
+backup-agoddard open4 thor
+backup-aliyun backup carrierwave-aliyun
+backup-baidu api4baidu backup json oauth2
+backup-github grit json octokit trollop
+backup-gundua activerecord aws-s3 hirb net-scp net-sftp net-ssh pony sqlite3-ruby
+backup-kanbox backup json kanbox oauth2
+backup-pants aws-s3
+backup-pcs backup baidu-sdk
+backup-rails backup dotenv-rails excon fog mail net-ssh whenever
+backup-restorer net-scp net-ssh
+backup-ssh addressable atomic aws-ses buftok builder CFPropertyList descendants_tracker dogapi dropbox-sdk equalizer excon faraday fission flowdock fog fog-atmos fog-aws fog-brightbox fog-core fog-ecloud fog-json fog-profitbricks fog-radosgw fog-riakcs fog-sakuracloud fog-serverlove fog-softlayer fog-storm_on_demand fog-terremark fog-vmfusion fog-voxel fog-xml formatador hipchat http httparty http_parser.rb inflecto ipaddress json mail memoizable mime-types mini_portile multi_json multipart-post multi_xml net-scp net-sftp net-ssh nokogiri open4 pagerduty polyglot simple_oauth thor thread_safe treetop twitter unf unf_ext xml-simple
+backup-task backup
+backup-wakiki activerecord hirb pony sqlite3-ruby
+backup2everbox activesupport backup launchy oauth rest-client
+backup2qiniu backup qiniu-rs
+backup2s3 aws-sdk
+backup2sndacs backup sndacs
+backup_aws_s3 manage_s3_bucket
+backup_checksum POpen4 thor
+backup_cleaner activesupport i18n trollop
+backup_data
+backup_demon thor
+backup_driver thor
+backup_foundation multipart-post rake
+Backup_GEM_2 madeleine net-ssh rake runt
+backup_jenkins aws-sdk command_line_helper hashie
+backup_management
+backup_mongo_s3 aws-sdk
+backup_monitor coalesce thor
+backup_on_the_go bitbucket_rest_api colorize github_api highline
+backup_organizer
+backup_paradise alias_e cliner colour_aid esystem opn save_file try_syck
+backup_qiniu backup qiniu
+backup_rails backup excon fog mail net-sftp net-ssh whenever
+backup_tasks
+backup_upyun backup rest-client
+backup_utility
+backup_zh addressable atomic aws-ses buftok builder descendants_tracker diff-lcs dogapi dropbox-sdk equalizer excon faraday ffi flowdock fog formatador fuubar hipchat http httparty http_parser.rb json mail memoizable metaclass mime-types mini_portile mocha multi_json multipart-post multi_xml netrc net-scp net-sftp net-ssh nokogiri open4 pagerduty polyglot qiniu rake rb-fsevent rb-inotify redcarpet rest-client rspec rspec-core rspec-expectations rspec-mocks ruby-hmac ruby-progressbar simple_oauth thor thread_safe timecop treetop twitter unf unf_ext xml-simple yard
+backuper
+backupgem madeleine net-ssh rake runt
+backupgemsteven madeleine net-ssh rake runt
+backupify-rsolr-nokogiri nokogiri
+backupit mail
+BackupMan log4r
+backups thor
+backy
+backyard
+backzilla
+bacon
+bacon-bits bacon
+bacon-colored_output bacon
+bacon-expect
+bacon-latin
+bacon-rr bacon rr
+Bacon_Colored bacon colored
+Bacon_FS
+Bacon_FS_Matchers shell_helpers
+Bacon_Rack
+baconmail aws-s3 gmail
+baconmocha bacon mocha
+bacterial-annotator bio mechanize
+bacuview rails
+bacuwatch
+bad_ass_extensions
+bad_bot rails
+bad_browser actionpack jquery-rails rails
+bad_encodings-ruby19 clip
+bad_idea
+bad_link_finder mechanize nokogiri
+bad_word_detector
+bad_words
+badabing
+badb configliere highline
+badbill faraday faraday_middleware hashie yajl-ruby
+badboy-jabbot xmpp4r
+BadBoy-ruby-hackvm
+badcards
+badcarl-dm-googlebase dm-core dm-types dm-validations gdata nokogiri
+badcarl-integrity-jabber integrity xmpp4r
+badcarl-webarchiver
+baddr rails
+bade
+badfruit httparty json
+badgeable
+badgeable_active_record activerecord badgeable
+badgeapi activesupport faraday json
+badger activesupport
+badger-rails capistrano
+badgerbadgerbadger git thor
+badgerfish htmlentities ox
+badgerhash
+badgerkit hashie httmultiparty rubyzip zip-zip
+badges activesupport dish httparty markaby
+badges2svg trollop
+badges_engine_test haml haml-rails jquery-rails rails
+badgeville json rest-client
+badgeville_berlin activeresource
+badgify
+badginator rails
+badgr rails
+badmail
+badnaam-geokit
+badwords
+bae
+baffle dot11 facets rb-lorcon rb-pcap
+bag
+bag-ruby httparty
+bag42_geocoder geocoder
+bag_of_holding parslet thor
+bagger addressable json rainpress uglifier
+bagit docopt validatable
+bagman
+bagodonuts_studio_game
+bagotrix
+bagua
+baha docker-api json thor
+bahai_date astro-algo RubySunrise tzinfo
+bahia open4
+bahn
+bahn.rb activesupport geocoder json mechanize
+bahramlorem
+bahtera addressable multi_json
+bahuvrihi-biomass sample_tasks tap
+bahuvrihi-biomass-data_explorer tap
+bahuvrihi-biomass-xcalibur constants tap
+bahuvrihi-constants ruby-units
+bahuvrihi-data_explorer tap
+bahuvrihi-external
+bahuvrihi-hansen_lab sample_tasks tap
+bahuvrihi-molecules constants
+bahuvrihi-ms-data_explorer mspire tap tap-tasks
+bahuvrihi-ms-prots tap
+bahuvrihi-ms-xcalibur constants tap
+bahuvrihi-sample_tasks tap
+bahuvrihi-syckle
+bahuvrihi-tap configurable
+bahuvrihi-tap-gen tap
+bahuvrihi-tap-suite rap tap tap-gen
+bahuvrihi-tap-test tap-core
+bahuvrihi-xcalibur constants tap
+bai-crypt-isaac
+bai-maruku syntax
+bai-money
+bai-rubyglot
+bai-verhoeff
+bai2
+bai_parser
+baidu awesome_print httparty savon
+baidu-cloud_push sysinfo
+baidu-push celluloid faraday virtus
+baidu-sdk multipart-post
+baidu-sms savon
+baidu-tongji-turbolinks
+baidu_api baidu_api-geocoding
+baidu_api-geocoding
+baidu_api-lbs_cloud httparty
+Baidu_cloudpush
+baidu_crawler nokogiri
+baidu_lbs faraday faraday_middleware
+baidu_lbs_sdk multi_json
+baidu_map eat
+baidu_ocr json rest-client
+baidu_pcs multi_json thor typhoeus
+baidu_push httparty
+baidu_push_client faraday virtus
+baidu_ueditor_rails
+baidu_web
+baidumap
+baidupan thor
+Baidupush
+baiduserp docopt domainatrix httparty nokogiri ruby-progressbar sequel
+baidusms httparty
+baikal
+bail
+bailiff net-scp net-ssh thor
+bailitheoir
+bait git haml moneta sinatra sinatra-contrib sucker_punch term-ansicolor thin toystore
+baixarxml
+baja bundler factory_girl_rails rspec-rails
+bak
+bak-shell gli rainbow
+bake
+bake-heroku thor
+bake-toolkit colored highline rgen rtext
+bake.clj
+bakeConv launchy
+bakedweb-model_notifier
+baker
+baker_street activesupport
+bakers rake
+bakers-rack
+bakery trollop
+bakery-core rails RedCloth
+bakery-theme
+bakeware bundler hub rails
+bakineggs-poker
+bakist awesome_print chef hashie librarian-chef net-ssh thor
+bakkdoor-blocktalk treetop
+bakkdoor-rswing
+bakkdoor-srxml
+bakker hoe rspec sys-uname user-choices
+bakman
+balance mechanize
+balanced addressable faraday faraday_middleware
+balanced-ach faraday faraday_middleware
+balancir excon
+balboa-client
+baldowl-gem_leaves
+baldowl-rack_csrf rack
+baldowl-rack_hashed_cookie_session rack
+baldowl-rake_dmg rake
+baldowl-rupostrano capistrano
+baldr activesupport
+baldrick nokogiri
+baldwin appraisal rails rspec-rails thor
+baleen celluloid celluloid-io colorize docker-api sinatra thor
+balepc-zombie_passenger_killer
+bales
+bali
+balinterdi-activewarehouse-etl
+balinterdi-acts_as_trivia
+balinterdi-cuckoo_twitterer
+balinterdi-hashtag_retweet_bot activerecord pauldix-feedzirra twibot
+balinterdi-i15r
+balinterdi-missing_t
+balinterdi-twuckoo hpricot mocha twibot
+ball_gag
+ballad
+ballast actionpack addressable brauser em-synchrony gemoji
+baller
+ballgame statesman
+ballistics
+ballmer nokogiri zipruby
+ballonizer addressable htmlentities json nokogiri rack sequel sprockets
+ballonizer_proxy addressable ballonizer pretty_proxy rack sequel
+balloons
+ballot_box activemodel browser
+ballou_sms_gateway acts_as_chain nokogiri rest-client uuid
+balmora term-ansicolor
+baloo activesupport httparty yajl-ruby
+balotelli
+bam
+bamboo-cli httparty json thor uri-handler
+bamboo-client json nokogiri rest-client
+bamboo-ruby
+bamboo_api rest-client
+bamboo_rails ci_reporter
+bamboohr httparty
+bamboozled activesupport httparty json
+bamfcsv
+bamm_log
+bamnet-acts-as-timecode
+bamnet-paperclip
+ban arduino_firmata em-websocket eventmachine thor
+banalize activesupport gli mash
+Banana
+banana activerecord railties
+banana_docs actionpack htmlentities rspec slim
+banana_peels mailchimp-api
+banana_split rails
+bananajour activesupport dnssd grit haml json rainbow sinatra thin
+bananas
+bananasplit rails
+bancard typhoeus
+bancbox
+bancbox_invest activesupport httparty json
+bancklecrm activesupport json mime-types rest-client
+bancomer-active_merchant
+bancomer36
+band_page httparty recursive-open-struct
+bandcamp harmony hpricot id3lib-ruby
+bandcamp-rb httparty
+bandcamp_api multi_json
+bandcampbx json_pure multi_json net-http-persistent
+bandicoot msgpack
+bandido rails redis
+bandiera-client macmillan-utils rest-client
+bandit rails
+banditmask
+banditry
+bands_in_town_api_client
+bandshell daemons ipaddress sinatra sys-proctable sys-uptime
+bandsintown activesupport json rest-client
+bandwidth crack hashie httpi nokogiri
+bandwidth_api httparty json
+bandy-dci
+bane
+banery_stats activesupport
+bang brass
+bang-bang activesupport honkster-addressable mustache named-routes sinatra yajl-ruby
+bang_bang_xhr actionpack
+bangers_and_hash
+bangkok midilib
+bangou
+bangpound-compass-drupal-zen-plugin
+banister-texplay gosu
+banisterfiend faker
+banjo alsa-rawmidi eventmachine midi-jruby midi-winmm rubysl-yaml unimidi
+banjo-apn_sender multi_json
+banjo-mongoid-pagination mongoid
+bank attr_protected sequel
+bank-contact
+bank-crawlers-hapoalim capybara hpricot poltergeist
+bank-of-israel multi_xml nokogiri
+bank-validator activemodel
+bank_account_attr
+bank_account_number_validator
+bank_account_validator
+bank_audi
+bank_card activemodel activesupport
+bank_holiday dish
+bank_holidays httparty icalendar
+bank_link hashie
+bank_lookup activesupport multi_json sinatra
+bank_routing typhoeus yajl-ruby
+bank_scrap activesupport execjs mechanize money nokogiri rmagick thor
+bank_slip barby bundler prawn
+bank_statement_parser
+bankcrawlers-hapoalim capybara hpricot poltergeist
+banker banker-ofx mechanize
+banker-ofx nokogiri
+bankey
+bankgiro_inbetalningar
+bankholidays httparty icalendar
+banking_data activemodel activesupport smarter_csv
+banking_data_validator activemodel
+banking_date_tools
+bankjob builder fastercsv hpricot mechanize
+bankleitzahl addressable
+banklink_lv activesupport
+bankocr thor
+bankserv absa-esd absa-h2h absa-notify-me activerecord activesupport i18n
+banktools-de attr_extras ibanomat
+banktools-se
+BankValInt
+BankValUK
+bannable
+banned_words rails
+banner_lite rails
+banner_module
+bannermodule
+bannister
+banorte_payworks faraday httpclient
+banter activesupport airbrake awesome_print bunny celluloid celluloid-io hashie json
+bantic-integrity bcrypt-ruby data_objects dm-aggregates dm-core dm-timestamps dm-types dm-validations do_sqlite3 foca-sinatra-diddies haml json rspec_hpricot_matchers sinatra thor
+bantic-pastie
+bantic-ruby-opencv
+bantik-user-agent
+banyan awesome_nested_set globalize3 rails
+banzai
+BanzaiMan-ZenTest minitest
+bao-karakuri
+baobab
+baokim
+baozhao_gem
+baptist
+baptize capistrano
+bar-of-progress
+baracus json mixlib-config open4 rest-client
+barakplus
+baral5
+barato
+barb
+barber ember-source execjs
+barber-emblem barber emblem-source
+barby
+barby-chunky_png chunky_png
+barby-pdf417 barby
+barcade mechanize terminal-table
+barchart_data activerecord mechanize nokogiri
+barclays-to-ynab smarter_csv
+barclays_bikes
+barcode
+barcode1dtools
+barcode_encoder actionpack activesupport fog
+barcoder
+barcoder-client activemodel activesupport typhoeus yajl-ruby
+barcodes prawn rmagick
+barcodeservice gbarcode gbarcode sinatra sinatra
+barcodevalidation
+bard bard-rake capistrano rvm-capistrano systemu term-ansicolor thor
+bard-rake rake
+bard-sass compass rails
+bard-staging_banner
+bard-static
+bard_bot
+bard_staging_banner
+bard_static
+bare
+bare-ruby-aws
+bare_coffee sprockets
+bare_gato
+barebone-fsm
+barebones rails
+barely
+barely_searchable
+baren tilt
+baretest
+baretest-vows
+barfs fadvise http_spew net-http-persistent nokogiri rack regurgitator sequel sys-filesystem yajl-ruby
+barge faraday faraday_middleware hashie
+barge-sdk
+barista coffee-script
+barista_growl barista growl
+barjillo
+bark hashie json
+barkdog diffy dogapi hashie term-ansicolor
+barkeep json
+barkeep-client dedent rest-client trollop
+barkeep_rails
+barker activemodel activesupport thread_safe
+barkick
+barking hurley nokogiri
+barking_iguana-unique_id base_n
+barking_iguana-verify addressable
+barmcakes
+barmstrong-daemon-spawn
+barn
+barnacle rainbow
+barnesandnoble excon multi_xml
+barney
+barnie kosher mechanize
+barnyard2waldo
+barnyard_aws barnyard_harvester fog
+barnyard_ccfeeder aws-sdk crack json logger rest-client
+barnyard_dns barnyard_harvester dnsruby
+barnyard_harvester amqp aws-sdk bson_ext bunny crack json mongo resque uuid
+barnyard_logger aws-sdk barnyard_ccfeeder barnyard_harvester crack uuid
+barnyard_market aws-sdk barnyard_ccfeeder barnyard_harvester bunny crack uuid
+barometer addressable choc_mool httpclient nokogiri nori tzinfo virtus
+barometer-cli barometer
+barometer-forecast_io barometer
+barometer-noaa barometer
+barometer-support
+barometer-weather_bug barometer
+barometer-yahoo barometer
+baron rack
+baron-twitter activesupport hpricot httparty
+barracuda
+barrage activesupport
+barrage_bench gnuplot imgurr thor
+barrb activesupport
+barrel
+barricade
+barrier
+barrio-client rocket_pants
+barristan
+barrister json
+barrister-intraprocess barrister
+barrister-rails active_attr barrister barrister-intraprocess
+barrister-redis barrister redis
+barrister-sinatra barrister sinatra
+barron
+bars trollop
+bart nokogiri
+bart_waiting_list mechanize
+bartender multi_json
+bartes-rcov_stats
+barthes ace-client activesupport builder chronic erubis httparty json nokogiri slop term-ansicolor
+barton json newrelic_rpm rack-test sinatra tire trollop
+bartt-ssl_requirement
+bartzon-httparty crack
+bartzon-osdb
+bartzon-validates_blacklist
+bartzon-zelda httparty
+barun_heehaw
+baruwa
+barx
+barzahlen
+Basaah-pony-gae
+basass compass sass
+base
+base-generators
+base.sass sass
+base10-first-floor
+base10-spec-assist
+base2_ckeditor mime-types orm_adapter
+base2_cms ie6_fixer jquery-rails mail paperclip rails recurrence thinking-sphinx will_paginate writeexcel
+base2_metrics
+base31
+base31_encoder
+base31_guid
+base32
+base32-crockford
+base32-multi
+base32_pure
+base58
+base58_gmp
+base58block
+base62
+Base62
+base62-rb
+base64_attachment mimemagic rails
+base64_compatible
+base64_string
+base64url
+base91
+base_app
+base_auth
+base_convert
+base_css-rails railties
+base_indexer discovery-indexer is_it_working-cbeer rails retries
+base_jump
+base_logic_landing railties
+base_logic_theme railties
+base_n
+base_presenter
+base_rails_app warp_drive
+base_script
+base_x
+baseapi
+baseball_calc activesupport colorize
+baseball_scorecard gameday_api green_shoes launchy
+baseboard coffee-script execjs rack rufus-scheduler sass sinatra sinatra-contrib sprockets thin thor
+basecamp activeresource oauth2 xml-simple
+basecamp_wrapper
+basecamper activeresource
+basecampeverest activeresource httparty json oauth2
+basecampnext httparty json
+basecampx httparty json
+basechip activesupport archive-tar-minitar i18n thor
+basecomm_sdk dotenv excon faraday json midwire_common
+basecrm faraday json
+basecustom
+basehangul
+baseirc
+baseline
+basement
+basepack bootbox-rails bootstrap-modal-rails bootstrap-sass bootstrap-wysihtml5-rails cancan coffee-rails ejs fancytree-rails font-awesome-rails haml-rails jquery-cookie-rails kaminari nested_form parslet phony polyamorous psych rails rails-i18n ransack sass-rails select2-rails settingslogic simple_form underscore-rails underscore-string-rails
+basepath
+bases
+bash-session
+bash-visual
+bashcov simplecov
+basher
+bashim
+bashir
+bashparser
+bashrw-ttt riak-client
+bashrw_ttt riak-client
+Bashy Get_Set
+bashy highline
+basic rails
+basic-info rails
+basic-initial-rails4 bundler bundler pg rails
+basic-rope
+basic-scopes activerecord activesupport
+basic-sequencer midi-topaz unimidi
+basic-stats
+basic101 parslet
+basic_active_model
+basic_api_auth rack
+basic_assumption activesupport
+basic_auth_credentials
+basic_brain
+basic_client faraday faraday_middleware
+basic_config
+basic_daemon
+basic_decorator
+basic_info rails
+basic_model activemodel activesupport
+basic_named_scopes
+basic_object
+basic_presenter activesupport
+basic_queue
+basic_service
+basic_ssl
+basic_support activesupport
+basic_tree activesupport i18n
+basic_youtube httparty
+basica
+basically
+basiccache
+basicgeo
+basico-octakit colorize configatron httparty inflecto json octokit virtus
+basics console_renderer json rainbow redcarpet
+basics_edit
+basicss-rails
+basicssl
+Basil Basil dna progressbar trollop
+basil dna trollop
+basilico
+basilik map typhoeus
+basilisk anemone fastercsv nokogiri
+basin
+basis erubis open4
+basis-band json
+basis-connector
+basis-processing knnball
+basiszwo-email_spec
+basiszwo-reflection git
+basketcase hoe
+basmoura colorize prawn
+basquiat multi_json naught
+bass_audioplayer
+basscss-rails
+basset
+bassil_google_ngram
+bassnode-discogs
+bassnode-ruby-echonest hashie httpclient libxml-ruby
+bassy-rails
+bastard clarity
+bastet
+bastilian-fluxapi httparty
+bastille gibberish highline httparty multi_json octokit redis redis-namespace sinatra thor
+bastion angular-rails-templates
+bastos-gary markaby open4
+basuco
+bat
+bataille
+batali attribute_struct bogo bogo-cli bogo-config bogo-ui git grimoire http rack-cache
+batali-infuse batali chef
+batali-tk batali test-kitchen
+batali-wedge batali-infuse
+batasrki-calendar_date_select
+batbugger json
+batcave cabin clamp octokit stud
+batch
+batch-rails rails
+batch-rails-4 railties
+batch-rails2 rails sass-rails
+batch_actions
+batch_api middleware
+batch_audio_convert easy_app_helper pry taglib-ruby
+batch_factory activesupport roo
+batch_insert
+batch_it redcarpet tilt
+batch_manager daemon-spawn log4r rails
+batch_rename
+batch_translations
+batchbase kanamei_log_formatter sys-proctable
+batchbook activeresource
+batched_query
+batchelor
+batcher activerecord
+batches
+batchly-sdk
+batchr
+batchtapaper faraday
+batchy activerecord activesupport addressable andand rake state_machine sys-proctable
+bateman httparty nokogiri
+bath
+bathtub rubysdl
+bathyscaphe eat nokogiri
+batik
+batik-rasterizer
+batik-rasterizer-windows
+batik-rasterizer-windows7
+batlog rails
+batman
+batman-rails railties
+batman-rails-flo
+batman-touch-rails jquery_mobile_rails
+baton amq-client amqp bunny chef em-http-request eventmachine ohai thor
+bats
+bats-chef-handler
+batsd
+batsd-dash connection_pool haml sinatra
+batsignal
+batsir blockenspiel bunny celluloid json log4r sidekiq
+batt cocaine thor
+battering_ram
+battery
+battery-staple colorize
+battery_growl ruby-growl
+battle json rest-client
+battle-on rest-client
+battle_pet
+battle_ship activesupport
+battlecry ruby-growl
+Battlefield
+battlenet httparty
+battlenet-api httparty oauth2
+battlenet_info nokogiri
+battleroom activesupport awesome_print coderay colorize faker pry pry-byebug word_wrap
+battleship colorize
+battleship_tournament alpha cobra commodore_cox ensign_erratic joshua_son_of_nun l2p rear_admiral_randy sergeant_simple sonic_death_monkey ssoroka_takes_the_win uss_monte_carlo white_horseman
+battleships
+battlestation thor
+battletoads psych
+battman activesupport
+Bauble
+baudelaire activerecord
+bauhaus
+bauserhelloworld
+bauxite selenium-webdriver
+bawsaq faraday multi_json
+baya curb git yajl-ruby
+bayes_classifier
+bayes_motel
+bayes_naive_jdp
+bayes_on_redis
+bayes_on_redis_internal
+bayesab distribution
+bayesball
+bayescraft awesome_print cri gnuplot integration rubystats
+bayesian_average activesupport bson_ext mongoid
+Bayeux log4r rubytree spox-plist spox-textpow spox-ultraviolet
+bayeux-rack async_sinatra eventmachine json thin
+bayon
+bayonet
+bayuploader hoe hpricot mime-types OptionParser
+baywatch
+baza array_enumerator datet event_handler string-cases wref
+baza_migrations baza string-cases
+baza_models baza string-cases
+bazaar
+bazaar_sources crack hpricot httparty nokogiri
+bazaar_voice json rest-client
+bazarvoice
+baze
+bazi
+bazil_client
+bazuro rest-client
+bazza
+bb
+bb-epub bookbinder
+bb-flow ansi-select colorize git memoist octokit ruby-trello
+bb-jouer
+bb-ruby
+bb_analytics gli sqlite3
+bb_stats_crunch
+bb_tag_closer
+BBB i2c json
+bbc json rest-client
+bbc-a11y capybara cld colorize cucumber poltergeist rspec w3c_validators
+bbc-capybara bbc-selenium-webdriver mime-types nokogiri rack rack-test xpath
+bbc-capybara-mechanize capybara mechanize
+bbc-capybara-mechanize-with-proxy capybara mechanize
+bbc-cosmos-config aws-sdk hashie
+bbc-cosmos-logger log4r log4r-gelf
+bbc-cosmos-tools ansi aws-sdk cfndsl easy_diff faraday highline thor
+bbc-cosmos-tools-config faraday thor
+bbc-programmes rdf rdf-raptor spira
+bbc-selenium-webdriver
+bbc_api
+bbc_cucumber_salad capybara cucumber poltergeist redis rspec
+bbc_data_service activemodel activesupport nokogiri rdf-json rdf-rdfxml
+bbc_mobile_standards nokogiri raakt rest-client w3c_validators
+bbc_redux nokogiri representable terminal-table typhoeus virtus
+bbc_standards markup_validity raakt
+bbcloud excon fog formatador hirb json
+bbcode
+bbcode-rails
+bbcodeizer
+bbcodelib
+bbcoder
+bbcoder-l
+bbenezech-acts-as-taggable-on acts_as_list
+bbenezech-nested_form
+BBenezech-papermill mime-types paperclip rsl-stringex ryanb-acts-as-list
+bbenezech-serialist
+bberg
+bbgcli highline httparty net-ssh trollop
+bbgun coderay
+bbiff activesupport
+bbl
+bbmb
+bborn-acts-as-taggable-on rails
+bborn-acts_as_taggable_on_steroids rails
+bborn-desert
+bborn-simplepay activesupport
+bbpush
+bbq activesupport capybara
+bbq-spawn childprocess
+bbq-widget bbq
+bbqueue stalking
+bbr
+BBRedCloth
+bbrowning-bossman activesupport
+bbrowning-deltacloud-client nokogiri rest-client
+bbrowning-deltacloud-core eventmachine haml json rack rake rerun sinatra thin
+bbrowning-ponder eventmachine
+bbrowning-twitter-search json-jruby
+bbs2ch faraday
+bbsexp
+bbuckley-foo
+bbuttons compass
+bbvcommon log4net
+bc jr
+bc-cap-recipes
+bc-htmlful
+bc-middleware inherited_resources
+bc-require-google-auth
+bc-rspec-matchers
+bc-to_xls activerecord
+bc3 log4r
+bc_crawler json
+bcaccinolo-mailchimp_api
+bcalloway-slicehost capistrano
+bcalloway-wysihat-engine paperclip
+bcaparser nokogiri spreadsheet thor watir
+bcardarella-blackbook
+bcardarella-coder
+bcardarella-country_coder
+bcardarella-decoder
+bcardarella-deepthroat
+bcarlso-snap
+bcarpenter-active_shipping activesupport
+bcash actionpack activemodel haml nokogiri rest-client
+bcash-ruby activemodel httparty multi_json oauth
+bcat rack
+bcbiff mail
+bcd
+bcdatabase highline thor
+bchiu-merb_cache_more merb-core
+bchiu-merb_forgery_protection merb
+bcl archive-tar-minitar builder faraday multi_json nokogiri roo rubyXL rubyzip uuid yamler zliby
+bclubb-ruby-hmac
+bcm2835 ffi
+bcms_ancestry
+bcms_aws_s3 aws-sdk browsercms
+bcms_aws_s3-artirix aws-sdk browsercms-artirix
+bcms_awss3 aws-sdk browsercms
+bcms_bitly bitly browsercms
+bcms_blog browsercms
+bcms_bmedia_feeds browsercms simple-rss
+bcms_cas browsercms rubycas-client
+bcms_contact_us browsercms
+bcms_contact_us_module
+bcms_content_rotator browsercms
+bcms_content_syncing
+bcms_event browsercms
+bcms_event-with_location
+bcms_event_registration
+bcms_fckeditor browsercms
+bcms_feedback_form
+bcms_feeds simple-rss
+bcms_garment_district browsercms coffee-rails maruku
+bcms_google_mini_search browsercms
+bcms_intensedebate
+bcms_kcfinder browsercms jquery-migrate-rails
+bcms_mobile browsercms mobylette
+bcms_news browsercms
+bcms_page_comments browsercms
+bcms_person bcms_thumbnail
+bcms_polling browsercms
+bcms_pubcookie browsercms rails
+bcms_rankings browsercms
+bcms_s3
+bcms_seo_sitemap bcms_settings browsercms
+bcms_settings browsercms
+bcms_sitemap browsercms
+bcms_slideshow bcms_thumbnail
+bcms_spree actionpack browsercms coffee-rails spree
+bcms_support
+bcms_thumbnail mini_magick
+bcms_tools browsercms buzzcore paperclip
+bcms_twitter browsercms twitter
+bcms_twitter_module twitter
+bcms_webdav browsercms dav4rack
+bcodec
+bconv parseconfig
+bcp47 i18n
+bcpm
+bcrypt
+bcrypt-ruby bcrypt
+bcrypt-ruby-maglev-
+bcrypt_hmac bcrypt devise-encryptable
+bcs-interrogator faraday-http-cache
+bcswlmpke
+bcurren-freshbooks.rb activesupport
+bcurren-rshoeboxed builder hoe mocha newgem
+bcurren-ssl_requirement rails
+bcx rapidash
+bd_money
+bdainton-camptweet tinder twitter4r
+bdb tuple
+bdb1
+bdd colorize rspec
+bdd-legacy aruba builder bundler capybara cucumber diff-lcs fakeweb gherkin json nokogiri prawn prawn-layout rack-test rake ramaze rdoc rspec rspec simplecov simplecov sinatra syntax term-ansicolor thor webrat
+bdd_elements
+bdd_server httparty rack thin
+bddfire capybara cucumber require_all rspec selenium-webdriver
+bddgen thor
+bdericks-lightline bones
+bdimcheff-dm-pagination merb
+bdimcheff-dm-sphinx-adapter dm-core
+bdimcheff-is_taggable
+bdimcheff-sandbox
+bdimcheff-staticmatic haml mongrel
+bdoc launchy multi_json
+bdotdub-gluepi httparty
+bdotdub-integrity-prowl integrity prowl
+bdsabian-happy_trails
+bdude-friendfeed httparty
+bdude-rosettastone httparty
+bdz json nestful nokogiri
+be ansi brass
+be-data-api excon multi_json
+be9-acl9
+be9-awesome_nested_set activerecord
+be9-bitty
+be9-colorist
+be9-context
+be9-daemon-spawn
+be9-dataset activerecord activesupport
+be9-integrity-twitter integrity twitter
+be9-punch attributes chronic main orderedhash systemu
+be9-rubbr
+be9-ryba
+be9-viewtastic
+be_an_existing_path-matcher rspec
+be_boolean
+be_taskable rails state_machine
+be_truthy
+be_valid_asset rspec
+bea_api rest-client
+beacon
+beaconpush
+beagle rspec-core
+beaglebone
+beaglebone_usb
+beaker aws-sdk beaker-answers beaker-hiera docker-api fission fog fog-google google-api-client hocon inifile json minitest net-scp net-ssh open_uri_redirections rbvmomi rsync stringify-hash unf
+beaker-answers require_all stringify-hash
+beaker-hiera stringify-hash
+beaker-librarian beaker beaker-rspec
+beaker-puppet_install_helper beaker
+beaker-rspec beaker rspec serverspec specinfra
+beaker_spec_helper beaker
+beam
+beambridge
+beamer rails
+beamer-remote sinatra vegas
+beamly curb hashie
+bean
+bean-kramdown
+bean_counter beaneater gemerald_beanstalk stalk_climber
+bean_machine activemerchant activerecord money
+beanbag
+beancounter aws-sdk rails
+beaneater
+beanpicker beanstalk-client
+beanqueue beanstalk-client
+beans daemons ruby-growl sqlite3
+beans-middleman compass compass-slickmap haml json_pure padrino-core padrino-helpers rack rack-test sass shotgun sinatra smusher templater thin tilt yui-compressor
+beans-rakismet
+beans_rails
+beanstalk-admin
+beanstalk-client
+beanstalk-client-rspec beanstalk-client rspec
+beanstalk-worker activesupport beanstalk-client mixlib-config mixlib-log mixlib-log-json yajl-ruby
+beanstalk_farmer beanstalk-client multi_json
+beanstalk_integration_tests beaneater bundler minitest_should mocha rake
+beanstalkapp activeresource
+beanstalkappjeroenb activeresource
+beanstalkd-stats beanstalk-client dante json multi_json rufus-scheduler
+beanstalkd_view beaneater json sinatra sinatra-contrib vegas
+beanstalker beanstalk-client daemonizer rails
+beanstalkify aws-sdk
+beanstreamy activemerchant
+beantool beaneater
+beanworker beanqueue beanstalk-client
+bear rails thor
+bear-sass sass
+bearcat footrest
+bearclaws
+beard
+bearded-octo-hipster
+bearded_grid compass sass
+beardley rjb rjb-loader
+beardley-barcode beardley
+beardley-batik beardley
+beardley-charts beardley
+beardley-core
+beardley-groovy beardley
+beardley-open_sans beardley
+beardley-xml beardley
+bearonrails rails
+bearror
+bearychat httparty
+bearychat-notifier
+beastbot
+beastie mercenary
+beatport addressable faraday money signet
+beatport_play-scraper nokogiri
+beatr
+beats wavefile
+beats-adapter-discogs
+beats-client json_pure multi_json rest-client
+beats-rack dalli goliath rack-cache
+beaucollins-paperclip right_aws
+beautified_url
+beautiful-css
+beautiful_public_key highline sshkey
+beautiful_scaffold
+beautiful_url collect_first_word_of_case_menu colour_aid save_file try_syck
+beautifulsoup rubyful_soup
+beauty
+beauty_check
+beauvoir
+beaver
+beaver_cleaver
+beawesomeinstead-explore
+beawesomeinstead-filter
+beawesomeinstead-fsm
+beawesomeinstead-rubyglot
+bebanjo-mighty_associations
+bebanjo-persistize
+bebanjo-rack-useragent josh-useragent rack
+bebop activesupport sinatra
+bebox colorize fast_gettext gli highline progressbar tilt
+because
+bechad
+beck
+beckett kramdown
+become
+becomes
+becoming
+bedrock compass
+bedrock-capistrano-mysql capistrano dotenv
+bedrock-capistrano-uploads capistrano dotenv
+beds rubyzip sinatra
+bee archive-tar-minitar highline rubyzip
+bee_api
+bee_go bee
+bee_java bee
+bee_python bee
+beecart msgpack rails redis
+beef ansi data_objects dm-core dm-migrations dm-sqlite-adapter do_sqlite3 erubis json parseconfig sqlite3 term-ansicolor
+beef-active_form jnunemaker-validatable
+beef-acts_as_content_node
+beef-admin_area thoughtbot-sortable_table will_paginate
+beef-articles acts-as-taggable-on jackdempsey-acts_as_commentable
+beef-has_assets
+beef-layout
+beef-pages
+beef-slides
+beef-subscribers
+beef-text_elements
+beef-youtube-g
+beefcake
+beefcake-spanx
+beefcake_go_rpcgen beefcake
+beefdump xml-simple
+beefup
+beehive json redis
+beeleads faraday
+beeline
+beeminder activesupport chronic highline json trollop tzinfo
+beemo
+beenverified hoe
+beenverified_extensions
+beep
+beep-testing
+beeper faraday faraday_middleware json rash
+beeps rake rucy xot
+beer
+beer_bash commander mechanize terminal-table
+beer_in_the_evening nokogiri null_logger
+beer_list mechanize thor
+beer_mapping
+beer_recipe docopt nrb-beerxml
+beeradvocate nokogiri
+beerbelly httparty
+beerbot CronR pry sqlite3
+beercalc
+beerdb beerdb-models datafile fetcher gli sqlite3
+beerdb-admin
+beerdb-labels
+beerdb-models worlddb-models
+beerdb-note
+beerdb-service
+beerify bootstrap-sass cancan capistrano-bundler capistrano-nginx-unicorn capistrano-rails capistrano-rvm carrierwave ckeditor devise devise-i18n-views faker font-awesome-sass-rails friendly_id google-analytics-rails high_voltage jquery-rails meta-tags mini_magick mysql2 rails rails_admin rmagick sentencify settingslogic simple_form slim tire unicorn validates will_paginate will_paginate-bootstrap
+beerxml dm-core dm-validations nokogiri
+bees
+beespew rails
+beet thor
+beeta gitolite json sequel sqlite3 watts
+beethoven
+beetle activesupport amq-client amqp amq-protocol bunny daemons eventmachine_httpserver hiredis redis uuid4r
+beetle_etl activesupport sequel
+beetle_joevandyk_extensions beetle
+beetrackapi
+beetstrap rails sass
+beezwax
+befog fog
+before_actions
+before_and_after
+before_filters
+before_or_404
+before_render
+before_test
+befunge colorize
+beg guard
+beget tilt
+beggar holidays httparty mechanize
+begin thor
+beginning_of_fortnight
+beh_spatial_adapter activerecord GeoRuby
+behance faraday faraday_middleware json
+behave rest-client rubyzip zip-zip
+behave.io httparty json
+behavior
+behavioral
+behaviors
+behaviortree
+beholder fsevents
+beid_parser
+beintoo activesupport json rake rest-client
+bekkopen-jansicolor
+bekkopen-warbler rake
+bel ffi
+belafonte
+belgium_2050_model ffi
+believer activemodel connection_pool cql-rb
+belka
+bell embratel sequel sqlite3
+bellboy faraday knife-data-bag-version ridley thor
+bellbro activesupport airbrake redis retryable sidekiq
+bellejs rbelly uglifier
+bellhop
+bellite json
+bellmyer-hydra
+bellmyer-protects_the_innocent faker
+bellmyer-validates_blacklist rails
+bellow prowly ruby-notify-my-android
+bellows json thor
+bells hoe
+belly rest-client trollop
+belongs_to_city
+belongs_to_enum rails
+belongs_to_hstore activerecord
+belongs_to_remote
+belongs_to_versioned
+belorussian i18n
+belphanior-2412n-servant belphanior-servant
+belphanior-calendar-watcher-servant belphanior-servant ri_cal
+belphanior-servant json sinatra
+belphanior-speech-servant belphanior-servant
+belphanior-time-servant belphanior-servant
+beluga
+bem
+bem-constructor compass sass
+bem-on-rails activesupport thor
+bemify sass
+bemurphy-cinch-last_seen cinch redis redis-namespace
+bemurphy-google_plus hashie httparty
+ben
+ben5516-grackle json mime-types oauth
+ben_string
+benaldred-clearance
+benatkin-vimilicious
+benbooth5-qbedit
+benburkert-ey-backup
+benburkert-gpgme
+benburkert-hosebird
+benburkert-randexp
+bench
+bench_press activesupport facter httparty jeweler
+bench_test
+benchcc gnuplot rake ruby-progressbar tilt
+benches activesupport rspec
+benchling
+benchm
+benchmark-bigo benchmark-ips chartkick
+benchmark-extensions easystats
+benchmark-ips
+benchmark-lab distribution
+benchmark-timed_each
+benchmark_color colorize
+benchmark_email_api
+benchmark_ext
+benchmark_for_rails
+benchmark_harness
+benchmark_me
+benchmark_method
+benchmark_methods
+benchmark_requires
+benchmark_sort
+benchmark_suite benchmark-ips
+benchmark_time
+benchmark_unit
+benchmark_wrapper
+benchmarkable
+benchmarker
+benchmarkx gruff
+benchmeth
+benchpress gruff
+benchrb
+benchtool highline open4
+benchwarmer
+benchy em-http-request thor
+bencode
+bencode_blatyo
+bencode_ext
+bencoder
+bencoding
+bencodr
+bencview bencode open4
+bender activesupport aws-sdk-v1 dotenv thor
+bender-bot eventmachine ffi fuzzy-string-match hipchat json queryparams sclemmer-robut sinatra slog thin thor
+bendiken-adhoc
+bendiken-cheapid openpgp uuidtools
+bendiken-crm114
+bendiken-cryptograph openpgp
+bendiken-openpgp
+bendiken-rakefile rake rubyforge yard
+bendy
+benedictfischer09.riddler
+benediction
+benelux attic storable
+benetton mustache rake
+benevolent_gaze aws-s3 httparty json mini_magick redis sinatra sinatra-contrib sinatra-cross_origin sinatra-support thin thor
+benford
+bengler_test_helper
+benhamill-gherkin json
+benhoskings-ambition ParseTree rubigen ruby2ruby
+benhoskings-ambitious-activerecord activerecord
+benhoskings-hammock benhoskings-ambitious-activerecord rails
+benhutton-active_shipping activesupport
+benhutton-cloudfront_asset_host right_aws
+benhutton-facebooker json_pure
+benhutton-libmemcached_store memcached
+benhutton-mysql2psql mysql pg
+benignware-jquery-rails railties
+benjamin-lewis
+benjaminjackson-sinatra-cache sinatra sinatra-outputbuffer
+benjaminkrause-restful
+benjaminkrause-sunspot daemons mwmitchell-rsolr optiflag
+benjaminkrause-sunspot_rails escape outoftime-sunspot
+benji_node rails redis SystemTimer
+benlangfeld-lighthouse-api activeresource activesupport
+benmanns-atreides aasm acts-as-taggable-on analytical aws-s3 bitly bluecloth cancan chrisle-gattica coffee-rails coffee-script delayed_job_active_record devise dropbox-sdk dynamic_form em-http-request em-net-http em-synchrony formtastic grackle haml has_scope htmlentities inherited_resources jquery-rails mini_fb multi_json nokogiri oauth2 oembed_links paperclip rack-fiber_pool rails redcarpet responders sass-rails settingslogic tumblr-api tweetstream twitter uglifier unicode_utils validates_email_format_of will_paginate yajl-ruby yard
+benny_cache
+benofsky-bolt haml
+benofsky-yajl-ruby
+benoist-startwith-generators
+benoit cadenza chunky_png compass gli inflecto kramdown kronic multi_json rake-pipeline-web-filters redcarpet sass stamp thin
+benotified
+benpickles-contentz activerecord
+benschwarz-attr-chain
+benschwarz-bom-weather validatable
+benschwarz-flickr-rest hpricot
+benschwarz-flickr-wrapper flickr-rest validatable
+benschwarz-flickraw json
+benschwarz-gitnotify
+benschwarz-merb-cache merb-core
+benschwarz-moneta
+benschwarz-muxtape highline hpricot rb-appscript
+benschwarz-openuri_memcached
+benschwarz-openuri_recorder
+benschwarz-smoke crack fakeweb json moneta nokogiri rest-client simple-rss
+benschwarz-webrat nokogiri selenium-client
+bentley_mcilroy
+bently thor
+bento inherited_resources rails show_for simple_form table_for
+bento_search confstruct htmlentities httpclient language_list multi_json nokogiri openurl rails summon
+bentrackergem
+benzboy faraday json
+benzinator faraday json
+benzo cocaine
+bequest macaddr
+ber
+bercow nokogiri stomp
+bereshit
+beret
+bergamota
+bergcloud
+berichtsheft prawn
+berkeley-db-java-jars
+berkes-drupal.rb archive-tar-minitar
+berkflow berkshelf octokit ridley ridley-connectors semverse thor
+berks-monolith berkshelf
+berks2env berkshelf chef json
+berks_to_rightscale berkshelf chef fog thor
+berksfiler configurability
+berkshelf addressable berkshelf-api-client buff-config buff-extensions buff-shell_out celluloid celluloid-io cleanroom faraday httpclient minitar octokit retryable ridley solve thor
+berkshelf-api archive buff-config celluloid celluloid-io grape grape-msgpack hashie octokit reel ridley semverse
+berkshelf-api-client faraday httpclient
+berkshelf-bzr berkshelf
+berkshelf-envs berkshelf
+berkshelf-hg berkshelf
+berkshelf-shims berkshelf
+berkshelf-solo berkshelf
+berkshelf-store ridley sinatra sinatra-contrib syslog-logger
+berkshelf-vagrant vagrant-berkshelf
+berkshelf_ext berkshelf chef
+berktacular berkshelf faraday hashie octokit ridley solve
+berlin acts-as-taggable-on acts_as_tree globalize3 netzke-basepack netzke-core spree
+berlin-ai rainbow ruby-terminfo sinatra sinatra-contrib thin yajl-ruby
+berlin-buehnen-client httmultiparty
+berlusconi
+bermuda capybara cucumber
+bernoulli
+bernoulli-metrics http
+bernsno-shopify extlib httparty
+bernstein daemons eventmachine json redis redis-namespace ruby-osc
+berry path2 small
+Berserker
+berserker_knuckleheads_game
+bert
+bertclient
+bertclient_new bert
+bertha serialport
+bertrem bertrpc eventmachine
+bertrpc bert
+berty
+besepa faraday faraday_middleware
+beso fog rails
+bespoke activesupport mustache rake sequel sqlite3
+best compass compass sass
+best3 bundler nokogiri typhoeus
+best_boy google_visualr haml kaminari rails
+best_buy multi_json
+best_choice json redis-objects
+best_debugger better_errors binding_of_caller pry-byebug pry-rails
+best_errors better_errors binding_of_caller
+best_image image_size nokogiri
+best_in_place actionpack railties
+best_in_place_mongoid jquery-rails mongoid rails
+best_in_place_rails_4 jquery-rails rails
+best_in_placeish rails
+best_ip
+best_lottery
+bestbuy
+bestbuy-aws
+bestgem
+bestgems faraday
+bestgo
+bestpay
+bet
+beta redis
+beta-pod bundler
+beta_invite rails
+beta_invites
+beta_tools it_tools mime-types pygments.rb redcarpet RedCloth sanitize shotgun sinatra thin xml-simple
+betabrite
+betabuilder CFPropertyList json rest-client uuid
+betalist
+betamatt-inline_attachment mime-types
+betapond-gattica gattica hpricot test-unit
+betastore
+betatest
+betauseraccess
+betavites
+betelgeuse-delayed_job
+betelgeuse-googlecharts
+betelgeuse-paperclip right_aws
+betfair savon
+betfair-ng activesupport httpi
+betfair_api_ng_rails
+betlinks
+bets
+betsmart-grid
+better
+better-benchmark rsruby
+better-coinbase hashie httparty monetize money multi_json oauth2
+better-initialize
+better-jquery-fileupload-rails actionpack railties
+better-logger colored
+better-logging
+better-money
+better-mundipagg activemerchant activemodel savon
+better-riak-client beefcake builder i18n innertube multi_json
+better-ripple activemodel activesupport better-riak-client tzinfo
+better-role-rails rails
+better-uuid
+better_ar
+better_attrs
+better_bart nokogiri
+better_call_redis activerecord activesupport redis
+better_caller
+better_case
+better_changelog
+better_counters activerecord
+better_csv
+better_date_picker activemodel activesupport chronic
+better_date_to_s activesupport
+better_delayed_job_web activerecord delayed_job sinatra
+better_delegation
+better_error_message
+better_errors coderay erubis rack
+better_exception_app rails
+better_form
+better_helpers railties
+better_jasminerice coffee-rails
+better_jira httpclient mumboe-soap4r
+better_logging
+better_logs actionpack activesupport flat_keys railties useragent
+better_matchers
+better_migrations
+better_nested_set
+better_newrelic_sql_obfuscator
+better_open_struct
+better_opener data_mapper dm-sqlite-adapter haml multi_json tilt
+better_partials
+better_plist plist
+better_pluralize rails
+better_prime
+better_ranges
+better_receive rspec rspec-core
+better_responder i18n
+better_rest
+better_robots
+better_ross rest-client
+better_select railties underscore-rails
+better_states_select rails
+better_strong_params
+better_struct
+better_toolbar
+bettercap colorize packetfu pcaprub
+betterific hashie json
+betterlorem
+betterroutes colorize
+bettersam ffi
+betterspecs ancestry haml paperclip rails
+bettertabs jquery-rails rails
+bettertemplate
+bettery sawyer
+betty_resource activesupport crack dirty_hashy httparty multi_json
+between_meals colorize json mixlib-shellout rugged
+beway mechanize nokogiri
+bewildr
+beyond devise figaro haml-rails paperclip plugman rails
+beyonic addressable oj rest-client
+bezebe-cvs rjb
+bezel finder
+bezelga-string_extend
+bezier chunky_png
+bezier_curve
+beziercurve
+bf3 httparty
+bf3stats
+bf4-bcms_news
+bf4-browsercms
+bf4-metric_fu activesupport arrayfields bluff chronic churn coderay fattr flay flog googlecharts main map rails_best_practices rcov reek ripper roodi Saikuro sexp_processor
+bf4-metrical bf4-metric_fu rcov
+bf4-yui-rails
+bf_crowdfund
+bf_studio_game
+BFD
+bfec_generator rails
+bfg-redis-lock redis
+bfire backports libxml-ruby net-scp net-sftp net-ssh-gateway net-ssh-multi restfully rgl uuidtools
+bfrb
+bfs_brute_force
+bft
+bfts hoe miniunit
+bfunj
+bg method_source os
+bg_s3uploadable aws-sdk coffee-rails jquery.fileupload-rails paperclip rails
+bgetting-chirp shorturl twitter4r
+bgetting-hominid
+bgetting-rubyrets
+bgg httparty xml-simple
+bgg-api httparty xml-simple
+bgg-parser
+bgit psych thor
+bgotink-hyde commander jekyll listen safe_yaml
+bgp-tools json nokogiri rake rest-client
+bgp4r
+bguthrie-awsymandias activeresource activesupport grempe-amazon-ec2 money
+bh actionpack activesupport
+bhaid
+bhauman-twroute activerecord brianmario-yajl-ruby daemons hayesdavis-grackle jeremymcanally-stump mhennemeyer-matchy rubigen thoughtbot-shoulda tobi-delayed_job
+bhf haml-rails kaminari rails sass-rails turbolinks
+bhm-admin compass compass-960-plugin compass-colors fancy-buttons inherited_resources jammit show_for will_paginate will_paginate
+bhm-google-maps
+bhousel-ruby-poker
+Bian001
+bianster-currency-convertor
+biased httparty wikipedia-client
+bib
+bib-vagrant colored json rest_client thor
+bibgrep bibtex-ruby
+BiBiBoBo
+bibkeys bibtex-ruby
+bible commandline highline
+bible_gateway nokogiri typhoeus
+bible_parser nokogiri
+bible_passage
+bible_ref parslet
+bible_reference_parser
+bible_robot
+biblesearch-api hashie httparty oj
+biblicit activesupport nokogiri
+bibliography
+bibliotech caliph mattock thor valise
+biblioteque
+BibOpsworks json
+bibout bibtex-ruby
+bibsonomy citeproc csl-styles faraday json
+bibsync faraday faraday_middleware
+bibtex-ruby latex-decode
+bibtex2html bibtex-ruby
+bibtex_munge bibtex-ruby nokogiri
+bibtex_parser
+bibtowiki bibtex-ruby
+biburi bibtex-ruby nokogiri
+bic
+bic_validation activemodel activesupport banking_data
+biceps actionpack rake
+bicho highline inifile nokogiri trollop
+bickle json rest-client
+bicrypt
+bicycle
+bidding
+bideo streamio-ffmpeg viddl-rb
+bidi
+BidManagerLoggerGem
+bidsketch json queryparams rest-client
+bidu-active_ext activesupport bidu-core_ext
+bidu-core_ext activesupport
+bidu-house activesupport bidu-active_ext concern_builder json_parser
+bierdopje nokogiri rest-client
+biffbot hashie httparty json
+bifrost
+bifubao rest-client
+big-door httparty json
+big-door-fork httparty json
+big-o
+big-panda faraday_middleware multi_json
+big-phoney
+big-picture_manager terminal-notifier
+big_apple
+big_band async-rack haml-more monkey-lib rack-flash sinatra-advanced-routes sinatra-compass sinatra-config-file sinatra-default_charset sinatra-extension sinatra-more-server sinatra-namespace sinatra-reloader sinatra-sugar sinatra-test-helper yard-sinatra
+big_bro faraday
+big_brother async-rack em-http-request em-resolv-replace em-synchrony em-syslog eventmachine rack-fiber_pool sinatra thin
+big_brother_pr activesupport geocoder httparty
+big_bucks_no_whammies big_bucks_no_whammies grit jeweler payday rspec
+big_c
+big_cache hoe
+big_decimal_helper
+big_decimal_price
+big_door addressable json rest-client uuidtools
+big_eyed_al
+big_machine activesupport rake
+big_machines savon
+big_ml httmultiparty json
+big_money
+big_query_log_viewer coffee-rails font-awesome-rails jquery-rails less-rails less-rails-bootstrap rails react-rails sprockets-coffee-react therubyracer
+big_register savon
+big_shift faraday reverb toke
+big_sitemap
+big_spoon
+bigamy
+bigbackup activesupport mail rainbow
+bigbananajour activesupport bananajour dnssd fancypath grit haml json rack rainbow sinatra thin
+bigbang amazon-ec2 fog
+bigben activesupport
+bigbench actionpack activesupport em-http-request eventmachine gruff hirb rake redis rmagick thor
+bigbertha firebase_token_generator main map typhoeus values
+bigbluebutton
+bigbluebutton-api-ruby xml-simple
+bigbluebutton_rails bigbluebutton-api-ruby browser rails resque strong_parameters
+bigbro rails
+bigbroda activerecord activesupport google-api-client hash-deep-merge
+bigbrother
+bigcartel hashie httparty
+bigcartel-api json queryparams recursive-open-struct rest-client
+bigcartel-currency-locales
+bigcartel-theme-fonts
+BigCat
+bigcat
+bigcharger curb nokogiri
+bigcommerce activesupport json rest-client
+bigcommerce-oauth-api activesupport faraday faraday_middleware
+bigcommerce-test activesupport json rest-client
+bigcommerce_api activesupport httparty
+bigcommerce_tool curb dotenv json net_dav rack sinatra thin thor
+bigcomplex
+bigdecimal
+bigdecimal-segfault-fix
+bigdecimal_places
+bigfiles source_finder
+bigfleet-builder
+bigfoot
+biggs activerecord
+bigindex solr-ruby
+bigindex-solr
+bigint_primary_key
+bigip_parse activesupport
+bigmac
+bigmouth bootstrap-sass jquery-rails mini_magick rails refile sass-rails slim-rails tinymce-rails truncate_html
+bignou boson
+bigpanda json
+bigpipe-rails rails
+bigquery google-api-client
+bigquery-client google-api-client
+bigrecord activerecord activesupport uuidtools
+bigrecord-driver
+bigrig colorize docker-api filewatcher gli
+bigstock-client
+bigsword
+bigtextjs_rails railties
+bigtiger-rolex mojombo-chronic mojombo-grit trollop
+bigtinker
+bigv highline
+bigwig daemons warren
+bijection
+bijective
+bijint
+bijo
+bijou
+biju serialport
+bike rack sequel ya2yaml
+bike_travel_databases
+bikepoa-tools active_support effin_utf8 hashie rake rspec rspec
+bikes hashie httparty json
+bikeshare json
+bilgerat cucumber hipchat
+bilibili_sunday aria2-ruby nokogiri webrick xml-simple
+bilisim_sozlugu
+bill
+Bill-route_name_for hoe
+bill_forward json require_all rest-client
+billboard fakeweb httparty jeremymcanally-matchy mash mash mocha thoughtbot-shoulda
+billboard-rb
+billboard_chart colored nokogiri
+billboard_charts
+billd nokogiri
+biller_bot_resource activeresource
+billfold
+billgathen-skyscraper hpricot
+billing money-rails paper_trail rails
+billingbadger_api
+billingly ean13 has_duration rails validates_email_format_of
+billingsystem-remote activesupport
+billingsystem-remote-client
+billit_representers activemodel roar roar-rails
+billit_representers_argentina activemodel roar roar-rails
+billit_representers_south_africa activemodel roar
+billogram activesupport httparty
+billomat-rb activeresource activesupport
+bills
+billsafe
+billtrap chronic json money rubyzip sequel sqlite3 timetrap trollop
+billwise4r multi_xml savon
+billy
+billy_signup atech-billy haml-rails rails atech_identity
+billy_the_tool capistrano colorize
+billygoat git
+billymeltdown-choctop activesupport builder
+billymeltdown-looper
+billymeltdown-twitter activesupport hpricot httparty
+billysbilling-rails activerecord activesupport httparty
+bilvision savon
+bimble dotenv git github_api launchy memoist
+bimblis
+bimyou_segmenter
+bin activesupport mongo
+bin2hex
+bin_checker activemodel activerecord
+bin_diesel
+bin_script activesupport rails
+bin_search
+bin_utils
+binary-protocol
+binary42-export-http
+binary42-fastcache
+binary42-remix-stash
+binary42-shared-secret json
+binary_decision_tree
+binary_finery
+binary_fixtures rails
+binary_matrix
+binary_parser
+binary_plist activesupport
+binary_puzzle_solver launchy
+binary_search
+binary_search_frequency
+binary_search_tree
+binary_struct
+binarylogic-addresslogic
+binarylogic-authlogic activesupport
+binarylogic-enumlogic
+binarylogic-resourcelogic activesupport
+binarylogic-search
+binarylogic-searchlogic activerecord
+binarylogic-settingslogic
+binarylogic-shippinglogic activesupport httparty
+binaryparse
+binarysearch
+BinarySearchk
+bincache right_aws
+binclean claide colored
+binco bootstrap-datepicker-rails railties select2-rails will_paginate
+bind commander
+bind-it rjb
+bind-zone-parser
+bind9mgr
+bind_log_analyzer activerecord haml json sinatra
+bindable_block
+bindata
+bindata-contrib bindata
+bindep
+bindeps fixwhich
+binder
+binder_core
+binder_sdk activesupport filum loquor
+bindery builder nokogiri zip
+bindex
+bindi redis
+binding.repl
+binding_dumper
+binding_of_caller debug_inspector
+bindings
+bindle activesupport chef librarian-chef thor
+bindler
+bindless
+bindy treetop
+binfinity-rails jquery-rails railties
+binflip
+binfuse gli paint progress_bar
+bing net-http-persistent oj
+bing-ads-api rails savon
+bing-ads-reporting curb datebox savon
+bing-helper faraday yajl-ruby
+bing-search
+bing_ads_api activesupport google-ads-common
+bing_ads_api_v9 activesupport google-ads-common savon
+bing_images
+bing_route
+bing_translate_yaml bing_translator
+bing_translator json nokogiri savon
+binged activesupport faraday hashie
+binger
+bingo http
+bingodisk
+bingoint
+bingwallpaper nokogiri OptionParser
+binhex_util
+bini sys-proctable
+binlist httparty
+binlog-server
+binman opener
+binnacle faraday faye-websocket httpclient rack-timeout trollop
+binneroc
+binocular
+binomial
+binpack
+binpress classifier directory_watcher kramdown liquid maruku pygments.rb
+binstruct hoe
+bintje activesupport
+binToDec
+bintray
+bintray_deploy configuration rest-client thor
+binya american_date nokogiri typhoeus
+binyo
+bio
+bio-affy
+bio-alignment bio bio-logger
+bio-aliphatic_index
+bio-assembly bio
+bio-band activesupport bio bundler cucumber gherkin git i18n jbundler jeweler json multi_json rake rdoc rspec ruport shoulda simplecov test-unit
+bio-basespace-sdk addressable getopt
+bio-bgzf
+bio-bigbio bio bio-logger
+bio-biolinux bio-core bio-core-ext
+bio-biostars-analytics
+bio-blastxmlparser bio-logger nokogiri
+bio-blat-tools
+bio-bwa
+bio-cd-hit-report bio
+bio-chembl
+bio-cigar bio-samtools
+bio-cnls_screenscraper
+bio-commandeer bio-logger systemu
+bio-conduit
+bio-core bio bio-assembly bio-gff3 bio-logger bio-ucsc-api intermine-bio ruby-ensembl-api
+bio-core-ext bio-blastxmlparser bio-bwa bio-samtools bio-sge
+bio-data-restriction_enzyme
+bio-dbla-classifier bio
+bio-dbsnp
+bio-emboss_six_frame_nucleotide_sequences bio
+bio-ensembl activerecord bio mysql
+bio-ensembl-rest bio libxml-ruby
+bio-exominer msgpack
+bio-exportpred
+bio-express_beta_diversity bio-logger
+bio-faidx
+bio-fasta_retrieve bio nokogiri
+bio-faster ffi
+bio-foo
+bio-freebayes bio-vcf parallel
+bio-gadget bio-faster levenshtein-ffi mkfifo parallel thor
+bio-gag bio-logger bio-pileup_iterator progressbar
+bio-gem bundler jeweler rdoc
+bio-genomic-interval
+bio-gfastqc rubyzip
+bio-gff3 bio bio-logger log4r
+bio-gff3-pltools
+bio-gggenome
+bio-gngm bio bio-samtools rinruby
+bio-graphics bio
+bio-grid uuid
+bio-hello
+bio-hmmer3_report bio-logger
+bio-hmmer_model
+bio-hydropathy
+bio-img_metadata
+bio-incanter jruby-openssl
+bio-ipcress bio
+bio-isoelectric_point
+bio-jaspar bio mysql2
+bio-kallisto systemu
+bio-kb-illumina
+bio-kmer_counter bio bio-logger parallel progressbar
+bio-krona bio
+bio-kseq
+bio-lazyblastxml libxml-ruby
+bio-liftover interval-tree
+bio-location-rdfize bio
+bio-locus
+bio-logger log4r
+bio-maf bio-alignment bio-bgzf bio-genomic-interval bio-logger kyotocabinet-ruby
+bio-mummer
+bio-nexml bio libxml-ruby
+bio-ngs activerecord bio bio-blastxmlparser bio-samtools daemons json parallel progressbar rake ruby-ensembl-api rubyvis thor
+bio-octopus bio bio-tm_hmm fastercsv rio
+bio-old-biofetch-emulator bio
+bio-phyloxml bio libxml-ruby
+bio-phyta bio fastercsv mysql2 nokogiri sequel trollop
+bio-picard
+bio-pileup_iterator bio bio-logger bio-samtools
+bio-pipengine colorize terminal-table torque_rm trollop
+bio-plasmoap bio bio-signalp
+bio-polymarker_db_batch bio-polyploid-tools mysql
+bio-polyploid-tools bio bio-samtools jeweler rake systemu
+bio-protparam bio
+bio-publisci json-ld rack-flash3 rdf rdf-4store rdf-rdfxml rdf-turtle rest-client rserve-client sinatra sinatra-contrib sinatra-cross_origin sinatra-linkeddata slop sparql
+bio-raxml
+bio-rdf bio-logger
+bio-repeatmasker
+bio-restriction_enzyme bio-data-restriction_enzyme
+bio-rocker json rest-client
+bio-sambamba bio msgpack
+bio-samtools bio bio-svgenes
+bio-samtools-server bio-samtools sinatra
+bio-sge
+bio-signalp bio bio-logger
+bio-sra activerecord activesupport bio-logger sqlite3
+bio-statsample-glm activesupport statsample
+bio-statsample-timeseries activesupport statsample
+bio-stockholm
+bio-svgenes
+bio-synreport
+bio-tabix ffi
+bio-table bio-logger
+bio-tm_hmm
+bio-ucsc-api activerecord activerecord-deprecated_finders activesupport bio-genomic-interval mysql safe_attributes
+bio-ucsc-util ffi
+bio-unichem
+bio-vcf
+bio-velvet bio-commandeer bio-logger files hopcsv parallel systemu
+bio-velvet_underground bio-logger bio-velvet ffi
+bio-wolf_psort_wrapper
+biodiversity gn_uuid parallel treetop unicode_utils
+biodiversity19 parallel treetop unicode_utils
+BioDSL gnuplotter haml mail msgpack narray parallel pqueue RubyInline terminal-table tilt
+bioinform
+biointerchange addressable bio getopt json rdf
+biola_deploy
+biola_frontend_toolkit bootstrap-sass coffee-rails font-awesome-rails sass-rails slim
+biola_logs lograge
+biola_wcms_components ace-rails-ap buweb_content_models chronic_ping coffee-rails jquery-ui-rails pundit sass-rails slim
+biola_web_services
+biomart builder
+biome
+biomodel_client
+bioportal
+biopsy rake rubystats statsample threach
+bioroebe advanced_clipboard case_parser cliner colour_aid convert_global_env easycompile esystem expand_cd_aliases konsole open_in_browser opn save_file show_directory_content verbose_truth wget_wrapper
+bioruby-bio
+bios
+bioseqalign rice
+biostars-api httparty json
+biotcm
+biotcm-lmma biotcm
+bip70 ruby-protocol-buffers
+bipartite_graph
+bipbip bson copperegg-revealmetrics elasticsearch gearman-ruby memcached mongo monit mysql2 rb-inotify redis resque
+bipbop httparty
+bipolar
+Bira-sweat_shop famoseagle-carrot
+birb
+birch
+bird rails
+bird_on_it rails
+birdbath
+birddog activerecord activesupport chronic
+birdgrinder em-http-request eventmachine moneta perennial sutto-oauth yajl-ruby
+birdie activesupport conglomerate lotus-controller lotus-router
+birdman
+birds sinatra-bells solr4r unicode
+birdseed hashie json rest-client
+birdses gollum gollum_editor rails
+birdy highline rbus twitter4r
+birkirb-acts_as_serializable activesupport jsonbuilder
+birkirb-git
+birkirb-jsonbuilder builder
+birling
+birr hashie highline mixlib-authentication mixlib-cli mixlib-config mixlib-log mixlib-shellout ruby-progressbar
+Birst_Command configatron envcrypt httpclient savon
+birt core_extend highcharts-rails mysql2 rails rspec slim
+birt-api birt-core
+birt-core core_extend mysql2
+birt-view birt-api highcharts-rails
+birth_control actionpack
+birth_date_validator activemodel activesupport
+birth_number
+birthcert
+birthday activerecord activesupport
+birthday_integer
+bis
+bisac ean13 isbn10
+biscuit-monitor colorize multi_json nokogiri-plist oj sequel sqlite3 thor
+bise
+bisearch_enzim_hu mechanize nokogiri
+bisect
+bisectly
+bishl bishl bundler chronic httparty nokogiri virtus
+bishop
+bisque activerecord pg
+bisques addressable httpclient json nokogiri
+bistip httparty
+bistro_car jsmin
+bisu colorize safe_yaml xml-simple
+bit
+bit-packer
+bit-struct
+bit-twiddle
+bit_analytics redis
+bit_bucket_api
+bit_core rails redcarpet
+bit_field_serializer
+bit_hash to_insane
+bit_mask
+bit_player bit_core rails
+bit_price nokogiri
+bit_toggle redis redis-namespace
+bit_vector
+bit_wallet activesupport bitcoin-client
+bitan
+bitarray
+bitauth
+bitballoon highline oauth2 slop
+bitbank activesupport i18n rest-client
+bitbckt-botbckt activesupport eventmachine hpricot json
+bitbot cinch daemons httparty sqlite3
+bitbot-trader faraday virtus
+bitbucket
+bitbucket-api-extension mechanize nokogiri virtus
+bitbucket-backup
+bitbucket-cli bitbucket_rest_api daemons thor
+bitbucket-pr-post
+bitbucket-pull-request
+bitbucket_api
+bitbucket_migration git rest-client
+bitbucket_rest_api faraday faraday_middleware hashie multi_json nokogiri simple_oauth
+bitca json
+bitcache addressable
+bitcask
+bitclient httparty json
+bitclock rainbow
+bitclust-core progressbar rack
+bitclust-dev bitclust-core
+bitcoin bitcoin-ruby
+bitcoin-3rd-party-apis
+bitcoin-addrgen ffi
+bitcoin-cigs
+bitcoin-client rest-client
+bitcoin-in-bloom
+bitcoin-jruby jbundler
+bitcoin-money
+bitcoin-otc
+bitcoin-price
+bitcoin-rails rails
+bitcoin-ruby
+bitcoin_active_record auto_strip_attributes httparty script_utils
+bitcoin_cash_register
+bitcoin_cash_register-rails
+bitcoin_node celluloid-io
+bitcoin_op_return
+bitcoin_payable cucumber-rails database_cleaner helloblock money-tree rails rspec-rails state_machine
+bitcoin_price
+bitcoin_reward_era
+bitcoin_rpc oj
+bitcoin_testnet activesupport wait
+bitcoin_ticker
+bitcoin_value
+bitcoinaverage httparty json
+bitcoind activesupport rest-client
+bitcoinde addressable hashie httparty nokogiri
+bitcoinica activeresource
+bitcointoyou httparty
+bitcourier thor
+bitcurex httparty oj
+bite
+bite_the_dust eventmachine
+bitescript
+bitex activesupport curb
+bitex_bot activerecord activesupport bitex bitstamp hashie itbit mail settingslogic sqlite3
+bitfield
+bitfield_attribute activemodel activerecord
+bitfield_flags bitfields
+bitfields
+bitfinex activesupport configatron httparty multi_json
+bitfinex_api activesupport configatron httparty multi_json
+bitflip
+bitfluent-activemerchant activesupport braintree builder
+bitfluent-database_cleaner
+bitfluent-vestal_versions activerecord
+bitgain-mockdata
+bitgirder-platform
+bitgo
+bitgram-ruby
+bithavoc-identity httparty
+bithound
+bithour
+bitid bitcoin-cigs
+bitindex
+bitium-capybara-webkit capybara json
+bitium-geoip-c
+bitlbee_config mixlib-shellout nokogiri
+bitlogger json rest-client
+bitlove-resque_mailer actionmailer resque
+bitlove-rollout_ui rollout
+bitlove-ruby_bosh builder hpricot rest-client
+bitlove-tlsmail
+bitly httparty multi_json oauth2
+bitly-api httpclient
+bitly-oauth httparty oauth2
+bitly4r
+bitly_exporter httparty
+bitly_quickly multi_json typhoeus
+bitlyr httparty oauth2
+bitlys_r_us httparty
+bitmap
+bitmap-counter bitset redis
+bitmap_cmd_editor
+bitmapped terminal-table
+bitmapper
+bitmarkable activesupport httparty redis-objects
+bitmask
+bitmask-attribute activerecord
+bitmask_attributes activerecord
+bitmask_attributes_helpers bitmask_attributes
+bitmasker activemodel activesupport bitmask i18n
+bitmessage
+bitops-docx nokogiri rubyzip
+bitpack
+bitpay
+bitpay-client bitpay-sdk commander ecdsa json rack
+bitpay-key-utils ecdsa
+bitpay-rails bitpay-sdk rails
+bitpay-sdk bitpay-key-utils json rack
+bitpoker parallel
+bitprophet-github json_pure text-format
+bitreserve dotenv httparty virtus
+bitrix_on_rails php_serialize rails
+bitroles activerecord
+bits
+bits-installer
+bits-n-pieces babel-transpiler bourbon neat sass uglifier
+bits2life-estyle
+bits2life-rails_utils
+bits_count
+bitsa gdata_19 trollop
+bitset
+bitset_bm
+bitshares
+bitsnote-assets jquery-rails rails
+bitsnote-i18n rails
+bitso activemodel activesupport rest-client
+bitsontherun curb json
+bitstamp activemodel activesupport curb ruby-hmac
+bitstamp-rbtc-arbitrage activemodel activesupport curb i18n ruby-hmac tzinfo
+bitstamp-realtime
+bitstampede json_pure multi_json net-http-persistent
+bitstatus colorize httparty macaddr rufus-scheduler trollop
+bitstream random-accessible
+bitstring versionomy
+BitStructEx
+bitstuff
+bitswitch
+bitsy
+bitsy-bitcoin active_model_serializers bit_wallet blockchain clockwork daemons filterer light-service rails rails-api sidekiq uuidtools
+bitsy_client activeresource activesupport
+bitten
+bitter
+bitters bourbon sass thor
+bitters-compass bourbon-compass compass neat-compass sass
+bittorrent
+bittrex faraday
+bitty
+bitvector
+bitwise
+bitwiseCalc colorize
+bitwizard pi_piper
+bitx faraday
+bitzer_store activesupport railties
+bitzesty-safe
+bIuecIoth
+bivector
+bives open4
+bivouac camping extra markaby mime-types mosquito simple-daemon
+bivy
+biweek_finder
+bix sam swak vcf
+bixbite closure-compiler highline yui-compressor
+bixby-agent bixby-auth bixby-client bixby-common daemons facter god httpi logging mixlib-cli mixlib-shellout multi_json oj uuidtools
+bixby-auth
+bixby-bench allocation_stats
+bixby-client bixby-common fuzzy_file_finder httpi mixlib-shellout multi_json oj
+bixby-common bixby-auth faye-websocket httpi logging multi_json semver2
+bixby-provision api-auth bixby-client git mixlib-shellout tilt
+bixby_common curb multi_json oj systemu
+biyo
+biz abstract_type clavius equalizer memoizable tzinfo
+bizarroids_settings cancancan carrierwave inherited_resources mini_magick rails simple_form
+bizarroids_slider acts_as_list cancancan carrierwave mini_magick rails simple_form
+bizflow sequel sqlite3
+bizhours duration hoe
+bizhub-tool
+bizness activerecord hey-pubsub i18n
+Bizo json oauth
+bizratr factual-api foursquare2 geocoder google_places google_places koala levenshtein yelpster
+bizsh mime-types pry rest-client stock_quote
+bizwizard
+bj main orderedhash systemu
+bj_fixed_for_rails3 main orderedhash systemu
+bjallen-hit_me_back
+bjam_it pry
+BJClark-sinatra-content-for sinatra
+bjeanes-capybara culerity mime-types nokogiri rack rack-test selenium-webdriver
+bjeanes-geokit
+bjeanes-ghost
+bjeanes-harsh bjeanes-ultraviolet textpow
+bjeanes-holidays
+bjeanes-livedate chronic
+bjeanes-twibot mbbx6spp-twitter4r
+bjeanes-ultraviolet textpow
+bjeanes-ultraviolet-tools bjeanes-ultraviolet plist textpow
+bjf algorithms amqp eventmachine json log4r uuidtools
+bjhess-time-warp
+bjhess-time_warp
+bjj main orderedhash systemu_j
+bjork coffee-script haml jquery-source shank sinatra sprockets thor
+bjornblomqvist-AppFormBuilder
+bjornblomqvist-breadcrumb_trail
+bjornblomqvist-emailer bjornblomqvist-tmail uuid
+bjornblomqvist-input_chronic
+bjornblomqvist-rails_vcstatus_logger
+bjornblomqvist-tmail
+bjornno-ruby-batch
+bjreath-cisco
+bk text
+bkerley-affine
+bkerley-from-here
+bkerley-have-code bkerley-affine
+bkerley-radius
+bkerley-template_class hoe newgem
+bkocik-twitter httparty json mash oauth
+bkoski-array_stats hoe
+bkoski-better_backticks open4
+bkoski-each_with_context
+bkoski-integrity-subversion integrity thor
+bkoski-integrity-watcher
+bkoski-interval_exec hoe newgem
+bkoski-rails_env
+bkr thor
+bkrsta-slobr
+bkss-rails BlueCloth ffaker kss rails
+bktree
+bkwld-paper_trail rails
+bkwrapper aws-sdk rake
+bl-scraper
+blabber
+blabber-campfire blabber broach
+blabbermouth activesupport canfig
+blabbermouth-librato blabbermouth librato-metrics
+blabbermouth-rails blabbermouth rails
+blabbermouth-rollbar blabbermouth rollbar
+blabbermouth-syslog blabbermouth
+blabla
+blabla_client json oauth2
+blabs acts-as-taggable-on carrierwave flash_cookie_session fog haml mini_magick rails redcarpet truncate_html unf
+black rouge sass
+black-screen wxruby
+black_berry_push rest-client
+black_book savon symboltable
+black_jack
+black_operation
+blackbaud-client rest-client ruby-hmac
+blackbeard redis redis-namespace sinatra-base sinatra-partial tzinfo
+blackbird1
+blackboard_feed
+blackbook fastercsv hoe mechanize
+blackbox
+blackboxd cucumber rspec selenium-webdriver
+blackdog eventmachine eventmachine-tail
+blackfoundry-pcap
+blackhacker-todoist-api httparty
+blackhole bson_ext em-mongo eventmachine mongo
+blackhole-mailer resque_mailer
+blackhole-store
+blackhoundjob main orderedhash systemu
+blackjack
+blackjack1 card_deck
+blacklight bootstrap-sass deprecation kaminari nokogiri rails rsolr
+blacklight-gallery blacklight bootstrap-sass openseadragon rails
+blacklight-hierarchy blacklight rails
+blacklight-maps blacklight bootstrap-sass leaflet-markercluster-rails leaflet-rails rails
+blacklight-marc blacklight marc rails
+blacklight-oembed blacklight bootstrap-sass rails ruby-oembed
+blacklight-sitemap nokogiri
+blacklight-spotlight acts-as-taggable-on autoprefixer-rails blacklight blacklight-gallery blacklight-oembed bootstrap_form breadcrumbs_on_rails cancancan carrierwave carrierwave-crop devise faraday faraday_middleware friendly_id github-markup google-api-client legato lodash-rails mail_form mini_magick nokogiri oauth2 openseadragon paper_trail rails roar-rails sir_trevor_rails social-share-button tophat underscore-rails
+blacklight-table blacklight
+blacklight_advanced_search blacklight parslet
+blacklight_browse_nearby blacklight rails
+blacklight_cql blacklight cql-ruby rails
+blacklight_facet_extras blacklight rails
+blacklight_folders acts_as_list blacklight cancancan rails select2-rails
+blacklight_highlight blacklight rails rsolr rsolr-ext
+blacklight_marc marc rails
+blacklight_more_like_this blacklight rails rsolr rsolr-ext
+blacklight_oai_provider blacklight oai rails
+blacklight_oembed blacklight rails
+blacklight_range_limit blacklight jquery-rails rails
+blacklight_rtl blacklight
+blacklight_unapi blacklight rails
+blacklight_user_generated_content acts_as_commentable acts-as-taggable-on blacklight cancan rails rsolr-ext
+blacklist RedCloth
+blacklist_validator activemodel
+blacklisted_password
+blackmagicvoodoo sinatra
+blackout
+blackrat_yaml_config
+blacksmith smart_properties
+blacksmith-js gzip jshintrb listen uglifier
+blackwinter-apache_secure_download
+blackwinter-athena ruby-nuggets xmlstreamin
+blackwinter-autotest-notification autotest
+blackwinter-brice ruby-nuggets
+blackwinter-cmess htmlentities ruby-nuggets
+blackwinter-fastthread
+blackwinter-flattendb builder highline libxml-ruby ruby-nuggets
+blackwinter-git
+blackwinter-gnuplot ruby-nuggets
+blackwinter-gsl narray
+blackwinter-hen rubyforge ruby-nuggets
+blackwinter-imapget highline
+blackwinter-ipaddress
+blackwinter-jekyll classifier directory_watcher maruku open4 RedCloth
+blackwinter-libxslt-ruby libxml-ruby
+blackwinter-perseus_match ruby-backports ruby-nuggets unicode
+blackwinter-pms
+blackwinter-pru
+blackwinter-rake-compiler rake
+blackwinter-rss2mail hpricot ruby-nuggets simple-rss unidecode
+blackwinter-ruby-backports
+blackwinter-ruby-filemagic
+blackwinter-ruby-nuggets
+blackwinter-ruby-xquery libxml-ruby
+blackwinter-twitter2jabber elif highline longurl shorturl twitter xmpp4r-simple
+blackwinter-unidecoder
+blackwinter-wirble
+blade activesupport blade-qunit_adapter coffee-script coffee-script-source curses eventmachine faye sprockets thin thor useragent
+blade-qunit_adapter
+blade-sauce_labs_plugin blade faraday
+blade_runner activesupport coffee-script coffee-script-source curses eventmachine faye sprockets thin useragent
+blade_runner-qunit_adapter
+bladerunner fssm rails
+blah
+blahbber
+blahblah
+blahblahblah
+blahed-populator
+blaix-constant_contact
+blake2
+blakechambers-chronic
+blakechambers-dry_scaffold
+blakstar_like
+blam thor
+blam_and_woot
+blame
+BlameMe
+blamer activerecord
+blamescope bunny pg
+blamestamp activemodel activerecord activesupport devise rails
+blaml
+blammo git thor
+blank
+blank_element activesupport
+blank_slate
+blankable
+blankblank
+blanket aws-s3 capistrano
+blanket-rails railties
+blanket_cachekey rails
+blanket_wrapper httparty recursive-open-struct
+blankplate-rails rails
+blankslate
+blasphemy
+blast_furnace
+blast_mavens_multiplayer gosu
+blast_off CFPropertyList gli ipa_reader qiniu-rs rainbow
+blastbeat ffi-rzmq
+blaster libusb
+blastr git
+blastramp
+blastwolf liquid pygments.rb sass
+blat curb
+blather activesupport eventmachine girl_friday niceogiri nokogiri
+blavoshost json
+blavosync
+blawzoo-plutus rails
+blaxter-delayed_job
+blaxter-duration
+blaxter-lockdown
+blaxter-rubygems-isitjruby json-jruby
+blaz-epp activesupport hpricot
+blaze
+blaze_cards clipboard docopt faraday highline json launchy linguistics nokogiri rainbow rest-client settingslogic
+blazemeter
+blazer chartkick rails
+blazing grit logging thor
+blazing-foreman activesupport blazing foreman
+blazing-jammit blazing jammit
+blazing-passenger blazing httparty
+blazing-rails blazing httparty
+blazing-unicorn activesupport blazing unicorn
+blazing-upstart activesupport blazing
+blazing-whenever blazing whenever
+blazy
+bldr multi_json
+bleacher_api httparty
+bleak_house
+bledig-tuersteher
+bleeding_edge
+bleep
+bleep-apns activesupport bleep
+bleep-slack bleep
+bleepy faraday faraday_middleware simple_oauth
+bleetz highline net-ssh
+blekko
+blekko-search activesupport
+blend colorize dnsruby github_api heroku heroku-api highline hipchat-api httparty httpclient thor whois
+blend-mode compass
+blender colored hoe mime-types
+blender-chef chef pd-blender
+blender-serf pd-blender retriable serfx
+blender-zk pd-blender zk
+blendris redis
+blerg activesupport i18n
+blertr twitter
+bless binding_of_caller
+blessing daemons unicorn
+blesta faraday faraday_middleware json
+blf activesupport rmagick
+bliftax
+blight ncurses-ruby
+blimp httparty
+blimpy fog minitar thor
+blimpy-cucumber blimpy
+blind actionpack activesupport
+blind_date activerecord
+blindfold forgery machinist nokogiri rack-test rspec
+blindgaenger-configurable cucumber
+blindgaenger-glitter gli twitter
+blindgaenger-sinatra-rest english sinatra
+bling
+bling-ruby httparty
+blingee activesupport relax
+blink1
+blink1-formatter rb-blink1
+blink1-patterns rb-blink1
+blink_api saddle
+blink_stick libusb
+blink_suv
+blinkbox-common_config java_properties ruby-units
+blinkbox-common_helpers
+blinkbox-common_logging gelf
+blinkbox-common_mapping blinkbox-common_messaging
+blinkbox-common_messaging activesupport bunny json-schema ruby-units
+blinkbox-rubocop rubocop
+blinkbox-user httparty http_capture multi_json
+blinkee
+blinkenlights
+blinkenstein blink1-patterns celluloid httparty
+blinker rb-blink1 thor
+blinkr nokogiri parallel slim typhoeus
+blinksale nokogiri rest-client
+blinkshot
+blinkspec
+blinkstick color libusb
+blinkstick-rspec-formatter blinkstick color
+blinky chicanery libusb
+blinky-cloud blinky-tape-test-status
+blinky-tape-test-status serialport
+blinky-tape-test-status-guard blinky-tape-test-status
+blinky_billd billd blinky
+blinky_monitor blinky
+BlinkyTape serialport
+blip clipboard
+blipfm ruby-hmac uuid
+blippex_api faraday faraday_middleware hashie
+bliptv
+blirb
+bliss em-http-request eventmachine nokogiri
+blister
+blitline multi_json
+blitz couchrest hexdump json json_pure rake rest-client term-ansicolor
+blitz_smtp
+blitzcrank colorize imdb ruby-configurable
+blitzr httparty
+blizz
+blizzard-community-api
+blm
+bloat_check its-it key_struct
+bloatpng digest-crc
+blob bootstrap-sass rails sass-rails
+blobby
+blobby-s3 aws-sdk-resources blobby
+blobject
+blobstache faraday
+blobsterix goliath journey json log4r mini_magick nokogiri ruby-webp rubyzip
+blobsterix_carrierwave carrierwave fog
+blobstore_client aws-sdk bosh_common httpclient multi_json
+bloc colorize hashie json rest-client
+block eventmachine eventmachine-tail gli redis
+block-chainable hoe need rspec
+block-html
+block-tea
+block2method
+block64
+block_cache mongo_mapper
+block_chain
+block_changes
+block_configurable
+block_explorer
+block_hash
+block_head mail
+block_helpers activesupport
+block_io connection_pool ecdsa httpclient json pbkdf2-ruby
+block_js rails
+block_party
+blockade
+blockbuilder
+blockcache
+blockchain
+blockchain-info-exchange-rates json monetize
+blockchain-info-ruby
+blockchain-ruby bitcoin-money monetize money
+blockchain-wallet immutable_struct oj
+blockcypher-client httpclient
+blockcypher-ruby bitcoin-ruby ffi
+blockenspiel
+blockhead
+blockhole multi_json redis
+blocklist
+blockpile
+blocks call_with_params hashie rails
+blockscore httparty
+blockscore-happymapper nokogiri
+blockspring rest-client
+blockspring-cli blockspring json launchy netrc rest-client
+blocky rails
+blodsband em-http-request em-synchrony mail yajl-ruby
+blog
+blog-generator nokogiri
+blog-pinging-service curb
+blog_basic acts-as-taggable-on bluecloth coderay meta_search omniauth omniauth-github omniauth-openid paperclip sass-rails will_paginate
+blog_helper
+blog_io highline mysql2 rails
+blog_logic bson_ext cancan carrierwave-mongoid ckeditor kaminari mini_magick mongoid-tree rails rmagick scaffold_logic stringex
+blogaze bcrypt-ruby maruku ramaze sequel shebang time-lord
+blogbot mechanize
+blogcomments faker mechanize spintax_parser
+blogdoor listen pygments.rb redcarpet sinatra sinatra-websocket thor
+blogdown github-markdown redcarpet sinatra thor
+blogeen rdiscount
+blogelator aws-sdk cancan deface ember-rails jquery-rails kaminari local_time pygments.rb rails redcarpet sass-rails uglifier
+blogfun hpricot
+blogger atom-tools hoe
+blogger_engine rails
+bloggertojekyll nokogiri
+bloggit activesupport BlueCloth builder cmdparse markaby RedCloth
+bloggy jekyll rack-contrib rails rdiscount
+bloggybak countries devise rails_admin
+blogical
+blogish redcarpet rouge
+blogit acts-as-taggable-on albino jquery-rails kaminari nokogiri redcarpet RedCloth
+blogit-admin blogit epic-editor-rails
+Bloglines4R
+blogmarks builder
+blogmodule rails
+blogo bcrypt coffee-rails jquery-rails rails sass-rails
+blogpost atomutil mail
+blogpostify rails
+blogr active_link_to batch-rails-4 bcrypt-ruby carrierwave haml jbuilder jquery-rails jquery-ui-rails mini_magick pygments.rb rails redcarpet reverse_markdown xml-simple
+blogrpc builder
+blogrrr rails
+blogsoso rails
+blogue rails
+blogy coderay enumerize kramdown rails responders
+blombo redis
+blomming_api method_source multi_json oj rest-client
+blondy-dhcpd em-http-request eventmachine log4r net-dhcp
+blood_ruby
+bloodchalice
+bloodhound
+bloodymines
+bloom
+bloom-aasm
+bloom-ad_gear_client activeresource francois-rest-client nokogiri
+bloom-bloom-aasm
+bloom-filter
+bloom-ruby
+bloom_api
+bloom_filter eventmachine
+bloomberg_quote nokogiri
+bloombroom ffi ffi-compiler
+bloomer bitarray
+bloomfilter
+bloomfilter-rb redis
+bloomfilter-rb-without-native redis
+bloomin fnv
+bloomrb
+blooper sequel
+bloopletech-rtags
+bloopletech-webstats
+bloopsaphone
+blorgh rails
+blorghety rails
+blossom compass haml sass sinatra
+blossom_api httparty
+blot rails
+bloveless_grackle json mime-types oauth
+blowfish
+blowmage-webby bones directory_watcher hpricot launchy logging rake rspec
+blown
+blox
+blsm-mp-wx
+blsm-vd-core
+blt
+bltest1.rb
+blti_omniauth oa-oauth omniauth
+bludgeon hoe minitest
+blue capistrano hashie shadow_puppet
+blue-daemons
+blue-jeans jeans
+blue-monit
+blue-nginx
+blue-postgresql
+blue-redis blue
+blue-resque
+blue-resque-scheduler
+blue-shell rspec
+blue-unicorn
+blue_button
+blue_button_parser
+blue_colr sequel
+blue_conductor
+blue_csv rails
+blue_geo
+blue_jeans jeans
+blue_light_special delayed_job mad_mimi_mailer mini_fb
+blue_light_special_heroku_fork delayed_job mad_mimi_mailer mini_fb
+blue_pages bluecloth mongoid mongoid-tree RedCloth
+blue_print activesupport thread-parent
+blue_shell
+blue_shoes qtbindings
+blue_sparks
+blue_state_digital activemodel activesupport builder crack faraday hashie nokogiri
+blue_tree
+blue_velvet koala rails
+BlueAdmiral cli cri em-synchrony facets hiredis json redis
+bluebase bundler rails
+bluebase_api bundler rails
+blueberry
+blueberry_rails bundler rails
+Bluebie-legs json_pure
+bluebird twitter-text
+bluebox-boxcutter colorize commander httparty mash nokogiri spunkmeyer terminal-table
+bluecap eventmachine multi_json redis
+bluecherries
+bluecloth
+BlueCloth
+bluecoat ipaddress mechanize
+bluecollar-client json redis
+bluedart httparty nokogiri nori
+bluefeather
+bluegreen
+bluehouselab-sms httparty
+blueimp-canvas-to-blob-rails railties
+blueimp-file-upload-rails blueimp-canvas-to-blob-rails blueimp-load-image-rails blueimp-templates-rails jquery-rails jquery-ui-rails railties
+blueimp-gallery railties
+blueimp-gallery-rails railties
+blueimp-load-image-rails railties
+blueimp-templates-rails railties
+bluejeans jeans
+bluekai httparty
+blueland
+blueline_services activesupport httparty i18n nokogiri
+bluemark-smallcage
+bluemix-rails
+bluemix_datacache
+bluemonk-net-dns
+bluemoon json plist rake
+bluenode ref therubyracer
+bluepay
+bluepill activesupport blue-daemons state_machine
+bluepill-gearman bluepill gearman-ruby
+bluepill-nagios bluepill send_nsca
+bluepill-rwgps activesupport daemons i18n state_machine
+bluepotion
+blueprint-generators-rails
+blueprint-io brief datapimp skypager
+blueprint-rails railties thor
+blueprintr
+blueprints activesupport database_cleaner
+blueprints_boy activesupport database_cleaner
+blueshift
+bluesteel statesman
+bluestorm_sms iconv
+bluetail simple_oauth
+bluetooth
+bluevia httpclient json_pure nokogiri oauth
+bluevia_engine oauth
+bluff
+blume mongo nokogiri RedCloth
+blunder
+blundersaur
+blunt-cache
+blunt_stub_factory
+bluplate mongo settingslogic tweetstream
+blur eventmachine majic
+blur_image mini_magick
+blurred_image_tag railties
+blurrily activesupport eventmachine
+bluster ordasity-jars
+bluth annoy familia sysinfo
+Blux atom-tools json OptionParser RedCloth
+blythedunham-ar_dumper
+blythedunham-ar_test_runner
+blythedunham-base4r
+blythedunham-sms_on_rails
+blz
+bmabey-clispec
+bmabey-database_cleaner
+bmabey-email_spec
+bmabey-fakefs
+bmabey-faketwitter
+bmabey-rosetta_queue
+bmabey-spork
+bmabey-vagrant archive-tar-minitar git-style-binaries json_pure net-scp net-ssh virtualbox
+bmaland-aegis
+bmaland-has_many_polymorphs activerecord
+bmarini-mathstats
+bmarzolf-picnic activesupport markaby rack
+bmatch ffi
+bme
+bmedia-casserver activerecord activesupport crypt-isaac sinatra sinatra-r18n
+bmf haml rdiscount sanitize sinatra sinatra-contrib thin
+bmf-dialog plist
+bmff uuidtools
+bmhatfield-vagrant archive-tar-minitar childprocess erubis i18n json log4r net-scp net-ssh
+bmi
+BMI_calc
+bmicalc
+bmicalc-qwertme
+bmicalc_b1528at
+bmizerany-sinatra rack
+bmizerany-sinatra-mongo mongo sinatra
+bmmlexporter
+bmo equalizer faraday
+bmo-mini_magick
+bmo2 yajl-ruby
+BMorearty-looksee
+bmp slop
+bmpercy-exception_notification actionmailer
+bmpercy-ssl_requirement rails
+bmrace
+bn4r rgl
+bnb_exchange_rate httparty httparty-icebox multi_json
+bnet
+bnet-authenticator
+bnet_api httparty
+bnet_scraper faraday nokogiri
+bnext_robot oga
+BNF nokogiri
+bnicovideo inifile sqlite3
+bnr_generator heroku rails thor
+bnt
+boa thor
+board-client hashie rest-client yajl-ruby
+board-linuxfr goliath hiredis redis yajl-ruby
+board_game_geek nokogiri
+boardgame
+boardie data_mapper dm-sqlite-adapter emk-sinatra-url-for faraday faraday_middleware json rest-client sinatra sinatra-static-assets sqlite3 typhoeus
+boarding_pass bourbon neat sass
+BOAST ffi narray narray_ffi opencl_ruby_ffi os PAPI rake systemu
+boat eventmachine
+boatman
+bob addressable
+bob-builder rails
+bob-compiler activesupport nokogiri
+bob-p-simple-daemon
+bob-rails bob-compiler rails sprockets
+bob-test bob hpricot
+bob-the-builder addressable contest redgreen ruby-debug sr-mg
+bob_test
+bob_the_builder git git json json orderedhash orderedhash rest-client rest-client zipruby zipruby
+bobbit
+bobble pony twilio-ruby
+bobby
+bobbyno-shubox newgem
+bobbyno-tbox newgem
+bobes-textmagic httparty
+bobette rack
+bobik httparty
+boblail-unfuddle activesupport builder faraday
+bobmcwtest
+bobotheshortm-whenever activesupport chronic
+bobtest
+bobthebot
+boc rake-compiler
+boca-golf rspec
+boconnect_theme
+bocuse blankslate hashie multi_json thor
+bodega activerecord addressabler configurator2 i18n maintain money-rails
+bodhi
+bodhi-slam activemodel faraday faraday_middleware json net-http-persistent regexp-examples
+body_id
+BodyBuilder
+bodyparts mail tmail
+bodytrace
+boe_parser hpricot
+boffin redis
+boffinio json mime-types rest-client
+bofh-excuse rack
+bog require_all slop
+bogado-exifr
+bogdan
+bogeyman json nokogiri rest_client
+boggle algorithms
+boggle_solver
+boggler
+bogie ruby-progressbar
+bogo hashie multi_json
+bogo-cli bogo bogo-config bogo-ui slop
+bogo-config attribute_struct bogo multi_json multi_xml
+bogo-ui bogo command_line_reporter paint
+bogo-websocket bogo websocket
+Bogosort
+bogus dependor
+bogusdb
+bogy
+boil active_support
+boiler chalk-log escort rubysh
+boilerman bootstrap-sass gon jquery-rails rails sass-rails
+boilerpipe
+boilerpipe-jruby
+boilerplate haml rails
+boilerplate_engine haml yettings
+boilerplate_generator
+boilerplater gist
+boinc_drone httparty
+boing
+bokmann-crondonkulous lockfile
+bola
+bold
+boldandblue octopress-ink octopress-paginate
+boletia_ui railties
+boleto
+boleto_bancario activemodel activesupport barby rake
+boletorb barby chunky_png money thinreports
+boletosimples faraday-http-cache faraday_middleware her
+bolide_client nokogiri patron
+bollettino mini_magick virtus
+bollettino-cli bollettino gli
+bolseragency-ecircle
+bolseragency-just-giving
+bolster
+bolt
+bolter
+bolton-cms-padrino babosa bcrypt-ruby breakpoint carrierwave carrierwave-mongoid compass mime-types mini_magick mongoid mongoid-tree mongoid_userstamp padrino padrino-sprockets rake redcarpet sass singularitygs slim sprockets-sass
+boltstrap-rails sass
+bolzter
+bomb
+bomb_bomb
+bomb_defuser curb hashie yajl-ruby
+bombard require_all thor
+bomberman faraday json
+bomberstudios-fluby
+bomberstudios-stone
+bombshell
+bomdb colorize constellation levenshtein-ffi mericope sequel sqlite3 text_clean thor
+bona_fide rack
+bond
+bond-rails bond rails
+bond-railtie rack-transaction rails
+bond-ruby
+bond-testing-erik
+bond-yard yard
+bondage
+bondie
+bondo
+bone em-http-request familia
+bone_hola
+bone_tree cornerstone-source jquery-source underscore-source
+boned bone sinatra thin
+bonehead
+boneidle
+bonekit
+boner backbone-source jquery-source underscore-source
+bones little-plugger loquacious rake rdoc
+bones-compiler cast rake symbolic trollop
+bones-extras bones bones-rcov bones-rspec bones-rubyforge bones-zentest
+bones-git bones git
+bones-rails bourbon sass sass-rails
+bones-rcov bones rcov
+bones-rpc optionable
+bones-rpc-adapter-erlang bones-rpc erlang-etf
+bones-rpc-adapter-msgpack bones-rpc msgpack
+bones-rpc-celluloid bones-rpc celluloid-io
+bones-rspec bones rspec
+bones-rubyforge bones rubyforge
+bones-yard bones yard
+bones-zentest bones ZenTest
+bonethug astrails-safe coffee-rails coffee-script guard guard-coffeescript guard-concat guard-erb guard-livereload guard-sass guard-slim guard-sprockets guard-uglify listen mina rake rubygems-bundler sass sass-rails uglifier whenever
+bonfig
+bonfire haml rdiscount thor tilt
+bong hoe
+bongabdo
+bonjour
+bonjour_sprestage
+bonjour_vimeo httparty
+bonjourgem_results colorize nokogiri slop
+bonjourStyerfoam
+bonk
+bonobo activesupport faraday
+bonsai activesupport builder i18n launchy liquid maruku rack sass sinatra tilt watch yui-compressor
+bonsai-elasticsearch-rails
+bonus
+bonzai-provisioner-object-graph-gem
+boo
+booby
+boochtek-rails-crud_actions hoe newgem
+boof-grit diff-lcs mime-types
+boof-not-naughty rubytree
+boof-sequel_notnaughty not-naughty
+boogaloo
+boojs greenletters phantomjs therubyracer
+book structure
+book_finder_api mechanize nokogiri
+book_price
+book_publisher
+book_toolkit isbn
+book_utils
+book_worm httparty
+bookable jbuilder rails_12factor
+bookbinder mime-types nokogiri rubyzip
+bookbindery anemone ansi css_parser fog-aws git middleman middleman-livereload middleman-syntax puma rack-rewrite redcarpet rouge therubyracer unf vienna
+bookchef nokogiri pdfkit ruby-xslt
+bookclean library_stdnums lisbn unicode_utils
+bookcrawler vacuum vcr webmock
+bookdepository countries excon multi_xml
+bookends
+booker json ruby-terminfo
+bookery coderay kramdown thor
+bookfile fetcher hybook logutils props rubyzip textutils
+bookie eeepub prawn
+bookie_accounting activerecord json mysql2 pacct protected_attributes spreadsheet
+bookingit gli mustache redcarpet
+bookings aasm rails
+bookingstudio-ruby soap4r
+bookingsync activeresource
+bookingsync-api addressable faraday hashie
+bookingsync-engine bookingsync-api omniauth-bookingsync rails
+bookingsync-rack-p3p rack
+bookingsync_application bookingsync-engine dotenv-rails jsonapi-resources rails synced
+bookingsync_portal bookingsync_application bootstrap-sass coffee-rails font-awesome-sass handlebars_assets jquery-rails jquery-ui-rails message_bus rails responders sass-rails simple_form turbolinks uglifier
+bookis-paperclip activerecord activesupport
+bookit eeepub nokogiri prawn redis
+bookkeeper carrierwave rails simple_form validates_timeliness
+bookkeeping rails
+bookland
+bookle hasherizer json
+booklet
+booklist activerecord sqlite3
+bookmaker activesupport eeepub kramdown nokogiri notifier rubyzip thor zip-zip
+bookman bookfile fetcher hybook rubyzip
+bookmark choice slugify
+bookmark_system rails
+bookmarker rails
+bookmarkeron
+bookmarks
+bookpress aws-s3 nokogiri pygments.rb redcarpet
+books rails
+bookscan highline httpclient keystorage mechanize mutter progressbar rdoc
+bookscan_client mechanize
+bookshelf activesupport i18n maruku nokogiri notifier rubyzip sass thor
+bookshop thor
+bookshout-theme rails
+booksr bundler rest-client
+bookworm
+booky coderay colorize json prawn RedCloth redcloth-formatters-ast spreadsheet
+bookyt
+bookyt_pos
+bookyt_projects rails recurrence
+bookyt_salary rails recurrence
+bookyt_stock
+bool
+boole_time activerecord
+boolean
+boolean-expression
+boolean2
+boolean_accessor
+boolean_attributes
+boolean_bitfields activerecord
+boolean_class
+boolean_conversions
+boolean_datepicker activerecord
+boolean_simplifier polyglot treetop
+booleanize
+boolify
+boolize_attr
+boom yajl-ruby
+boombera couchrest
+boomboom clipboard colorize json launchy
+boomdesigngroup-bdgserver
+boomdesigngroup-crushserver
+boomerang
+boomerang-mocksmtpd
+boomerang-rails rails
+boomerang-trample log4r rest-client thor
+boomi-ruby rest-client xml-simple
+booru nori rest-client trollop
+boost
+boost-dnz-client activesupport nokogiri
+boost_info
+boost_lambda_style_proc
+boosted
+booster execjs tilt
+booster-slicehost-tools activeresource thor
+booster-time_parser
+boostrap-sass bootstrap-sass
+boot
+boot-cli
+boot_polish rubytree
+bootbox-rails
+bootbox_crud bootbox-rails bootstrap-sass haml haml-rails jquery-rails jquery-turbolinks railties remotipart sass-rails simple_form turbolinks
+bootcamp git highline rake thor
+bootcolor anjlab-bootstrap-rails prizm
+booter rails
+bootflat-rails bootstrap-sass jquery-rails sass
+bootic_client faraday faraday-http-cache faraday_middleware net-http-persistent oauth2 uri_template
+booties rails
+bootinq
+bootlace
+bootleg activerecord mechanize nokogiri
+bootplus-rails
+boots
+bootsaas
+bootscaf thor
+bootscale
+bootscript erubis json minitar rubyzip
+bootspec capybara poltergeist rspec
+bootstra386-rails railties
+bootstrap-addons-rails rails
+bootstrap-application-wizard-rails coffee-rails railties
+bootstrap-application-wizard-rails-sass coffee-rails railties sass-rails
+bootstrap-assets less-rails
+bootstrap-autohidingnavbar-rails railties
+bootstrap-bookingsync-sass bootstrap-sass
+bootstrap-boxes
+bootstrap-cdn-rails
+bootstrap-chosen-rails
+bootstrap-colorpicker-rails railties
+bootstrap-colorpicker2-rails railties
+bootstrap-colorselector-rails
+bootstrap-combobox
+bootstrap-combobox-rails railties
+bootstrap-component-helper bootstrap-modal-rails bootstrap-sass rails sass-rails
+bootstrap-components-helpers actionpack
+bootstrap-confirm-rails bootstrap-sass coffee-rails rails sass-rails
+bootstrap-datepicker bootstrap-sass compass
+bootstrap-datepicker-rails railties
+bootstrap-daterangepicker-rails railties
+bootstrap-datetime-picker-for-rails rails
+bootstrap-datetimepicker
+bootstrap-datetimepicker-rails
+bootstrap-db railties
+bootstrap-duallistbox-rails rails
+bootstrap-editable-rails railties sass-rails
+bootstrap-file-input jquery-rails rails
+bootstrap-filestyle-rails
+bootstrap-findahead-rails railties
+bootstrap-flashmessage jquery-rails twitter-bootstrap-rails
+bootstrap-for-ember-rails railties
+bootstrap-form actionpack railties
+bootstrap-forms
+bootstrap-generators railties
+bootstrap-glyphicons railties sass
+bootstrap-grid-system rails
+bootstrap-growl-rails
+bootstrap-guardsjs-rails guardsjs-rails railties
+bootstrap-haml-rails actionpack activesupport haml railties
+bootstrap-helpers rails
+Bootstrap-Image-Gallery-rails less-rails therubyracer twitter-bootstrap-rails
+bootstrap-intel-theme
+bootstrap-jasny less
+bootstrap-kaminari-views kaminari rails
+bootstrap-markdown-editor-rails railties
+bootstrap-markdown-rails
+bootstrap-material-design bootstrap-sass
+bootstrap-material-design-rails
+bootstrap-material-theme bootstrap-sass
+bootstrap-modal-rails railties
+bootstrap-more
+bootstrap-multiselect-rails rails
+bootstrap-multiselect-rails4 rails
+bootstrap-multiselect_rails
+bootstrap-navbar gem_config
+bootstrap-no-record-found
+bootstrap-on padrino
+bootstrap-on-rails less-rails
+bootstrap-pdf haml pdfkit
+bootstrap-rails-engine railties
+bootstrap-rails-flash haml rails sqlite3
+bootstrap-rails-helpers railties
+bootstrap-rails4 rails
+bootstrap-rdoc bundler coderay coffee-script haml json rake sass
+bootstrap-sass autoprefixer-rails sass
+bootstrap-sass-backport sass
+bootstrap-sass-extensions
+bootstrap-sass-extras rails
+bootstrap-sass-keppy
+bootstrap-sass-rails bootstrap-sass railties sass-rails
+bootstrap-sass-rails-rtl railties sass-rails
+bootstrap-sass-rtl bootstrap-sass railties
+bootstrap-scrolltable-rails railties
+bootstrap-select-rails
+bootstrap-select-wrapper-rails
+bootstrap-shoehorn railties
+bootstrap-slider-rails railties
+bootstrap-social-rails railties
+bootstrap-switch compass
+bootstrap-switch-rails
+bootstrap-switch-rails-bcj-version
+bootstrap-tab-history-rails railties
+bootstrap-tabdrop-rails railties
+bootstrap-table-rails
+bootstrap-tagsinput-rails railties
+bootstrap-timepicker-rails railties
+bootstrap-timepicker-rails-addon railties
+bootstrap-tooltip-rails rails thor
+bootstrap-tour-rails
+bootstrap-typeahead-rails railties
+bootstrap-v3-rails rails
+bootstrap-validator-rails jquery-rails railties
+bootstrap-view-helpers jquery-rails rails
+bootstrap-will_paginate will_paginate
+bootstrap-wysihtml5-rails railties
+bootstrap-wysihtml5-rails-font-awesome railties
+bootstrap-wysiwyg-rails actionpack railties
+bootstrap-x-editable-rails railties
+bootstrap2-rails thor will_paginate
+bootstrap2_form_builder rails
+bootstrap3-datetimepicker-rails momentjs-rails
+bootstrap3-kaminari-views kaminari rails
+bootstrap3-rails rails
+bootstrap3-wip-rails less-rails railties
+bootstrap3_autocomplete_input
+bootstrap3_form_builder rails
+bootstrap3_mootools railties
+bootstrap3_rails
+bootstrap_actioncell haml-rails rails
+bootstrap_active_nav rails
+bootstrap_admin coffee-rails haml jquery-rails rails responders simple_form
+bootstrap_builder
+bootstrap_buttons httparty
+bootstrap_calendar_rails rails
+bootstrap_colorpicker_rails railties
+bootstrap_datepicker twitter-bootstrap-rails
+bootstrap_datepicker_spec capybara chronic rspec
+bootstrap_datepicker_tag bootstrap-datepicker-rails
+bootstrap_datetimepicker
+bootstrap_datetimepicker_railsx rails
+bootstrap_devise_base
+bootstrap_farsi less-rails rails therubyracer
+bootstrap_feedbacker bootstrap-sass jquery-rails rails sass-rails
+bootstrap_file_input_rails railties
+bootstrap_flash_messages
+bootstrap_form
+bootstrap_form-datetimepicker bootstrap_form
+bootstrap_form_builder rails
+bootstrap_form_builder_new rails
+bootstrap_form_helper actionpack railties
+bootstrap_forms
+bootstrap_glyphicons-rails rails
+bootstrap_haml_helpers bootstrap-sass haml rails sass sass-rails
+bootstrap_help log4r rails
+bootstrap_helper railties thor will_paginate
+bootstrap_helperized
+bootstrap_helpers
+bootstrap_it rails wrap_it
+bootstrap_jt
+bootstrap_kaminari kaminari rails
+bootstrap_layouts
+bootstrap_leather bootstrap-sass haml jeweler rails
+bootstrap_markdown_rails
+bootstrap_modal_rails coffee-rails jquery-rails railties
+bootstrap_notify jquery-rails rails
+bootstrap_pagedown rails
+bootstrap_pager actionpack activesupport
+bootstrap_pagination will_paginate
+bootstrap_progressbar
+bootstrap_rails_helper rails
+bootstrap_rails_helpers
+bootstrap_rainbow bootstrap-sass font-awesome-sass-rails railties sass-rails
+bootstrap_refile railties refile
+bootstrap_sass_rails sass
+bootstrap_sidebar_rails railties
+bootstrap_sortable_rails
+bootstrap_template
+bootstrap_tokenfield_rails
+bootstrap_toolbelt rails
+bootstrap_ui_helper
+bootstrap_v3 less-rails
+bootstrap_validator-rails rails
+bootstrap_validator_rails bootstrap_form
+bootstrap_website rails
+bootstrap_widgets bootstrap-sass coffee-rails jquery-rails rails sass-rails
+bootstrap_wizard_rails
+bootstrap_wysiwyg-rails railties
+bootstrapped actionpack less-rails railties
+bootstrapped-rails sass
+bootstrapper activerecord activesupport
+bootstrappers bundler rails
+bootstrappers2 bundler rails
+bootstraps_bootstraps activesupport rails
+bootstripe
+bootstripe-rails rails
+bootstro-rails sass-rails
+bootswatch-rails railties
+bootswatch-sass rails sass-rails
+bootswatch-sprockets bootstrap-sass
+bootswatch-theme-rails
+bootswatch_rails bootstrap-sass railties
+bootswitch bootstrap-sass bootswitch haml-rails rails
+bootsy carrierwave mini_magick remotipart
+bootsy-mongoid bootsy carrierwave-mongoid mongoid
+bootsy-rails3 carrierwave mini_magick remotipart
+bootsy-simple_form bootsy simple_form
+bootup
+booty
+booty-call nakajima-nakajima
+boourns-memcached
+boourns-unicorn kgio rack raindrops
+booyah json
+bop ancestry liquid rails redcarpet
+boqwij
+bor railties thor
+borda
+border
+border-patrol rails timers
+border_patrol nokogiri
+border_patrol-sgonyea nokogiri
+borealis cocaine
+borel
+borg eventmachine redis
+borg-rb capistrano capistrano_colors colored term-ansicolor
+boring
+boris netaddr net-ssh snmp
+borium json tokyocabinet
+bork fog net-ssh thor
+borneo google-api-client signet
+bornin
+borrow_direct httpclient
+borrower net-ssh
+bors hashie oj
+bort hpricot
+bos mechanize thor
+bosdk
+bosdk_designer
+bosh-bootstrap bosh_cli_plugin_micro cyoi fog fog-aws httpclient rbvmomi readwritesettings redcard thor
+bosh-cloudfoundry bosh_cli net-dns
+bosh-core gibberish yajl-ruby
+bosh-deployer cancun readwritesettings recursive-open-struct thor
+bosh-director bcrypt-ruby blobstore_client bosh_aws_cpi bosh_common bosh-core bosh_cpi bosh-director-core bosh_openstack_cpi bosh-registry bosh-template bosh_vcloud_cpi bosh_vsphere_cpi cf-uaa-lib eventmachine fog fog-aws httpclient logging membrane nats netaddr rack-test rake redis resque resque-backtrace rufus-scheduler semi_semantic sequel sinatra sys-filesystem thin yajl-ruby
+bosh-director-core bosh_common bosh-template
+bosh-gen activesupport bosh_cli bosh-template cyoi fog fog-aws progressbar readwritesettings thor
+bosh-info easy_diff interact redcard term-ansicolor thor
+bosh-monitor aws-sdk cf-uaa-lib dogapi em-http-request eventmachine httpclient logging nats sinatra thin yajl-ruby
+bosh-plugin-generator bosh_cli bosh_common erubis git membrane semi_semantic
+bosh-plugin-pipeline bosh_cli bosh_common bosh-versions erubis git membrane
+bosh-registry aws-sdk bosh_cpi fog sequel sinatra thin yajl-ruby
+bosh-release agent_client blobstore_client bosh_common bosh-template trollop yajl-ruby
+bosh-share bosh_cli bosh_common bosh-plugin-pipeline git membrane
+bosh-stemcell bosh_aws_cpi bosh-core
+bosh-template semi_semantic
+bosh-verify-manifest bosh_cli minitest uuidtools
+bosh-verifyconnections bosh_cli
+bosh-versions bosh_cli bosh_common membrane rest-client rubygems_api
+bosh-workspace bosh_cli bosh_common hashdiff membrane rugged semi_semantic
+bosh4r builder rest-client
+bosh_agent blobstore_client bosh_common bosh-core crack httpclient nats netaddr sigar sinatra syslog_protocol thin yajl-ruby
+bosh_aws_cpi aws-sdk bosh_common bosh_cpi bosh-registry httpclient yajl-ruby
+bosh_aws_registry aws-sdk sequel sinatra thin yajl-ruby
+bosh_cli blobstore_client bosh_common bosh-template cf-uaa-lib highline httpclient json_pure minitar netaddr net-scp net-ssh net-ssh-gateway progressbar sshkey terminal-table
+bosh_cli_plugin_aws bosh_aws_cpi bosh_cli bosh_cli_plugin_micro bosh-core bosh-stemcell
+bosh_cli_plugin_consul bosh_cli rest-client
+bosh_cli_plugin_micro agent_client blobstore_client bosh_aws_cpi bosh_cli bosh_common bosh-core bosh_cpi bosh-director-core bosh_openstack_cpi bosh-registry bosh-stemcell bosh_vcloud_cpi bosh_vsphere_cpi fog-google mono_logger sqlite3
+bosh_cli_plugin_redis bosh_cli rake
+bosh_common logging semi_semantic
+bosh_cpi bosh_common logging membrane
+bosh_deployer agent_client bosh_aws_cpi bosh_aws_registry bosh_cli bosh_cpi bosh_openstack_cpi bosh_openstack_registry bosh_vcloud_cpi bosh_vsphere_cpi httparty sqlite3
+bosh_job_docker
+bosh_ladle aws-sdk trollop
+bosh_lite_helpers bosh_cli
+bosh_openstack_cpi bosh_common bosh_cpi bosh-registry fog httpclient membrane yajl-ruby
+bosh_openstack_registry fog sequel sinatra thin yajl-ruby
+bosh_vcloud_cpi bosh_common bosh_cpi builder httpclient membrane nokogiri rest-client yajl-ruby
+bosh_vsphere_cpi bosh_common bosh_cpi builder httpclient membrane mono_logger nokogiri
+bosh_warden_cpi bosh_common bosh_cpi sequel warden-client warden-protocol yajl-ruby
+bosher activesupport
+boshify bosh_lite_helpers httparty
+bosht
+boson
+boson-more boson
+bosonnlp httpclient
+bosonson alias hirb
+bosrvclient
+boss json
+boss-cms acts-as-taggable-on cancan citygate coffee-rails jquery-rails paperclip rails
+boss-mailer
+boss-protocol
+boss_queue aws-sdk
+bossan rack
+bosslady-hangman
+bossman activesupport
+boston
+boston-ruby htmlentities nokogiri
+boston-stitch haml nokogiri sinatra
+boston_marathon nokogiri rest-client
+bostonlogic-safe aws-s3 net-sftp rackspace-cloudfiles
+bot-away actionpack
+bot_detection public_suffix
+bot_detector
+bot_nyan oauth twitter
+botanicus-botabot xmpp4r
+botanicus-cart
+botanicus-dm-is-serialized dm-core
+botanicus-dm-is-sluggable dm-core
+botanicus-filelist
+botanicus-gemcutter json_pure
+botanicus-get
+botanicus-merb-colorful-logger merb-core
+botanicus-merb-etag merb-core
+botanicus-merb-pagination merb-core
+botanicus-merb-path merb-core
+botanicus-path extlib
+botanicus-pupu
+botanicus-rango extlib path rack
+botanicus-thor
+botanicus-thor-utils thor
+botch faraday mechanize
+botemon cinch cinch-colorize cinch-login smogon
+botfarmd cinch daemons slop
+botfly xmpp4r
+botherbother
+bothersme_list
+BotnetV2
+botoenv inifile pry
+botolo codesake-commons twitter
+botr thor
+botscout httparty
+botstrap xcodeproj
+botsy yajl-ruby
+bottesque cinch cinch-identify logger
+bottle
+bottle_rocket
+bottlerocket activesupport haml mongo sinatra sinatra_more
+bottles
+bottomless_hash
+boucher fog pry rake retryable
+bougyman-autumn anise daemons english facets
+bougyman-freeswitcher eventmachine
+bougyman-name_parse
+boulangerie
+bounce activerecord
+bounce-email
+bounce_email mail
+bounce_fetcher bounce-email tmail
+bounce_fu
+bounce_studio_ffi activesupport ffi
+bounce_touch_icon
+bouncer curb json
+bouncer-client faraday faraday_middleware redis
+bouncestudio
+bouncy-castle-java
+bouncy_bots
+bound
+boundary actionpack actionpack activerecord activerecord
+boundary_event json
+bounded_hash
+bounding_boxes
+boundio activesupport json rest-client thor
+boundioV2 activesupport json rest-client thor
+boundless-gdata google-spreadsheet-ruby
+boundy punchout
+bounscale json
+bountydeps activerecord addressable curb expectation girl_friday neography oj pg rake remote_syslog_logger resque simple_cache_rs twitter
+bourbon sass thor
+bourbon-compass compass sass
+bourdain activesupport colorize gitlab pmap trollop
+bourgeois actionpack activemodel
+bourne mocha
+boursorama
+boutique pony preamble sequel sinatra tilt
+boutons activesupport recursive-open-struct synapse synapse-config synapse-easy synapse-logging-interchangeable toml-rb
+boutons-rails boutons rails replay_logger synapse-easy
+bouvier
+bouzuya
+bovem lazier open4
+bovespa nokogiri posifile
+bovespa-prices httpclient nokogiri
+bovespa_ingestion activerecord standalone_migrations
+bowdler
+bower multi_json
+bower-rails
+bower-rails-pt
+bower-vendor rails ruby-bower
+bower_vendor awesome_print
+bowered
+bowerfresh
+bowerify sprockets
+bowerinstaller
+bowie git thor
+bowl arduino_firmata args_parser eventmachine haml hashie json rack sass sinatra sinatra-cometio sinatra-contrib thin
+bowler foreman
+bowline activesupport bowline-bundler rubyzip2 supermodel templater
+bowline-bundler
+Bowling formatador highline
+bowling_game_wilbertcr
+bowndler thor
+bows bcrypt rack redis ribbon-config
+bowtie sinatra
+bowtie-io bowtie-io-rack-streaming-proxy jekyll rack rest-client sass
+bowtie-io-rack-streaming-proxy rack servolux
+bowties bitters bundler rails
+box
+box-api httmultiparty
+box-api-ani httmultiparty
+box-com addressable colorize faraday faraday_middleware hashie mechanize memoist oauth2
+box-cutter
+box-rb
+box-release activesupport
+Box2d
+box2d
+box2d-rails railties
+box_cli active_support box-api commander highline mechanize
+box_cutter bundler rails
+box_layout hoe
+box_of_tricks rails
+box_packer rasem
+box_puts
+box_view
+boxafe commander dotenv multi_scheduler mutaconf notifies paint which_works
+boxcar erubis i18n json log4r
+boxcar_api httparty
+boxcar_client
+boxcar_notifier
+boxcar_publisher faraday faraday_middleware
+boxci net-scp net-ssh thor
+boxcutter faraday trollop yajl-ruby
+boxed-geminabox builder fishwife geminabox hooker httpclient nesty rjack-jetty rjack-logback sinatra
+boxen ansi hiera highline json_pure librarian-puppet octokit puppet
+boxen-linux ansi hiera highline json_pure librarian-puppet octokit puppet
+boxen-module-maker git
+boxenprofiler
+boxer activesupport
+boxes claide colored
+boxey activerecord
+boxfs ftpfxp
+boxgrinder-build aws-sdk boxgrinder-core builder net-sftp net-ssh nokogiri progressbar rest-client
+boxgrinder-core kwalify open4 term-ansicolor
+boxgrinder-esx-delivery-plugin esx
+boxgrinder-ovfcatalog-delivery-plugin curb diskid
+boxgrinder-ubuntu-plugin
+boxgrinder-xenserver-platform-plugin boxgrinder-build
+boxify
+boxlet aws-sdk bson_ext ImageResize mongo multi_json rack rack-contrib sys-filesystem thin
+boxmodel-rails railties
+boxmodel2 sass
+boxnet
+boxoffice activemodel mechanize monetize
+boxomojo
+boxpark
+boxr addressable hashie httpclient jwt oj
+boxrubylib
+boxspring active_hash addressable multi_json
+boxview
+boxview.rb httmultiparty
+boxxspring activesupport addressable fnv
+boxxspring-workers aws-sdk boxxspring redis remote_syslog_logger
+Boy2Man
+boyhood hashie json rest-client
+bozo gli rainbow
+bozo-scripts bozo erubis nokogiri test-unit zip
+bp active_support gems github_api grit heroku httparty thor
+bp-fnordmetric activesupport em-hiredis eventmachine haml i18n json rack rack-test redis sinatra thin websocket-rack yajl-ruby
+bpalmen-httpbl rack
+bpardee-net-http-persistent gene_pool
+bpci choice json sinatra tinder
+bpescatore-stash commander git json launchy
+bpg
+bpl activerecord activerecord-sqlserver-adapter chronic sqlite3 tablizer time_of_day yajl-ruby yajl-ruby
+bpl-institution-management bootstrap_forms cancan
+bpl_enrich htmlentities qa rails timeliness unidecoder
+bplgeo countries geocoder htmlentities nokogiri rails sparql typhoeus unidecoder
+bplmodels hydra-derivatives mods rails timeliness
+bplot
+bpluser bootstrap_forms hydra-role-management omniauth omniauth-facebook omniauth-ldap rails
+bpm eventmachine execjs gemcutter highline json_pure libgems sprockets thin thor
+bpm-rails
+bpm_manager rest-client
+bpm_to_msec
+bpmachine activesupport i18n
+bpo-ruby-crowdflower httparty
+bpokosh-nifty-generators
+bpoweski-apnserver daemons eventmachine json
+bpruby rest-client
+bq google-api-client
+bq_usage aws-sdk-core middleware net-sftp rails sidekiq
+bquorning-nulldb
+br
+br-cnpj
+br-cpf ffi
+br-nanite amqp extlib
+br_api_fantasy httparty
+br_boleto activemodel activesupport rake
+br_danfe barby br_documents i18n nokogiri prawn prawn-table
+br_documents activemodel i18n
+br_inscricao_estadual
+br_nfe activemodel activesupport nokogiri rake savon signer
+br_open_data colorize multi_json nokogiri nori rest-client
+br_tag_models active_wrapper awesome_nested_set
+br_validator
+br_waveform
+br_zip_code dotenv-rails rails
+braai activesupport
+braavos aws-sdk gli
+brace bitters bundler rails
+brace_markup
+bracecomp
+bracer
+braces methadone
+bracken open4
+bracket_error_suggestion
+bracket_notation rmagick
+bracket_tree
+brad
+brad-rails haml i18n less-rails railties
+brad-toto builder rack rdiscount
+bradesco_import httparty
+bradgessler-app-slice
+bradgessler-birdfeed nokogiri
+bradgessler-domain_slice
+bradgessler-google-spreadsheet-ruby
+bradgessler-owidget nokogiri
+bradley_fizzbuzz
+bradleypriest-mollom
+bradleypriest-on_the_spot jeweler json_pure json_pure rake
+bradm
+bradphelan-sinatras-hat
+bradshaw chronic
+bragi-app
+bragi-validates_xml activerecord
+braid main open4
+braille_ueb
+brails
+brain hoe
+brain_love parslet
+brainclusterfuck
+brainfuck parslet
+brainfuck-rb
+brainfuckrb
+brainfucktt polyglot slop treetop version
+brainguy
+brainmap-anonymizer
+brainmap-ImageData
+brainmap-metamri
+brainopia-assets
+brainpickin_remote_auth activesupport
+brainsnap
+brainsome_devise bcrypt orm_adapter railties thread_safe warden
+brainsome_jasminerice coffee-rails
+brainsome_localized_country_select actionpack
+brainsome_streamio-ffmpeg
+brainspace faraday hashie json
+brainstem activerecord
+brainstem-adaptor activesupport
+brainstem-js
+brainstorm unobservable
+braintree builder
+braintree-challenge encryptor
+braintree-rails activemodel activesupport braintree
+braintree_country_select braintree
+braintree_lyre braintree lyre
+braintree_query
+braintreejs-rails railties
+brainy_zip_scraper nokogiri ruby-progressbar
+brainz
+brainz_releases nokogiri
+brainzz faraday reverb toke
+braise ansi
+brake rake
+brakefast brakeman uniform_notifier
+brakeman erubis fastercsv haml highline multi_json ruby2ruby ruby_parser sass slim terminal-table
+brakeman-min multi_json ruby2ruby ruby_parser
+brakeman_translate_checkstyle_format thor
+bramgem
+bramipsum
+bramipsum-caldeira-test
+branch
+branch_raker gitlab-grit minitar rake
+branchable_cdn_assets asgit colorize fog here_or_there rake
+branchable_cdn_assets-middleman branchable_cdn_assets middleman
+brancher activerecord railties
+branches
+branches_tools
+branching_cleaner
+branchy
+brancusi coffee-script rails railties
+brancusi-rails brancusi coffee-rails rails
+brand2csv mechanize
+brand_captcha
+brandeins nokogiri prawn rake
+brandeins-dl nokogiri rake thor
+brandify
+brandmaker activesupport json rest-client savon
+brandon-codex
+brandon-money
+brandonvalentine-basecamper xml-simple
+brandonvalentine-mysql-ruby
+brandy compass
+brane
+branston aasm calendar_date_select googlecharts rails
+brant activesupport
+brapi json rest-client
+braque active_attr activesupport hyperclient
+braque-hypermedia_responses_helpers
+brash
+braspag curb handsoap rubigen
+braspag-pagador active_attr activemerchant httpi json nokogiri savon
+braspag-rest hashie rest-client
+braspag_rails rails
+brass
+brassbound-dci
+brasspounder gentone
+brasten-ci_reporter builder
+brat httparty terminal-table
+bratta-googlevoiceapi htmlentities mechanize
+bratta-leetspeak hoe
+bratta-mactts
+brauchbar patron
+brauser lazier versionomy
+brave
+bravery
+bravo savon
+bravo-bootstrap-rails
+bravo-generators
+bravo_generators
+bravo_guard
+bravo_lock bcrypt-ruby bravo_model inherited_resources rails simple_form
+bravo_model
+bravo_presenter
+bravo_support
+bravtroller easy_upnp
+brawl eventable uuidtools
+brawne
+brazenhead childprocess
+brazil
+brazilian-documents-validations activemodel
+brazilian-rails brcep brcpfcnpj brdata brdinheiro brhelper brI18n brnumeros brstring
+brazilian_financial_indexes
+brazilian_forgery
+brazilian_id
+brb eventmachine
+brbackup builder
+brcep
+brcep-vandal
+brcobranca activemodel parseline rghost rghost_barcode unidecoder
+brcobranca-documento brcobranca
+brcotacao
+brcpfcnpj actionpack activesupport
+brdata actionpack activesupport
+brdinheiro actionpack activerecord brnumeros
+brdinheiro-lite
+breacan sawyer
+breach-mitigation-rails activesupport rack
+bread colorize
+bread-basket css_parser fastimage prawn redcarpet thor
+bread_calculator
+breadboard activeresource
+breadbox aws-sdk dropbox-sdk
+breadcrumb rails
+breadcrumb_trail rails
+breadcrumble rails
+breadcrumbs i18n
+breadcrumbs_for
+breadcrumbs_on_rails
+breadcrumbs_on_rails_microdata_builder
+breadcrumbs_on_rails_to_gretel rails
+breadmachine activesupport builder money nokogiri
+breadnbutter
+bready
+break_dance request_store
+break_gem_install
+breakdown
+breaker
+breakneck
+breakout
+breakout_parser
+breakpoint sass sassy-maps
+breakpoint-slicer breakpoint compass sass
+breakpointer-surveyor haml
+breaktime dante green_shoes log4r rufus-scheduler trollop
+breakup compass sass
+breakverter linebreak linebreak-cli
+breasal
+breeder
+breeze fog thor
+breezeblocks
+breezometer
+breizhipsum commander
+bremen
+brendan-entrails
+brendan-simpleconfig
+brendan-skynet daemons rubigen
+brendanlim-contacts json
+brendanlim-gravtastic
+brendanlim-memcache-client
+brendanlim-mms2r hpricot tmail
+brendanlim-sms-fu
+brentano activerecord activesupport hashie railties
+brentd-integrity-growl integrity-integrity ruby-growl
+brentgreeff_akephalos capybara jruby-jars
+bresenham
+bresson flickraw
+bret-watircraft cucumber mocha rake rspec rubigen taglob
+bretels bundler rails
+brettjackson-uniquify
+BrettRasmussen-factory_girl
+brevis compass sass
+brevis-imap
+brevity docopt music-transcription treetop
+brew-cask-commands
+brew-flight thor
+brew-launchd
+brew_dg plexus ruby-graphviz virtus
+brewby temper-control
+brewby-cli brewby ffi-ncurses thor
+brewbygems
+brewdler commander
+brewery hashie nokogiri
+brewery_db faraday faraday_middleware hashie
+brewerydb hashie httparty
+brewerydb2 hashie httparty
+brewmaster
+Brewry httparty
+brewscribe nokogiri
+brewser activesupport bindata builder dm-core dm-serializer dm-validations msgpack multi_json nokogiri roxml ruby-units
+brfaker
+brferiados brdata
+brfipe
+brhelper actionpack activesupport
+bri rdoc term-ansicolor
+brI18n actionpack activerecord activesupport
+brian
+briancollins-blackbook
+briancollins-cloudfiles mime-types
+briancollins-rftp
+briandoll-greatest_common_factor
+briandoll-rails_framework_diff
+briandunn-a2ws activesupport httparty
+brianjlandau-acts_as_archive require
+brianjlandau-chronic_duration
+brianjlandau-doppelganger diff-lcs facets highline ruby2ruby ruby_parser sexp_processor thoughtbot-shoulda
+brianjlandau-foreigner
+brianjlandau-harvest activeresource aiaio-active_resource_throttle
+brianjlandau-resque-scheduler redis resque rufus-scheduler
+brianjlandau-sdoc-helpers
+brianjlandau-vestal_versions activerecord rails
+brianleroux-phonegap rubyzip
+brianmario-bzip2-ruby
+brianmario-couchrest mime-types rest-client yajl-ruby
+brianmario-eventmachine
+brianmario-streamly
+brianmario-yajl-ruby
+BrianTestGem
+BrianTheCoder-cool_breeze
+BrianTheCoder-ratpack
+briar ansi bundler calabash-cucumber dotenv rainbow rake rbx-require-relative retriable xamarin-test-cloud
+bribera-rubyvor hoe
+brice nuggets
+brick activesupport clamp pry
+brick-pi
+brick_and_mortar git rubyzip
+brick_house
+brick_layer bcrypt-ruby bson_ext carrierwave-mongoid dragonfly haml kaminari mongoid mongoid-ancestry mongoid_fulltext mongoid_nested_set rack-cache simple_form
+bricks
+bricks_meet_balls gosu
+brickset httparty nokogiri
+bricky colorize thor
+bricolage aws-sdk mysql2 pg td
+bricooke-bj main orderedhash systemu
+brid
+brid-rails activemodel brid
+bridge
+bridge-ruby eventmachine json
+bridge_socket daemon-spawn
+bridgescaffold
+bridgeutopia-simple-rss
+brief activesupport commander em-websocket eventmachine github-fs github-markdown hashie hike inflecto nokogiri terminal-table thin virtus
+brief_mail actionmailer
+briefcase commander escape
+briefing sinatra sinatra-reloader
+brienw-linkedin hashie multi_json oauth
+brigade-cap-tasks
+brigade-monitor awesome_print cgminer-api httparty
+brightbox bundler capistrano net-ssh
+brightbox-boxgrinder-plugins brightbox-cli
+brightbox-cli fog-brightbox gli highline hirb i18n multi_json net-ssh
+brightbox-object-factory brightbox-rujitsu
+brightbox-rspec-rails-ext
+brightbox-rujitsu
+brightbox-server-tools bundler
+brightbox-warren amqp
+brightbytes-sendgrid activesupport
+brightcontent brightcontent-attachments brightcontent-core brightcontent-pages
+brightcontent-assets brightcontent-core jquery-fileupload-rails paperclip
+brightcontent-attachments brightcontent-core jquery-fileupload-rails paperclip
+brightcontent-core bcrypt bootstrap-sass bootstrap-wysihtml5-rails coffee-rails inherited_resources jquery-rails rails ransack sass-rails simple_form will_paginate will_paginate-bootstrap
+brightcontent-pages awesome_nested_set brightcontent-attachments brightcontent-core jquery-ui-rails the_sortable_tree
+brightcove-api httparty json multipart-post rest-client
+brighter_planet_deploy eat thor
+brighter_planet_layout brighter_planet_metadata
+brighter_planet_layout-ruby19 simple-rss spox-ultraviolet
+brighter_planet_metadata activesupport cache_method i18n multi_json
+brightly rdiscount sinatra ultraviolet
+brightpearl-cli columnist convoy highline mysql2 parseconfig rest-client
+brightpearl_api activesupport curb httparty
+brightspark3-rira
+brightTALK
+brigit echoe git highline
+brilliant
+brilliantruby
+BRIMIL01-meetup_api json
+brine gli
+bring faraday faraday_middleware thor
+bring_back_snowman
+brink
+brinks
+brio faraday faraday_middleware gli highline htmlentities json launchy
+brir
+brisk-bills extensions i18n money mysql pdf-writer rails rake slimtimer4r
+briskly fast_trie i18n
+bristle
+brita activerecord
+brite neapolitan
+brite-api rest
+brite_verify
+britebox activemodel brite-api listen sinatra
+BritishGasHive
+britt-geminstaller cmdparse diff-lcs hoe mime-types open4 rake rcov RedCloth rspec ruby-debug webgen
+brk-fonts-rails railties
+brm-ruby-logger bunny
+brm_client activesupport bunny mongo rest-client stomp
+brm_finance json rest-client
+brnumeros
+bro
+bro_ids-dns-log
+bro_ids-http-log
+broach multi_json nap
+broadband_map faraday faraday_middleware hashie multi_json rash
+broadcast broach hashie koala mail oauth shout-bot smsified xmpp4r
+broadcast-objects
+broadcast_calendar
+broadstreet faraday hashie
+broadway activesupport nokogiri
+brocade active_support barby chunky_png i18n
+brocadesan net-ssh
+broccoli
+brochure hike rack tilt
+brock
+brocket logger_pipe thor
+brocktail activesupport crack i18n typhoeus
+broctron bson_ext mongo
+brodock-config-file-loader
+brodock-validates_as_email
+brodock-work_queue
+broham
+broilerplate
+broke faraday faraday_middleware
+broken_record colorize parallel rake
+broken_windows httparty nokogiri
+brontes3d-amqp eventmachine
+brontes3d-memcache-client
+brontes3d-production_log_analyzer rails_analyzer_tools
+brontes3d-rubycas-server activerecord activesupport gettext picnic
+brontes3d-xmpp4r
+bronto savon
+bronto-gem wordnet wordnet-defaultdb
+brook
+brookr-tootils
+broom
+broomhlda atomy
+bropages commander highline json_pure mime-types rest-client smart_colored
+brotli
+brototype
+broutes garmin-fit nokogiri
+brown bunny envied
+brownbeagle-gitauth rack sinatra-sinatra Sutto-perennial
+brownie activesupport rest_client
+brownpapertickets hpricot httparty
+browsah
+browscap
+browscapper inifile
+browse activesupport mechanize
+browse-everything bootstrap-sass dropbox-sdk font-awesome-rails google-api-client google_drive httparty rails ruby-box sass-rails skydrive
+browser
+browser-prof ruby-prof
+browser-provider
+browser-timezone-rails jquery-cookie-rails jquery-rails jstz-rails rails
+browser_conway_game_of_life
+browser_details useragent
+browser_detect
+browser_detector
+browser_gui
+browser_loader ktutils watir-webdriver
+browser_permissions_notifier railties
+browser_rules
+browser_shooter mixlib-cli selenium-webdriver
+browser_sniffer
+browser_stack
+browser_stack_button rails
+browser_tzone jquery-rails rails
+browser_warning
+browserchannel thin
+browsercms ancestry ckeditor_rails jquery-rails paperclip rails sass-rails term-ansicolor
+browsercms-artirix actionpack-page_caching ancestry bootstrap-sass ckeditor_rails compass compass-rails devise devise_cas_authenticatable jquery-rails jquery-ui-rails panoramic paperclip rails sass-rails simple_form term-ansicolor underscore-rails will_paginate
+browsercms_s3
+browsercmsi
+browsercuke cucumber firewatir
+browserid-auth-rails jquery-rails railties
+browserid-provider json-jwt
+browserid-rails jquery-rails railties
+browserid-verify
+browserify-rails railties sprockets tilt
+browserify-sprockets sprockets
+browserify_ruby json thor
+browserinfo
+browserino
+browserio clap rerun roda thin
+browserlog jquery-rails rails
+browsermob-proxy childprocess har multi_json rest-client
+browsermob-proxy2 childprocess har multi_json rest-client
+browsernizer browser
+browserstack yajl-ruby
+browserstack-cucumber json rest-client
+browserstack-screenshot yajl-ruby
+browserstack-tunnel
+browserstack-webdriver childprocess multi_json net-http-persistent rubyzip websocket
+browshot json url
+browsql
+brpm_content capistrano json rest-client savon
+brpm_content_framework bundler capistrano json net-ssh rest-client savon stomp xml-simple
+brpm_module_bladelogic brpm_content_framework brpm_module_brpm
+brpm_module_brpd brpm_content_framework brpm_module_brpm xml-simple
+brpm_module_brpm brpm_content_framework
+brpm_module_jira brpm_content_framework brpm_module_brpm
+brpm_module_selenium brpm_content_framework brpm_module_brpm
+brpm_module_test brpm_content_framework
+brreg
+brstring activesupport
+brTerminacoes
+brtraducao actionpack activerecord activesupport
+bruce-banner
+bruce-bitmask-attribute activerecord
+bruce-bumpspark
+bruce-clingwrap
+bruce-jsonpath treetop
+bruce-keyword_search
+bruno gli nokogiri
+brunoaalves-ar_mailer
+brush
+brute-fuzzy gravitext-util
+brute_squad
+bruter activesupport http_router i18n mustache rack sprockets
+brutetools
+brutish_sorts
+brutus
+brwsr
+bryan-ash-pcanusb
+bryan-ash-wx-nobbie wxruby wx_sugar
+bryanl-gherkin json
+bryanl-skype ruby-dbus
+bryanl-xmpp4r
+bryanlarsen-railroad
+bryanlarsen-rubydoctest
+bryanp-adviser
+bryanwoods-mean
+brycesch-devise_oauth2_providable devise rack-oauth2 rails
+brycethornton-integrity bcrypt-ruby data_objects dm-aggregates dm-core dm-migrations dm-timestamps dm-types dm-validations do_sqlite3 foca-sinatra-diddies haml json sinatra thor uuidtools
+brynary-features2cards prawn
+brynary-testjour dnssd systemu
+brynary-webrat nokogiri
+bs
+bs-helper bootbox-rails bootstrap-sass bootstrap-will_paginate pnotify-rails rails will_paginate
+bs_form_builder actionview
+bs_plus activesupport capybara childprocess hashie highline launchy os parallel rest-client retryable selenium-webdriver thor
+bsb activemodel rest-client
+bscan buby
+bschwartz-capsize amazon-ec2 builder capistrano rcov RedCloth SQS
+bscofield-stammer json
+bscott-ec2ssh activesupport activesupport aws aws colorize colorize highline highline text-table text-table
+bsearch
+bsearch-ruby
+bsf_scrape array_in_file database_params nokogiri pg sanitize string_in_file
+bsgem
+bshell
+bsherman-compass echoe haml
+bsi-pipeline etl-pipeline rbc
+bsl-thor
+bsm-breadcrumbs actionpack activemodel
+bsm-models abstract activerecord railties
+bsm-openx
+bsm-rails-api actionpack activesupport railties
+bsm-sso-client actionpack activesupport excon rails_warden railties
+bsm_models abstract activerecord railties
+bsm_oa bsm-models doorkeeper has_scope jbuilder jquery-rails railties responders simple_form
+bsmnt
+bsn
+bsns
+bsod rubysdl
+bson
+bson_ext bson
+bson_ext_ns
+bson_minihash
+bson_object_id_validations activemodel bson_ext
+bspin
+bst
+bstack_wrapper json
+bstard
+bstat2google google_drive rest-client
+bstats
+bsu colorize
+bsw_dnet_install_util rubyzip
+bsy-sunspot_rails escape rails sunspot
+bt delegate_it
+bt_timbrado_cfdi
+btakita-focused-test
+btakita-jelly rails
+btakita-screw-unit-server erector selenium-client thin
+btakita-screw_unit
+btc
+btc-sdk httparty settingslogic
+btc_address_validator activemodel
+btc_price memcached
+btcchina
+btce monkey-patch
+btce-api
+btcjammer faraday json oauth2
+btcl text-table
+btcRates
+btcruby ffi
+btct bitstamp mtgox
+btcturk awesome_print
+btedev-comma activesupport fastercsv
+bteitelb-paperclip
+btelles-faker
+bter-ruby httparty json
+bterlson-httpclient
+bterlson-reddit json
+bterlson-thinking-sphinx activerecord
+btetris_kp
+bthfilter
+bthouret-dad
+bthouret-kids bthouret-dad
+btjunkie abstract nokogiri rest-client
+btk
+btparse-ruby
+btrack activesupport redis
+btrade faraday json oauth
+btree
+bts-cucumber diff-lcs hoe term-ansicolor treetop
+bts-mbws xml-simple
+bts-scrobbler2 activesupport httparty
+btstp awesome_print hirb msgpack pry pry-doc redis
+BtSync httparty json
+btsync_api
+btucker-google_visualization json
+btw chronic multi_json
+buapi
+bub http pit
+bubble
+bubble-wrap
+bubble-wrap-http
+bubbler
+bubo json
+bubot
+bubs
+bubus json
+buby
+bucaneer ruby-serialport
+buche
+buckaroo addressable
+buckaroo-ideal activesupport transliterator
+buckaroo_client addressable
+bucket
+bucket-cli bitbucket_rest_api git omniauth thor
+bucket_brigade aws-sdk
+bucket_list aws-sdk
+bucket_maker redis
+bucket_stand aws-sdk rails
+bucketeer
+bucketer eventmachine
+bucketface hashie httparty
+bucketface2 hashie httparty
+bucketkit faraday_middleware sawyer
+buckets
+buckit aws-sdk methadone
+buckknife activemodel chef escape highline json
+bucks
+buckshot shotgun thin
+bucky addressable httparty rails
+buckybox-api crazy_money httparty super_recursive_open_struct
+bud backports eventmachine fastercsv getopt msgpack ruby2ruby ruby-graphviz ruby_parser superators19 syntax uuid
+buddha
+buddhism
+buddhy
+buddies_avatar carrierwave jquery-rails mini_magick rails
+buddy httparty mini_fb yajl-ruby
+buddy_liamog
+budget
+budgetcrmod coderunner
+budgie glu glut oily_png opengl
+budik colorize commander r18n-core sys-uname terminal-table ya2yaml youtube_addy youtube-dl.rb
+budurl httparty
+bueda httparty
+bueller bundler git rake
+buf thor
+buff addressable faraday faraday_middleware multi_json rash yajl-ruby
+buff-config buff-extensions varia_model
+buff-extensions
+buff-ignore
+buff-platform
+buff-ruby_engine
+buff-shell_out buff-ruby_engine
+buffalo
+buffer addressable environs faraday faraday_middleware hashie multi_json rake yajl-ruby
+buffer-alpaca faraday json
+buffer_cursor bindata
+bufferaffects
+bufferbox
+buffered-logger
+buffered_io
+buffered_job actionmailer activesupport delayed_job_active_record
+buffered_logger activesupport i18n term-ansicolor
+buffered_proxy
+buffered_remote_syslog_logger activesupport
+buffered_syslogger activesupport
+buffering_logger
+buffet colorize wopen3
+buffy
+buftok
+bug
+bug_hunter haml launchy mongoid rack sass sinatra
+bug_no_shirase_rails
+bugger
+buggie
+buggy activerecord camping hpricot
+bugherd rails
+bugherd-api activeresource activesupport
+bugherd_client activesupport hashie rest-client
+bugloco ruby_protobuf
+bugly rest-client
+bugmenotnot
+bugs_bunny amqp
+bugs_on_hub octokit
+bugsnag json
+bugsnag-api sawyer
+bugsnag-delivery-fluent bugsnag fluent-logger
+bugsnag-em bugsnag eventmachine lspace
+bugsnag-ext
+bugsnag-maglev- json
+bugsnag_data httparty
+bugspots rainbow rugged
+bugwatch grit ruby_parser rugged
+bugzscout httpclient
+bugzyrb highline sqlite3 subcommand
+buho haml listen wdm
+build build-environment build-graph build-makefile graphviz
+build-cloud fog pry
+build-detect dotsmack
+build-environment
+build-files
+build-graph build-files process-group rainbow system
+build-makefile build-files
+build-tool activerecord ansi grit inifile logging sqlite3
+build-ubuntu-ami fog
+Build2Spec rspec
+build_47 rest-client
+build_a_gem_demo
+build_associated activerecord
+build_box
+build_eval nokogiri
+build_info
+build_log_parser chronic_duration
+build_number
+build_status_server command_line_helper json
+build_watcher codefumes serialport
+buildar rake
+buildboard sinatra vegas
+buildbot
+buildbox celluloid childprocess faraday faraday_middleware hashie mime-types multi_json
+builddir trollop
+buildem process_pool
+builder
+builderator aws-sdk berkshelf bundler chef ignorefile thor thor-scmversion
+buildgap
+buildgem
+buildhawk erubis json_pure
+buildhosts
+buildify
+building
+building-blocks building-blocks rails
+building_blocks
+buildkit sawyer
+buildlights hpricot simple-rss
+BuildMaster
+buildmeister rest-client
+buildozer fpm thor
+buildpack-support
+buildpack-utils
+buildr atoulme-Antwrap builder bundler diff-lcs hoe json_pure minitar net-sftp net-ssh orderedhash rake rjb rubyzip xml-simple
+Buildr builder facets highline net-sftp net-ssh rake rubyzip
+buildr-ajc
+buildr-appengine
+buildr-as3 buildr
+buildr-bnd
+buildr-buildr Antwrap archive-tar-minitar builder highline hoe net-sftp net-ssh rake rjb rspec rubyforge rubyzip xml-simple
+buildr-dependency-extensions buildr rake rspec rspec-core rspec-expectations rspec-mocks xml-simple
+buildr-examples buildr ivy4r
+buildr-findBugs buildr
+buildr-gemjar
+buildr-iidea
+buildr-ipojo
+buildr-jaxb-xjc
+buildr-mirah
+buildr-package-as-exe
+buildr-resolver buildr naether
+buildr-tomcat
+buildr4osgi manifest
+buildrdeb
+buildrizpack builder rake
+buildserver
+buildtasks rake
+buildybuild decent_exposure formal haml-rails rdiscount
+buildzilla
+built.io dirty_hashy i18n rest-client
+built_in_data rails
+builtinbruges-css-rails sass-rails
+builtinextension
+bukin rubyzip thor
+bukkit archive-zip colorize commander launchy multi_json rest-client
+bukkit-api
+bukkito
+bukovina
+bulec_game
+bulgarianize
+bulk
+bulk-insert-active-record activerecord
+bulk_api rails
+bulk_cache_fetcher
+bulk_data_methods activerecord pg
+bulk_execution
+bulk_insert activerecord
+bulk_operations
+bulk_record activesupport mysql2
+bulk_time_entry_plugin
+bulk_update activerecord
+bulk_updater activerecord
+bulk_uploadable
+bulk_youtube mechanize nokogiri
+bulkdom
+bulker
+bulkforce json nokogiri nori rake rubyzip
+bulkippt kippt
+bulkippt-cli bulkippt kippt thor
+bulkmail pNet-DNS
+bulksearch binged bossman commander ruby-progressbar spreadsheet unindentable
+bulksms
+bulky haml rails sidekiq
+bulldog
+bulldog_physics require_all require_all
+bulldoggy-filesystem bulldoggy
+bullet activesupport uniform_notifier
+bullet_instructure activesupport redcarpet uniform_notifier
+bulletin colorize data_mapper dm-sqlite-adapter feedzirra nokogiri
+bullfrog httparty
+bullhorn
+bullhorn-rails
+bullhorn-rest active_support faraday i18n
+bullion_vault faraday_middleware hashie multi_xml
+bullock
+bullrico-compass-facebook chriseppstein-compass
+bullring execjs therubyracer therubyrhino uglifier
+bullseye sass sprockets tilt
+bullshit dslkit more_math tins
+bully
+bulstem robots unicode
+bulutfon
+bum json sinatra system_timer
+bumble akismetor authlogic aws-s3 dynamic_form gravtastic haml paperclip pg rails rdiscount sass texticle will_paginate
+bumbler
+bumbleworks ruote
+bumbleworks-api bumbleworks rory
+bumbleworks-gui bumbleworks rory
+bumbleworks-rails bumbleworks bumbleworks-gui railties
+bumbleworks-redis bumbleworks ruote-redis
+bumbleworks-sequel bumbleworks ruote-sequel
+bumeran httparty rails
+bummer
+bummr colorize thor
+bump
+bumper colorize
+bumper_pusher colorize github_changelog_generator
+bumps cucumber json
+bumpspark
+bumpy trollop
+bumpy_bridge bunny daemons faye faye-authentication trickery
+bumpz
+bunch mime-types
+buncher
+bunchr fpm ohai rake systemu
+buncker docker-api
+bundesstrasse ffi-rzmq
+bundle bundler
+bundle-gem-install
+bundle-info
+bundle-locker
+bundle-milkode bundler milkode
+bundle-scraper gtk2 mechanize
+bundle-star bundler netrc octokit
+bundle-try bundler mustache
+bundle2rpm bundler
+bundle_benchmark
+bundle_boss bundler growl_notify rb-fsevent
+bundle_cache aws-sdk bundler
+bundle_depot net-scp thor
+bundle_dev bundler thor
+bundle_info activesupport colored gemnasium-parser gems
+bundle_lock
+bundle_outdated
+bundle_package_check
+bundle_rc
+bundlegem bundler thor
+bundleinabox bundler geminabox thor
+bundlemate hoe plist simpleconsole
+bundler
+bundler-add thor
+bundler-audit bundler thor
+bundler-auto-update
+bundler-bootstrap
+bundler-bouncer
+bundler-bower bower-rails
+bundler-commentator commander gems
+bundler-fastupdate bundler
+bundler-fu treetop
+bundler-gem-hg bundler rake
+bundler-gem_version_tasks
+bundler-geminabox
+bundler-github bundler
+bundler-maglev-
+bundler-norelease
+bundler-organization_audit organization_audit
+bundler-pgs bundler rake
+bundler-prehistoric backports rubysl-securerandom
+bundler-reorganizer thor
+bundler-sass
+bundler-talks bundler talks thor
+bundler-unload
+bundler-update_stdout
+bundler-updater thor
+bundler08
+bundler_bash_completion
+bundler_cacher aws-sdk bundler rubyzip
+bundler_ext bundler
+bundler_gemfile_license_audit
+bundler_geminabox bundler geminabox
+bundler_issue
+bundler_issue_report
+bundler_local_development bundler
+bundler_push_host bundler
+bundler_signature_check bundler
+bundler_timer bundler sequel sqlite3
+bungee commander json rye
+bungle formtastic haml inherited_resources
+bungler bundler
+bunka chef colorize net-ssh parallel rake thor
+bunlder
+bunnicula amqp bunny
+bunnish bunny json
+bunny amq-protocol
+bunny-ext bunny
+bunny_123456
+bunny_1234567 bunny_123456
+bunny_carrot bunny concurrent-ruby hamster
+bunny_hair
+bunny_hop bunny json
+bunny_mock
+bunny_priority_queue bunny
+bunnyque
+bunpa mecab
+bunpack
+bunraku active_support
+bunsen
+bunt mime-types nokogiri
+buntine-discogs
+bunyan mongo
+buoy_data httparty
+buoyancy faraday
+buratino facter mercurial-ruby puppet
+burden rake
+burden_web rails
+bureau activesupport axlsx
+bureaucrat
+burek
+burger_fixins redis redis-namespace redis-objects
+burgermenu-rails
+burghers httparty
+burgundy
+burgundy-lord-thrift thrift
+burisu-docsplit
+burke
+burke-coremidi
+burke-monkeysupport
+burlap
+burlesque rails
+burn archive-tar-minitar eventmachine thor
+burn_iso colours
+burninator rails redis
+burnout
+burnspam
+burocracias
+burp
+burp_cms bootstrap_forms font-awesome-less jquery-migrate-rails jquery-rails jquery-ui-rails less-rails mayi rmagick term-ansicolor therubyracer
+burr eeepub kramdown liquid nokogiri rouge thor
+burrito
+burrow bunny
+burrows_wheeler
+burst
+burstsms httparty unhappymapper
+burt-delay_queue
+burtpath json
+bus
+bus-o-matic hashie httparty
+bus-scheme hoe
+bus_factor
+bus_tracker activesupport nokogiri
+bus_trip emitter
+busboy
+busca filtra msgpack redic separa
+buscalibre activesupport i18n typhoeus yajl-ruby
+buscando_el_viento
+buscape httparty
+buscape_api httparty
+buscar activerecord activesupport
+busdriver hiredis press redis
+busgogo mechanize nokogiri
+bush_viper faraday multi_json
+bushido highline json orm_adapter rest-client
+bushido-faye cookiejar em-http-request eventmachine faye-websocket rack yajl-ruby
+bushido_blade
+bushido_stub activesupport
+bushwick
+business
+business-hours activesupport i18n tzinfo
+business_calendar holidays
+business_date_calculator activesupport
+business_days activesupport
+business_hours activesupport tzinfo
+business_insight_api_client hashie httpclient multi_json oauth2
+business_kirk
+business_process
+business_rules
+business_seconds activesupport business_time
+business_time activesupport tzinfo
+business_time-de activesupport business_time date_easter
+businessdotgov weary
+businka
+busk-ruby-readability
+busker
+busket mongo
+busser thor
+busser-ansiblespec busser
+busser-bash busser
+busser-bats busser
+busser-beaker busser
+busser-cucumber busser
+busser-mamba busser
+busser-minitest busser
+busser-mussel busser
+busser-nose2 busser
+busser-pester busser
+busser-puppet
+busser-rspec busser
+busser-serverspec busser
+busser-serverspec-clc busser
+busser-serverspec_cisco busser
+busser-shindo busser
+busser-shpec busser
+busser-shunit2 busser
+busser-tox busser
+bust_rails_etags
+busted
+buster ffi-rzmq msgpack
+bustle activesupport orm_adapter
+butcher chef
+butler
+butler-mainframe
+butler_static rack rails
+buttafly aasm carrierwave foundation-rails haml-rails jquery-rails kaminari pg rails roo sass
+butter htmlentities nokogiri
+butter_sand faraday faraday_middleware nokogiri
+buttercms json rest-client
+buttercoin hashie httparty
+butterfli
+butterfli-rails butterfli rails
+butterflies http_parser.rb
+butterfly activesupport httparty
+butterfly_net
+butternut celerity cucumber nokogiri
+butternut_squash httparty ruby_cowsay
+butterware-kashflow nokogiri savon
+buttless activesupport array_stats googlecharts json minitest minitest-reporters pdfkit rake redcarpet rest-client sinatra tilt webmock
+button_form actionpack
+button_helper
+button_like_a_link
+button_link_to
+buttons bundler facets get_args json rack rubigen
+buttons-rails railties
+buttons_for font-awesome-rails rails
+butts httparty
+butzopower-cups
+buweb_api_client api-auth weary
+buweb_content_models aasm carrierwave-mongoid carrierwave-roz elasticsearch elasticsearch-model email_validator lisbn mini_magick mongoid mongoid_slug
+buxfer activesupport httparty
+buyatabwrapper resultable
+buzz extensions rake sif thor vcr webmock
+buzz-rails rails
+buzz_feed nokogiri rufus-scheduler
+buzzard dbi json_pure rack-flash sinatra
+buzzcore POpen4
+buzzcorej
+buzzdata rest-client
+buzzfizz
+buzzoink activesupport addressable andand fog
+buzzr ratom
+buzzsaw activesupport htmlentities nokogiri stringex
+buzzsprout hashie httparty
+buzztools
+buzzville buzzcore cmdparse yore
+buzzware-browsercms
+buzzware-buzzcore
+buzzware-buzzville
+BVDryer
+bvh
+bvm xml-simple
+bvr
+bvwack
+bw-geocoder
+bw_status_board_api allotment faraday faraday_middleware faraday_middleware-parse_oj oj
+bwapi allotment faraday faraday_middleware faraday_middleware-parse_csv faraday_middleware-parse_oj oj
+bwcli awesome_print bwapi hashie thor
+bwclient
+bwip railties
+bwkfanboy haml msgpack nokogiri open4 rake rdoc sinatra
+bwoken coffee-script-source colorful execjs json_pure rake slop
+bwt
+BxMS
+bxslider-rails
+bxtjson json_schema multi_json
+by2 activerecord activesupport composite_primary_keys pg railties
+by_star activesupport
+byar
+bychar
+Byclosure-common_steps activesupport cucumber
+byebug
+byebug-color-printer byebug
+byggvir
+byk
+byline activemodel json rest-client simple_record
+byndler
+byod
+bypass addressable nokogiri
+byr
+byron-dm-property-validations
+bystander slack-notifier
+bysykkel nokogiri typhoeus
+byte_buffer
+bytes_converter
+bytetool
+byticus
+byul acts_as_mongo_taggable mongo mongo_ext mongo_mapper
+bz2 hoe newgem
+bz_first
+bzhipchat httparty
+bzip2-ffi ffi
+bzip2-ruby
+bzip2-ruby-rb20
+bzmq ffi-rzmq
+bzproxies bundler
+bzrwrapper
+bzsnippets activesupport ruby-filemagic

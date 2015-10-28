@@ -1,0 +1,4822 @@
+d ruby-debug
+D-D-Character-Generator
+d1lcs
+d2 debugger
+d2ad
+d2e
+d2s3
+d3-charts railties
+d3-rails railties
+d3-tip-rails railties
+d3_charts rails rails-assets-d3
+d3_mpq bindata nokogiri
+d3_rails railties
+d3_status colorize nokogiri
+d3api faraday faraday_middleware rake
+d3c3-rails rails rails_javascript_helpers
+d3js-plugins-rails railties
+d3js-rails railties
+d3skills nokogiri
+d3status ansi commander nokogiri
+d4-rails rails
+d7-theme-scaffold compass
+d8a urirequire
+D_123 X_123
+da-has_token rails
+da-js coffee-script railties sprockets
+da-suspenders bundler rails trout
+da99_rack_protect rack-protection
+da_beat
+da_face excon json yajl-ruby
+da_funk bundler cloudwalk_handshake rake yard
+da_huangs_ruby_extensions
+daapclient digest-m4p hoe
+Daarmaan rails ramp
+dabcup addressable aws-s3 net-sftp
+daberu
+dabsp drfas
+dacort-twitter httparty mash oauth
+dacpclient dmapparser dnssd faraday fuzzy_match plist thor
+dacs hirb
+dactyl_form rails
+dactyls mongo_mapper sylfy
+dacz-authuser
+dada
+dadablog html_truncator rack-cache rdiscount sinatra thin thor
+daddy capybara ci_reporter closer database_cleaner differ execjs faraday holiday_jp poltergeist rails rails-i18n resque resque-scheduler selenium-webdriver simplecov simplecov-rcov
+daddys_girl activerecord factory_girl
+dae-material
+daedal virtus
+daedal-sl daedal
+daedalus
+daedalus-core
+daeltar-clockwork
+daeltar-enum_field
+daeltar-mini_factory
+daemon
+daemon-kit eventmachine thor
+daemon-ogre configer tmp
+daemon-spawn
+daemon-spawn-tanin
+daemon_controller
+daemon_objects activesupport bunny daemons rake
+daemon_signals
+daemonchild
+daemonic
+daemonize
+daemonize_rails
+daemonizer simple-statistics thor
+daemonizr
+daemons
+daemons-mikehale
+daemons-rails daemons multi_json
+daemontools
+daemontor
+daemonz posix-spawn rails simple-daemon sys-proctable zerg_support
+daengine activerecord-tableless httparty jbuilder mini_exiftool mongoid nokogiri raddocs rails
+daf
+daff
+daftos
+dafuq arg0 rake
+dag
+dag-amazing
+dag-statgrab
+dag_wereld
+dagger
+dagjeweg
+dagnabit activerecord
+dagon
+dags
+Dahistory Exit_0
+dahlia
+daigaku activesupport code_breaker colorize curses os quick_store rspec rubyzip thor wisper
+daijisen
+daikini-immortalize
+daikini-octave-ruby
+daikon daemons excon json_pure redis
+daiku thor
+daily daemons dbd-mysql dbi declarative_authorization delayed_job delayed_job_active_record devise googlecharts inherited_resources jquery-rails json rails ruport ruport-util simple_form
+daily_affirmation
+daily_logger
+daily_menu colorize koala
+daily_menu_app daily_menu dalli memcachier rack-cache sinatra thin
+daily_notices rss_creator
+daily_reporter
+dailybooth-cache-money activerecord activesupport
+dailycred omniauth omniauth-oauth2
+dailydealr httparty
+dailymile-ruby faraday json_pure oauth2
+dailymotion faraday faraday_middleware hashie
+dailymotion-api-client httmultiparty
+dailymotion-graph-api faraday json
+dailyrep activerecord hashdiff nokogiri rake sqlite3 washbullet
+dailyshare aws-s3 exifr linguistics mail rmagick
+daimpi-google-rest hoe newgem
+daimpi-google-search
+daioikachan dotenv fluentd fluent-plugin-irc fluent-plugin-slack puma rack
+daisybill_api activemodel rest-client
+daisydiff cocaine nokogiri
+daiz_gem
+dakine engtagger
+dakrone-fastri
+dakrone-feedzirra activesupport builder mdalessio-dryopteris nokogiri pauldix-sax-machine taf2-curb
+dakrone-forkify
+dakrone-pcap-ffi
+dakrone-ricepaper
+dakrone-trie
+dakwak
+dakwak-api httparty multi_json
+dalbaqui-sanitize_email
+dalia_api_survey_platform httparty recursive-open-struct
+dallas-acts-as-phone
+dallas-has_phone_number
+dalli
+dalli-delete-matched dalli
+dalli-elasticache dalli
+dalli-ext-spymemcached dalli
+dalli-ext-spymemcached-debug dalli
+dalli-extra dalli
+dalli-store-extensions
+dalli-ui dalli hashie rails
+dalli_captcha dalli rails uuid
+dalli_keys dalli
+dalli_memcached
+dalliance activerecord activesupport state_machine
+dallikeys dalli
+dallish dalli
+dalmation
+dalton zweikopf
+dam redis yajl-ruby
+dam5s-happymapper libxml-ruby
+dam_lev
+damagecontrol jabber4r log4r needle rails rscm ruby-growl
+dambalah-dcgov json
+dambalah-openaim xml-simple
+dambalah-twitter4r json
+dambalah-twitter_oauth json oauth
+dame
+damerau-levenshtein bundler json rake rake-compiler
+damm
+damn-weather mm_geoip slop terminal-table
+damog-feedbag hpricot
+damog-goodies hpricot
+damog-twitlink
+damotestgem
+damsel
+damselfly rails
+dan-capistrano highline net-scp net-sftp net-ssh net-ssh-gateway
+dan-manges-unit_controller
+dan-manges-unit_record
+DanaDanger-cast_attribute activerecord
+DanaDanger-css_parser
+DanaDanger-data_transport
+DanaDanger-equity
+DanaDanger-hyrarchy
+DanaDanger-plist
+DanaDanger-ruby_tubesday activesupport
+DanaDanger-shapely dbf
+DanaDanger-syslog_logger
+DanaDanger-trigraph_password
+DanaDanger-unicode_madness
+danbarry-poker
+dancake-postrank-uri addressable public_suffix
+dancan activesupport
+dance httparty
+danchoi-itunes-command
+dancing-links
+dancroak-clearance
+dancroak-clearance-admin
+dancroak-hello
+dancroak-le-git happymapper rest-client
+dancroak-limerick_rake
+dancroak-nurse
+dancroak-paperclip
+dancroak-ruby-summize json
+dancroak-slidedown makers-mark nokogiri
+dancroak-sortable_table
+dancroak-strong_password
+dancroak-twilio builder httparty
+dancroak-twitter-search json
+dancroak-validates_email_format_of
+dancroak-webster
+dandan
+dandelion rugged
+dandelion_s1 rack-rscript
+dandelionapi faraday faraday_middleware
+dandify paper_trail spree_core
+daneel puma sinatra sparks
+danest-sailthru-client json multipart-post
+dang
+dangdang digest eat
+danger claide colored git nap
+dangerdanger
+dangerous_open_uri
+dangerzone bcrypt-ruby rails
+dango dango_generator hoe rake
+dango_generator hoe
+daniel_test
+danieldkim-evergreen capybara json_pure launchy sinatra
+danielharan-cijoe choice open4 sinatra
+danielharan-mongo_mapper activesupport jnunemaker-validatable mongo
+danielharan-support
+danieljohnmorris-awesome-events
+danieljohnmorris-shadow_puppet activesupport builder facter highline puppet
+danielsdeleo-basset stemmer
+danielsdeleo-em-spec bacon eventmachine rspec
+danielsdeleo-moqueue amqp
+danielsdeleo-teeth
+danielvlopes-smart_csv
+danil-gem
+danishkirel-data-uri
+danishkirel-turtle ruby-opengl
+danlucraft-mash
+danmayer-metric_fu activesupport churn flay flog rails_best_practices rcov reek roodi Saikuro syntax
+danmayer-resume erubis launchy less main maruku rdiscount sinatra
+danmunk-fixed_fields
+dannytatom-metaid
+dans_didactic_clock sinatra
+dans_hello_world
+dansguardian configfiles
+danske_helligdage
+DanskeHelligdage
+danski-jekyll classifier directory_watcher liquid maruku open4 RedCloth
+danski-ooh-auth merb-slices
+danski-tzatziki
+dante
+dante-editor
+dante-editor-seo
+danthes faye yajl-ruby
+danwoolley-numbertwopencil json
+danwrong-evil activerecord clip danwrong-liquid-inheritance haml liquid rack-cache sinatra sqlite3-ruby
+danwrong-iso_codes
+danwrong-liquid-inheritance
+danwrong-merb_openid ruby-openid
+danwrong-twaudio-ruby mime-types
+danxexe-mailcatcher activesupport eventmachine mail sinatra skinny sqlite3 thin
+dao coerce fattr map multi_json rails rails_current rails_errors2html tagz uuidtools wrap
+daodalus bson_ext id mongo optional
+daodalus-moped em-synchrony-moped id moped optional
+daodao
+dap bit-struct geoip-c htmlentities net-dns nokogiri oj recog
+daphne_util rest-client
+dapper
+daps cramp thin thor
+daptiv-chef-ci log4r mixlib-shellout versionomy
+daptiv-foodcritic-rules foodcritic
+dar_da_da activerecord
+darb
+darcs-ruby
+dare opal opal-jquery rake thor
+darian
+darian_calendar
+dark-capistrano-recipes capistrano capistrano-ext
+dark_domains
+dark_sky_weather unirest
+darkext
+darkfish-rdoc rdoc
+darkhelmet-bound_by_contract
+darkhelmet-darkext
+darkhelmet-ec2-objects
+darkhelmet-role_on
+darkhelmet-sanitize nokogiri
+darkhelmet-sinatra rack
+darkhelmet-sinatra_more activesupport sinatra thor tilt
+darkholme multi_json
+darklite huey ruby-sun-times
+darkofabijan-astrails-safe aws-s3 cloudfiles net-sftp
+darkofabijan-webrat nokogiri rack
+darkreaper-restful-authentication rails
+darkreaper-will_paginate activesupport
+darkside_capistrano_colors capistrano
+darksky typhoeus
+darky
+darrell-activewarehouse-etl activerecord activesupport adapter_extensions fastercsv httpclient rake
+darrell-database_cleaner
+darrell-geokit json_pure
+darrenhinderer-birdy highline rbus twitter4r
+darrinholst-build-lights hpricot simple-rss
+darrinholst-buildlights hpricot simple-rss
+darryl_jenks
+darshan
+darstellung
+dart abstract_method
+dart-rails rails ruby-dart2js sprockets-rails
+dart_api
+dart_trails
+dartboard
+darthapo-comatose
+darthapo-cumulus activesupport hoe hpricot liquid newgem rake shoulda
+darthapo-stratus
+daru reportbuilder spreadsheet
+darvin_functions
+darwin nokogiri
+darwin-xrefresh-server json term-ansicolor
+darwinjs-rails coffee-rails jquery-rails railties
+darwinning
+das_catalog highline mechanize
+das_enigma
+dasboard_client rails
+dasch-bencode
+dasch-smurf
+dascitizen
+dase activerecord activesupport
+dash
+dash-bees activesupport i18n json mail nokogiri rack
+dash-fu multi_json
+dash-mario activesupport i18n json nokogiri rack
+dash_shell andand mharris_ext trollop
+dashboard libdir
+dashboarder excon json
+dashcode-converter distil json nokogiri therubyracer
+dashdate httparty require_all trollop
+dashed pcaprub
+dashed_map
+dasheets haml minidown plist sanitize sqlite3 thor
+dasher
+dashes
+dashing coffee-script execjs rack rufus-scheduler sass sinatra sinatra-contrib sprockets thin thor
+dashing-beanstalk coffee-script execjs httparty rack rufus-scheduler sass sinatra sinatra-contrib sprockets thin thor
+dashing-contrib activesupport dashing dotenv multi_json nagiosharder rest-client sidekiq sinatra thor time_diff
+dashing-db sequel
+dashing-hotness
+dashing-jruby coffee-script execjs puma rack rufus-scheduler sass sinatra sinatra-contrib sprockets thor
+dashing-newrelic
+dashing-rails coffee-script connection_pool jquery-rails rails redis rufus-scheduler
+dashing-screenshots selenium-webdriver
+dashing-semaphore
+dashing-weather thor xml-simple
+dashing_background_status
+dashing_json
+dashing_resque activesupport resque
+dashing_storage bson_ext mongo
+Dashingstate
+dashku httparty rspec
+dashstrap bootstrap3-datetimepicker-rails font-awesome-rails jquery-rails jquery-ui-rails less-rails momentjs-rails railties select2-rails slim-rails rails-assets-bootstrap-daterangepicker rails-assets-jquery-sparkline rails-assets-jquery-knob
+dasht rack
+dashy sass thor
+dashy4r mime-types nokogiri rest-client system_timer webmock
+dasil003-safe-nested-hash
+dasil003-sanitize nokogiri
+dasil003-tm_syntax_highlighting ultraviolet
+dassets ns-options rack
+dassets-erb dassets
+dassets-lessv1 dassets less
+dassets-sass dassets sass
+dat god xmpp4r
+dat-analysis
+dat-science
+dat-tcp dat-worker-pool
+dat-worker-pool SystemTimer
+data
+data-anonymization activerecord activesupport composite_primary_keys parallel powerbar protected_attributes rgeo rgeo-geojson thor
+data-attributes activerecord
+data-calendar
+data-com-api activesupport hashie httparty
+data-converter
+data-driver rubyXL
+data-exporter activerecord activesupport archive-tar-minitar aws-sdk net-sftp thor
+data-import activesupport i18n progress sequel
+data-portal-api rest-client
+data-provider
+data-struct
+data-table
+data-uri
+data-validator
+data-writer
+DATA.save
+data247
+data_active nokogiri rails
+data_bank
+data_bindings
+data_broker activerecord activesupport virtus
+data_calendar activesupport
+data_cleaner faker
+data_cleansing semantic_logger thread_safe
+data_container
+data_contract initializer
+Data_Delete
+data_depo
+data_display rails
+data_doc activerecord rdiscount
+data_dumper activerecord
+data_fabric
+data_factory
+data_file mime-types spreadsheet
+data_filter
+data_forge
+data_formatter rack
+data_frame activesupport davidrichards-just_enumerable_stats fastercsv
+data_graph activerecord composite_primary_keys
+data_grid fastercsv rails
+data_guru activesupport git httparty
+data_hopper
+data_hut sequel sqlite3
+data_kit timeliness
+data_kitten datapackage git json linkeddata nokogiri rake rest-client
+data_loader activerecord fastercsv
+data_magic faker yml_reader
+data_maker i18n pry
+data_mapped activesupport data_mapper sunspot sunspot_rails
+data_mapper dm-aggregates dm-constraints dm-core dm-migrations dm-serializer dm-timestamps dm-transactions dm-types dm-validations
+data_maps activesupport
+data_migrate rails
+data_migrations activerecord rake
+data_migrator rails
+data_miner activerecord activesupport errata posix-spawn remote_table roo rspec-expectations unix_utils upsert
+data_miner-ruby19 activerecord activesupport andand blockenspiel conversions errata escape log4r remote_table-ruby19 taps
+data_mining
+data_mover
+data_objects addressable
+data_package data_kit json
+data_packager
+data_paths
+data_plan
+data_portal_api rest-client
+data_prep
+data_processor oj redcarpet
+data_provider memoist rails railties
+data_resurrection activerecord dbf
+data_sampler activerecord commander mysql schema_plus
+data_sanity fastercsv
+data_science_theater_3000 activesupport curb i18n json
+data_seeder rails
+data_slicer
+data_smash
+data_spec cucumber rspec
+data_spork google_drive rails simple_xlsx_reader
+data_store sequel
+data_struct
+data_structures
+data_sync capistrano
+data_table rails
+data_tables
+data_task rake
+data_tasks rails
+data_tools awesome_print facets
+data_transformation activerecord
+data_transformer
+data_transit
+data_translation
+data_transport
+data_uri
+data_validator activesupport i18n
+database
+database-cloner-rails
+database-exporter activesupport escort http i18n multi_json mysql2 pg sequel sqlite3
+database-switcher
+database-tasks sequel
+database-validation
+database_anonymizer
+database_cached_attribute activerecord activesupport rails
+database_cleaner
+database_cleaner-octopus_sharding ar-octopus database_cleaner
+database_cleaner-remote_api database_cleaner rails
+database_console
+database_copist
+database_error_handler
+database_exporter
+database_fork
+database_introspection activemodel activerecord activeresource activesupport
+database_loader
+database_operations
+database_params
+database_resetter
+database_restorer
+database_rewinder
+database_rollbacker
+database_sanitizer activerecord activerecord-comments iconv progress
+database_slave
+database_sleuth
+database_specification
+database_syncer
+database_transform activerecord activesupport
+database_url
+database_validation
+database_views rails
+database_yml
+databasedotcom activesupport json multipart-post
+databasedotcom-convenience databasedotcom
+databasedotcom-ejholmes json multipart-post
+databasedotcom-isolated databasedotcom sourcify
+databasedotcom-oauth2 addressable databasedotcom gibberish hashie oauth2
+databasedotcom-rails databasedotcom
+databasedotcom-streaming databasedotcom eventmachine faye
+databasedotcom_additions databasedotcom rforce
+databasedotcom_cloudfuji json multipart-post
+databasedotcom_console databasedotcom restforce
+databasedotcom_emp json multipart-post
+databaseformalizer jquery-rails ruby-graphviz
+databasion activerecord activesupport composite_primary_keys google-spreadsheet-ruby spreadsheet
+databot
+databound
+databox httparty
+databrick
+databrowser rails
+datacalc
+datacash activesupport builder gem_config hashie multi_xml rest-client
+datacatalog activesupport httparty mash version_string
+datacatalog-importer datacatalog nokogiri
+datacenter class_config net-ssh
+datacite_doi_ify rest-client
+dataclips bootstrap3-datetimepicker-rails hashids jquery-rails momentjs-rails pg rails twitter-bootstrap-rails will_paginate
+DataCopy
+datacraft thor thread
+datacraft-tools nokogiri nori
+datadoctorwrapper
+datadog-notifications activesupport dogstatsd-ruby
+datadog_proxy chronic dogapi dotenv sinatra
+datadoge dogstatsd-ruby gem_config
+dataduck aws-sdk dotenv mysql pg sequel sequel-redshift
+datafile fetcher logutils textutils
+datafiniti dotenv faraday httparty solr_query
+datafix activerecord pg railties
+dataflow
+Datag Exit_0 Split_Lines trollop
+datagnan oga
+datagram coffee-script haml json sass sequel sinatra therubyracer
+datagram_worker bunny
+datagraph rdf
+datagrepper httparty time-lord
+datagrid rails
+datahunter addressable colorize commander downloadr json launchy rest-client
+dataisland dynarex rxfhelper
+datakick faraday hashie
+datalab-generators
+datalanche
+datalink-socket
+dataloaderb
+datalogger
+datalogger-redis datalogger json redis
+dataman
+datamancer
+datamapa activerecord
+datamapper dm-aggregates dm-constraints dm-core dm-migrations dm-serializer dm-timestamps dm-transactions dm-types dm-validations
+datamapper-dm-core addressable extlib
+datamapper-dm-rest-adapter dm-core
+datamapper-money dm-core money
+datamapper-shim activerecord composite_primary_keys json
+datamapper2
+datamapper4rail hoe slf4r
+datamapper4rails rack-datamapper
+DatamapperRackStreamer
+datamappify activemodel hooks virtus
+datamining
+datanapper
+datanoise-actionwebservice actionpack activerecord
+datapackage colorize json json-schema rest-client
+datapage
+datapagos json
+datapak activerecord fetcher logutils
+datapathy activemodel activesupport resourceful yajl-ruby
+datapimp activesupport aws-sdk axlsx colored commander dnsimple-ruby dropbox-api fog-aws github-fs git-version-bump google-api-client google_drive hashie keen launchy multi_json nokogiri oauth octokit pivotal-tracker pry rack-contrib rack-proxy terminal-table tracker_api unf unf_ext uri_template
+datapipe fluiddb json parse-cron
+datapipes parallel
+datapost cri json rest-client
+datarank hashie httparty json multi_json
+datascope haml pg puma rack-coffee sequel sequel_pg sinatra
+dataset activerecord activesupport
+datashift rubyzip spreadsheet
+datashift_spree datashift mechanize
+datasift multi_json rest-client websocket-td
+datasizes
+datasource activesupport
+datastax_rails cassandra-driver rails rsolr rsolr-client-cert
+datastore_decide
+datastore_mongo mongo_mapper rails
+datastore_redis rails redis
+datastory erubis redcarpet
+datastruct
+datastructure
+datastructures rake
+datatable_state rails
+datatable_utils rails
+datatables jquery-rails rails
+datatables-plugins-rails
+datatables-rails railties sass-rails
+datatables-rails-bs3 jquery-rails
+datatables_rails
+datatables_server
+datatables_server_side actionview activesupport railties
+datatablesnet
+datatrans activesupport builder httparty i18n multi_xml
+datatxt faraday faraday_middleware
+dataview ducktypechecker
+date-casually i18n
+date-constructor
+date-holiday
+date-input-rails jquery-ui-rails rails
+date-performance
+date_age
+date_and_time_input actionpack
+date_checkbox rails
+date_diff
+date_discreter activesupport
+date_easter
+date_ext
+date_extended
+date_filter
+date_format
+date_formatted rails
+date_formatter
+date_from_params
+date_helper
+date_interval parslet
+date_iterator
+date_molder
+date_output
+date_paginate actionpack activesupport
+date_params activesupport tzinfo
+date_parity activesupport
+date_period activesupport
+date_period_parser
+date_picker rails
+date_plus
+date_range
+date_range_converter
+date_range_covers
+date_range_formatter activesupport
+date_range_overlap
+date_range_scopes rails
+date_ranger activesupport
+date_scopable
+date_scopes activerecord
+date_select_separator rails
+date_supercharger activerecord activesupport
+date_support activesupport
+date_time-duration
+date_time-smart date_time-duration
+date_time_attribute activesupport
+date_time_formats rails
+date_time_picker jquery-rails json
+date_time_precision
+date_time_step_with
+date_time_with_zone activesupport
+date_timezone rails
+date_tools
+date_utc_parser
+date_utils
+date_validation
+date_validator activemodel
+datebox
+dated_backup activesupport
+dated_version
+datejs-rails railties
+dateless_time
+dater
+daterange activesupport
+daterangepicker-rails
+dateranger
+dates colorize statsample trollop
+dates_from_string
+datescope activesupport
+dateseq
+DateSetter
+dateslices rails
+datesplit
+datet
+datetime_helper activemodel active_model_serializers rspec
+datetime_picker_input bootstrap3-datetimepicker-rails momentjs-rails
+datetime_picker_rails momentjs-rails
+datetime_splitter
+datetime_tag_helper rails
+datetimepicker
+datetimepicker_gea rails
+datetimespan
+datetimetools
+DateUtils
+datey
+datify
+datizzle
+datmachine addressable faraday faraday_middleware
+datoki pg sequel
+datomic-client edn rest-client
+datr
+datts_right datts_right
+datum rails
+datumbox
+daud_coder
+dauft zurb-foundation
+daum libxml
+daum_oauth
+dauphin
+dav4rack nokogiri rack uuidtools
+dav4rack_ext dav4rack http_router vcard_parser
+davail activesupport rainbow simpleidn whois
+davber_couch_potato activemodel couchrest json
+davber_couchrest_extended_document activesupport builder couchrest mime-types
+davclient
+dave-test-gem
+davegem
+davetron5000-daves-resume commandline
+davetron5000-gli
+davetron5000-gliffy gli httparty ruby-hmac
+davetron5000-grit diff-lcs mime-types
+davetron5000-moocow gli httparty
+davetron5000-rest-client
+davetron5000-rtm davetron5000-gli httparty
+davetroy-geohash
+davetroy-georuby-extras GeoRuby
+daveyeu-daveyeu-nightcap capistrano
+daveyeu-nightcap capistrano
+david celluloid celluloid-io coap rack
+david-capybara culerity mime-types nokogiri rack rack-test selenium-webdriver
+david-former
+david-logbot dm-core minibot
+david-merb_cucumber cucumber merb-core
+david-merb_resourceful merb
+david-minibot
+david_in
+davidary
+davidjrice-exceptional json
+davidjrice-hamweather google-geo hpricot
+davidlee-state-fu
+davidray-paperclip activerecord activesupport
+davidrichards-appender logrotate
+davidrichards-data_frame activesupport davidrichards-just_enumerable_stats fastercsv
+davidrichards-etl activesupport log4r
+davidrichards-gsl narray
+davidrichards-just_enumerable_stats
+davidrichards-kmeans davidrichards-tegu_gears
+davidrichards-repositories
+davidrichards-sirb
+davidrichards-tegu_gears
+davidrichards-tegu_labs god log4r
+davidsmalley-actionwebservice actionpack activerecord
+davidsmalley-erlyfirerb
+davidsmalley-eventmachine
+davidsmalley-gem-thief
+davidtrogers-cucumber builder diff-lcs json_pure polyglot term-ansicolor treetop
+davidtrogers-grit
+davidtrogers-htmldiff
+davidtrogers-selenium-grid
+davidtrogers-steamer activerecord
+davidtrogers-webrat nokogiri rack rack-test
+DavidWhite-calendar_date_select
+davidyang-resque-scheduler redis resque rufus-scheduler
+davinci cocaine oily_png
+DavinciRubyClientSDK bundler faraday rake
+davis
+dawanda-dawanda_client json
+dawanda-sqlite3
+dawanda-ssl_requirement actionpack
+dawanda-statsd-client
+dawanda_client oauth
+dawg
+dawn-api excon json netrc sshkey
+dawn-cli dawn-api docopt highline terminal-table time-lord
+dawnscanner cvss grit haml justify logger-colors parser ptools ruby_parser sys-uname terminal-table
+dax
+day unicode
+day-of-the-week
+day-tracker thor
+day_greeter
+day_planner activesupport rails
+day_time
+daybreak
+daylife
+daylight actionpack-page_caching active_model_serializers activeresource haml hanna-bootstrap
+daylite-models activerecord activerecord activesupport hoe
+dayone-kindle thor
+dayone_latex kramdown micro-optparse plist
+dayrb
+days activerecord bcrypt-ruby builder haml kaminari padrino-helpers pry rack_csrf redcarpet sass settingslogic sinatra sprockets stringex thor
+days360
+days_and_times
+days_of_the_week
+days_picker
+dayset
+dayvan coffee-script json mime-types rest-client thor
+dazeus
+dazoakley-biomart builder
+db thor thor_plus
+db-charmer activerecord activesupport
+db-config-parse
+db-copier sequel term-ansicolor
+db-entropy
+db-evolve
+db-factory
+db-hijacker rails
+db-nuker
+db-populator logging
+db-query-helper tiny_tds
+db-query-matchers
+db-rotator
+db2 activerecord
+db2c
+db2fog activerecord fog rails
+db2s3
+db_acts_as_versioned
+db_attr
+db_backup
+db_backup_rails rails
+db_backup_tool activerecord activesupport backports rubyzip taps
+db_backups fog optitron pry terminal-table
+db_cache_store activerecord activesupport
+db_charmer_env_urls rails
+db_clustering activerecord
+db_cull
+db_debug rails
+db_discovery_generator
+db_events activerecord activesupport
+db_fixtures_dump
+db_graph activerecord activesupport gchartrb
+db_helper activesupport input_reader parseconfig sys-proctable
+db_leftovers rails
+db_lock activerecord
+db_logger
+db_migration_scaffolder rake
+db_mlp
+db_mod pg
+db_mon
+db_nazi activerecord
+db_notes_eng IcentrisJira rails
+db_notes_engine2 IcentrisJira rails
+db_obfuscation
+db_patch activerecord rails
+db_populate
+db_query_helper tiny_tds
+db_reference rails rake
+db_replicator colorize rails ruby-progressbar sequel
+db_rocket
+db_sample kramdown
+db_session colorize rails sidekiq
+db_structure rails
+db_structure_ext
+db_structure_writer
+db_supplier octokit rails
+db_sync
+db_tasks
+db_to_file activerecord activesupport git
+db_uri
+db_url_helper
+db_version_manager active_record
+db_wrapper em-proxy log4r
+dbAccessor
+dbadmin activesupport sequel sinatra
+dbag httparty httparty multi_json
+dbagger rest-client
+dbagile builder fastercsv highline json rack sbyc sequel
+dbalatero-evri_rpx
+dbalatero-fpswax nokogiri
+dbalatero-httparty crack
+dbalatero-relax
+dbalatero-remit relax
+dbalatero-rpx_now activesupport
+dbalatero-signed_request
+dbalatero-typhoeus
+dball-mail activesupport i18n mime-types tlsmail treetop
+dball-zoomifier rmagick
+dbarison_curriculum term-ansicolor
+dbbrowser activerecord activerecord-utils sinatra textutils
+dbbuild
+dbc
+dbc-faker dbc-ruby
+dbc-ruby rest-client
+DBcache mysql
+dbcfaker
+dbchecker rails
+dbcode activerecord
+dbcommit
+dbcompile
+dbconsole
+dbcp net-sftp net-ssh virtus
+dbcron activerecord activesupport celluloid parse-cron
+dbd neography rdf ruby_peter_v
+dbd-adonet dbi
+dbd-adonet-sqlserver dbd-adonet
+dbd-jdbc
+dbd-mysql dbi mysql
+dbd-odbc dbi
+dbd-pg dbi pg
+dbd-sqlanywhere dbi sqlanywhere
+dbd-sqlite dbi sqlite-ruby
+dbd-sqlite3 dbi sqlite3-ruby
+dbd4 activerecord activesupport rake
+dbd_data_engine dbd dbd_onto haml rails
+dbd_onto dbd equivalent-xml rdf rdf-rdfa ruby_peter_v
+dbd_onto_engine dbd_onto haml rails
+dbdiff
+dbdom maven_gem
+dbdump_command activerecord
+dbenvy rack
+dberkom-sinatra-prawn prawn
+dbexpect
+dbf
+dbf2text
+dbg
+dbgeni
+dbget thor
+dbget_client
+dbgrandi-googlecharts
+dbgrandi-ruby-aws highline hoe
+dbhero google_drive has_scope rails responders sass-rails slim-rails
+dbhijacker rails
+dbi deprecated
+dbi-dbrc sys-admin
+dbi18
+dbinbox rest-client
+dbla blacklight rails
+dbldots_oedipus
+dblint activerecord pg railties
+dblp json
+dblugeon-rb-eyetv
+dbm
+dbmanager rails
+dbmapper
+dbmigrator activerecord railties rake
+dbmodel rails
+DbMotion
+dbmule activerecord railties rake
+dboard dalli httparty json rake sinatra
+dbortz-simple_xlsx_writer
+dbourguignon-aws-s3 builder mime-types xml-simple
+dbourguignon-isaac
+dbox dropbox-sdk json multipart-post oauth sqlite3
+dboyles-restful_adhearsion json rest-client
+dbpedia nokogiri
+dbpedia_concept_search hashie json nokogiri nori typhoeus
+dbplot enumerable-proxy
+dbq activerecord
+dbrady-sinfile sinatra
+dbrady-speccle
+dbrady-switchy ruby-serialport
+dbrady-tourbus faker hpricot mechanize trollop webrat
+dbrady-twitterlost mbbx6spp-twitter4r
+dbrady-webrat nokogiri
+DBrb
+dbscan distance_measures geocoder
+dbseeder
+dbsh sequel terminal-table
+dbspec
+dbsync cocaine
+dbt
+dbtap sequelizer thor
+dbtop
+dbuddy watchr
+dbuilder
+dbum daybreak deep_merge sinatra slog thor
+dbupdate
+dburkes-delayed_job
+dburkes-people_places_things
+dbus
+dbus-dump ruby-dbus
+dbview_cti rails
+dbwrapper
+dc-deck dc-settingslogic rake thor
+dc-notifier color-tools libusb
+dc-notifier-animate dc-notifier
+dc-settingslogic
+dc-util
+dca activemodel bson_ext mongo nokogiri ohm resque thor tire uuid yajl-ruby
+dcache
+dcadenas-change_watcher
+dcadenas-filetesthelper
+dcadenas-gmail_sender
+dcadenas-rspec2rr
+dcadenas-rspec_prank RubyInline
+dcadenas-state_pattern
+dcal
+dcas-ruby fastercsv
+dcase celluloid-io ffi
+dce_lti activerecord-session_store ims-lti p3p pg rack-plastic rails
+dcell celluloid celluloid-redis celluloid-zmq http redis-namespace reel
+dcell-hazelcast dcell
+dcell-s3-registry dcell
+dcentralized hash_symbolizer rest-client xml-simple
+DCGOV json
+dchelimsky-rspec
+dchelimsky-rspec-rails dchelimsky-rspec rack
+dchelimsky-rspec-stories rspec
+dci
+dci-rails
+dci-ruby
+dcjs-rails railties
+dckerize
+dclext-anim dclext-gtk gstreamer gtk2
+dclext-gtk gtk2
+dcm2nii-ruby
+dcm4chee confstruct dicom dm-pager dm-searcher hex_string jolokia rails sys-filesystem virtus
+dcm_client faraday faraday_middleware
+dcm_dict
+dcmetro json rest-client thor
+dcolthorp-bistro_car jsmin
+dcov
+dcparker-days_and_times hoe
+dcparker-shopify jnunemaker-httparty
+dcparker-sping hoe simplemapper
+dcparker-time_point
+dcrec1-autotest-notification hoe ZenTest
+dcrec1-gemhub rubigen
+dcrec1-remarkable_paperclip
+dcrec1-rhyme
+dcrec1-rspec-vraptor
+dcs-debian colored nokogiri thor
+dcs-eventable
+dcss
+dctl cmdparse
+dcu-devise warden
+dcu-purple_ruby
+dcu-typhoeus activesupport ffi mime-types
+dcuddeback-octopi api_cache httparty mechanize nokogiri
+dd
+dd40e051cfe2413547c9db52ed184ca6db254f43
+ddao-kwalify
+ddate
+ddate-redux activesupport
+ddbcli
+ddc actionpack activesupport
+ddd rack-client rspec
+ddd-associations activesupport
+ddd_domain rails
+dde win
+ddemaree-jekyll classifier directory_watcher hoe liquid maruku open4 RedCloth
+ddex activesupport nokogiri roxml
+ddi-parser libxml-ruby
+ddis netaddr net-ping redis
+ddl_parser parslet
+ddns rgossip rubydns
+ddnsupdate trollop
+ddollar-albino
+ddollar-gem-github fcoury-octopi
+ddollar-gem-github-stats fcoury-octopi
+ddollar-gem-prune
+ddollar-git-db couchrest
+ddollar-github-backup fcoury-octopi
+ddollar-hanna echoe haml rake rdoc
+ddollar-httparty crack
+ddollar-net-ssh
+ddollar-octopi
+ddollar-pacecar
+ddollar-pony tmail
+ddollar-preferences
+ddollar-rack-debug rack ruby-debug
+ddollar-rack-maintenance rack
+ddollar-rack-profile ruby-prof
+ddollar-railroad
+ddollar-remember-the-ruby ddollar-preferences term-ansicolor
+ddollar-simple-parser
+ddollar-sweeper
+ddollar-test-gem
+ddollar-textmate fcoury-octopi httparty thor
+ddollar-twitter httparty mash oauth
+ddp
+ddp-server celluloid-websocket
+ddp-server-rethinkdb connection_pool ddp-server rethinkdb
+ddpi acts-as-taggable-on devise haml hpricot pg rails RedCloth sass simplesnippets sqlite3-ruby will_paginate
+ddplugin
+ddr-alerts rails
+ddr-antivirus
+ddr-aux-client hashie
+ddr-batch ddr-models devise log4r paperclip rails
+ddr-extraction
+ddr-filetools
+ddr-models active-fedora cancancan ddr-antivirus ddr-aux-client devise ezid-client grouper-rest-client hydra-core hydra-validations net-ldap omniauth-shibboleth rails rdf-vocab resque
+ddrop
+ddslbg
+ddstat dogapi
+ddt
+ddtframework
+ddtop dogapi
+ddy_remote_resource activemodel activesupport ethon mime-types typhoeus virtus
+ddy_swagger_docs railties swagger-docs
+de activesupport rubytree
+De.linque.nt Rubilicious
+de.oddb
+de_beers
+de_duplicator
+de_prune
+dea
+deactivatable activerecord
+dead-man activesupport redis
+dead_drop rails
+dead_gems spy_rb thor
+dead_letter_office rails sass-rails
+dead_mans_snitch
+dead_simple_authorization
+dead_simple_cms activemodel activesupport cells
+dead_simple_conf
+dead_view_catcher
+deadbolt bcrypt-ruby mongo_mapper
+deadlift activemodel hashugar reform
+deadline activesupport curses i18n ruby-growl terminal-notifier
+deadlinez httparty
+deadlock_retry
+deadlock_retry_insane
+deadly_serious multi_json oj
+deadlyicon-git-wiki-with-it git grit mojombo-grit
+deadpool eventmachine json
+deadprogrammer-contacts json
+deadprogrammer-twitter httparty mash oauth
+deadweight css_parser nokogiri
+deadwood activeresource oauth
+deagol gollum-lib
+deal_redemptions bcrypt bootstrap-sass haml-rails jquery-rails kaminari rails sass-rails
+dealer
+dealmap faraday hashie nokogiri typhoeus
+deals carrierwave devise fog rails rails_admin
+deals_with
+dealwithify rmagick
+dean colorize plist semantic shenzhen thor xcodeproj
+deano
+deanperry-capistrano-cookbook capistrano capistrano-bundler capistrano-rails sshkit-sudo
+deanswerify
+dear dear-git dear-rails dear-ruby
+dear-git
+dear-rails
+dear-ruby
+dearchiver
+dears3 aws-sdk mime-types oj thor
+deas ns-options rack sinatra
+deas-erbtags deas
+deas-erubis deas erubis
+deas-json deas
+deas-nm deas nm
+death facter
+death_and_taxes rails
+death_by_captcha nokogiri
+deathbycaptcha
+deathstar
+deathsyn-seedling
+deb docile rails
+deb-fog fog thor
+deb-s3 aws-sdk thor
+deb-s3-x aws-sdk thor
+deb_control
+deb_deploy
+debase debase-ruby_core_source
+debase-ruby_core_source
+debbie awesome_print coolline hirb pry pry-byebug pry-rails pry-remote pry-stack_explorer railties
+debeasy libarchive ruby-filemagic
+debian-control-parser
+debianize json rest-client slop
+DebianPackageDownloader hoe
+debitcard_validator activemodel
+debitcredit docile rails
+debitech debitech_soap
+debitech_soap httpclient mumboe-soap4r
+deblank
+debloy
+debmirrorapi json rake sinatra sinatra-croon
+debot capistrano capistrano-ext rake
+debounce redis-semaphore
+debox em-eventsource eventmachine highline json netrc
+debprado-rvideo
+debra rake
+debride ruby_parser sexp_processor
+debride-curly debride-erb
+debride-erb debride erubis
+debride-haml debride haml
+debsacker
+debsfromrepos
+debstep
+debt
+debt_ceiling chronic configurations rubycritic
+debug
+debug-bar activesupport awesome_print erubis
+debug_exceptions_json
+debug_inspector
+debug_log
+debug_me
+debug_print
+debug_print_ext
+debug_unimedrj
+debugbar
+debugfile
+debugged-ruby em-http-request eventmachine logger
+debugger columnize debugger-linecache debugger-ruby_core_source
+debugger-completion bond debugger
+debugger-ide debugger
+debugger-linecache
+debugger-pry debugger pry
+debugger-rails rack-debug
+debugger-ruby_core_source
+debugger-xml builder byebug
+debuggie
+debugging binding.repl paint
+debugher addressable nokogiri robots
+debuglog
+debugmotion bubble-wrap
+debugprint
+debugserver eventmachine json_pure
+debut fog gli
+dec_number
+decaptcha
+decaptcher
+decaptcher-recaptcha decaptcher nokogiri
+decay_heat_with_nuclear
+decaying_bloomfilter
+decc_2050_model ffi
+decco
+december
+decent_decoration decent_exposure
+decent_exposure
+decent_exposure-draper decent_exposure draper
+decent_generators rails
+decent_ham
+decent_presenter activesupport
+dech double-bag-ftps emmental net-ftp-port_command rms_web_service
+decibel_wrapper
+decider
+decimal
+decimal_to_degree
+decimate
+decision_table activesupport
+decision_tree
+decisiontree
+decisiontree_n
+decisiv-acts_as_versioned
+decisiv-grouped_scope
+decisiv-is_msfte_searchable
+decisiv-is_msfte_taggable
+decisiv-sharded_database
+decisiv-will_paginate
+deck
+deck-of-cards
+deckard fog json mixlib-config mixlib-log notifo rest-client tmail
+deckard_cain json
+deckchair
+deckify
+decking docker-api gli hashie io-console log4r ruby-progressbar
+decko
+decko_cards
+deckr thor
+deckrb coderay erector json nokogiri rack rack-codehighlighter redcarpet thin trollop
+deckshuffler rails rake
+declarative
+declarative-find easier-instance-variable-access http-error to-class
+declarative_authorization
+declarative_authorization-dta rails
+declarative_authorization_padrino declarative_authorization
+declarative_grid activesupport backports
+declare
+declension activesupport i18n
+decline
+deco
+decoct rcov redgreen rspec ZenTest
+decode_www_form_component
+decodeideas-decodeideas-right_aws right_http_connection
+decodeideas-right_aws right_http_connection
+decoder
+decoder-ring
+decommission bundler colorize
+decontaminate activesupport nokogiri
+decontaminator oga
+decor
+decoratable
+decorate
+decorate-responder
+decorate_resource
+decorated_csv draper
+decorates_before_rendering activesupport
+decoration_mail mail nokogiri
+decorative_buildr
+decorator
+decorators railties
+decorum
+decouple
+decoy rb-appscript
+dedent
+dedicated_logger activesupport
+DeDoDrop
+dedotated_wam
+dedupe activemodel activesupport
+dee
+dee-rails dee rails
+deeb awesome_print binding_of_caller
+deebee sequel sinatra
+deeby
+deedubs-cache-money activerecord activesupport memcache-client
+deedubs-gitosis_fu
+deedubs-mobile_fu
+deedubs-twitter httparty oauth peterpunk-mhash
+deelay
+deep
+deep_attributes mongoid
+deep_blame
+deep_clonable
+deep_clone
+deep_cloneable activerecord
+deep_cloning
+deep_copy activerecord
+deep_dirty activemodel
+deep_dive
+deep_dup
+deep_end
+deep_enumerable
+deep_fetch
+deep_firstgem
+deep_freeze
+deep_hash
+deep_hash_transform
+deep_merge
+deep_slice
+deep_struct
+deep_test
+deep_test_pre
+deep_thought activerecord bcrypt-ruby delayed_job_active_record haml httparty json pg rack_csrf rack-ssl rake rugged sinatra sinatra-contrib
+deep_thought-capistrano_2 deep_thought
+deep_thought-capistrano_3 deep_thought
+deep_thought-heroku deep_thought
+deep_thought-travis_plugin deep_thought httparty
+deep_tree
+deepbeige
+DeepConnect
+deepdish
+deeper
+deeply_valid
+deepopenstruct
+deepsecurity gli json progressbar ruby-cache savon
+deepstream
+deepstruct
+deereDB2cleaner
+deezer-lookup damerau-levenshtein
+deezer_client logical_model protected_attributes railties
+def sqlite3
+def_cache activesupport method_source
+def_dsl
+def_resource
+def_retry
+deface colorize nokogiri polyglot rails
+defacer rkelly-remix
+default debug_inspector
+default-url-options-for-mailers
+default_classes_for_form_inputs
+default_controller
+default_form
+default_name
+default_options
+default_validations activesupport
+default_value_for activerecord
+default_value_for-matchers default_value_for rspec
+default_where rails
+default_whitelist rails
+defaultable activesupport
+defaulter rails
+defaultinator
+defaultopen
+defaults
+defaults_for
+defcon bcrypt rails
+defect-density-heatmap
+defekt
+defender activemodel defensio
+defensio httparty
+defensor facets httparty json
+defer
+defer_draper draper
+defer_proc
+deferrable
+deferrable_actions
+deferrable_gratification eventmachine
+deferred eventmachine
+deferred-for-ruby
+deferred_associations activerecord
+deferred_enum
+deferred_exception
+deferred_job multi_json
+deferred_loader q-defer rails
+deferrer multi_json redis
+deferring activerecord
+defgen xcodeproj
+defi
+defile
+define colorize nokogiri
+define-poro
+define-wn bundler mechanize rake
+define_columns
+define_exception
+define_images
+define_method_handler
+defined
+defined-by
+defined_hash hashidator
+definite activerecord thor
+definitialize-rubymarks httparty
+deflect
+deflectable rack
+defly rib
+defmacro hoe need ruby2ruby
+defmacro-unicorn
+defmatch
+defog fastandand fog hash_keyword_args
+defoker
+deform
+defp CallBaecker
+defstr hoe hoe
+defunkt-ambition ParseTree rubigen ruby2ruby
+defunkt-github json_pure
+defunkt-integrity data_objects dm-aggregates dm-core dm-timestamps dm-types dm-validations do_sqlite3 foca-sinatra-diddies json rspec_hpricot_matchers sinatra thor
+defunkt-integrity-campfire foca-integrity tinder
+defunkt-integrity-email foca-integrity tinder
+defunkt-redis
+defuse
+DefV-csv_builder
+DefV-geokit-geoip-provider
+DefV-juggernaut eventmachine json
+DefV-rack_lighttpd_fix
+DefV-soap4r httpclient
+deg-yard
+degect
+degenerate
+degermatize
+degrade
+degree_parse
+degu
+degzipper
+dehumanize activesupport
+deify rails
+deil_sexpistol
+deis cistern ey-logger faraday faraday_middleware
+deis-api
+deis-client rest-client
+deis-rails activesupport colorize
+deis_client httparty
+deis_deploy bundler colorize faker net-ssh thor
+deja-vu
+deja_vue
+dejan-auto_html
+dejan-espeak-ruby
+dejan-kurs hpricot
+dejan-srbovanje
+dejanstrbac-paperclip
+dejavu rails
+dejavu-fonts
+deject
+deka octokit slop
+dekart-paperclip
+dekernel
+dekiru http_accept_language rails
+deklarativna launchy sinatra thin
+dekryptos
+deku commonjs
+delamonpansie-memcache-client
+delano-annoy highline
+delano-caesar
+delano-caesars
+delano-drydock
+delano-gibbler attic
+delano-insults
+delano-rye drydock highline net-scp net-ssh storable sysinfo sysinfo
+delano-storable
+delano-sysinfo drydock storable
+delano-tryouts attic drydock rye sysinfo
+delano-useragent
+delay_minutes
+delay_queue redis
+delayable_km httparty
+delaycalc
+delayed-job-ajaycb activesupport daemons
+delayed-method activesupport resque
+delayed-plugins-airbrake airbrake delayed_job
+delayed-plugins-raven delayed_job sentry-raven
+delayed-plugins-reporting delayed_job
+delayed-web rails
+delayed_action rails
+delayed_acts_as_geocodable delayed_job graticule
+delayed_cron
+delayed_cron_job delayed_job
+delayed_form_observer actionpack
+delayed_fu
+delayed_job activesupport
+delayed_job-monitor pony sequel
+delayed_job-rails_reloader delayed_job rails
+delayed_job-ssh_remote_worker delayed_job_active_record net-ssh-gateway
+delayed_job_active_record activerecord delayed_job
+delayed_job_active_record_threaded activerecord celluloid delayed_job
+delayed_job_active_record_unique delayed_job_active_record
+delayed_job_admin delayed_job rails
+delayed_job_azure azure delayed_job
+delayed_job_bugsnag bugsnag
+delayed_job_celluloid celluloid delayed_job
+delayed_job_couchrest_model couchrest_model delayed_job
+delayed_job_csi activesupport_csi daemons
+delayed_job_dashboard haml rails
+delayed_job_data_mapper delayed_job dm-active_model dm-core i18n tzinfo
+delayed_job_data_mapper_ste delayed_job dm-aggregates dm-core dm-observer dm-serializer
+delayed_job_exception_notifier delayed_job exception_notification
+delayed_job_extras split_logger
+delayed_job_groups
+delayed_job_groups_mongoid bson_ext delayed_job delayed_job_mongoid mongoid rails
+delayed_job_groups_plugin delayed_job delayed_job_active_record
+delayed_job_honeybadger delayed_job honeybadger
+delayed_job_hooked activesupport daemons
+delayed_job_ironmq delayed_job iron_mq
+delayed_job_loner delayed_job
+delayed_job_memento activerecord delayed_job
+delayed_job_mongo_mapper delayed_job mongo_mapper
+delayed_job_mongoid delayed_job mongoid mongoid-compatibility
+delayed_job_mongoid_beta_compatible delayed_job mongoid
+delayed_job_mongoid_web activerecord delayed_job haml rdoc sinatra
+delayed_job_monitor
+delayed_job_null delayed_job
+delayed_job_on_steroids
+delayed_job_progress delayed_job delayed_job_active_record rails
+delayed_job_recurring delayed_job delayed_job_active_record
+delayed_job_recurring_mongoid delayed_job delayed_job_mongoid
+delayed_job_sequel activesupport delayed_job i18n sequel
+delayed_job_shallow_mongoid activesupport delayed_job delayed_job_mongoid mongoid
+delayed_job_slack_notification activesupport delayed_job_active_record
+delayed_job_sqs aws-sdk delayed_job
+delayed_job_tgmerritt activesupport
+delayed_job_tracer mms2r mysql2 tmail
+delayed_job_ui awesome_print delayed_job_active_record
+delayed_job_unique_key delayed_job_active_record
+delayed_job_unique_key_active_record activerecord delayed_job_unique_key
+delayed_job_web activerecord delayed_job sinatra
+delayed_job_with_named_queues activesupport ghazel-daemons
+delayed_job_with_server_id
+delayed_job_worker_pool delayed_job
+delayed_kiss activesupport delayed_job httparty i18n
+delayed_km httparty rake sidekiq
+delayed_mailer
+delayed_mailhopper delayed_job mailhopper
+delayed_paperclip paperclip
+delayed_resque rails resque resque-scheduler resque_spec rspec-rails sqlite3
+delayed_sunspot sunspot
+delayed_task
+delayed_touch_associations activerecord activesupport delayed_job
+delayer
+delayer-deferred delayer
+delegate-all
+delegate-class
+delegate_accessors activesupport
+delegate_all_for activerecord
+delegate_associations
+delegate_attributes
+delegate_id_to
+delegate_it
+delegate_matcher
+delegate_presenter rails
+delegate_to_instance
+delegate_when_nil
+delegated_presenter activesupport
+delegation
+delegator
+delete_commas
+delete_in_batches activerecord
+delete_paranoid activerecord
+delete_soft
+delete_softly meta_where
+delete_them_softly activerecord
+deleted_at
+deli
+delicious activemodel activesupport faraday faraday_middleware multi_xml
+delicious-api-via-oauth oauth
+delicious-cli httparty
+delicious-console thor thor
+delicious-ext diff-lcs mime-types
+delicious_adder sinatra thin
+DeliciousRuby
+delighted multi_json
+delineate activerecord activesupport
+delinquo json rake sinatra sinatra-activerecord sqlite3 thin
+delinquo-cli colorize httparty thor
+deliruby httparty
+delish sqlite3-ruby
+deliver credentials_manager fastimage fastlane_core plist spaceship
+deliver_asap rufus-scheduler
+deliverance rake
+deliverer
+deliverhq faraday
+delivery hashie httparty
+delivery_reroute
+delivery_uncle rails resque
+deliveryboy
+deliveryman actionmailer
+delocalize rails
+delorean chronic
+delorean_lang activerecord treetop
+delphi-compiler
+delphin
+delphivm
+delphix addressable hoodie rest-client
+delsolr faraday json
+delta
+delta-capistrano
+delta_attack
+delta_attributes rails
+delta_cache
+delta_changes activerecord
+delta_force activerecord
+delta_t activesupport
+delta_test
+deltacloud-client faraday nokogiri
+deltacloud-client-vm faraday minitest nokogiri pry rake simplecov vcr
+deltacloud-core aws cloudfiles cloudservers fog haml json_pure net-ssh nokogiri openstack rack rack-accept rake rbovirt rbvmomi rest-client savon sequel sinatra sinatra-rabbit sqlite3 thin tilt uuidtools waz-storage
+deltadsl deltacloud-client eventmachine
+deltavista_crif_dva_interface i18n nokogiri savon sundawg_country_codes
+deltoid nokogiri nokogiri
+deluge
+deluge-api concurrent-ruby rencoder
+deluge-rpc concurrent-ruby rencoder
+deluminator
+deluxe_publisher acts-as-taggable-on acts-as-taggable-on capybara ckeditor ckeditor haml haml nested_set nested_set paperclip paperclip rails sqlite3 webrat
+delve perlin_noise
+delynn-uuid_fu
+dem-curves
+demacia htmlentities json openuri
+demandbase json public_suffix rest-client
+demeter
+demeters_revenge
+demetriusnunes-clouder
+demigod_game
+demirten-ruby-dbus hpricot pangdudu-rofl
+demo-reader
+demo10061993
+demo_game
+demo_gem
+demo_lorem
+demo_nothing
+demoable rails
+demoApp
+democircle
+democracyworks-synapse docker-api zk
+demode
+demogem
+demogem1
+demoji
+demolisher libxml-ruby nokogiri
+demoman
+demon
+demotoy
+demrec deprec-core
+demultiplexer biopieces google_hash
+den
+denali
+Dendrograms progressbar progressbar
+denen99-activesupport-gemfirecache
+deneuxa-contacts fastercsv gdata json nokogiri
+denglu json rest-client
+denied rails
+denis-capone
+denis-flickrget
+denki_guy
+denormalize-field activerecord
+denormalize_mm
+denormalizer rails
+denotificator faraday newrelic_rpm yajl-ruby
+denouncer
+denrei thor
+dens
+densify
+dentaku
+deordinalize
+dep
+dep-cj
+dep-selector-libgecode
+dep1 dep3
+dep2
+dep3
+dep_selector dep-selector-libgecode ffi
+dep_selector_over_http
+dep_walker
+depager
+depalma
+departr haml oauth sass sinatra
+depend os_platform
+dependable
+dependances
+dependancy
+dependant_playground
+dependence coffee-script rb-inotify rgl therubyracer
+dependenci faraday json terminal_helpers
+dependencies thor
+Dependency
+dependency_injection activesupport
+dependency_injection-rails dependency_injection rails
+dependency_injection-sinatra dependency_injection sinatra
+dependency_injector
+dependency_inspector gems
+dependency_revealer bundler
+dependency_wiring thor
+dependent-fields-rails coffee-rails jquery-rails railties
+dependent-select formtastic
+dependent1
+dependent2
+dependent_protect activerecord
+dependent_restrict activerecord
+dependent_select
+dependo
+dependor
+dependor-sinatra dependor sinatra
+depends
+depends-client activesupport mixlib-cli mixlib-config mixlib-log multi_json nestful rack-cache rubyzip
+depends_update
+dependy
+depengine expect4r json log4r net-scp net-sftp net-ssh pony ptools radius
+depgraph optiflag ruby-graphviz
+DepGraph optiflag ruby-graphviz
+dephine ncursesw open-uri-cached
+depict
+depix progressbar sequencer term-ansicolor timecode update_hints
+depkit
+depl colorize highline
+deplate
+deplay capistrano
+deplo activesupport capistrano versionomy
+deploify bundler capistrano rvm-capistrano
+deploku
+deplot colorize thor tilt
+deploy thor
+deploy-code capistrano
+deploy-code-modules-kratos deploy-code
+deploy-code-modules-laravel deploy-code
+deploy-recipes aws-sdk capistrano grit pivotal-tracker tinder
+deploy-recipes2
+deploy_and_deliver pivotal-tracker
+deploy_couch json
+deploy_docus activemodel git-ssh-wrapper json rake sinatra thor
+deploy_hooks heroku
+deploy_kit
+deploy_mate capistrano capistrano-bundler capistrano-rails rake
+deploy_mongo bson bson_ext mongo
+deploy_notifier
+deploy_s3 colorize fog highline
+deploy_tasks rails
+deploy_tracker
+deploy_tracking capistrano
+deploy_version
+deployable capistrano capistrano-ext
+deployable-log
+deployaml highline net-scp net-ssh
+deploydots
+deployee aws-sdk
+deployer capistrano OptionParser
+deployer_files
+deployflow capistrano capistrano-ext
+deploygate color_echo commander httpclient json
+deploygate-api faraday faraday_middleware thor
+deployhq json
+deployinator capistrano rake sshkit
+deployman oj rubyzip
+deployment
+deployment-tracker-client addressable json typhoeus
+deployment_notifier
+deployment_pipeline active_support hpricot progressbar rdiscount rugged thor
+deployment_test pg
+deployments capistrano curb grit simple-conf versionomy
+deployments-app datamapper haml rake sinatra
+deployml addressable rprogram thor
+deploymycodes
+deployr
+deployto addressable highline inifile json_pure multipart-post oauth2 zip
+deploytool chef trollop
+deploytracking
+depo kung_figure rails
+deposit rails
+depository attr_protected sequel
+depot rails
+depq
+deprec capistrano capistrano-ext
+deprec-core capistrano capistrano-ext rake
+deprecatable
+deprecate
+deprecated
+deprecation activesupport
+deprecation_rails rails
+deprecations
+deprecator is_a
+depreciate
+depression
+deproll
+deps
+depscale
+depsio json rest-client
+depth
+depth-charge
+deputy
+depwhack
+derail formtastic railties
+derailed derailed_benchmarks
+derailed-mole activerecord logging
+derailed-ziya color logging
+derailed_benchmarks benchmark-ips get_process_mem heapy memory_profiler rack rake thor
+derailer
+derailleur
+derb
+derecho fog thor
+dereks_mega_lotto
+derelict log4r memoist open4
+derelicte
+derencius-acts_as_reportable ruport
+dereno activesupport capistrano pivotal-tracker pony tinder
+derfarg_gem_test
+Derferman-twilio builder
+derfred-couchrest json mime-types rest-client
+derfred-httpstub
+derfred-rubycas-client activesupport hoe
+derfred-workling
+DerGuteMoritz-rforce builder nokogiri oauth
+derick
+derickbailey-Albacore
+derickbailey-notamock rspec
+deris haml
+deriving_license curb gemnasium-parser safe_yaml
+derobo-imdb_og hpricot htmlentities
+derobo-ofdb diff-lcs hpricot mime-types
+derp
+derpinderp
+derpy capistrano railsless-deploy
+derrick redis
+derring-do
+derrit
+dert dnsruby librex
+derussian
+des
+desc_method ParseTree rdoc rdp-arguments require_all ruby2ruby sane
+descartes assonnato cinch cinch-colorize cinch-login crunchyroll htmlentities json nokogiri rockstar treccani
+descendants-loader activesupport
+descendants_describable activerecord activesupport
+descendants_fetcher
+descendants_tracker thread_safe
+describe_time
+described_routes addressable link_header mynyml-rack-respond_to
+description
+descriptive-statistics
+descriptive_statistics
+deserializer
+desert
+desi addressable boson cocaine semantic
+design-storyboard
+design_wizard
+designate crack rest-client
+DesigningPatterns-hanna haml rdoc
+designmodo-flatuipro-rails jquery-rails jquery-ui-rails twitter-bootstrap-rails
+designmodo-startup_framework-rails jquery-rails jquery-ui-rails less-rails-bootstrap
+designshell bitbucket_rest_api buzzcore git gli highline json middleman net_dav net-ssh osx_keychain POpen4 termios
+desire
+desk faraday faraday_middleware hashie multi_json multi_xml pony simple_oauth
+desk_api addressable faraday simple_oauth
+desk_api_v2 activesupport faraday_middleware
+desklickrb flickr.rb
+deskshot
+desktop faraday sqlite3 thor
+desktop-finder
+desmos oauth yajl-ruby
+desmoservice
+desoto-photoapp aws-sdk-v1 colorator rmagick
+despamilator domainatrix
+despamilator_rails activemodel despamilator
+despamilator_rails2 activerecord despamilator
+despatch
+despatchmaster_signature
+despeckle
+desperado
+desperados ffi
+desponders railties
+dest colorize
+destination colorize rake
+destination_batch_processor nokogiri
+destination_errors activemodel
+destiny colorize
+destiny_api hurley
+destiny_rb httparty rake
+destroy_all_view_assigns sinatra
+destroy_associates activerecord
+destroy_backgrounded activerecord
+destroy_soon activerecord activesupport rake
+destroyall
+destroyed_at actionpack activerecord
+destroyed_record_collector
+destroyer activerecord
+destructor
+desuraify nokogiri typhoeus
+desutwo
+desviar dm-core dm-migrations dm-sqlite-adapter dm-timestamps dm-validations multi_json net-http-digest_auth rack-recaptcha rack-test sinatra sinatra-contrib syntaxi yajl-ruby
+detabulator
+detach
+detagger facets
+detailed
+detect_browser_os
+detect_email_settings mail
+detect_language
+detect_or_create rails
+detect_timezone_rails railties
+detect_user_agent
+detective ruby_parser
+detektorfm nokogiri
+determinations_comparison htmlentities uuidtools
+determine nokogiri
+determine_archive_type
+deterministic
+detest
+detfis-rails-parts rails
+detour indefinite_article rails
+detox activemodel
+detroit facets indexer
+detroit-commons detroit detroit-dnote detroit-email detroit-email detroit-erbside detroit-extconf detroit-gem detroit-github detroit-locat detroit-mast detroit-minitest detroit-qed detroit-rdoc detroit-rspec detroit-syntax detroit-turn detroit-vclog detroit-yard detroit-yardstick
+detroit-custom detroit
+detroit-dnote detroit detroit-standard dnote
+detroit-email detroit
+detroit-erbside detroit detroit-standard erbside
+detroit-extconf detroit detroit-standard
+detroit-gem detroit detroit-standard
+detroit-github detroit detroit-standard gitlab-grit
+detroit-grancher detroit detroit-standard grancher
+detroit-locat detroit detroit-standard locat
+detroit-mast detroit mast
+detroit-minitest detroit minitest
+detroit-qed detroit qed
+detroit-rdoc detroit detroit-standard rdoc
+detroit-ronn detroit ronn
+detroit-rspec detroit rspec
+detroit-standard detroit
+detroit-syntax detroit
+detroit-turn detroit turn
+detroit-vclog detroit vclog
+detroit-yard detroit yard
+detroit-yardstick detroit detroit-standard yardstick
+detrusion
+deus_ex fog net-ssh
+Deutsch
+dev ansi rake rspec
+dev-lxc ruby-lxc thor
+dev-null
+dev-pty-screen celluloid
+dev-random-passwords
+dev-time delorean rails
+dev-utils extensions
+dev_builder rake
+dev_commands rake
+dev_dump
+dev_environment rspec
+dev_flow term-ansicolor
+dev_git
+dev_log_in rails
+dev_msbuild
+dev_osx_updater colorize
+dev_panel
+dev_projects dev_commands dev_environment dev_git dev_msbuild dev_svn
+dev_shopify_theme filewatcher httparty json launchy mimemagic thor
+dev_svn
+dev_task rails rake sass
+dev_tasks rspec
+devape_calendar
+devape_cms acts_as_tree devise friendly_id
+devape_page rails
+devape_survey
+devball
+devbar
+devbootcamp activesupport oauth2
+devbootsrap bcrypt orm_adapter railties thread_safe warden
+devcenter coderay commander devcenter-parser excon json launchy listen netrc rack rack-highlighter rack-protection sinatra thin tilt
+devcenter-parser maruku nokogiri redcarpet sanitize
+devconf
+devcreek hoe uuidtools
+devd jquery-rails rails
+devdnsd bovem mustache plist rubydns
+devel better_errors binding_of_caller letter_opener rails
+devel-which
+develapp-tardef json kwalify xml-simple
+develon-authlogic_generator authlogic
+develop_with_pleasure
+develop_with_pleasure_mine
+developer
+developer_info git
+developergarden_sdk handsoap htmlentities httpclient nokogiri
+developerreply faraday faraday_middleware
+developish-name-generator
+development
+development_mail_interceptor
+development_ribbon
+developmentkit bullet pry-byebug pry-rails pry-rescue pry-stack_explorer spring thin
+developwithpassion_arrays
+developwithpassion_expander configatron mustache
+developwithpassion_fakes developwithpassion_arrays
+developwithpassion_fakes-rspec developwithpassion_fakes rspec
+develry coveralls flay flog guard guard-bundler guard-mutant guard-rspec guard-rubocop kramdown libnotify listen mutant rake rb-fchange rb-fsevent rb-inotify rb-notifu reek rspec rubocop simplecov terminal-notifier-guard yard yard-spellcheck yardstick
+devenv_build
+deveo gli rubyzip
+deveo-ruby-ldapserver
+devfu-hash-cache
+devfu-rack-openid-proxy
+devfu-simple-tidy
+devfu-twitter-search-watcher
+devgem thor
+deviant sidekiq tire yajl-ruby
+deviantart-oauth2 json rest-client
+device-approvable
+device-cloud nokogiri rest-client
+device-identifier activemodel uuidtools
+device_api
+device_api-android device_api
+device_api-ios device_api
+device_atlas json
+device_aware
+device_cloud
+device_detector
+device_map nokogiri
+device_space_left
+deviceatlasapi httparty railties
+devicedb_comms activesupport virtus
+deviceify
+devil
+devilicious retryable
+devinci libxml-ruby nokogiri
+devino_sms patron
+devinosmsclient
+devinstall commander getopt
+devisable
+devise bcrypt orm_adapter railties responders thread_safe warden
+devise-access_token_authenticatable devise
+devise-approvable
+devise-archangel devise
+devise-async devise
+devise-async-activejob devise devise-async
+devise-async-stretch devise
+devise-auth0
+devise-authy authy devise
+devise-basecamper activesupport devise orm_adapter
+devise-better_routes devise rails
+devise-bootstrap bcrypt orm_adapter railties thread_safe warden
+devise-bootstrap-views
+devise-browserid devise rake warden-browserid
+devise-doorkeeper devise doorkeeper rails
+devise-drupal devise-encryptable
+devise-dummy_authenticable devise
+devise-encryptable devise
+devise-encryptable-mysql-aes devise devise-encryptable
+devise-formtastic devise formtastic rails
+devise-foundation-views
+devise-french
+devise-guests devise
+devise-heroku rails
+devise-heroku-sso devise
+devise-hookable-notifications activerecord activesupport devise
+devise-i18n
+devise-i18n-bootstrap devise devise-i18n rails simple_form
+devise-i18n-views
+devise-ios-rails active_model_serializers devise koala rails simple_token_authentication
+devise-links activesupport devise r3_plugin_toolbox require_all sugar-high
+devise-login-cookie devise signed_json
+devise-mongo_mapper devise mongo_mapper orm_adapter
+devise-multi_auth devise omniauth rails
+devise-naught_authentication
+devise-neo4j bcrypt-ruby devise neo4j orm_adapter railties warden
+devise-nobrainer devise nobrainer
+devise-oauth2_providable-models-mongoid activesupport mongoid
+devise-omniauth devise omniauth-facebook rails
+devise-otp devise rails rotp
+devise-proxy rack
+devise-radius-authenticatable devise radiustar
+devise-remote-user devise rails
+devise-russian devise
+devise-scrypt devise devise-encryptable scrypt
+devise-spec code-spec rails3_artifactor rails-app-spec require_all rspec
+devise-stalkable devise rails
+devise-stormpath activesupport devise stormpath-rails
+devise-token_authenticatable devise
+devise-track_locale devise
+devise-twitter devise warden_oauth
+devise-two-factor activesupport attr_encrypted devise railties rotp
+devise-vero devise rails vero
+devise-warbler bcrypt-ruby orm_adapter railties warden
+devise_aaf_rc_authenticatable devise json json-jwt
+devise_account_expireable devise rails
+devise_active_directory_authenticatable active_directory devise
+devise_aes_encryptable aes devise rails
+devise_approvable
+devise_auditable devise rails warden
+devise_auth0_jwt_strategy devise jwt
+devise_authenticator bcrypt-ruby
+devise_autosigninable
+devise_browserid_authenticatable devise
+devise_bushido_authenticatable devise rubycas-client
+devise_campaignable devise gibbon
+devise_capturable httparty
+devise_cas_authenticatable devise rubycas-client
+devise_castle castle-rb devise
+devise_certifiable devise rails
+devise_challenge_questionable devise rails
+devise_cloudfuji_authenticatable devise rubycas-client
+devise_couch
+devise_couch_potato
+devise_couchrest_model couchrest_model devise orm_adapter_couchrest_model
+devise_custom_authenticatable devise
+devise_custom_token
+devise_deactivatable devise
+devise_duo_security
+devise_ennder warden
+devise_expireable devise rails
+devise_extensions
+devise_facebook_connectable activesupport devise facebooker
+devise_facebook_open_graph devise json koala rails
+devise_g5_authenticatable devise g5_authentication_client omniauth-g5
+devise_google_authenticator devise rotp
+devise_groupable
+devise_hack
+devise_hacker_tracker devise rails
+devise_header_token devise
+devise_ichain_authenticatable devise
+devise_imap_authenticatable devise rails
+devise_imapable devise
+devise_imprintable devise railties
+devise_inactivatable devise
+devise_invalidatable devise rails
+devise_invitable actionmailer devise
+devise_keen devise keen rails warden
+devise_koala_connectable devise koala
+devise_lastseenable devise rails
+devise_latcheable devise latchsdk
+devise_ldap_authenticatable devise net-ldap
+devise_ldap_norm devise net-ldap
+devise_ldap_uac devise_ldap_authenticatable
+devise_loginza devise httparty json
+devise_mailchimp devise hominid rails
+devise_mailjet devise devise-bootstrap-views mailjet rails
+devise_marketable devise
+devise_masquerade devise railties
+devise_meetup_authenticatable
+devise_multiple_token_auth devise rails
+devise_oam devise rails
+devise_oauth devise rails
+devise_oauth2_authenticatable devise json oauth2
+devise_oauth2_canvas_facebook devise fbgraph
+devise_oauth2_facebook devise fbgraph
+devise_oauth2_facebook_mongoid devise fbgraph
+devise_oauth2_fb_canvas devise fbgraph
+devise_oauth2_providable devise rack-oauth2 rails
+devise_oauth2_rails4 devise rack-oauth2 rails
+devise_oauth2_token_bearer_authenticatable devise rack-oauth2 rails
+devise_oauth_token_authenticatable devise oauth2 rails
+devise_omniauth devise omniauth-facebook rails
+devise_omniauth_fb bcrypt-ruby orm_adapter railties warden
+devise_openid_authenticatable devise rack-openid
+devise_ott devise redis
+devise_pam_authenticatable devise rpam
+devise_password_changable devise rails
+devise_password_expirable devise rails
+devise_password_history devise
+devise_password_sharing_extension devise geoip rails
+devise_paypal paypal-ipn
+devise_pg_authenticatable devise
+devise_phone devise rails twilio-ruby
+devise_pkcs12_authenticatable activesupport devise railties
+devise_rails3_ennder
+devise_rails_api_authentication actionpack devise
+devise_referable devise
+devise_restful_auth devise
+devise_revokable devise rails
+devise_roles devise rails
+devise_rpx_connectable devise rpx_now
+devise_russian devise omniauth omniauth-oauth2 rails useful_helpers xss_terminate
+devise_saml_authenticatable devise ruby-saml
+devise_security_extension devise rails
+devise_security_ng rails
+devise_sequel devise orm_adapter-sequel sequel
+devise_session_expirable activesupport devise
+devise_session_limit
+devise_shibboleth_authenticatable devise
+devise_signin_loggable activerecord devise
+devise_simply_stored devise
+devise_sms_activable devise rails
+devise_sms_confirmation devise rails
+devise_sms_verifiable devise rails rest_client
+devise_sociable devise devise rails rails warden warden
+devise_ssl_session_verifiable devise railties
+devise_strategy_google_apps_open_social oauth
+devise_subscribable devise
+devise_suspendable devise rails warden
+devise_ticketable
+devise_token_auth devise rails
+devise_token_auth_headers devise
+devise_touchpassable devise touchpass
+devise_traceable devise warden
+devise_uid devise railties
+devise_user_metering devise rails
+devise_userbin devise userbin
+devise_users coffee-rails devise execjs jquery-rails kaminari less-rails rails simple_form therubyracer
+devise_views_translated
+devise_w3_authenticatable devise net-ldap nokogiri
+devise_webmoney devise rack-webmoney
+devise_wind devise devise-encryptable nokogiri rails warden
+devise_yauth_token devise json nifty-generators omniauth rails rest-client
+devise_zxcvbn devise zxcvbn-ruby
+deviseOne bcrypt multimap orm_adapter railties responders rest-client thread_safe warden
+devision bcrypt orm_adapter railties thread_safe
+devkedi
+devkit colorize highline
+devlin activerecord activesupport
+devlog activesupport
+devmail rails
+devmate jquery-rails json rails
+devnull
+devolute-actionwebservice actionpack activerecord
+devoops-rails font-awesome-rails railties rails-assets-bootstrap rails-assets-jquery rails-assets-jquery-ui
+Devops
+devops aws-sdk bundler i18n json net-ssh rake
+devowd devise figaro omniauth omniauth_crowd
+devpki sqlite3 thor xdg
+devproxy net-ssh
+devrobber activesupport uniform_notifier
+devrubygem-string_extend
+devry mechanize
+devs
+devs-examples devs devs-models
+devs-ext devs
+devs-models devs gnuplot
+devs_ruby devs devs-examples devs-ext devs-models
+devserver thor
+devstructure archive-tar-minitar json
+devtools flay flog mutant mutant-rspec rake reek rspec rspec-core rspec-its rubocop simplecov yard yardstick
+devtunnel commander rest-client
+devutils rspec thor
+devutils-docs yard
+devutils-guard guard guard-bundler guard-rspec
+devutils-metrics flay flog mutant pelusa reek simplecov
+devver-construct
+devver-germinate alter-ego arrayfields fattr ick main orderedhash
+devver-germinate-atompub atom-tools fattr highline ick
+devver-germinate-gist nokogiri rest_client schacon-git
+devver-metric_fu activesupport chronic churn devver-Saikuro flay flog rails_best_practices rcov
+devver-octopi api_cache httparty mechanize nokogiri
+devver-rack-contrib rack
+devver-right_aws devver-right_http_connection
+devver-right_http_connection
+devver-Saikuro
+devver-ultraviolet oniguruma plist textpow
+dew clamp fog gofer highline inform nokogiri opensrs terminal-table
+dewey
+dewiring rainbow thor
+Dex Backtrace_Array chronic_duration sequel sqlite3 term-ansicolor terminal-table trollop
+dex2jar trollop
+Dex_Rack Backtrace_Array chronic_duration Dex escape_utils markaby sinatra sinatra-reloader thin
+dexc
+dexquery
+dexter trollop
+dextery commander jekyll
+dextokenable
+dezi-client excon faraday faraday_middleware hashie mime-types xml-simple
+dfa_client savon
+dfc ruby-password shredder symmetric_gpg
+dfcapi addressable json rest-client unirest
+dfect
+dfeojm nokogiri trollop
+dferranti-twitter4r json
+dfg59-defmacro hoe need ruby2ruby
+dfg59-diggr activesupport hoe json need
+dfg59-need hoe
+dfg59-tending hoe need
+dfhcc_classifier
+dfhmdf
+dfl-factories-and-workers
+dfl_rails_config
+dflat anvl checkm i18n lockit namaste
+dfm
+dfp_helper rails
+dftcc
+dftsg commander
+dfxml nokogiri sax-machine
+dg
+dg-axlsx htmlentities mimemagic nokogiri rubyzip
+dg-enum_column4
+dgate httpclient json
+dgdosen-first-gem
+dgh log_buddy slop treetop
+dgiunta-flickr xml-simple
+dgoldhirsch-cs
+dgoodlad-slider Text
+dgp-schedule_attributes activesupport ice_cube tzinfo
+dgr rest-client
+dgr_test
+dgrid json rest-client
+dguerri-libarchive
+dguerri-radiustar
+dguettler-god
+dh_api hashie
+dhaka
+dharajoshi_first_gem
+dharma
+dharmarth-starling eventmachine fiveruns-memcache-client
+dhash rmagick
+dhashion rmagick
+dhcp ipaddress
+dhcp_it
+dhcpcd colours opn
+dhh
+dhh2
+dhill-sprinkle activesupport capistrano highline
+dhkeyexchange
+dhkeyx
+dhl savon
+dhl-get_quote httparty multi_xml
+dhl-intraship savon
+dhl_express chronic nokogiri typhoeus
+dhl_express_global activesupport builder httparty nokogiri xml-simple
+dhl_memnosyne nokogiri rake
+dhlgm-track nokogiri typhoeus
+dhole activerecord composite_primary_keys
+dht dcell
+dht-sensor-ffi ffi
+dht_sensor
+dhun daemons eventmachine growl json_pure ruby-mp3info thor
+di diff-lcs
+di-acts-as-taggable
+di-ruby-lvm di-ruby-lvm-attrib open4
+di-ruby-lvm-attrib
+di-simple_auth bcrypt-ruby
+dia ffi
+dia_rules
+diablillo
+diablo
+diablo3
+diablo3-simple json
+diablo3_api
+diablo_api
+diabolo-diabolo-webrat nokogiri
+diabolo-webrat nokogiri rack
+diacritice
+diacritics
+diacritics_fu
+diadem fftw3 mspire
+diagnostics
+diakonos
+dial her thor yaesu
+dial_a_device_node
+dialable tzinfo
+dialect rspec watir-webdriver
+dialers faraday faraday-conductivity faraday_middleware
+dialog
+dialog-fu
+dialog_tui
+dialy
+diameter concurrent-ruby
+diametric activemodel activesupport datomic-client edn rspec rubyzip uuid
+diamond analog basic-sequencer eventmachine midi-instrument midi-message midi-topaz osc-ruby unimidi
+diamond-mechanize domain_name net-http-digest_auth net-http-persistent nokogiri ntlm-http webrobots
+diamond_invoice
+diamond_shell add_inline_css advanced_clipboard ascii_paradise autostart backup_paradise bioroebe case_parser chemistry_paradise clock_counter collect_first_word_of_case_menu colours configuration convert_global_env convert_pdf_to_text cookbooks create_file_skeleton create_iso create_zip cut_audio cyberweb determine_archive_type easycompile enable_autologin environment_information exams expand_cd_aliases extracter file_duration find_line_in_file generate_rc_file generate_shell_completion inputrc install_ruby_project method_introspection mountpoints move_file multimedia_paradise opn pipe_handler proper_english rbt remove_comments remove_file_suffix replace_space_with_underscore sanitize_cookbook_dataset save_file scan_for_http_links serve_local_page show_directory_content show_rdoc_docu size_of stat_file streamripper string_colour_parser studium symlink_directory system_checker traverse_install try_syck url_action verbose_truth wget_wrapper zenity
+dian_ping httparty
+diana
+diandian-oauth activemodel activesupport oauth2
+dianping httparty
+dianxin rest-client yajl-ruby
+diarb
+diarize-jruby jblas-ruby to-rdf
+diary activesupport bluecloth sinatra
+diaspora
+diaspora-api
+diaspora-cluster-creator dependency_injector main ruby-graphviz
+diaspora-vines activerecord bcrypt em-hiredis eventmachine http_parser.rb nokogiri
+diaspora_federation faraday faraday_middleware nokogiri typhoeus valid
+diaspora_federation-rails diaspora_federation rails
+diatheke
+dibber
+dibs
+dibs_hmac
+dic
+dice
+dice_bag rake
+dice_box
+dice_game
+dice_parser treetop
+dice_roll
+dice_roller
+dicebag parslet
+dicechucker
+diceguru
+dicer
+diceroller
+dicey
+dichotomy parser
+dickburt addressable eventmachine json logging map patron trollop twitter-stream
+dickens
+dicker
+dicks
+dicks-api
+dickstreamer
+dicom
+dicoms dicom histogram modalsettings narray rmagick solver sys_cmd thor
+dict nokogiri slop
+dict_client
+dictation
+dictator rack
+dictionary
+dictionary-rb highline nokogiri redcarpet thor
+dictionary_api httpclient json
+dictionary_lookup
+dictionary_map
+dictionary_order_sort
+dictuby
+did activerecord sqlite3
+did-you-mean levenshtein
+did_active_model
+did_clock_rm
+did_craken
+did_paginate
+did_token_generator
+did_validates_presence_of
+did_will_sign
+did_workling
+did_you_mean interception
+did_you_mean_this_other_thing dotenv htmlentities thor tweetster twitter
+didactic_clock sinatra
+didactic_clock_rm
+didata_cloud_sdk activesupport colorize hashie i18n typhoeus xml-simple
+diddy
+didit
+didnt
+didww_ups activeresource-response
+die
+dieroll
+diesel railties
+diesel-api-dsl httparty multi_json
+diesis
+diet emitter
+dietrb
+dif
+difects
+diff
+diff-display
+diff-lcs
+diff2xml
+diff4all diff2xml
+diff_colorize diff-lcs
+diff_dirs
+diff_from_delta
+diff_match_patch
+diff_match_patch_native rice
+diff_matcher
+diff_parser
+diff_set rice
+diff_to_html
+diffable activerecord
+diffable_array
+diffable_yaml psych
+diffall
+diffbench git
+diffbot excon hashie nokogiri yajl-ruby
+diffbot_api faraday
+diffbot_client httparty json
+diffbot_simple multi_json rest-core
+diffed escape_utils
+diffeq facets highlogger integrator simpleexpression
+differ
+difference activerecord
+difference_update_seed
+differz gli
+diffgist git rubhub
+diffhub github_api
+diffident
+diffing
+diffit pg rails
+difflcs positionrange
+diffplex
+diffr
+diffrenderer
+diffrent diffy vestal_versions
+diffux-core chunky_png diff-lcs oily_png phantomjs
+diffux_ci diffux-core oily_png s3 selenium-webdriver sinatra thin
+diffy
+difgist
+difi excon faraday
+difio-cloudcontrol-ruby common-ruby-difio json
+difio-dotcloud-ruby common-ruby-difio json
+difio-heroku-ruby common-ruby-difio
+difio-openshift-ruby common-ruby-difio
+digarc-giternal
+digest
+digest-bubblebabble
+digest-crc
+digest-ed2k
+digest-email
+digest-m4p
+digest-murmurhash
+digest-sha3
+digest-simple
+digest-siphash digest-simple
+digest-stringbuffer
+digest-tiger
+digest-trip
+digest-whirlpool
+digest_email maruku nokogiri premailer
+digest_extensions
+digest_notifier slim
+digest_perfect
+digester activesupport
+digestif
+digestifier rails
+digestion actionpack
+digestive
+digestr libxml-ruby
+digger http-cookie nokogiri
+diggit formatador gli oj rugged
+diggit-developers_activity diggit
+diggr activesupport hoe json need
+digi_moji colcolor thor
+digidoc_client crack httpclient mime-types nokogiri savon
+digit_convertor
+digit_delim
+digital-ocean hashie httparty
+digital_bible_platform hashie iso-639 oj typhoeus
+digital_ocean faraday faraday_middleware hashie json
+digital_opera coffee-rails rails
+digital_trees_and_sets
+digitalfilmtree digitalfilmtree-util edl pry
+digitalfilmtree-util
+digitalforce rails restforce
+digitalnz
+digitalocean faraday faraday_middleware recursive-open-struct
+digitalocean-cli excon gli json
+digitalocean_c faraday faraday_middleware recursive-open-struct
+digitalpardoe-rflickr excon json
+digitalronin-rackspace fog
+digitaria-handsoap curb nokogiri
+digits
+digitsend multipart-post
+digiusb colored colorist libusb
+diglossa addressable json mime-types rest-client thor uuidtools
+digress
+digsolab_auth_client
+digu http_request.rb
+digup rails
+diigo-pinata
+dijit-rails
+dijkstra
+dijkstraruby
+dijon rails
+dike attributes orderedhash
+dikt
+dilation celluloid
+dilbert
+diligent bundler thor
+dill capybara chronic
+dillify bundler cucumber
+dillo faraday_middleware multi_json
+DilumTest
+dilute activemodel activesupport stretcher
+dim
+dim-ruby-net-ldap
+dim-tokyo-cache-store activesupport rufus-tokyo
+dima actionpack railties
+dima-exe-factory_girl
+dima-exe-juggernaut eventmachine json
+dima-jeweler git rubyforge
+dima-restfulx activesupport rubigen
+dima-ruboss4ruby activesupport bones rubigen
+dima_app_logger
+DimaD-daylite-models activerecord activerecord activesupport
+dimarzio-model_translations
+dimelo_ccp_api activemodel activesupport faraday
+dimension rack-throttle
+dimensional
+dimensional-enum activerecord activesupport
+dimensions
+dimensions-rails actionpack activesupport dimensions railties
+diminutivity
+dimiro1-clickatell
+dimkiriyenko-capone capistrano
+dimkiriyenko-ci_reporter builder
+dimkiriyenko-kaminari rails
+diMLOrb httparty httparty nokogiri nokogiri
+dimma rest-client
+dimples tilt
+dimscan abstractize mini_magick net-http-persistent
+dimsum
+dimus-biodiversity treetop
+dimus-taxamatch_rb dimus-biodiversity RubyInline
+dinabaztag
+dinbrief
+dindi bundler colorize
+dinero nokogiri selenium-webdriver
+dinero_mail savon
+dinero_mail_checkout
+dinero_mail_ipn chronic httparty nokogiri
+dineromail happymapper httparty rails
+ding git-up thor
+dingo
+dinheiro
+dink addressable json
+dinner
+DinnerLab_Plaid
+dino serialport
+dino_upsert activerecord pg
+dino_utils activerecord pg
+dinosaur_catalog
+dinosaurus activesupport httparty rake
+dinsley-feedzirra activesupport builder mdalessio-dryopteris nokogiri pauldix-sax-machine taf2-curb
+dinsley-friendfeedr hpricot
+dinsley-markaby
+dint
+dio_tests
+diodes_game
+diograph
+dionysus activesupport
+diorama rails
+dioxide_rails
+dipak_demo
+diplo dotenv hiredis redis
+diplomat faraday json
+diplomat-bb faraday json
+dipsclient websocket-client-simple
+dir
+dir-to-xml dynarex
+dir_checksum
+dir_dsl file_utils meta_methods
+dir_friend gviz thor
+dir_processor def_dsl
+dir_size_renamer chronic_duration slop
+dir_sync
+dir_tree
+dir_validator
+dirb
+dirble activesupport faraday iso_country_codes typhoeus
+dirby
+dircat activerecord ansi haml json optparse-command sass sinatra sinatra-group-items sqlite3 tree.rb
+dirclass
+dirdiff
+dire_bonjour
+direct_address
+direct_employers faraday faraday_middleware hashie multi_json multi_xml
+direct_inject map tagz
+direct_sms httparty
+direct_ssh highline net-scp net-ssh
+directed-edge rest-client
+directed_graph pry simple-graph
+direction
+directions
+directiverecord activerecord arel
+directlog bundler savon tiny_tds
+directly
+directlytos3 actionpack railties
+director activesupport
+directories_interface akami htmlentities jruby-openssl nokogiri savon
+directory
+directory-traversal
+directory_listing filesize sinatra truncate
+directory_monitor trollop
+directory_template
+directory_watcher
+DirectoryBuilder
+directree
+directwave activesupport aws-sdk uuid
+dirge callsite
+dirigible faraday faraday_middleware multi_json
+dirk
+dirmangle
+dirndl dns-zonefile latte
+dirs-ruby2lolz
+dirseq bio bio-commandeer bio-logger
+dirt dirt-core
+dirt-core activesupport
+DirTagger
+dirtiness_validator activemodel
+dirtravel rubytree
+dirtwalker pay_dirt skywalker
+dirty
+dirty-memoize
+dirty_after_save
+dirty_associations rails
+dirty_callbacks
+dirty_harry httparty retryable
+dirty_hashy activesupport
+dirty_history
+dirty_nested_attributes activerecord
+dirty_url rails
+dirtycop rubocop
+dirtydan
+dirtyflash
+dirwait listen
+dirwalk
+dis fog pmap rails
+disable_asset_logging
+disable_assets_logger
+disable_connection_pooling
+disable_rails_json
+disable_section jquery-rails rails
+disable_test_fixtures actionpack
+disable_with_spinner
+disabled
+disabler_middleware
+disasm
+disbatch bson eventmachine json mongo trollop
+disc clap disque msgpack
+discerner haml jquery-rails rails sass-rails
+discid ffi
+discipline
+disclaimer acts_as_list rails
+disclosure rails
+disco actionpack activesupport rdiscount
+disco-railties active_domain active_event active_projection rails
+disco_client httparty
+disco_client_rails disco_client rails
+discoball colorize trollop
+discobolo celluloid disque json sinatra
+discodactyl actionpack feedzirra nokogiri prism
+discogs hoe
+discogs-wrapper hashie oauth
+discombobulator
+discordrb activesupport faye-websocket rest-client
+discotech
+discotheque aws-sdk rake
+discount
+discounter
+discourse-omniauth-jwt jwt omniauth
+discourse-qunit-rails railties
+discourse_api faraday faraday_middleware rack
+discourse_disable_user_activation
+discourse_imgur
+discourse_mountable_sso rails
+discourse_plugin
+discourse_sso
+discourse_task
+discover celluloid rpcplus
+discover-unused-partials
+discover_tabs ptools rake
+discoverer virtus
+discovery
+discovery-indexer nokogiri rest-client retries rsolr stanford-mods
+discovery-mission
+discovery_etcd_io_client etcd
+discoverydoc
+discreet_proxy chunky_png
+discrete_event pqueue
+discrete_upload_to
+discuss ancestry haml rails redcarpet simple_form
+discussion inherited_resources jquery-rails kaminari rails ransack simple_form
+discuz_robot
+disguise
+dish
+disiid_user activerecord activeresource
+disinnovate-greeneggs bacon
+disinnovate-sprout-as3spec-library
+disjoint_set
+disk
+disk-stats
+disk_cache
+disk_store celluloid rake
+diskcached
+diskid alchemist clamp json rest-client sinatra
+diskmon
+disloku net-sftp rainbow thor
+dismal
+dismissible_blocks jquery-rails rails
+dismissible_helpers rails
+DisOrder cli-colorize redcarpet thor
+disp3D
+dispaaro-couch etest
+dispatch
+dispatch-auth httparty
+dispatch-external-ids httparty
+dispatch-rider activemodel activerecord activesupport daemons retries
+dispatch_queue
+dispatcher
+dispatcher-rails rails
+dispel curses
+display redparse
+display-calendar
+display_case
+display_for
+display_name
+display_words httparty json_pure
+disposable representable uber
+disposable_db sequel sqlite3
+disposable_mail
+disque redic
+disque-rb
+disque_jockey disque logging thor
+disqus json
+disqus_api activesupport faraday faraday_middleware
+disqus_rails rails
+disqusable httparty
+disqussed activesupport httparty multi_json oj
+disqussion faraday faraday_middleware hashie multi_json rash
+dist
+distance_in_weeks
+distance_measures
+distances
+DistelliClientFramework DistelliServiceMarshallers
+DistelliServiceFrameworkRails DistelliServiceInterface rails
+DistelliServiceFrameworkSinatra DistelliServiceInterface logging sinatra
+DistelliServiceInterface
+DistelliServiceMarshallers DistelliServiceInterface nokogiri
+dister curb highline progressbar studio_api thor
+distil directory_watcher json mime-types rubyzip treetop
+distill
+distilled rails
+distillery nokogiri slop
+distimo httparty
+distinct_output
+distinguished_name
+distlock
+distraction
+distrib_builder
+distribunaut activesupport addressable configatron daemons i18n
+distribustream activesupport eventmachine json mongrel
+distributary
+distribute
+distribute_tree haml-rails mongoid mongoid_uuid_generator rails resque
+distributed-trie fuzzy-string-match fuzzy-string-match
+distributed_cache
+distributed_demo mongrel net-mdns rack
+distributed_logreader
+distributed_mutex activerecord mysql
+distributed_rails rails
+distributer methadone mongrel sinatra
+distributest erlectricity
+distribution
+distributor thor
+district_cn activesupport json
+district_cn_selector district_cn jquery-rails rails
+distro
+distroid
+distyll
+disyuntor micromachine
+dit git os thor
+ditaarb
+ditchdaddy dnsimple-ruby highline rainbow rest-client
+dither
+dito faraday faraday_middleware
+ditto data_mapper
+ditto_api
+ditto_code indentation rainbow
+ditz hoe trollop
+ditz-str trollop
+divan json rest-client
+dive
+diver
+diverge
+divergence json rack rack-proxy thor
+divergence_meter
+diversion activesupport multi_json nokogiri ruby-hmac
+divert rails
+divide
+divine docile erubis ruby-graphviz
+divineflame-smurftp
+divining_rod
+divisible
+divisio
+divISOr json
+divoxx-patronage addressable patron
+divoxx-ruby-php-serialization
+divoxx-ruby_php_serialization
+divshare hpricot mime-types
+divsufsort
+divvy
+divvy_bike
+divvy_proteomics bio-logger
+divvy_up
+divya_gem
+divygrid
+dixon
+dixonadair_hola
+dixonadairdogeify
+diy constructor
+DIY-pcap ffi-pcap
+diyanet nokogiri
+dj
+dj_dashboard delayed_job haml jquery-rails rails
+dj_mailer actionmailer delayed_job_active_record
+dj_mon haml rails
+dj_remixes delayed_job mark_facets
+dj_sqs aws-sdk delayed_job multi_json
+dj_string_extend
+dj_unique delayed_job_active_record
+django-recipes
+django_signal
+djanoa nokogiri rest-client
+djanowski-collage
+djanowski-dolarhoy hpricot
+djanowski-facebooker hoe
+djanowski-helm activeresource choice soveran-drawer
+djanowski-mmangino-facebooker hoe
+djanowski-permalink_fu
+djanowski-rails_basic_helpers
+djanowski-snippets
+djanowski-tti
+djanowski-validate_options
+djatoka addressable hashie json mime-types trollop
+djc
+djcdotcom_studio_game
+djikstra
+djinn
+djinni ruby-terminfo
+djjour dnssd nokogiri sinatra
+djmaze-arid_cache will_paginate
+djmaze-compass-yaml-plugin chriseppstein-compass
+djmaze-will_paginate
+djnml language_detector nokogiri
+djoini iniparse multi_json pg
+djondb
+djr railties
+djspiewak-buildr Antwrap archive-tar-minitar builder highline hoe net-sftp net-ssh rake rjb rspec rubyforge rubyzip xml-simple
+djsun-context
+djsun-mongo_mapper activesupport jnunemaker-validatable mongo
+djsun-mongomapper activesupport jnunemaker-validatable mongo
+djsun-mr-success
+djsun-rest-sinatra
+djvu-tools roman-numerals which
+djwatchman airbrake delayed_job whenever
+djwrapper delayed_job
+dk-bdb
+dkam-amazon-ecs
+dkastner-alchemist
+dkastner-capybara-wheel capybara rspec
+dkastner-httparty multi_json multi_xml
+dkastner-hutch activesupport bunny carrot-top multi_json
+dkastner-moneta
+dkastner-rocco mustache rdiscount
+dkastner-taps json_pure rack rest-client sequel sinatra sqlite3-ruby
+dkastner-tmuxinator
+dkim
+dkim-query parslet
+dkim_parse
+dkowis-xmpp4r-simple xmpp4r
+dkubb-dm-ambition dm-core ParseTree ruby2ruby
+dkubb-fakeweb
+dkubb-resource_controller
+dkubb-yardstick yard
+dl trollop
+dl-rake-latex
+dl-tetris rsdl rubygame
+dl_jusyo_jp activerecord rubyzip
+dl_validator
+dlc
+dldinternet-mixlib-cli mixlib-cli
+dldinternet-mixlib-logging logging
+dldinternet-mixlib-thor-nocommands
+dle
+dlib
+dlister
+dljbz httparty json
+dlog
+dlogger
+dlrow_olleh
+dlss-capistrano capistrano capistrano-bundle_audit capistrano-one_time_key capistrano-releaseboard
+dlt-mosh
+dlundqvist-textmate thor
+dlx
+dm
+dm-accepts_nested_attributes dm-core
+dm-accepts_nested_attributes_for dm-core
+dm-actionstamps dm-core
+dm-actionstamps-jwr dm-core
+dm-active_model activemodel dm-core
+dm-activemodel dm-core
+dm-adapter-simpledb dm-aggregates dm-core dm-migrations dm-types sdbtools uuidtools
+dm-adjust dm-core
+dm-aggregates dm-core
+dm-ambition dm-core ParseTree ruby2ruby sourcify
+dm-appengine appengine-apis dm-core lexidecimal
+dm-ar-finders dm-core
+dm-aspects dm-core oj
+dm-aux_codes
+dm-bugzilla-adapter bicho dm-core nokogiri
+dm-cassandra
+dm-cassandra-adapter dm-core dm-serializer
+dm-checked-types
+dm-chef-adapter chef dalli dm-core dm-serializer
+dm-chunked_query dm-aggregates dm-core
+dm-cli dm-core
+dm-constant-cache
+dm-constraints dm-core
+dm-core addressable
+dm-couchdb-adapter extlib mime-types
+dm-counter-cache dm-core hoe
+dm-cutie dm-core dm-types extlib
+dm-cutie-extras dm-core dm-types extlib
+dm-cutie-ui data_objects dm-aggregates dm-core dm-cutie extlib sinatra
+dm-datastore-adapter addressable dm-aggregates dm-core dm-types
+dm-deep_cloning dm-core dm-core dm-transactions dm-transactions
+dm-default-scope dm-core
+dm-delayed-job activesupport dm-aggregates dm-core dm-timestamps extlib
+dm-devise devise dm-core dm-migrations dm-rails dm-serializer dm-timestamps
+dm-dh_api-adapter dm-core httparty
+dm-do-adapter data_objects dm-core
+dm-dragonfly dragonfly
+dm-drupal datamapper
+dm-drupal2
+dm-elasticsearch
+dm-elasticsearch-adapter
+dm-encrypted rcrypt
+dm-enum dm-core
+dm-extjs dm-aggregates dm-serializer
+dm-factory_girl
+dm-fasten-the-seat-belt dm-core hoe mini_magick
+dm-ferret-adapter dm-core ferret
+dm-filemaker-adapter data_mapper ginjo-rfm
+dm-fixtures
+dm-fluiddb-adapter dm-core typhoeus
+dm-fql-adapter dm-core mini_fb sqldsl
+dm-freebase-adapter
+dm-frontbase-adapter dm-core dm-types dm-validations ruby-frontbase
+dm-gen templater
+dm-geokit dm-core geokit
+dm-googlebase dm-core dm-types dm-validations gdata nokogiri
+dm-haml-scaffold-generator
+dm-hibernate-migrations dm-core
+dm-hstore dm-core dm-postgres-adapter dm-types
+dm-imap-adapter
+dm-is-audited dm-core dm-core
+dm-is-authenticatable bcrypt-ruby dm-core dm-types dm-validations
+dm-is-awesome_set dm-adjust dm-aggregates dm-core dm-transactions
+dm-is-checksumed dm-core
+dm-is-counter_cacheable dm-core
+dm-is-friendly dm-core
+dm-is-indexed dm-core
+dm-is-list dm-adjust
+dm-is-localizable dm-core dm-is-remixable dm-validations
+dm-is-nested_set dm-adjust
+dm-is-page-by-page dm-core
+dm-is-pageable activesupport dm-aggregates dm-core will_paginate
+dm-is-paginated dm-core hoe
+dm-is-persistent_state_machine
+dm-is-predefined dm-core
+dm-is-published activesupport data_mapper
+dm-is-read_only dm-core
+dm-is-reflective dm-core dm-do-adapter
+dm-is-remixable dm-core
+dm-is-revisioned dm-core hoe
+dm-is-schemaless dm-types
+dm-is-searchable dm-core
+dm-is-select activesupport data_mapper dm-is-tree
+dm-is-serialized dm-core
+dm-is-slug activesupport coveralls dm-core dm-core dm-validations dm-validations unidecode unidecoder
+dm-is-sluggable dm-core
+dm-is-state_machine dm-core
+dm-is-taggable dm-core dm-is-remixable hoe
+dm-is-temporal dm-core
+dm-is-tree dm-core
+dm-is-tsearchable
+dm-is-versioned dm-core
+dm-is-voteable
+dm-json-search
+dm-keeper-adapter inifile nokogiri
+dm-last merb
+dm-ldap-adapter dm-core dm-transactions net-ldap slf4r
+dm-lock dm-core
+dm-lucene-adapter addressable dm-core extlib
+dm-machinist dm-core dm-transactions machinist
+dm-maker activesupport dm-core i18n
+dm-mapping dm-core extlib
+dm-master-slave-adapter dm-core
+dm-metamapper
+dm-migrations dm-core
+dm-mnesia
+dm-money big_money dm-core
+dm-mongo-adapter dm-aggregates dm-core dm-migrations mongo
+dm-mysql-adapter dm-do-adapter do_mysql
+dm-nested-transactions
+dm-noisy-failures data_mapper
+dm-observer dm-core
+dm-observers dm-core
+dm-optlock dm-core hoe
+dm-oracle-adapter dm-do-adapter do_oracle
+dm-pager dm-aggregates dm-core
+dm-pagination agnostic dm-core
+dm-paginator
+dm-paperclip dm-core dm-migrations dm-validations extlib
+dm-paperclip-r3 datamapper extlib
+dm-parse activesupport dm-core dm-validations parse-ruby-client
+dm-persevere-adapter dm-aggregates dm-core dm-migrations dm-types dm-validations
+dm-pg-json dm-core dm-migrations dm-postgres-adapter dm-validations
+dm-pg-types data_mapper data_objects dm-core dm-do-adapter dm-migrations dm-postgres-adapter dm-postgres-adapter dm-types dm-validations do_postgres rake
+dm-polymorphic dm-core
+dm-postgis dm-core dm-postgres-adapter GeoRuby rake
+dm-postgres-adapter dm-do-adapter do_postgres
+dm-postgres-types dm-core dm-migrations dm-postgres-adapter dm-types dm-validations oj
+dm-predefined dm-core
+dm-puppetdb-adapter dm-core dm-types json puppet
+dm-rails actionpack dm-active_model dm-core railties
+dm-rails-gae
+dm-redis-adapter dm-core dm-types dm-validations hiredis redis
+dm-reflection activesupport dm-core
+dm-regex dm-core dm-migrations dm-sqlite-adapter
+dm-rest-adapter dm-serializer
+dm-restful-adapter dm-core multi_json
+dm-revisioned dm-core hoe
+dm-riak-adapter dm-core riak-client
+dm-rinda-adapter dm-core
+dm-rspec dm-core dm-validations
+dm-rspec2 dm-core dm-types dm-validations
+dm-s3 aws-s3 dm-core
+dm-salesforce dm-core dm-types dm-validations extlib httpclient soap4r
+dm-salesforce-adapter data_objects dm-core dm-types dm-validations httpclient soap4r
+dm-sanitizer dm-core sanitize
+dm-searcher data_mapper
+dm-serializer dm-core fastercsv json json_pure multi_json
+dm-skype dm-core
+dm-sorting data_mapper
+dm-spec dm-core
+dm-sphinx-adapter dm-core
+dm-sprockets-rails
+dm-sql-finders dm-core dm-do-adapter
+dm-sqlite-adapter dm-do-adapter do_sqlite3
+dm-sqlserver-adapter dm-do-adapter do_sqlserver
+dm-svn dm-aggregates dm-core dm-validations svn-fixture
+dm-sweatshop dm-core ParseTree randexp
+dm-taggings dm-constraints dm-is-remixable
+dm-tags dm-core
+dm-timestamps dm-core
+dm-tokyo-adapter addressable dm-core rufus-tokyo
+dm-transactions dm-core
+dm-translatable data_mapper i18n
+dm-trimmer dm-core
+dm-twowaysql dm-do-adapter twowaysql
+dm-types bcrypt-ruby dm-core fastercsv json multi_json stringex uuidtools
+dm-types-legacy dm-core
+dm-unlazy dm-core
+dm-userstamp
+dm-validations dm-core
+dm-validations-ext dm-core dm-validations
+dm-validations-i18n dm-validations
+dm-visualizer dm-core ruby-graphviz
+dm-waztables-adapter waz-storage
+dm-xml-adapter builder dm-core dm-migrations libxml-ruby
+dm-yaml-adapter dm-core
+dm-zone-types activesupport dm-core tzinfo
+dm3-api
+dm_cloud
+dm_is_a_tree datamapper
+dm_panlex data_mapper yard yard-dm
+dm_preferences
+dm_ruby_extensions activesupport
+dm_wordnet data_mapper
+dmail mail pager term-ansicolor
+dmamp
+dmantilla-aws_sqs_mail
+dmantilla-delayed_job_sqs
+dmap
+dmap-ng
+dmapparser
+dmapper
+dmarc parslet
+dmarc_inspector parslet
+dmarcer nokogiri
+dmarkov-right_aws right_http_connection
+dmarkow-raspell
+dmarkow-right_aws right_http_connection
+dmathieu-growlcocoa
+dmathieu-static_ga
+dmattes-railroad_xing
+dmattes-static-gmaps
+dmcloud
+dmcloud-ruby
+dme-api json rest-client
+dmeiz-croc
+dmenu
+dmexe_rabbitmq_http_api_client effin_utf8 faraday faraday_middleware hashie multi_json
+dmg
+dmg_android_api
+dmichael-set-notation-helper
+dmitryv-backup activerecord cloudfiles hirb net-scp net-sftp net-ssh pony s3 sqlite3-ruby
+dmm faraday faraday_middleware nokogiri
+dmm-api xml-simple
+dmm-sdk-ruby
+dmm_util serialport
+dmorrill10-utils awesome_print
+dmoz_sax_doc json nokogiri
+dms httparty
+dms-tog_depot acts_as_rateable acts_as_taggable_on_steroids attachment_fu seo_urls tog_core
+dmtd_vbmapp_data json psych
+dmtool activesupport
+dmux
+dmv middleware uber
+dn faraday hashie
+dna
+dna_sequence_aligner bio
+dnapi extlib jexp json sexp_processor
+dnc logging
+dnclabs-auth-hmac
+dnclabs-fakeweb-matcher fakeweb rspec
+dnclabs-httparty crack
+dnd-namer
+dnd_name_generator
+dnet-ffi ffi_dry ffi-packets
+dnif activerecord activesupport builder rake riddle
+dnkey dnsruby
+dnode eventmachine events
+dnote
+dnotify chronic libnotify
+dnp
+dnrml activerecord
+dns
+dns-check em-resolv-replace eventmachine ipaddress public_suffix
+dns-zone
+dns-zone-file
+dns-zonefile polyglot treetop
+dns_adapter
+dns_checker activesupport
+dns_domain_checker dnsruby
+dns_guru
+dns_incrementor
+dns_load celluloid trollop
+dns_made_easy rest-client
+dns_zone_parser
+dnsapp
+dnsaur
+dnsbl-client
+dnsdeploy dnsimple-ruby
+dnser
+dnsign droplet_kit linode timers
+dnsimple httparty
+dnsimple-pdns-provider grape grape sqlite3-ruby sqlite3-ruby
+dnsimple-ruby httparty
+dnsimpler httparty
+dnsmadeeasy
+dnsmadeeasy-api json rest-client
+dnsmadeeasy-rest-api
+dnsmadeeasy_verify dnsruby faraday whois
+dnsmadeeasyapi httparty
+dnsmadeeasyapi-good
+dnsomatic
+dnsresolver activesupport celluloid-io dnsruby uuid
+dnsruby
+Dnsruby
+dnssd
+dnstools thor
+dnstraverse dnsruby
+dnsync activesupport atomic configlet faraday faraday_middleware scrolls
+dnz-client activesupport nokogiri
+do net-sftp net-ssh
+do-jdbc_sqlserver
+do-my-timecard capybara capybara-page-object selenium-webdriver
+do-rails coffee-rails jquery-rails
+do-ui-rails basicss-rails do-rails jquery-rails
+do_by
+do_derby data_objects do_jdbc jdbc-derby
+do_h2 data_objects do_jdbc jdbc-h2
+do_hsqldb data_objects do_jdbc jdbc-hsqldb
+do_jdbc data_objects
+do_mysql data_objects
+do_not_download
+do_not_want
+do_notation sourcify
+do_nothing
+do_openedge data_objects do_jdbc do_jdbc jdbc-openedge
+do_oracle data_objects
+do_postgres data_objects
+do_snapshot barge digitalocean_c pony thor
+do_sqlite3 data_objects
+do_sqlserver data_objects do_jdbc do-jdbc_sqlserver
+do_stuff
+do_you_understand
+Doa
+doable
+doala
+doattend json rest-client
+dobedobedo bundler oauth2
+doberman
+dobexer delayed_job exception_notification rails
+dobro decent_exposure rails sass-rails
+doc fspath net-ftp-list progress rake sdoc
+doc-thumbnailer quick_magick rubyzip
+doc2html hoe
+doc2text nokogiri rubyzip
+doc5
+doc_converter rest-client
+doc_frac
+doc_generation_wrapper doc_raptor json rest-client
+doc_image_extract
+doc_juan
+doc_log bootstrap-sass coffee-rails doc_raptor font-awesome-sass jquery-rails kaminari quiet_assets rails ransack sass-rails sprockets therubyracer twitter-bootstrap-rails
+doc_raptor httparty
+doc_repo redcarpet rouge
+doc_ripper
+doc_rocket
+doc_site_builder asciidoctor asciidoctor-diagram git guard guard-livereload guard-shell haml json pandoc-ruby rake sitemap_generator tilt yajl-ruby
+doc_smoosher activesupport rake rest-client thor
+doc_storage
+doc_template nokogiri zipruby
+doc_to_dash nokogiri sqlite3
+doc_to_pdf colorize httparty nokogiri
+doc_wrapper activesupport
+doc_yo_self
+docapi haml maruku rdoc
+docbert cucumber kramdown
+docbook_files libxml-ruby term-ansicolor wand zucker
+docbook_status libxml-ruby term-ansicolor zucker
+docbook_xsl_wrapper
+doccy-api httparty json
+docdata nokogiri nori railties rubyntlm savon veto
+docdiff
+docdown repl_runner thor
+docebo activesupport rest-client
+docent rails
+docface coderay kramdown rainbow trollop
+docfu mixlib-cli
+docgenerator log4r
+docheck whois
+docify rdiscount rdoc RedCloth
+docile
+docjs rdiscount thor
+dock
+dock0 cymbal meld menagerie mercenary
+dock_driver columnize configurability loggability trollop
+dock_test json-schema multi_json nokogiri rack simple_oauth
+dockage colorize thor
+docker
+docker-api excon json
+docker-armada awesome_print conjur-cli docker-api excon net-ssh net-ssh-gateway table_print thor
+docker-bridge
+docker-build
+docker-client curb json multi_json
+docker-compose
+docker-compose-api docker-api
+docker-construct rake
+docker-deploy gcloud
+docker-dev
+docker-doctor docker-api
+docker-image-map clamp docker-api term-ansicolor
+docker-porcelain docker-api
+docker-provider
+docker-publish gcloud
+docker-rails docker-api dry-config minitar thor
+docker-registry-sync aws-sdk
+docker-search terminal-display-colors
+docker-shaball clamp
+docker-spoon docker-api rainbow
+docker-utils ruby-uuid
+docker_alias railties
+docker_boss daemons docker-api etcd rubydns thor
+docker_boss-module-influxdb celluloid docker_boss timers
+docker_brick colorize docker-api mixlib-cli mixlib-config thor
+docker_deploy sshkit
+docker_helper
+docker_maker
+docker_map clamp docker-api term-ansicolor
+docker_nginx_proxy clamp mustache
+docker_registry faraday faraday_middleware oj
+docker_sigh erber rake
+docker_tools bundler docker-api erubis json rake
+dockerb
+dockerc excon multi_json
+dockerchain dockerfile_ast
+dockercompose-generator
+dockerfile_ast treetop
+dockerfile_parser
+dockerfilemerge lineparser rxfhelper
+dockerfiroonga
+dockerfish
+dockerhelper
+dockerify thor
+dockerize colorize
+dockerploy mono_logger net-ssh thor
+dockersitter thor
+docket daybreak msgpack redis rufus-scheduler
+docketeer commander
+dockistrano cocaine dotenv multi_json redis thor
+dockit docker-api dotenv thor version
+dockland thor
+docklean
+dockly aws-sdk clamp docker-api dockly-util excon foreman fpm rugged
+dockly-util
+dockmeister
+docks mharris_ext
+docks_app activesupport mustache redcarpet
+docks_theme_api activesupport docks_app docks_theme_base
+docks_theme_base activesupport docks_app
+docksync colorize filewatcher hashie thor
+docktor
+dockyard
+docl barge json thor
+docmago_client addressable httmultiparty httparty nokogiri rubyzip
+docman diffy hash-deep-merge hooks net-sftp thor
+docme
+doco mustache rack RedCloth
+docodoco_jp faraday hashie thor
+docomo_css nokogiri rails tiny_css
+docomo_image_recognition curb
+docomo_web_mailer json mechanize
+docomoru activesupport faraday faraday_middleware json rack slop
+docopt
+docparser axlsx log4r nokogiri parallel
+docpdftotext
+docpeeker nokogiri
+docrails_kindle kindlerb nokogiri
+docs coderay redcarpet thor
+docscape
+docsearch_api
+docsplit
+docsplit-paperclip-processor docsplit paperclip paperclip ruby-filemagic
+docsplit_images delayed_job_active_record docsplit paperclip
+docstache nokogiri rubyzip
+docstat sqlite3
+docster colored sdoc thor
+docster-rails rails
+docstrings method_source
+doct nokogiri rubyzip
+doctag activesupport doctag_json_schema json_schema_tools
+doctag_json_schema
+docter haml mongrel rake RedCloth syntax
+doctest
+doctest-core
+doctest-rspec doctest-core rspec
+docthis pygmentize rails redcarpet
+doctopdf
+doctor-swagger kramdown
+doctor_ipsum i18n
+doctor_ninja nokogiri rmagick rubyzip
+doctor_scrape nokogiri unwind
+doctors faraday id yajl-ruby
+docu
+docu_sign builder savon
+docubot coderay haml kramdown minitest nokogiri RedCloth
+doculab RedCloth tilt
+documatic rubyzip ruport
+document
+document-store em-mongo em-synchrony
+document_builder activesupport
+document_file activesupport
+document_form
+document_generator addressable git
+document_hash
+document_hydrator
+document_mapper activemodel activesupport rake tilt
+document_number activerecord
+document_record bson document_hash rails
+document_tree
+documentalist SystemTimer zip
+documentally
+documentarian github-markdown
+documentation coffee-rails dynamic_form haml jquery-rails nifty-attachments nifty-dialog pygments.rb rails redcarpet sass-rails uglifier
+documentation-editor best_in_place diffy haml-rails highlight kramdown paperclip rails sass-rails
+documentation-elasticsearch documentation elasticsearch
+documentator boson
+documentcloud multi_json rest-client
+documentcloud-calais curb json nokogiri
+documentcloud-cloud-crowd activerecord json rest-client right_aws sinatra thin
+documenter hpricot rubyzip
+documentify
+documentinator haml rdiscount sinatra
+documentos_br
+documentum activesupport haml pdfkit pry redcarpet wkhtmltopdf-binary
+docurium ffi-clang gli mustache redcarpet rocco rugged version_sorter
+docushin
+docusign
+docusign_rest json multipart-post
+docusigner multipart-post reactive_resource
+docusignsdk
+docuvator
+docverter rest-client
+docverter-server flying_saucer mime-types mizuno multi_json rake sinatra
+docwu coderay mustache_render nokogiri redcarpet thin
+docx nokogiri rubyzip
+docx-cloner
+docx-html docx html_writer
+docx-templater nokogiri rubyzip
+docx2txt nokogiri rubyzip
+docx_builder nokogiri rmagick rubyzip
+docx_converter kramdown nokogiri rmagick ruby-filemagic rubyzip
+docx_generator rubyzip
+docx_mailmerge nokogiri rubyzip
+docx_manipulator i18n nokogiri rubyzip
+docx_replace rubyzip
+docx_template
+docx_templater htmlentities rubyzip
+docx_tools nokogiri rubyzip
+docxedit rubyzip
+docxer nokogiri rubyzip
+docxtor builder rubytree rubyzip
+docxtor2 builder rubytree rubyzip
+dod_maps progressbar
+dodebui docker-api
+dodecaphony
+dodgy_stalker activerecord addressable typhoeus
+dodo
+doem thor
+does_it_really_work354
+doesfacebook
+doesfollow json rest-client
+doeskeyvalue activerecord activesupport hashie
+doesopengraph hashie typhoeus typhoeus
+doesprettyurls
+dofus-api
+dog-bot blather google_image_api
+dog_ears rails
+doga_test_gem
+dogapi multi_json
+doge rmagick
+doge-chef-formatter
+doge_api
+doge_coin faraday multi_json vcr
+doge_helper
+doge_papi
+doge_woof
+dogecoin faraday
+dogecoin-client rest-client
+dogecoin_api httparty
+dogecoin_client
+dogecoin_ruby
+dogeify engtagger
+dogeify-matt16749 engtagger
+dogeify_guru engtagger
+dogeipsum
+dogen awesome_print commander hashie rendering_engine
+dogerific engtagger
+dogert engtagger
+dogespec dogeify
+dogestrings
+dogeventer dogapi
+doggy json parallel rugged thor virtus
+dogids-cli net-ssh thor
+dogknife chef dogapi
+dogma
+dogo redis sinatra
+dogsay
+dogshoe nokogiri rake
+dogstatsd
+dogstatsd-ruby
+dogy
+doh sinatra thor
+dohdata dohlog dohutil
+dohkem dohdata dohlog dohmysql dohroot dohtest dohutil dohweb mysql2 sqlstmt
+dohlog dohutil
+dohmysql dohlog dohroot dohutil mysql2 sqlstmt
+dohroot
+dohruby
+dohtest dohroot term-ansicolor
+dohutil dohroot highline
+dohweb
+doi faraday
+doing chronic gli haml
+doing_stream curb feedzirra json
+doit micro-optparse
+doitian-tmuxinator
+dojan
+dojefiy engtagger
+dojo rspec serialport
+dojo-pkg
+dojo-rails rails
+dojo_generator
+dojo_mobile_proto thor
+dojo_rails
+dojo_src
+dojo_widgets page-object
+dojox-rails
+dok thor
+dokan
+dokan-ruby
+dokaz ansi rouge slop
+dokkaacfg barge
+dokkit deplate maruku rake
+dokkit-model-simpledocument dokkit
+dokkit-slides dokkit haml
+dokku
+dokku-cli thor
+dokku-installer-cli thor
+dokku_client colorize grit highline konf
+dokkufy commander hpricot terminal-table
+doko nokogiri
+doku backports
+dokuen foreman mason thor
+dolar_realbr brazilian-rails savon
+dolarblue configatron nokogiri
+dolarhoy nokogiri
+dolit
+dolla_dolla_bill money
+dollar_column activerecord
+dollarr
+dollhouse fog main net-sftp net-ssh
+dolly httparty railties
+dolmade httparty
+dolores-cfml json_pure liquid nokogiri
+dolores-cml json_pure liquid nokogiri
+dolores-ruby-crowdflower httparty
+dolores-shacontest
+dolores_rpm
+dolphin net-ssh parallel thor
+dolphindeploy
+dolphy erubis haml rack tilt
+dolt json libdolt sinatra thin tiltout trollop
+dolzenko activesupport facets
+dolzenko-default_value_for
+dom htmlentities
+dom_for rails
+dom_glancy capybara kramdown
+dom_id hoe
+dom_routes rails
+domain
+domain-probe net-dns nokogiri
+domain-validator activemodel
+domain_check
+domain_driven activerecord interactor pundit
+domain_driven_rails activerecord domain_driven interactor pundit
+domain_finder
+domain_firewall
+domain_info
+domain_mapper
+domain_model
+domain_name unf
+domain_name_validator
+domain_prefix simpleidn
+domain_redirect
+domain_routing
+domain_switcher rack
+domain_tools
+domain_validator activemodel
+domainapi
+domainator
+domainatrix addressable
+domainblob whois
+domainr hashie httparty
+Domainr
+domainr-cli awesome_print colorize domainr hirb thor
+domainsbot
+domainsbot-jquery-rails
+domainshare
+dome activesupport
+dominance
+dominate eventable mab nokogiri nokogiri-styles tilt
+dominatrix
+dominikh-tidy_ffi ffi
+dominion
+dominiquebrezinski-rack-openid pelle-ruby-openid rack
+dominiquebrezinski-sinatra-rest english sinatra
+dominium_stuff jquery-rails rails
+domino capybara
+domino_simulator
+dominus
+domkey watir-webdriver
+domo highline mechanize thor
+domo-rb
+domodoro eventmachine notify
+domoscio_rails rails
+domoscio_rails_local rails
+domotics
+domotics-arduino serialport
+domotics-core bson_ext domotics-arduino em-websocket hiredis mongo rack rb-inotify redis
+domoticz
+domp
+domr httparty rainbow
+domreactor-redglass json red-glass rest-client rubyzip
+domrobot activesupport bundler inwx-rb reachable-under recursive-open-struct thor toml-rb
+domtempl nokogiri
+don highline typhoeus
+don_draper
+donald
+done activesupport thor
+done21-validifier hpricot htmlentities
+donedone mime-types
+doneski
+doneyo
+dongbin-faster-xml-simple libxml-ruby
+donibuchanan-roo GData hpricot libxml-ruby rubyzip spreadsheet
+donjon gibberish thor
+donkey amqp
+donncha-validates_as_email
+donors_choose json
+donors_choose-data activerecord pg
+donors_choose2 faraday nokogiri
+donothing
+donottrack
+donsgem
+dont-mess-with-my-js
+dont-stall-my-process
+dont_deploy_debug capistrano
+dont_validate activemodel
+dont_you_count
+dontkillmypry
+doo colorize highline
+doo-extras doo
+doo_dah
+dooby chronic colored fattr highline main
+doodle hoe
+doodler chunky_png
+doodoo rails
+doofenshmirtz colorize
+doohickey
+dooie
+dookie-keywords_maker hoe newgem shoulda unicode
+dooly activemodel activesupport rake
+doop rails
+door_code rack
+doorkeeper railties
+doorkeeper-grants_assertion doorkeeper railties
+doorkeeper-i18n
+doorkeeper-jwt jwt
+doorkeeper-jwt_assertion doorkeeper jwt
+doorkeeper-logout_redirect doorkeeper
+doorkeeper-nobrainer doorkeeper nobrainer
+doorkeeper-openid_connect doorkeeper railties sandal
+doorkeeper_assertion_flow doorkeeper railties
+doorkeeper_sso active_model_serializers api-auth devise doorkeeper omniauth-oauth2 rails rest-client warden wisper
+doorkeeper_sso_client activesupport api-auth mixlib-config omniauth omniauth-oauth2 operation rails rest-client warden
+doorkeepr nerve rails
+doorkeepr-rails jbuilder nerve nerve-easy rails responders
+doorkeepr-watcher activesupport boutons entrance-publisher entrance-watcher resolv-consul synapse-easy thor unirest
+doorman
+doorway activesupport net-ssh
+doozer
+dopamine httparty
+dope derailleur mime-types welo
+dopefish
+dopis_online_client builder bundler httmultiparty multi_xml rake
+doppel rails
+doppelganger diff-lcs facets highline ruby2ruby ruby_parser sexp_processor thoughtbot-shoulda
+dopplr json
+dor-fetcher addressable rest-client
+dor-rights-auth nokogiri
+dor-services active-fedora activesupport addressable confstruct dor-rights-auth dor-workflow-service druid-tools equivalent-xml json lyber-utils moab-versioning net-sftp net-ssh nokogiri om osullivan progressbar rdf rest-client retries rsolr-ext ruby-cache rubydora ruby-graphviz solrizer stanford-mods systemu uuidtools
+dor-workflow-service activesupport confstruct nokogiri rest-client retries
+doremi activerecord pg
+dork stomp
+dorkbox
+dorothy2 activemodel activerecord activesupport colored geoip mail namespace net-dns net-scp net-ssh nokogiri pg rbvmomi rest-client ruby-filemagic sinatra sinatra-activerecord sinatra-contrib trollop uirusu whois
+dorsal daemons
+dorsale aasm acts-as-taggable-on awesome_print bh bootstrap-datepicker-rails bootstrap-kaminari-views bootstrap-sass cancancan carrierwave cocoon coffee-rails combine_pdf font-awesome-sass handles_sortable_columns jquery-rails kaminari kaminari-i18n pdf-reader prawn prawn-table rails rails-i18n sass-rails selectize-rails simple_form slim-rails turbolinks
+dosh
+doshii faraday faraday_middleware hashie json
+dosire-activerecord-odbc-adapter
+dosire-god
+dosivoxcrmod coderunner
+dossier actionmailer actionpack activesupport arel haml railties responders
+dossier-segmenter dossier
+dostuff
+dot
+dot-properties
+dot11
+dot_configure
+dot_env
+dot_grid prawn trollop
+dot_hash
+dot_net_services ruby-hmac
+dot_notation
+dot_rake_tasks_in_rails
+dot_why erector
+dota facets faraday faraday_middleware
+dota2
+dotanuki posix-spawn
+dotanuki-ruby open4
+dotbackup archive-tar-minitar
+dotblock-api json
+dotbox thor
+dotcfg json
+dotcloud activesupport i18n jeweler
+dotconfig
+DotCoverRakeTask
+dotdot sequel sqlite3
+dotenv
+dotenv-beefy dotenv
+dotenv-configuration dotenv
+dotenv-daemon_kit daemon-kit dotenv
+dotenv-deployment dotenv
+dotenv-gpg gpgme thor
+dotenv-heroku rake
+dotenv-rails dotenv railties
+dotenv-schema dotenv
+dotenv-schema-rails dotenv-schema
+doterd
+dotfile
+dotfile_linker colorize
+dotfiles highline json
+dotfiles-installer ansi
+dotfu bini git github_api slop yajl-ruby
+dotgems
+dotgpg gpgme thor
+dotgpg-environment dotenv dotgpg
+dotgpg-rails dotenv dotgpg dotgpg-environment
+dothtml guard guard-rake nokogiri tilt
+dotide sawyer
+dotify git multi_json thor
+dotime highline hoe xml-simple
+dotimeout-rails
+dotimes
+dotinha json
+dotiw actionpack i18n
+dotjs_sprockets execjs sprockets
+dotka json rest-client
+dotless
+dotlocal
+dotmailer activesupport rest-client
+dotman
+dotmation
+dotme
+dotmoji rmagick thor
+dotnotes
+dotopts
+dotpay
+dotplan colorize hashie json rest-client
+dotr
+dotremap unindent
+dotrepo thor
+dotruby
+dots
+dots_formatter
+dotsh
+dotsmack ptools
+dotstore
+dotted_hash activemodel activesupport
+dottedhash
+dotter
+dottie
+dottify
+dottor thor
+dotty hashie thor
+dotum
+dotviz
+dou
+dou-rails railties
+douaparale httparty oauth
+douban oauth
+douban-cite library_stdnums rest_client
+douban-rails2.3 oauth
+douban-ruby oauth
+douban.fm highline ruby-mpd
+douban.fm.arduino serialport
+douban_api faraday faraday_middleware hashie multi_json
+douban_fm
+douban_fm_hotkey faye sinatra sinatra-contrib thin vegas
+doubanfm highline
+doubapi nokogiri
+double
+double-bag-ftps
+double_agent
+double_auth_engine declarative_authorization friendly_id kb-authlogic
+double_booked rails
+double_doc erubis pygments.rb rake redcarpet
+double_double activerecord money
+double_entry activerecord activesupport money railties
+double_make_sure active_support
+double_or_nothing
+double_rainbow rainbows
+double_round_robin_schedule
+double_trouble rails
+double_write_cache_stores
+doublecheck nokogiri
+doubledrones-annotate
+doubledrones-i18n_routing i18n
+doublehelix
+doubleshot listen minitest minitest-wscolor rb-fsevent
+doublesing parslet sanitize sanitize-url
+doublesplat listen rainbow rest-client
+doubletake pry rmagick selenium-webdriver thor
+doubleVision chunky_png
+doubly_linked_list
+douche
+doug
+doug-chargify hashie httparty
+dougal-base58
+dougbarth-actionwebservice actionpack activerecord
+dougcole-friendly_id schacon-git unicode
+dough
+doughboy open4
+doughnut descriptive_statistics rubystats
+douglas-ne-checks nokogiri
+douglas_peucker
+dougmcbride-fleximage aws-s3 rmagick
+dougo_layout
+dougp-shatter
+dougp-wildcard
+dougsko-apod hpricot httpclient
+dougsko-imagebin hpricot httpclient httpclient
+dougsko-pastebin httpclient
+dougsko-rham
+dougui_users authlogic autotest-rails capybara cucumber-rails database_cleaner dynamic_form email_spec factory_girl launchy rails rspec-rails spork
+dovadi-has_attributes_from
+dovadi-with_properties
+dove redcarpet rouge slim tilt
+dovecot_crammd5
+dover_to_calais em-http-request em-throttled_queue eventmachine json nokogiri ohm ohm-contrib yomu
+dowl linkeddata mocha redcarpet
+down
+down_universe safe_shell
+downager rubyzip
+downcaser
+downcer
+downer nokogiri
+download
+download-profiles certified commander mechanize nokogiri security term-ansicolor
+download_files mechanize methadone
+downloadr addressable rest-client
+downloads_sorter
+downlow archive-tar-minitar rubyzip
+downpour
+downr html-pipeline pygmentize rails rails_emoji redcarpet sanitize
+downrightnow nokogiri trollop
+downsampler
+downspout
+downterm highline rainbow redcarpet
+downthemall firefox sequel
+downthetube gdata_19
+downtime
+downup
+downvoteupvote
+dox-api activemodel activesupport addressable httpclient
+doxo-paperclip
+doxo-roxml activesupport libxml-ruby
+doxyparser
+doyoubuzz-showcase hashie httparty
+doze json rack
+dozen commander libusb
+dozens
+dozens-alias httparty thor
+dozens_jp_cli
+dozenscli inifile thor
+dozuki nokogiri
+dozuki-mapper dozuki
+dp
+dp_publico
+dp_stm_map threadsafe-lru xray
+dp_test_gem
+dpd_api savon
+dpd_shipping savon
+dpickett-agcod
+dpickett-amazon_associate
+dpickett-awesome_backup
+dpickett-clinical jnunemaker-happymapper jnunemaker-httparty mislav-will_paginate nokogiri
+dpickett-monkey_party configatron jnunemaker-happymapper jnunemaker-httparty
+dpickett-ramazon_advertising configatron jnunemaker-happymapper jnunemaker-httparty mislav-will_paginate nokogiri ruby-hmac
+dpickett-resource_factory
+dpickett-ruby_amazon_associates hpricot
+dpickett-running_man
+dpickett-thinking-sphinx
+dpickett-tiny_rack_spellchecker json raspell
+dpickett-toll_booth hpoydar-chronic_duration jnunemaker-httparty
+dpickett-workling_delta_indexer freelancing-god-thinking-sphinx
+dping excon fog
+dpkg-deb
+dpkg-tools
+dpkginv json ohai
+dpl
+dpl_sample_gem ffaker
+dpla-analysand celluloid celluloid-io http_parser.rb json json-stream net-http-persistent rack yajl-ruby
+DPLibrary faraday faraday_middleware rake
+dpll_solver parslet
+dploy aws-sdk chef
+dployr colorize deep_merge fog net-scp net-ssh
+dply ruby-elf ruby-filemagic
+dpn-bagit bagit configliere
+dq-readability guess_html_encoding nokogiri
+dr octokit rack tco thin thor
+dr-apartment
+dr-apns
+dr-ffi-proj4 ffi
+dr-merb_cucumber cucumber merb-core merb-gen
+dr-postgis_adapter nofxx-georuby rake
+dr_dre
+dr_nic_magic_models
+dracarys
+dradis-calculator_dread dradis-plugins
+dradis-plugins
+draft
+draft-manager
+draftcode-termtter highline json_pure rubytter termcolor
+drafteable activerecord
+drafter activerecord diffy
+drafting activerecord
+drafts
+draftsman activerecord
+draggabilly-rails railties
+draggablesilder-rails
+draggggable
+dragoman
+dragon liquid pry rye
+dragon_pay rails
+dragon_translator
+dragonfly addressable multi_json rack
+dragonfly-activerecord activerecord dragonfly
+dragonfly-cloudinary cloudinary dragonfly rake
+dragonfly-couch_data_store couchrest dragonfly
+dragonfly-dreamobjects_data_store aws-sdk dragonfly
+dragonfly-dropbox_data_store dragonfly dropbox-sdk
+dragonfly-ffmpeg dragonfly rake streamio-ffmpeg
+dragonfly-fog_data_store dragonfly fog
+dragonfly-imaginary imaginary
+dragonfly-manta_data_store dragonfly ruby-manta
+dragonfly-minimagick dragonfly mini_magick
+dragonfly-mogilefs dragonfly mogilefs-client
+dragonfly-mongo_data_store dragonfly mongo
+dragonfly-mongoid_data_store dragonfly mongoid mongoid-grid_fs
+dragonfly-moped_data_store dragonfly moped moped-gridfs
+dragonfly-openssl dragonfly rake
+dragonfly-s3_data_store dragonfly fog-aws
+dragonfly-scp_data_store dragonfly net-scp net-ssh
+dragonfly-styles dragonfly
+dragonfly_audio dragonfly taglib-ruby
+dragonfly_extensions
+dragonfly_pdf dragonfly pdf-reader
+dragonfly_phantomjs dragonfly dragonfly_svg
+dragonfly_svg dragonfly nokogiri
+dragongoserver bones choice go-rank hpricot mechanize
+dragons_dream nokogiri
+dragons_keep dm-core do_sqlite3 ezcrypto uuid wxruby
+dragoon active_support json term-ansicolor
+dragoon_system mysql2 rails
+dragulator engtagger
+drailties active_domain active_event active_projection rails
+drain
+draiodoir
+drake comp_tree
+dram mechanize
+drama
+drama_queen
+dramatis
+dramaturg activesupport madCLIbs
+dramavladimir
+dramsay-rubyosa libxml-ruby
+dramsay-simple_scaffold
+dramsay-simple_scaffold_generator
+dramsay-streamtagger dramsay-rubyosa
+drank
+drano aws-sdk
+drapeer
+draper actionpack activemodel activesupport request_store
+draper-cancan cancan draper
+draper-extensions draper
+draper_simple_form draper simple_form
+drapes
+draugiem
+draw
+draw_cloud activesupport deep_merge
+draw_erd rails rails-erd
+draw_smd rails state_machine
+draw_uml rack
+drawbridge activesupport curb oj
+drawer
+drawille curses
+drawr hoe
+drawsvg rasem
+drawy
+drb_queue uuid
+drbarpg pg rails
+drbd nokogiri
+drbdump capp marshal-structure
+drbg-rb
+drbirb
+drbproxy
+drbqs activesupport filename net-sftp net-ssh net-ssh-shell sys-proctable user_config
+DRbServe
+drbservice
+drbssh
+drc_client
+drcapulet-russell
+drcapulet-shorty crack httparty
+drctrl current_spec
+drd-shoulda_generator
+dre rails responders
+dread colorize rails
+dreadlocks
+dreadpiratepj-poolparty amazon-ec2 aska aws-s3 git
+dream thor
+dream_cheeky pkg-config
+dream_gens
+dream_template
+dreamback commander cronedit json net-sftp
+dreamcat4-braid main open4
+dreamcat4-geokit
+dreamcat4-libxml-bindings libxml-ruby
+dreamcat4-libxml-ruby-dc4
+dreamcat4-moonshadow rake rubigen shadow_puppet visionmedia-commander
+dreamcat4-rerun
+dreamcatch grit
+dreamcatcher pony
+dreamhost-personal-backup rsync
+dreamwords-oauth2 faraday httpauth jwt multi_json rack
+dreamy hpricot terminal-table uuid
+drebs json logger main pry right_aws systemu
+dredd hashie statsample
+dredd-rack capybara rainbow rake
+dredd_hooks
+dredger dotenv htmlentities tweetster twitter
+drei_schichten_modell abgabenrechner
+drep nokogiri
+dress
+dress_code colored mustache pygments.rb redcarpet
+dress_up rake
+dresser
+dressing net-http-persistent sauce_whisk selenium-webdriver
+dressmaker
+drewda-railroad
+drewda_delayed_job activesupport
+drewda_delayed_job_active_record activerecord drewda_delayed_job
+drewda_rails_admin bbenezech-nested_form bootstrap-sass builder coffee-rails haml jquery-rails jquery-ui-rails kaminari rack-pjax rails remotipart sass-rails
+drewolson-block-chainable hoe need rspec
+drewolson-defmacro hoe need ruby2ruby
+drewolson-diggr activesupport json need
+drewolson-need hoe
+drewolson-pipe hoe hpricot
+drews_studio_game
+drexed-datetime
+drexed-errors
+drexed-validators
+drezyna
+drfas bcrypt-ruby orm_adapter rirfe warden
+drg bundler duck_puncher highline ruby_parser
+drg_blog_news_forum drg_cms rails
+drg_books drg_cms
+drg_cms bcrypt bson font-awesome-rails jquery-rails jquery-ui-rails kaminari mongoid rails
+drg_default_html_editor drg_cms el_finder rails
+drh_admin
+drhenry
+dribbble rest-client
+dribbble-bucket-api httparty multi_json nokogiri
+dribbble-bucket-sync dribbble-bucket-api
+dribbble_rap
+dribble em-http-request yajl-ruby
+dribbled log4r senedsa xml-simple
+drift github-markup rails redcarpet
+drifter json
+drifter-rails activerecord drifter
+driftrock-service httparty
+driftrock-service-temp httparty
+drill
+driller anemone bundler rake
+drink-menu cocoapods motion-cocoapods
+drink-socially faraday faraday_middleware-parse_oj hashie
+drip rbtree
+drip-ruby faraday faraday_middleware json
+dripdrop em-websocket em-zeromq eventmachine eventmachine_httpserver yajl-ruby
+dripper activesupport
+drive-ignition foreman grape rubyzip table_print zip-zip
+drive_env google-api-client google_drive text-table thor
+drive_time deep_end google_drive log4r
+drivel blather
+drivenow json
+driver activesupport
+drivers_license
+drizzle
+drjekyll fetcher gli logutils props rubyzip
+drjson
+DRMacIver-gourmand httparty json_pure mechanize nokogiri
+DRMacIver-reddilicious
+DRMacIver-term-extractor
+drmap hoe
+DrMark-email_quality diff-lcs mime-types
+DrMark-thinking-sphinx activerecord
+drnbench drntest droonga-client facter json sigdump
+drndump cool.io droonga-client json
+drnic-celerity
+drnic-codex
+drnic-contacts json
+drnic-culerity cucumber rspec
+drnic-github highline text-format
+drnic-haml ParseTree
+drnic-liquid
+drnic-mechanical_github hoe mechanize newgem
+drnic-pickler activesupport cucumber
+drnic-princely
+drnic-ruby-efax hpricot
+drnic-twitter activesupport hpricot httparty
+drntest droonga-client json yajl-ruby
+drogus-authlogic activesupport
+drogus-blue-ridge rubigen
+drogus-deep_merge
+drogus-gadgeteer
+drogus-genderized yaroslav-russian
+drogus-geokit
+drogus-merb-sexy-forms merb
+drogus-mongo_mapper activesupport jnunemaker-validatable mongo
+drogus-oauth ruby-hmac
+drogus-opensocial actionpack activesupport json oauth
+droid amqp bunny eventmachine_httpserver json_pure
+droid-monitor faml haml tilt
+droid19 amqp bunny eventmachine_httpserver json_pure rest-client
+droid_services activesupport has_active_logger
+droidcss autoprefixer-rails sass
+droidproj colorize
+droiuby multipart-post nokogiri properties-ruby rake rubyzip thor
+droll isaac
+drone eventmachine
+drone-rails rails
+drone-ruby httpclient
+drone_api
+drone_collectd drone eventmachine
+drone_json drone thin
+dronebl.rb httparty nokogiri
+dronestream
+dronetrack oauth2
+dronr pry rails thor thor-rails
+droom active_model_serializers acts_as_list acts_as_tree api-pagination cancancan chronic date_validator devise devise-encryptable dropbox-sdk fog geocoder haml icalendar jquery-rails kaminari msg paperclip rails rdiscount request_store settingslogic signed_json snail tod uuidtools vcard yomu youtube_it
+droonga-client droonga-message-pack-packer fluent-logger grn2drn msgpack rack slop yajl-ruby
+droonga-engine archive-zip cool.io drndump droonga-client droonga-message-pack-packer faraday faraday_middleware groonga-command-parser json rroonga sigdump slop sys-proctable
+droonga-message-pack-packer msgpack
+drop net-sftp net-ssh
+dropbox json multipart-post oauth
+dropbox-aliix json multipart-post oauth
+dropbox-api hashie multi_json oauth
+dropbox-api-alt hashie multi_json oauth
+dropbox-api-kilgore5 hashie multi_json oauth
+dropbox-api-petems backports hashie multi_json oauth
+dropbox-archive dropbox-sdk listen thor
+dropbox-dotfiles colorize
+dropbox-explorer activesupport dropbox-sdk
+dropbox-folder-sync bundler dropbox-sdk json keystorage launchy rake thor
+dropbox-invite nokogiri rest-client
+dropbox-sdk json
+dropbox-sync thor
+dropbox-utility dropbox-sdk launchy
+dropbox_server_backup dropbox-sdk term-ansicolor
+dropboximus_prime dropbox-sdk guid json redcarpet
+dropboxstrg cloudstrg dropbox-sdk rails
+dropboxuploader
+dropcam
+dropcaster activesupport bundler ruby-mp3info
+dropcloth compass sass
+dropdown bundler dotenv dropbox-sdk launchy nokogiri rake redcarpet
+dropgit daemons
+drophunter nokogiri
+DropIn rails
+dropio httparty mime-types multipart-post
+dropio-dropio json mime-types
+dropio-mock_record
+dropkick
+dropkick-rails railties
+droplet
+droplet_kit activesupport faraday kartograph resource_kit virtus
+droplet_manager dotenv httparty multi_json
+droplets
+dropmark her mime-types
+dropmire
+dropmyemail-openstack json
+dropper colored cri
+droppper droplet_kit hashie highline table_print thor
+dropscreen dropbox-sdk
+dropset
+dropship
+dropsite
+droptoflare
+dropup terminal-notifier
+dropwallet activemodel json rest-client
+dropzone
+dropzone_ruby commander counterparty_ruby sequel socksify sqlite3 veto
+dropzonejs-rails rails
+dropzonejs-rails4 railties
+droutes
+droxi dropbox-sdk
+droxy colorize rubydns thor
+drp
+drpentode-scrivener
+DrQueueRubyBindings
+drsi
+drud aws-sdk chef humanize-bytes octokit rake
+drudge
+drudgery
+drudje
+drugbank rubyzip sax_stream
+druid
+druid-tools
+druid_config httparty rest-client zk
+drujensen-browsercms
+drumherum hoe
+drumknott faraday jekyll json
+drummond faraday multi_json
+drunit ruby2ruby
+drunken_parrot_flat_ui-rails jquery-rails jquery-ui-rails less-rails-bootstrap
+drunken_parrot_flat_ui_lite-rails less-rails-bootstrap
+drunkmonkey celluloid rack websocket
+drupal
+drupal-cap
+drupal-deploy capistrano-ext
+drupal-exporter activesupport escort http i18n multi_json mysql2 pg sequel
+drupal.rb archive-tar-minitar
+drupal83
+drupal_fu
+DrupalScan
+drupid nokogiri rgl
+drupistrano capistrano
+drush-deploy capistrano php_serialize railsless-deploy
+druthers activerecord
+druuid
+drx
+dry
+dry-auto_inject
+dry-config deep_merge
+dry-configurable thread_safe
+dry-container dry-configurable thread_safe
+dry-data dry-container inflecto kleisli
+dry-dock attr_extras docker-api excon memoist
+dry-importer
+dry-observer-rails
+dry-pipeline
+dry_controller rails
+dry_crud rails
+dry_css css_parser nokogiri open_uri_redirections
+dry_forms
+dry_grapes sass
+dry_haml_handlebars gon haml-rails handlebars_assets rabl rails therubyracer
+dry_ice httparty msgpack
+dry_option_parser
+dry_require_spec_helper
+dry_scaffold haml
+dry_views
+drydock
+drydocker listen ptools
+dryft nokogiri sqlite3-ruby
+dryink cancan haml kaminari rails simple_form
+dryml actionpack hobo_support
+dryml-firemarker
+dryparams rails
+dryrun bundler colorize nokogiri
+drysql activerecord
+dryzilla_game
+ds
+ds-ci_reporter_test_unit ci_reporter test-unit
+ds-gui-automation cucumber henry-container httparty watir-webdriver henry_process_cleaner
+ds-kitsune haml will_paginate
+ds_doc_wrapper ds_hash rails
+ds_hash
+ds_string
+ds_test henry-container hpricot httparty httpclient rest-client watir-webdriver
+DSA
+dsa_codebreaker_game
+dsander-redis
+dsander-redis-store
+dsander-reve hpricot
+dsass sass
+dsboulder-acts_as_runnable_code
+dsboulder-acts_as_wrapped_class
+dsbstreverser
+dsc hashie
+dschn-tweetsy
+dschn-twitter activesupport echoe hpricot httparty
+dschn-twitter_oauth json mime-types oauth
+dsck
+dscli bundler datasift interact thor yajl-ruby
+dsctest
+dse
+dsf-ruby
+dsf_checker
+dsfu capybara selenium-webdriver terminal-table thor timeout
+dsh methadone
+dshelf json mime-types rest-client-next-dshelf
+dsj_sms
+dsj_thrift
+dskiplist facter thread_safe
+dsktool hpricot png
+dsl version
+dsl-block-engine
+dsl-latex-simple highlight
+dsl_accessor blankslate optionize
+dsl_accessors activesupport
+dsl_block activesupport
+dsl_companion
+dsl_eval
+dsl_helper
+dsl_maker docile
+dslable activesupport bundler rspec rspec_piccolo thor
+dslh
+dslisprb
+dslize
+dslkit term-ansicolor tins
+DSON radix
+dsp httparty
+dspace_rest_client curb rest-client
+dsparling-access_token
+dsparling-sinatra_mobile_fu rest-client
+dss_parser
+dssh
+dssx thor
+dst activerecord
+dstat
+dstk httmultiparty httparty json
+dstrelau-delayed_job
+dstrelau-minty_scopes activerecord activesupport
+dstrelau-webrat nokogiri rack
+dstruct
+dsturnbull-carrierwave
+dsturnbull-database_cleaner
+dsturnbull-mini_magick
+dsx-dml net-sftp
+dt
+dt-rake
+dta_parser terminal-table
+DTA_reader
+dtachr docopt
+dtas
+dtas-linux dtas io_splice sleepy_penguin
+dtas-mpris dtas ruby-dbus
+dtask net-ssh
+dtaus
+dtcrandom0 hpricot htmlentities
+dtcterm htmlentities nokogiri
+dtefacil_xml_builder builder rest-client xml-simple
+dterror-resource_identifier
+dtest
+dtf activemodel activerecord activesupport json json_pure rake sqlite3 standalone_migrations thor trollop
+dtf-rvm dtf json json_pure rake sqlite3
+dtf-session dtf json json_pure rake session sqlite3
+dti_nitf crack
+dtk-action-agent after_do awesome_print git json
+dtk-client awesome_print bundler colorize diff-lcs dtk-common-core erubis git highline hirb json_pure mime-types thor
+dtk-common colorize dtk-common-core rugged
+dtk-common-core rest-client
+dtk-node-agent dtk-action-agent facter grit posix-spawn puppet serverspec specinfra sshkeyauth stomp
+dtm
+dtpformatter
+dtr
+DTR progressbar
+dtracer thor
+dtsato-callstack
+dtsato-pipeline activerecord collectiveidea-delayed_job
+dtv_tournaments mechanize redis
+dtvcontroller
+dtvEsc
+dtw
+du-passifier rake rubyzip
+duality
+dub hpricot
+dubai commander json rubyzip sinatra terminal-table
+dubdubdub mechanize nokogiri rest-client
+dubious activesupport appengine-sdk i18n mirah mirah_model thor
+dublin_bikes faraday nokogiri-happymapper
+dubo-string_extend
+duboff-primer
+duby bitescript
+duck
+duck-duck-go httpclient json
+duck-hunt
+duck-installer
+duck_chain activerecord
+duck_duck_duck
+duck_duck_go_api faraday json
+duck_form activemodel
+duck_map highline rails
+duck_proof
+duck_puncher
+duck_punching linguistics wordnet wordnet-defaultdb
+duck_test
+ducker
+duckinator-fakefs
+ducklink
+duckpond
+duckpuppy-string_extend
+ducksauce
+ducksboard httparty
+ducksboard_json trollop
+ducksboard_reporter celluloid ducksboard faraday hashie timers trollop
+duckstrings
+ducktape facets ref whittle
+ducktator
+ducktrap abstract_type adamantium addressable anima concord equalizer
+ducktypechecker
+duckworth
+ducky faraday faraday_middleware nokogiri thor
+ducky-bot cinch sinatra
+duct bundler
+duct_tape backports bundler facets
+dude
+dude_weak activesupport
+dudemeister-uuid4r
+dudley
+due_credit activesupport rails
+duedil json
+duedil-client activesupport
+duelinmarkers-renum
+duet-bootstrap
+duffel
+duffy activesupport
+dugong json rest-client
+dugout
+dugway activesupport better_errors bigcartel-currency-locales bigcartel-theme-fonts bundler coffee-script compass htmlentities httparty i18n liquid rack rack-mount rubyzip sass sprockets sprockets-sass thin thor uglifier will_paginate
+DUI hashie
+duit
+duke cijoe daemon_controller sinatra thor
+duke-moip activesupport httparty nokogiri
+dukpt
+duktape
+dullard nokogiri rubyzip
+duly_noted redis
+dumb-logger versionomy
+dumb_auth rails
+dumb_delegator
+dumb_numb_set
+dumb_quotes activerecord
+dumbcli
+dumbo activerecord activesupport bundler erubis pg rake rspec thor
+dumbstats
+dumbvfd serialport
+dumbwaiter aws-sdk-core hashie thor
+dummer fluent-logger serverengine thor
+dummier rails
+dummy
+dummy-apartment
+dummy-application rails
+dummy-cache activesupport
+dummy_data dummy rails
+dummy_dropbox dropbox
+dummy_dropbox_sdk dropbox-sdk mime-types
+dummy_files nokogiri
+dummy_gem
+dummy_gem_rj
+dummy_gen-rails rails
+dummy_geocoder
+dummy_globalize activerecord activesupport
+dummy_image
+dummy_log_generator serverengine thor
+dummy_magick mini_magick
+dummy_model activemodel activesupport virtus
+dummy_omah omah
+dummy_performance_tests dummy_data dummy_urls rails
+dummy_rets
+dummy_tasks database_cleaner database_cleaner
+dummy_test_pattern
+dummy_text
+dummy_text_jp
+dummy_urls dummy dummy_data rails
+dummyfile
+dumon gtk2
+dump archive-tar-minitar progress
+dump-parser
+dump_to_seeds activerecord
+dump_truck colorize
+dumpable activerecord hashie
+dumpdb ns-options scmd
+dumper multi_json multipart-post posix-spawn
+dumpster
+dumptruck cocaine
+dumpy clipboard json rest_client
+dun
+duncan
+dunder
+dune-admin best_in_place postgres-copy rails
+dune-api active_model_serializers has_scope kaminari pundit rails
+dune-balanced balanced draper faraday faraday_middleware rails
+dune-balanced-bankaccount dune-balanced rails sidekiq slim
+dune-balanced-creditcard dune-balanced rails slim
+dune-dashboard bootstrap-sass coffee-rails ember-rails emblem-rails font-awesome-sass rails sass-rails
+dunedain289-aasm
+dunedain289-god
+dungeon_master redis redis useragent-fl useragent-fl yajl-ruby yajl-ruby
+dungeonator
+duniversity
+dunkstewart-blogbits nokogiri RedCloth
+dunkstewart-webbits autotest rspec
+dunmanifestin activesupport trollop
+dunno statesman
+duns-lookup mechanize
+duo
+duo-auth
+duo-rest
+duo_security httparty
+duoconsole commands rails
+duolingo
+duostack
+dup_eval object2module RubyInline
+dupa
+dupe activeresource
+dupe-magick
+duple thor
+duplicate_it
+duplicated_filename_checker
+duplicati
+duplo
+dura
+durable_call
+durable_decorator logging method_source
+durable_decorator_rails durable_decorator rails
+durable_hash activerecord
+durable_rules sinatra timers
+duraflame httpclient yajl-ruby
+duran
+duranged activesupport canfig chronic_duration
+duration
+duration-formatter ruby-duration
+duration_estimate
+duration_helpers
+duration_time
+durb hoe
+durian
+durran-carrierwave
+durran-mongoid activesupport mongodb-mongo
+durran-validatable
+duse faraday faraday_middleware highline secret_sharing tree_outline
+dusel
+dusen activerecord edge_rider
+dusk
+dust
+dust-ckeditor mime-types
+dust-cms auto_build awesome_nested_set better_errors binding_of_caller carrierwave client_side_validations client_side_validations-simple_form country_select declarative_authorization dust-ckeditor haml-rails hashie jbuilder jquery-rails jquery-ui-rails mini_magick mustache numbers_and_words quiet_assets rails simple_form sorcery sorcery thin will_paginate
+dust-deploy colorize ipaddress json net-scp net-sftp net-ssh thor
+dust-generators
+dust-rails execjs rails tilt
+dust-sinatra execjs sinatra tilt
+dust_albums paperclip
+dust_assets execjs sprockets tilt
+dustbin_lorry
+dustin-beanstalk-client
+dustin-elock-client
+dustin-god
+dustin-r2flickr
+dustin-ruby-summize json
+dustin-trie
+dustin-twitter activerecord activesupport highline hpricot httparty main
+dustMason-right_aws right_http_connection
+duststorm faraday multi_json virtus
+dusty-basic_deploy
+dusty-easy_ddns
+dusty-geocoder json patron
+dusty-noko_parser nokogiri
+dusty-patron
+dusty_mega_lotto
+dusty_rails_renderer
+dutchess rake
+dutchfaker hoe
+dutchman
+duties json rails sidekiq
+dutiful clamp colorize rsync tomlrb
+dutws_foo
+dutws_foo_rails3
+duty_calculator addressable faraday faraday-detailed_logger faraday_middleware hashie multi_xml
+duvet
+duwanis-aide xmpp4r
+duwanis-burble ruby-growl ruby-snarl
+duwanis-rubyku json
+dux
+duyoji_gem_test json nokogiri
+duyoji_todo activerecord sqlite3
+dvash parseconfig
+dvd-converter log4r
+dvdplm-aasm
+dvdplm-ar_mailer
+dvdplm-taskr hoe picnic restr reststop rufus-scheduler
+dvi
+dvi_scrape array_in_file database_params nokogiri pg string_in_file
+dvl-core activesupport coffee-script erector-rails4 sass
+dvl-flashes activesupport coffee-script dvl-core erector-rails4 sass
+dvl-kaminari-views kaminari
+dvla capybara capybara-webkit
+dvm colorize
+dvorak prawn thor
+dvr json sinatra thor
+dvrb
+dvrtools eventmachine gviz msgpack
+dvyjones-authlogic-kerberos
+dvyjones-slartibartfast eventmanager
+dvyjones-tinybot
+dw
+dw-boxgrinder-tarball-platform-plugin boxgrinder-build minitar
+dwaite-cookiejar
+dwaite-cucumber builder diff-lcs polyglot term-ansicolor treetop
+dwaite-em-http-request eventmachine
+dwaite-gdata
+dwaite-restful-authentication rails
+dwak_studio_game
+dwarf rubytree
+dwc-archive archive-tar-minitar nokogiri parsley-store
+dweinand-will_paginate
+dwemthy
+dwight
+dwilkie-foreigner
+dwml activesupport multi_json nokogiri
+dwml_parser activesupport multi_json nokogiri
+dwolla faraday multi_json
+dwolla-ruby addressable multi_json rest-client
+dwolla_swagger addressable json typhoeus
+dword-hex-converter
+dwradcliffe_test_gem_push
+dws-registry xml-registry
+dwt trollop
+dx_sliml dynarex
+dxf geometry sketch units
+dxf-in-ruby geometry-in-ruby sketch-in-ruby units
+dxf_dummy_generator
+dxf_io activesupport
+dxruby
+dxruby_rp5 ruby-processing
+dxruby_sdl rsdl rubysdl
+dxsectionx dynarex martile
+dyci dyci-compiler
+dyci-compiler
+dydra rdf rest-client
+dydx
+dye
+dygraphs-rails
+dyi
+dyi_rails dyi rails
+dylan
+DylanFM-pleasevalidate colored mime-types nokogiri
+dylansm-wirble
+dylanvaughn-bluepill activesupport blankslate daemons state_machine
+dymos aws-sdk-core
+dyn-rb
+dyn_meta activesupport
+dyna-pagarme rest-client
+dyna_form activerecord activesupport
+dyna_mo
+dyna_model activemodel activesupport aws-sdk rails
+dyna_struct
+dynabix activerecord
+dynadot httparty
+dynahash
+dynaload
+dynameek aws-sdk
+dynamic-body-class-and-id activesupport
+dynamic-fields
+dynamic-fields-for activerecord-devkit jquery-rails rails
+dynamic-page-title activesupport
+dynamic-sprites rmagick
+dynamic53 route53
+dynamic_53 aws-sdk
+dynamic_assets jsmin rails
+dynamic_attr_accessible
+dynamic_attribute_declaration activerecord activesupport
+dynamic_attributes
+dynamic_attrs activerecord railties
+dynamic_configuration
+dynamic_controller kaminari nql ransack
+dynamic_default_scoping rails
+dynamic_error_pages rails
+dynamic_errors rails
+dynamic_fields rails
+dynamic_fields_for_rails rails
+dynamic_fieldsets rails
+dynamic_finders_plus activemodel activesupport
+dynamic_form
+dynamic_image rmagick vector2d
+dynamic_images cairo pango
+dynamic_include
+dynamic_menu
+dynamic_menus globalize3 jeweler jquery-rails
+dynamic_methods activesupport
+dynamic_models
+dynamic_paperclip paperclip rails
+dynamic_query jquery-rails rails
+dynamic_registrar cover_me parallel_tests yard ZenTest
+dynamic_reports
+dynamic_router rails
+dynamic_ruby
+dynamic_session_exp
+dynamic_sitemaps
+dynamic_styles
+dynamic_tagged_logger rails
+dynamic_variable
+dynamic_vars
+dynamicdudes-speaking-apps daemons json sinatra
+dynamicmatic sinatra staticmatic
+dynamicQuery
+dynamics
+dynamics_crm builder curb mimemagic
+dynamini activemodel aws-sdk
+dynamiq sidekiq
+dynamite rails
+dynamo
+dynamo-autoscale activesupport aws-sdk colored pony rbtree ruby-prof
+dynamo-local-ruby aws-sdk
+dynamo_record activesupport aws-sdk
+dynamodb aws4 multi_json
+dynamodb-local
+dynamodb-mutex aws-sdk-v1
+dynamodb-streams-client deep_merge thor
+dynamodb2
+Dynamoid activemodel aws-sdk tzinfo
+dynamoid activemodel aws-sdk tzinfo
+dynamoid-devise devise dynamoid
+dynamoid-moda activemodel aws-sdk tzinfo
+dynamoid-paperclip dynamoid paperclip
+dynamojs_rails
+dynamometer pg rails
+dynamosaurus aws-sdk-core
+dynapi
+dynarex dynarex-import dynarex-xslt kvx nokogiri recordx rexle-builder rexslt rowx rxraw-lineparser table-formatter
+dynarex-blog dynarex hashcache polyrex
+dynarex-daily dynarex
+dynarex-events chronic_duration dynarex_cron
+dynarex-import rexslt
+dynarex-levenshtein dynarex
+dynarex-parser rexleparser
+dynarex-password dynarex
+dynarex-tags dynarex
+dynarex-usersblog dynarex-blog
+dynarex-xslt
+dynarex_cron chronic_cron dynarex sps-sub-ping
+dynashard activerecord activerecord
+dynaspan
+dynatable_builder jbuilder jquery-rails kaminari rails
+dynatree-rails
+dynattribs
+dyndnsd json metriks rack
+dyndrop
+dyndyndong daemons
+dynect rspec soap4r
+dynect-utils dynect_rest trollop
+dynect4r json rest-client
+dynect_email httparty
+dynect_rest rest-client
+dynect_rest-mikehale json rest-client
+dynectastic httparty httparty json
+dynflow algebrick apipie-params concurrent-ruby concurrent-ruby-edge multi_json sequel
+dyninc
+dynmap dynarex
+dynmark rails savon
+dynmenu
+dyno
+dyno-battery heroku heroku
+dyno_scaler activesupport heroku-api
+dynobattery
+dynoid
+dynopoker logger
+dynport-capistrano_rsync_with_remote_cache capistrano
+dynport_tools diff-lcs nokogiri redis term-ansicolor typhoeus
+dynsass
+dynsimple cabin httparty mixlib-cli
+dyntool
+dyoder-auto_code metaid
+dyoder-autocode
+dyoder-filebase extensions
+dyoder-functor
+dyoder-hive facets
+dyoder-waves autocode choice english extensions filebase functor live_console rack rack-cache rakegen RedCloth
+dysinger-jekyll classifier directory_watcher liquid maruku open4 RedCloth
+dysinger-rush mongrel rspec session
+dysinger-webby directory_watcher hpricot launchy logging rake rspec
+Dysnomia
+dyson_airblade
+dystio chef
+dz
+dz-patron
+dzema_dm-counter-cache dm-core
+dzintars ruby2ruby
+dzl activesupport rack
+dzslides-sass sass
+dzt gli rmagick
