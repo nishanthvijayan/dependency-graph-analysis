@@ -22,6 +22,7 @@ def crawl(input_char):
             for item in req: req_list += " "+(item["name"])
             h.write(req_list+"\n")
         except Exception,err:
+            print gem_name,err
             h.write(req_list+" "+str(err)+"\n")
     h.close()
     f.close()
@@ -31,7 +32,7 @@ def crawl(input_char):
     log.write(input_char+" "+str(int(total_time))+" "+str(counter)+'\n')
     log.close()
 
-seq = list("wvuon")
+seq = list("bdefg")
 for letter in seq:
     t = Thread(target = crawl,args=(letter,))                                                                                                           
     t.start()

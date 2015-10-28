@@ -1,0 +1,2934 @@
+j rainbow
+J-_-L added addressable coercible dotenv equalizer instance microevent micrologger micromachine multi_block named_proc os paint ruby_engine ruby_version slop value_struct virtus zucker
+j-cap-recipes
+j-contacts gdata json
+j-enc collins_client
+j-walker
+j2j activesupport colorize json thor
+j7w1 aws-sdk
+j_era
+j_growl_rails rails
+j_rb
+ja-apns
+ja-complex-word
+ja-sound-index
+ja_test_gem
+jaap3-addthis
+jab xmpp4r
+jabara multi_json scheman
+jabber-bot xmpp4r-simple
+jabber-tee choosy highline xmpp4r
+jabber4r
+jabber4r-revive ox
+jabber_bot
+jabber_delivery xmpp4r
+jabber_notifier choice xmpp4r-simple-19
+jabberwocky
+jabbot eventmachine xmpp4r
+jabe devise friendly_id gravtastic kaminari rails rakismet RedCloth sanitize
+jabley-rubygems-isitjruby json-jruby
+jabot xmpp4r
+jabs colored fold johnson rack
+jacaetevha-growthspurt facets grit
+jacana
+jacaranda activerecord
+jaccard
+jacha xmpp4r
+jack hoe open4 rake
+jack-eb aws-sdk colorize thor
+jack-ffi ffi
+jack_gem
+jack_rabbit hot_bunnies
+jack_up rails
+jackad net-ldap
+jackal bogo bogo-cli bogo-config carnivore childprocess
+jackal-assets bogo jackal miasma miasma-local rubyzip
+jackal-cfn jackal miasma patron
+jackal-code-fetcher git jackal jackal-assets
+jackal-commander childprocess jackal
+jackal-copperegg jackal jackal-cfn patron
+jackal-github jackal
+jackal-github-kit jackal octokit
+jackal-kitchen carnivore-actor carnivore-http childprocess jackal
+jackal-kitchen-slack jackal
+jackal-mail jackal pony
+jackal-nellie jackal
+jackal-packagecloud jackal jackal-assets packagecloud-ruby
+jackal-slack jackal slack-notifier
+jackal-stacks batali jackal sfn
+jackalope amqp rack
+jackb albino open4 rdiscount
+jackbox bundler thor
+jackchop berkshelf chef chefspec github_api highline json ridley thor travis
+JackDanger-alphadecimal
+JackDanger-immutable_attributes
+JackDanger-inherited_resources
+JackDanger-jack clip jbarnette-johnson rack
+JackDanger-permanent_records
+JackDanger-sortable_table
+JackDanger-sweet_assets
+JackDanger-wave rack
+jackdempsey-acts_as_commentable
+jackdempsey-beet wycats-thor
+jackdempsey-rpx_now activesupport
+jackdempsey-sequel_polymorphic
+jackdempsey-sequel_taggable sequel_polymorphic
+jacket compass sass
+jackfs aws-s3 sequel
+jackhou
+jackie activeresource
+jackowayed-gemist capistrano
+jackowayed-rufus-tokyo ffi
+jackowayed-state-reps
+jackowayed-tyrantmanager logging loquacious main rufus-tokyo
+jackpot activemerchant devise formtastic-bootstrap rails
+jackrabbit
+jackruss-geokit-rails3 geokit rails
+jackson-jars
+jacktang-hacker-slides BlueCloth highline RedCloth
+jacky
+jacoat
+jacob
+jacobat-authlogic-oid
+jacobat-cyclic
+jacobat-htmldiff
+jacobat-refinerycms
+jacobdam-selenium
+jacobo-the-something-gem
+jacobs_team
+jaconda activeresource
+jaconda_telegram rest-client
+jacque
+jacques
+jacqui-versioned
+jacs activesupport xmpp4r-simple
+jactive_support activesupport
+jacuzzi bundler capybara git rspec selenium-webdriver trollop
+jadala_gem
+jade execjs sprockets tilt
+jade-js-source
+jade-rails execjs tilt
+jade-rails-adapter tilt
+jade_tools
+jadeite therubyracer
+jader libv8 sprockets therubyracer tilt
+jadof indifferent-variable-hash
+jadtfmt
+jae-client faraday faraday_middleware json_pure
+jaeheegeo activesupport autometal-geoip sinatra thin
+jaehess-powncer json
+jaf-s3 builder mime-types xml-simple
+jafry
+jagadeesh
+jage-rmysqldump mysql
+jagerbomb
+jagger rack sinatra sprockets
+jagthedrummer-roo GData hpricot libxml-ruby rubyzip spreadsheet
+jagthedrummer-rvideo activesupport
+jagthedrummer-scruffy builder
+jagthedrummer-yahoo-weather
+jagthedrummer-yahooweather
+jah blather i18n
+jahtml_formatter rspec
+jaigouk-merb_daemon daemons merb
+jaikoo-thinking-sphinx
+jail github_api rails
+jaimaharashtra
+jaimeiniesta-hashtag_retweet_bot activerecord pauldix-feedzirra twibot
+jaimeiniesta-metainspector nokogiri
+jaja
+jakal mechanize nokogiri rake term-extract
+jake eventful oyster packr
+jake3030-sunspot_with_kaminari kaminari sunspot_rails
+jake69mac-stopwords
+jakell
+jakesdots polkadots
+jakewendt-active_record_left_joins
+jakewendt-active_record_sunspotter progress_bar sunspot_rails sunspot_solr will_paginate
+jakewendt-authorized actionmailer actionpack activerecord activeresource activesupport i18n jakewendt-assert_this_and_that jakewendt-calnet_authenticated jakewendt-rails_helpers jakewendt-ruby_extension rails ryanb-acts-as-list thoughtbot-factory_girl
+jakewendt-calnet_authenticated rails rubycas-client ucb_ldap
+jakewendt-documents actionmailer actionpack activerecord activeresource activesupport aws-s3 chronic i18n jakewendt-assert_this_and_that jakewendt-authorized jakewendt-calnet_authenticated jakewendt-rails_helpers jakewendt-ruby_extension paperclip rails ruby-hmac ryanb-acts-as-list ssl_requirement thoughtbot-factory_girl
+jakewendt-grape_juice jeweler rails
+jakewendt-html_test
+jakewendt-pages actionmailer actionpack activerecord activeresource activesupport i18n jakewendt-assert_this_and_that jakewendt-authorized jakewendt-calnet_authenticated jakewendt-rails_helpers jakewendt-ruby_extension jrails rails RedCloth ruby-hmac ryanb-acts-as-list ssl_requirement thoughtbot-factory_girl
+jakewendt-phonify_string
+jakewendt-photos i18n jakewendt-authorized jakewendt-calnet_authenticated jakewendt-rails_helpers jakewendt-ruby_extension paperclip rails ryanb-acts-as-list
+jakewendt-rails_extension chronic jakewendt-html_test rails ssl_requirement
+jakewendt-rdoc_rails rails rdoc
+jakewendt-ruby_extension
+jakewendt-simply_authorized jakewendt-rails_extension jakewendt-ruby_extension rails ryanb-acts-as-list
+jakewendt-simply_commentable jakewendt-rails_extension rails
+jakewendt-simply_discussable chronic jakewendt-rails_extension jakewendt-ruby_extension jakewendt-simply_authorized jakewendt-simply_helpful rails ryanb-acts-as-list ssl_requirement
+jakewendt-simply_documents aws-s3 chronic jakewendt-rails_extension jakewendt-ruby_extension jakewendt-simply_authorized jakewendt-simply_helpful paperclip rails ruby-hmac ryanb-acts-as-list ssl_requirement
+jakewendt-simply_helpful jakewendt-rails_extension rails
+jakewendt-simply_pages
+jakewendt-simply_photos
+jakewendt-simply_sessions rails
+jakewendt-simply_taggable jakewendt-rails_extension rails
+jakewendt-simply_testable ssl_requirement
+jakewendt-simply_trackable jakewendt-rails_extension jakewendt-ruby_extension rails ryanb-acts-as-list
+jakewendt-stringify_date chronic
+jakewendt-stringify_time chronic
+jakewendt-surveyor haml
+jakewendt-test_with_verbosity
+jakewendt-use_db jakewendt-rails_extension rails
+jakimowicz-internet
+jakimowicz-longurl json
+jalalidate
+JalaliDate
+jalcine-tlsmail
+jalik
+jam
+jam-ruby
+Jam_Func
+jam_script_highlighter pdfkit
+jamaica
+jambalaya-rspec
+jamef actionpack activemodel nokogiri rest-client
+james
+james-bond extlib monk-glue sinatra
+james-rc-rest hoe ZenTest
+james-ruminant builder hpricot
+james2m-acts_as_fu activerecord
+james_ford
+jamescallmebrent-earworm icanhasaudio
+jamescallmebrent-rumblr libxml-ruby
+jamescook-ezcrypto
+jamescook-pow
+jamescook-ruby-imagebam mime-types
+jamescook-uuid macaddr
+jamesearl-rails-settings activerecord
+jamesgolick-ASS amqp
+jamesgolick-cassandra json_pure rake simple_uuid thrift_client
+jamesgolick-webby directory_watcher hpricot launchy logging rake rspec
+JamesHarrison-reve hpricot
+jameskilton-patron
+jameskilton-rice
+jamesmacaulay-asset_cloud
+jamesn-softlayer-ruby soap4r
+jamesotron-digitalnz
+jamesottaway
+jamespath
+jamesrampton
+jameswilding-magpie nokogiri
+jameswilding-passgen
+jameswilding-secret
+jamie-bluebox fog jamie
+jamie-ec2 fog jamie
+jamie-vagrant jamie vagrant
+JamieFlournoy-AvantiConveniences activesupport text-hyphen
+JamieFlournoy-g_viz
+JamieFlournoy-machinist
+JamieFlournoy-user_agent
+JamieFlournoy-UserAgent
+jamieorc-joint mime-types mongo_mapper wand
+jamieorc-mongo_mapper activemodel activesupport plucky
+jamierumbelow-gistify
+jamii
+jamiryo
+jamis-fuzzy_file_finder
+jamjar activerecord sqlite3
+jammed httparty json
+jammer methadone
+jamming rmagick
+jammit cssmin jsmin
+jammit-core closure-compiler extlib json yui-compressor
+jammit-ebtd cssmin-ebtd jsmin
+jammit-instructure cssmin jsmin
+jammit-jcarnegie yui-compressor
+jammit-mitio closure-compiler yui-compressor
+jammit-s3 jammit mimemagic s3
+jammit-sinatra jammit
+jammit_lite
+jamnagar httparty moped multi_json nokogiri require_all
+jamrock_stocks nokogiri
+jamster-statsd
+jamtur01-facter
+jan
+jan_validator activemodel jan
+jancode
+jandot-bio
+jandot-biorake rake
+jandot-ruby-ensembl-api activerecord bio
+jandot-ruby-ucsc-api activerecord bio
+jane
+jangomail-mailer mail
+jangosmtp mechanize
+jani-converter_client faraday jani-from_json
+jani-from_json json
+jani-strip_maker rmagick thor
+janitor rak
+janitor_rails
+jank
+jankenpon
+janko agrippa pg
+jankubr-rss_parser cucumber mocha nokogiri rspec simple-rss
+janky activerecord broach mustache rake replicate sinatra sinatra_auth_github yajl-ruby
+janky-flow janky
+janky-flowdock flowdock
+janky-slack
+janova-clearance rails
+janrandom faker i18n rest-client terminal-table thor
+jansson ffi
+janus addressable
+janus-cli colorize gli oily_png sauce-connect selenium-webdriver
+jap_mag
+japan_net_bank activemodel
+japanda rest-client
+japanese_char_real
+japanese_deinflector
+japanese_names moji
+japanrock_sample
+japanrock_test
+japetheape-scoped_search
+japetheape-tmail
+japgolly-Saikuro
+japko parslet
+japonica httparty nokogiri thor
+japr jekyll liquid
+jaql abstract_method activesupport dart
+jar
+jar-dependencies
+jar_wrapper zip
+jara aws-sdk-core
+jared multi_json thor
+jared-weather weatherboy
+jared_string_extend
+JaredKuolt-robustthread
+jargon nokogiri
+jarhead thor
+jarib-celerity
+jarib-cuketagger cucumber
+jarib-win32console
+jaribio_formatter activeresource
+jarl thor
+jaro
+jaro_winkler
+jarodluebbert-twitter_oauth json mime-types oauth
+jarrett-quarto activesupport
+jarrett-rbbcode
+jartools diff-lcs rubyzip thor
+jarvis colored eventmachine json midiator ruby_cowsay unimidi
+jarvis-cli activesupport hooks httparty sinatra sinatra-contrib thor twitter
+jaryl
+jas_poker
+jasherai-oniguruma hoe
+jashmenn-activerecord-jdbc-adapter
+jashmenn-activerecord-jdbcmysql-adapter jashmenn-activerecord-jdbc-adapter jdbc-mysql
+jashmenn-apriori hoe newgem rake rubigen
+jashmenn-basket forkoff
+jashmenn-dalli
+jashmenn-feedzirra activesupport builder curb i18n loofah nokogiri rake rdoc sax-machine
+jashmenn-git-style-binaries thoughtbot-shoulda trollop
+jashmenn-httparty-icebox httparty
+jashmenn-method_cache
+jashmenn-mrtoolkit
+jashmenn-poolparty-extensions
+jashmenn-redis-lock redis
+jashmenn-statsd-instrument
+jasl_tenpay
+jasmine jasmine-core phantomjs rack rake
+jasmine-ajax
+jasmine-blanket blanket-rails
+jasmine-core
+jasmine-coverage coffee-script-source headless jasmine-headless-webkit-firstbanco rails
+jasmine-coverage-kikuchiyo-patch
+jasmine-fixtures jasmine nokogiri
+jasmine-fixtures-generator nokogiri
+jasmine-headless-webkit coffee-script jasmine-core multi_json rainbow sprockets
+jasmine-init
+jasmine-jquery-rails
+jasmine-jstd-conf bundler jasmine mustache
+jasmine-junitreporter
+jasmine-multi_json jasmine-core rack rspec selenium-webdriver
+jasmine-parser rkelly
+jasmine-phantom jasmine phantomjs posix-spawn
+jasmine-rails jasmine-core phantomjs railties sprockets-rails
+jasmine-rails-light jasmine rails
+jasmine-reporters asset_watcher
+jasmine-rjs jasmine requirejs-rails
+jasmine-runner
+jasmine-sauce jasmine sauce
+jasmine-selenium-sauce localtunnel rspec selenium-webdriver
+jasmine-sinon-rails
+jasmine-sinon-railsbk
+jasmine-spec-extras
+jasmine-sprockets jasmine rack sprockets
+jasmine-stealth-rails
+jasmine-stories haml
+jasmine_fixture_builder rspec-rails
+jasmine_junitxml_formatter jasmine nokogiri
+jasmine_selenium_runner jasmine sauce-connect selenium-webdriver
+jasmine_trellis rspec
+jasmine_webos json thin
+jasminecoffee coffee-rails
+jasminerice coffee-rails haml
+jasminerice-runner capybara
+jasnode commander jeweler
+jasnow-my_string_extend
+jasny-bootstrap-rails railties
+jasny_bootstrap_extension_rails
+jasny_bundle
+jasny_bundle_fixed rails-dom-testing railties thor
+jason erubis
+jason-o-matic-deep_test jason-o-matic-drbfire
+jason-o-matic-drbfire
+jason-orm activesupport require_relative
+jason_spec rspec rufus-json
+JasonKing-good_sort
+JasonKing-grep
+JasonKing-inline_attachment mime-types
+JasonKing-InlineAttachment mime-types
+JasonKing-pulp JasonKing-grep
+JasonKing-sqlite_nocase sqlite3-ruby
+jasonm-greengreen
+jasonrudolph-imdb chronic hpricot
+jaspec phantomjs
+jasper jasper-api jasper-backend jasper-cli jasper-core jasper-frontend jasper-sample
+jasper-api jasper-core rabl versioncake
+jasper-backend jasper-api jasper-core
+jasper-bridge
+jasper-cli thor
+jasper-client
+jasper-command-line activesupport builder prawn rjb
+jasper-core rails
+jasper-frontend jasper-api jasper-core
+jasper-rails rjb
+jasper-rails-jfreechart jasper-rails
+jasper-rails-rspec jasper-rails pdf-inspector rspec rspec-rails
+jasper-sample jasper-core
+jasperserver-client
+jasperserver-rails rails rest-client
+jasperserver4r
+jast thor
+jastix-scribd_fu rscribd
+jastix-string_extend
+jaswope-mongrel_proctitle gem_plugin mongrel
+jats
+jattrs
+java
+java-autotest
+java-buildpack-utils buildpack-utils
+java-checkstyle crack pre-commit
+java-inline RubyInline
+java-properties
+java2ruby-xmldsig
+java_bin
+java_head
+java_inline RubyInline
+java_model_jrb emf_jruby json lightmodels
+java_override
+java_properties
+java_regex
+java_streamify
+java_testing_guff guff
+java_to_base64 i_can_has_java_class
+javabean_xml builder nokogiri
+javaclass rubyzip
+javaeye4r
+javagems bundler gemcutter
+javajake
+javan-whenever chronic
+javaobj
+javaobjs
+javaobs
+javaparse
+javasand
+javascript binding_of_caller
+javascript-securehash-rails rails
+javascript-state-machine-rails railties
+javascript2latex
+javascript_auto_include rails
+javascript_dlog-rails railties
+javascript_eraser
+javascript_exception_handler
+javascript_features jsmin
+javascript_i18n
+javascript_localize
+javascript_namespace railties
+javascript_safe_logger rails
+javascript_util_asset_pack javascript_safe_logger rails
+javascripto
+javascripto-rails javascripto
+javascriptre
+javy_foodie activesupport thor
+javy_tool
+jaw6-monkeyspecdoc
+jawbit activesupport multi_json rack
+jawbone httparty
+jawbone-up json rest-client
+jawbone_up-client activesupport rest-client
+jaws http_parser rack
+jawshooah-overcommit childprocess
+jax jasmine jquery-rails rails rest-client
+jax-fractals jax rmagick
+jaxn-parse_user_agent
+jaxrsdoc javaparse
+jaxx excon fog json mime-types
+jay
+jay_unit
+jay_z
+jaya_mega_lotto
+jaybbb-ruby-aaws
+jayniz-net-ssh
+jaysus activemodel activesupport rest-client
+jayzes-activewarehouse-etl activerecord activesupport adapter_extensions fastercsv rake
+jayzes-adapter_extensions activerecord activesupport fastercsv rake
+jayzes-akamai_purger soap4r
+jayzes-metric_fu flay flog rcov reek roodi
+jaz303-deckard
+jaz303-jaz303-deckard
+jaz303-lighty
+jaz303-repo-man
+jaz303-site-skel
+jaz303-txt_machine
+jazor json term-ansicolor
+jazrb envjs nokogiri smparkes-eventmachine
+Jazz thor
+jazz envjs nokogiri smparkes-eventmachine
+jazz-jss activesupport json rack sprockets thor
+jazz_fingers awesome_print hirb pry pry-byebug pry-coolline pry-doc pry-remote
+jazz_hands awesome_print coolline hirb pry pry-debugger pry-doc pry-git pry-rails pry-remote pry-stack_explorer railties
+jazz_hands2 hirb pry pry-byebug pry-doc pry-git pry-rails pry-remote pry-stack_explorer railties
+jazz_libs rich_support thor
+jazz_model activerecord activesupport acts_as_list acts_as_tree
+jazz_money harmony jasmine rspec
+Jazzez mechanize
+jazzez mechanize
+jazzhands awesome_print coolline gist hirb pry pry-byebug pry-doc pry-git pry-rails pry-remote pry-stack_explorer
+jazzpants
+jazzup-your-rails rails
+jazzy cocoapods mustache open4 redcarpet rouge sass sqlite3 xcinvoke
+jazzy_to rails
+jb-helloworld
+jbackup_rails
+jballanc-textmate wycats-thor
+jballanc-uss_monte_carlo
+jbangert-bindata
+jbarnette-backpack-journal wycats-thor
+jbarnette-intercession
+jbarnette-johnson rake
+jbarnette-lather
+jbarnette-pastejour dnssd
+jbarnette-stateful
+jbasdf-acts_as_solr
+jbasdf-cms-lite
+jbasdf-cms_lite
+jbasdf-disguise
+jbasdf-feedbag hpricot
+jbasdf-jbasdf-acts_as_solr
+jbasdf-muck-solr
+jbasdf-uploader mime-types
+jbcden_ttt
+jbe-goethe
+jbe-Nest
+jbe-termite
+jbe-tuffel
+jberkel-jekyll classifier directory_watcher liquid maruku open4 RedCloth
+jberkel-mysql-ruby
+jberkel-solrium
+jberkel-spotify-api json-jruby rack rack-test sinatra
+jbgutierrez-delicious_api activesupport hpricot rspec
+jblas-ruby
+jbm
+jBootstrap thor
+jbootstrap thor
+jbox-gitolite gitlab-grit gratr19
+jbr-enumerable-proxy diff-lcs mime-types
+jbuilder activesupport multi_json
+jbuilder-active_decorator active_decorator jbuilder
+jbuilder-jsonapi jbuilder
+jbuilder-prettify jbuilder railties
+jbuilder_cache_multi jbuilder
+jbuilder_deferred_render deferred_loader jbuilder q-defer rails
+jbuilder_pagination jbuilder
+jbuilder_rspec_generator multi_json
+jbuilder_serializer actionpack jbuilder
+jbundle closure-compiler rack thor
+jbundler bundler jar-dependencies maven-tools ruby-maven
+jc-validates_timeliness timeliness
+jc_cms
+jcache
+jcangas-datagateway activerecord
+jcapote-atomlog builder file-tail uuid
+jcapote-fieldy
+jcarley-simplews builder rand soap4r-ruby1.9
+jcf-ansi_color
+jcf-autotest-rails autotest
+JCG-jquery-fileupload actionpack railties
+jcgpz_string_extend
+jcheck_rails zip
+jchris-couchapp couchrest json json_pure
+jchris-couchrest json mime-types rest-client
+jchris-github
+jchupp-is_paranoid
+jcinnamond-httparty crack
+jcnetdev-active_record_without_table activerecord
+jcnetdev-acts-as-readable rails
+jcnetdev-acts_as_applyable activerecord
+jcnetdev-acts_as_list rails
+jcnetdev-acts_as_paranoid activerecord
+jcnetdev-acts_as_state_machine activerecord
+jcnetdev-acts_as_tree rails
+jcnetdev-app_config
+jcnetdev-auto_migrations rails
+jcnetdev-better_partials rails
+jcnetdev-bj main orderedhash rails systemu
+jcnetdev-comatose
+jcnetdev-exception_notification rails
+jcnetdev-paperclip rails
+jcnetdev-restful-authentication rails
+jcnetdev-rspec-rails rails
+jcnetdev-seed-fu rails
+jcnetdev-shoulda rails
+jcnetdev-sms-fu rails
+jcnetdev-ssl_requirement rails
+jcnetdev-subdomain-fu
+jcnetdev-validates_as_email_address
+jcnetdev-will_paginate activesupport
+jcnnghm-acts_as_secure
+jcompiler
+jcon
+jcontroller rails request_store
+jcouchbase require_all
+jcov commander therubyracer
+jcredding-is_tree rails
+jcrop-rails railties thor
+jcrop-rails-v2
+jcropper
+jcrosby-rack-config rack
+jcrossley-deltacloud-client rest-client
+jcrossley-twitter-search json
+jcsjcs-string_extend
+jcukeforker celluloid-io childprocess cucumber vnctools
+jdbc-as400
+jdbc-cassandra
+jdbc-crate
+jdbc-derby
+jdbc-filemaker
+jdbc-firebird
+jdbc-h2
+jdbc-helper insensitive_hash sql_helper
+jdbc-hive2
+jdbc-hsqldb
+jdbc-jtds
+jdbc-luciddb
+jdbc-mariadb
+jdbc-mssql-azure
+jdbc-mssqlserver
+jdbc-mysql
+jdbc-nuodb
+jdbc-openedge jdbc-openedge-internal
+jdbc-openedge-internal
+jdbc-orientdb
+jdbc-phoenix
+jdbc-postgres
+jdbc-postgresql
+jdbc-redshift
+jdbc-sqlite3
+jdbc-sqlserver
+jdbc-teradata
+jdbc-vertica
+jdbc-wrapper
+jdc addressable caldecott-client interact jfoundry json_pure mothership multi_json rest-client uuidtools
+jdeerhake-compass-rmagick-engine compass rmagick
+jdepp
+jdfrens-ciat
+jdg-yajl-ruby
+jdhollis-context_on_crack
+jdhollis-machinist
+jdidion-feedme
+jdl
+jdl-authlogic activesupport
+jdl-chronic
+jdl-toto builder rack rdiscount
+jdl_tictactoe
+jdoc activesupport erubis json_schema rack redcarpet
+jdpace-rboss diff-lcs hoe json_pure rspec
+jdpace-weatherman xml-simple
+jdrowell-paperclip
+jdt launchy nokogiri rubyzip thor
+jdtc hoe newgem
+jduff-api-throttling
+jduff-tmdb_party httparty
+jdunphy-sequel_revisioned hoe newgem sequel
+jdzak-cf_case_check activesupport bones
+je
+jean highline parseconfig pivotal-tracker
+jeanmartin-aasm
+jeanny
+jeans
+jeapie activesupport
+jebanni mustermann rack reel
+jebediah
+jeckle activemodel faraday faraday_middleware virtus
+jeckyl optplus
+jedediah-print_members
+jedi
+jedis-jars
+jedis_jar
+jedis_rb
+jeditable-rails
+jedlik typhoeus yajl-ruby
+jeera activesupport faraday faraday_middleware terminal-table thor
+jeet sass
+jeeves
+jeeves-pvr jeckyl jellog jeni jerbil nokogiri term-ansicolor
+jefe eventmachine micromachine thor
+jeff excon
+jeffersongirao_faraday-stack faraday
+jeffkreeftmeijer-awesome_scaffold
+jeffkreeftmeijer-cucumber_rails_debug
+jeffkreeftmeijer-delayed_job
+jeffkreeftmeijer-tumblr activesupport httparty
+jeffleeismyhero-acl9
+jeffleeismyhero-render_csv rails
+jeffleeismyhero-rubycas-client-rails rails rubycas-client
+jeffleeismyhero-shoulda_generator
+jeffp-enumerated_attribute
+jeffp-wizardly
+jeffperrin-object_mother
+jeffperrin-paperclip
+jeffrafter-clearance
+jeffrafter-crocodile selenium-client
+jeffrafter-cucumber diff-lcs hoe term-ansicolor treetop
+jeffrafter-factory_girl
+jeffrafter-feedzirra activesupport builder mdalessio-dryopteris nokogiri pauldix-sax-machine taf2-curb
+jeffrafter-gemstalker
+jeffrafter-github-gem-build
+jeffrafter-lokii
+jeffrafter-marvin
+jeffrafter-resource_controller
+jeffrafter-resource_party htmlentities jnunemaker-httparty
+jeffrafter-rubygsm
+jeffrafter-sms
+jeffrafter-spreadhead BlueCloth RedCloth rsl-stringex
+jeffrafter-win32-sms
+jeffreyhunter77-R2Doc
+jeg riffraff_jsonpath
+JEG2-rrdb
+jegolize
+JeiGem
+jeje jbuilder
+jejefy
+jejune antlr3 sass
+jeka data_mapper dm-sqlite-adapter
+jektop
+jekyll colorator jekyll-sass-converter jekyll-watch kramdown liquid mercenary rouge safe_yaml
+jekyll-alt-urls jekyll
+jekyll-angular jekyll
+jekyll-api
+jekyll-archives jekyll
+jekyll-asciidoc asciidoctor
+jekyll-asciinema
+jekyll-asset-pipeline jekyll liquid
+jekyll-assets fastimage jekyll mini_magick sass sprockets sprockets-helpers sprockets-sass
+jekyll-attendease httparty i18n json redcarpet
+jekyll-auth colorator dotenv jekyll mercenary rack rack-ssl-enforcer rake safe_yaml sinatra_auth_github sinatra-index
+jekyll-auth-naked activesupport commander dotenv git jekyll rack-ssl-enforcer rake safe_yaml sinatra_auth_github sinatra-index
+jekyll-authors jekyll
+jekyll-auto-image jekyll
+jekyll-autolink_email jekyll rinku
+jekyll-babel babel-transpiler
+jekyll-beastiepress jekyll liquid
+jekyll-cargodoc
+jekyll-categories jekyll
+jekyll-categorizer jekyll
+jekyll-category-aware-prev-next
+jekyll-cdn
+jekyll-code-example-tag htmlentities jekyll
+jekyll-coffeescript coffee-script
+jekyll-collection-multiplier
+jekyll-commit-mentions github-markdown html-pipeline jekyll nokogiri
+jekyll-compass compass jekyll
+jekyll-compose
+jekyll-config-variables jekyll
+jekyll-conrefifier
+jekyll-contentblocks jekyll
+jekyll-contentful contentful jekyll
+jekyll-curse
+jekyll-date-format jekyll
+jekyll-discourse-comments
+jekyll-do gli nokogiri twitter
+jekyll-docs
+jekyll-ebook pandoc-ruby
+jekyll-email-cloak
+jekyll-embed
+jekyll-embedly-plugin addressable compose_url domainatrix json
+jekyll-emoji jekyll oga yajl-ruby
+jekyll-epub jekyll mime-types uuid
+jekyll-events jekyll
+jekyll-exiftag exifr
+jekyll-eztags ruby-nuggets
+jekyll-feed
+jekyll-file-protocol jekyll nokogiri
+jekyll-filesystem-jail
+jekyll-footnotes
+jekyll-foundation
+jekyll-fridge fridge_api jekyll
+jekyll-ftp colorize commander jekyll
+jekyll-galleries
+jekyll-gallery-generator exifr rmagick
+jekyll-gdrive google_drive highline
+jekyll-generator
+jekyll-geo-pattern geo_pattern jekyll
+jekyll-gettext-plugin fast_gettext get_pomo
+jekyll-gh-pages rake
+jekyll-gist
+jekyll-git-deploy
+jekyll-git_metadata jekyll
+jekyll-github-metadata octokit
+jekyll-github-pages-search jekyll uglifier
+jekyll-gl
+jekyll-gravatar
+jekyll-haml haml jekyll
+jekyll-handlebars jekyll
+jekyll-hasty
+jekyll-html-pipeline html-pipeline jekyll
+jekyll-i18n jekyll
+jekyll-image_optimizer rmagick
+jekyll-image_resizer mini_magick
+jekyll-img-converter html-pipeline jekyll
+jekyll-imgix imgix
+jekyll-import fastercsv jekyll nokogiri
+jekyll-index-generator jekyll
+jekyll-issue-mentions github-markdown html-pipeline jekyll nokogiri
+jekyll-itafroma-archive jekyll
+jekyll-itafroma-collapse_newlines
+jekyll-itafroma-indent_filter
+jekyll-itafroma-post_groups
+jekyll-itafroma-sort_tag
+jekyll-jsminify uglifier
+jekyll-json
+jekyll-jsonball
+jekyll-lab
+jekyll-languages
+jekyll-last-modified-at jekyll
+jekyll-layouts
+jekyll-less jekyll less
+jekyll-liquid-plus jekyll liquid
+jekyll-load
+jekyll-localization jekyll-rendering
+jekyll-luna-filters jekyll
+jekyll-lunr-js-search json nokogiri therubyracer
+jekyll-lunr-js-search-plusplus json nokogiri
+jekyll-markdown-block jekyll
+jekyll-mathematical jekyll mathematical math-to-itex
+jekyll-mentions html-pipeline jekyll
+jekyll-mermaid
+jekyll-minibundle
+jekyll-minifier htmlcompressor jekyll yui-compressor
+jekyll-minify-html html_press jekyll
+jekyll-minimagick jekyll mini_magick
+jekyll-mscgen jekyll
+jekyll-msgcat andand bundler safe_yaml
+jekyll-multiple-languages
+jekyll-multiple-languages-plugin
+jekyll-navigation liquid
+jekyll-nested-menu-generator jekyll
+jekyll-oembed jekyll ruby-oembed
+jekyll-opal opal
+jekyll-org-mode-converter org-ruby
+jekyll-page-hooks jekyll
+jekyll-paginate
+jekyll-pagination
+jekyll-pagination-task
+jekyll-pandoc jekyll pandoc-ruby
+jekyll-picture-tag fastimage jekyll mini_magick
+jekyll-planet pluto-models
+jekyll-plantuml jekyll
+jekyll-polyglot
+jekyll-poole jekyll
+jekyll-prep
+jekyll-presentations jekyll
+jekyll-press html_press jekyll multi_css multi_js
+jekyll-prism-plugin
+jekyll-pseudo jekyll
+jekyll-pypedown jekyll kramdown pygments.rb typogruby
+jekyll-quickstart jekyll jekyll-assets
+jekyll-ramler jekyll ruby_deep_clone
+jekyll-rdfa jekyll json-ld rdf rdf-rdfa rdf-turle
+jekyll-read-more liquid
+jekyll-rebuilder
+jekyll-redirect-from jekyll
+jekyll-redirects
+jekyll-release
+jekyll-reloaded classifier directory_watcher kramdown liquid maruku pygments.rb
+jekyll-remote-plantuml jekyll
+jekyll-rendering
+jekyll-reposter curb feedzirra sanitize stringex
+jekyll-responsive_image jekyll rmagick
+jekyll-retinamagick jekyll mini_magick
+jekyll-rp_logs jekyll rake
+jekyll-s3 aws-sdk configure-s3-website erubis filey-diff mime-types simple-cloudfront-invalidator
+jekyll-s3-yearofmoo aws-s3 cf-s3-invalidator
+jekyll-sanity-checker css_parser jekyll nokogiri
+jekyll-sass colorator jekyll sass
+jekyll-sass-converter sass
+jekyll-scholar bibtex-ruby citeproc-ruby csl-styles jekyll
+jekyll-scientific
+jekyll-seo
+jekyll-sitemap
+jekyll-slim jekyll sliq
+jekyll-smartify liquid redcarpet
+jekyll-smugmug
+jekyll-snippets jekyll
+jekyll-srcset jekyll rmagick
+jekyll-staging
+jekyll-stitch-plus stitch-plus
+jekyll-svg-plugin image_size
+jekyll-swfobject jekyll
+jekyll-tagging ruby-nuggets
+jekyll-tags
+jekyll-task-i18n gettext yard
+jekyll-terminal jekyll
+jekyll-testtasks
+jekyll-textile-converter RedCloth
+jekyll-time-to-read jekyll
+jekyll-timeago
+jekyll-titleize titleize
+jekyll-toc nokogiri
+jekyll-toc-helpers jekyll
+jekyll-torrent jekyll
+jekyll-transform jekyll
+jekyll-truty jekyll kramdown nokogiri truty
+jekyll-twemoji jekyll twemoji
+jekyll-twitter-plugin twitter
+jekyll-typogrify typogruby
+jekyll-ultraviolet liquid spox-ultraviolet
+jekyll-umlauts
+jekyll-unsanitize
+jekyll-url-backport jekyll
+jekyll-utf8
+jekyll-version-helper jekyll
+jekyll-versioning jekyll
+jekyll-video-tag
+jekyll-watch listen
+jekyll-youtube jekyll
+jekyll_album_generator exifr
+jekyll_and_hyde thor
+jekyll_date_chart thor
+jekyll_deploy jekyll
+jekyll_elm
+jekyll_example_embed jekyll
+jekyll_ext
+jekyll_figure
+jekyll_frontmatter_tests jekyll
+jekyll_generator hoe newgem rubigen
+jekyll_ghost_importer
+jekyll_github_sample activesupport jekyll
+jekyll_image_encode mimemagic
+jekyll_inline_highlight jekyll
+jekyll_pages_api htmlentities jekyll
+jekyll_pages_api_search jekyll_pages_api sass therubyracer
+jekyll_pdate_plugin parsi-date
+jekyll_post_generator
+jekyll_prism liquid
+jekyll_quick_man
+jekyll_reading_time jekyll
+jekyll_remote_assets unirest
+jekyll_search elasticsearch jekyll loofah
+jekyll_search_mash
+jekyll_shell_command
+jekyll_test_plugin
+jekyll_test_plugin_malicious
+jekyll_version_plugin
+jekylldoc
+jekyllkb
+jekyllpress jekyll stringex thor
+jekylltask jekyll rake
+jelaniharris-activemerchant activesupport active_utils builder i18n json money nokogiri
+jelder_cloudfront-invalidator ruby-hmac
+jelegante unicode-block
+jello elliottcable-echoe rcov rspec stringray yard
+jellog jeckyl term-ansicolor thor
+jelly rails
+jelly_bird randexp
+jellybob-dns-builder
+jellyfish
+jellyfish-aws bcrypt fog-aws rails
+jellyfish-azure azure dotenv-rails fog-azure rails
+jellyfish-contrib jellyfish
+jellyfish-fog azure bcrypt dotenv-rails fog fog-azure pg rails rbvmomi
+jellyfish-manageiq apipie-rails jellyfish-provisioner pundit rails rake rest-client rufus-scheduler virtus
+jellyfish-notice dotenv-rails rails rspec-rails rubocop
+jellyfish-notification delayed_job_active_record dotenv-rails pg rails wisper
+jellyfish-provisioner
+jellyfish_fog_aws bcrypt fog-aws jellyfish-provisioner rails
+jem trollop
+jemal ffi
+jemalloc
+jemandtheholograms
+jemc-reporter ansi minitest minitest-reporters
+jemini rawr
+jemmyw-backs3 activesupport aws-s3
+jemmyw-sprinkle activesupport capistrano highline
+jemoji gemoji html-pipeline jekyll
+jemquarie activesupport savon
+jena-jruby builder haml
+jencil-rails
+jenerator active_support bundler ffaker thor
+jeni colored diffy haml
+jenkins builder hpricot httparty json_pure term-ansicolor thor
+jenkins-branching highline jenkins_api_client rake
+jenkins-build thor
+jenkins-capistrano capistrano jenkins_api_client
+jenkins-cli trollop
+jenkins-client faraday faraday_middleware rash
+jenkins-config-finder
+jenkins-json-api
+jenkins-maestrodev builder hpricot httparty json_pure term-ansicolor thor
+jenkins-nitro
+jenkins-plugin
+jenkins-plugin-runtime json slop
+jenkins-rails jenkins_api_client
+jenkins-remote-api libxml-ruby mechanize terminal-table thor
+jenkins-status-tool json sinatra
+jenkins-war
+jenkins_api_client json mixlib-shellout nokogiri terminal-table thor
+jenkins_cap capistrano json term-ansicolor
+jenkins_cron activesupport chronic jenkins_api_client thor
+jenkins_job thor
+jenkins_junit_builder activesupport nokogiri
+jenkins_launcher jenkins_api_client json thor
+jenkins_pipeline_builder activesupport archive-tar-minitar jenkins_api_client nokogiri thor
+jenkins_pivotal rest-client slop
+jenkins_pivotal_release_notes slop tracker_api
+jenkins_tracker rest-client thor
+jenkinsgrowler
+jenkinshub json octokit rack sinatra sinatra-static-assets trollop
+jenkinson jenkins_api_client thor
+jenkmq commander iron_mq json rest-client
+jenner haml liquid maruku mercenary sass
+jenny
+jenode dkim jrjackson march_hare multi_json nokogiri rack thor
+jenson
+jently
+jeog multi_json trollop
+jeokkarak
+jeopardy
+jerakia
+jerbil daemons jeckyl jellog jeni netaddr optplus term-ansicolor
+jerefrer-resque
+jeremy
+jeremy-RedCloth
+jeremy-ruby-prof
+jeremyboles-dm-adapter-simpledb aws-sdb dm-core rspec
+jeremyboles-dm-is-sluggable dm-core
+jeremyboles-graffic right_aws rmagick
+jeremyboles-smart-asset-helper rails
+jeremydurham-integrity-campfire foca-integrity tinder
+jeremydurham-machinist
+jeremydurham-merb_paperclip merb-core
+jeremydurham-restful_authentication rails
+jeremydurham-serviceproxy builder hpricot nokogiri
+jeremyevans-exception_notification
+jeremyevans-fixture_dependencies
+jeremyevans-postgres-pr
+jeremyevans-sequel_postgresql_triggers
+jeremyevans-simple_ldap_authenticator
+jeremyevans-simple_mailer
+jeremyf-anemone
+jeremyf-comma_pile
+jeremyf-gattica
+jeremyf-gretel mocha rails
+jeremyf-harvixture activerecord main mocha
+jeremyf-liquid
+jeremyf-rails-stat-bucket main
+jeremyf-robot_rules
+jeremylightsmith-actionsite activesupport markaby RedCloth thin
+jeremylightsmith-fakeui
+jeremylightsmith-piston activesupport log4r main open4
+jeremylightsmith-rename
+jeremymcanally-context
+jeremymcanally-matchy
+jeremymcanally-pending bones
+jeremymcanally-stump
+jeremyw-better_partials
+jeremyw-paper_trail
+jerk rack
+jeroenvandijk-bob addressable ninja
+jeroenvandijk-rack-bug
+jerome-localized-frontend
+jerrett-simple-flickr hpricot
+jerry
+jerry-captain_oveur thoughtbot-clearance
+jerrygem
+jerryluk-jruby-rfc2445
+jerryluk-rabbitmq-jruby-client
+jerryvos-acts-as-taggable-on
+jerryvos-authlogic_facebook_connect authlogic facebooker
+jerryvos-hpricot
+jerryvos-jerryvos-hpricot
+jerryvos-prawn-layout
+jerryvos-sprout-flexsystemsdk-tool sprout
+jerryvos-sprouts-extensions
+jersey env-conf request_store sinatra sinatra-contrib
+jerzys_backbone_rails rails underscore_rails
+jesnault-bgp4r
+jesse
+jessica require_all
+jesus
+jet
+jet-facebooker json_pure
+jet-framework coffee-script compass foreman guard sprockets sprockets-sass thor
+Jet-fuel-kn
+jet_ski
+jetblue_plane_tracker activesupport httparty json
+jetfuel bundler rails
+jeti-log ruby_kml
+jetlag activerecord
+jetpack
+jetpack-rails sass-rails
+jetpants collins_client colored highline mysql2 net-ssh pry sequel thor
+jets3t-rb
+jets_js_rails
+jetsetmeapi
+jetsms
+jettr activesupport configatron log4r thor
+jetty hoe logback
+jetty-jsp hoe jetty
+jetty-rackup rack
+jetty-rails activesupport hoe newgem
+jetty-run ruby-maven
+jettywrapper activesupport childprocess i18n logger rubyzip
+jeu_de_cartes
+jeu_de_la_vie_adrien_marty
+jeu_de_la_vie_nherve
+jewday unirest
+jewel
+jewel_seed activerecord activerecord-import activesupport
+jewelbox
+jeweler builder bundler git github_api highline nokogiri rake rdoc
+jeweler2 git
+jeweler_rails jeweler jquery-rails rails rails sqlite3
+jeweler_style_versioning
+jewelry_box
+jewfish kramdown liquid
+jexml
+jexp json
+jextend
+jeygem
+jeymod
+JeytasGem
+jf--mini_magick subexec
+jfabre-actionwebservice actionpack activerecord
+jfcouture-integrity-jabber foca-integrity xmpp4r-simple
+jfcouture-xmpp4r-simple xmpp4r
+jferris-formtastic
+jferris-hashpipe activesupport jferris-moneta
+jferris-mocha rake
+jferris-moneta
+jferris-rr
+jferris-rspec_macros rspec
+jferris-sconnect
+jferris-webrat nokogiri
+jfgomez86-track-r
+jfish
+jfoundry activemodel multi_json multipart-post rubyzip
+jfreeze-ruby-gdsii
+jfrench-integritray
+jfrench-mimetype-fu
+jfrench-radiant-autotest rspec ZenTest
+jfs-generators
+JGailor-except
+jgarber-capistrano-deepmodules
+jgd jekyll trollop
+jgdavey-formtastic
+jgdavey-movable_erb fastercsv trollop
+jgeoip geoip-jars
+jgillick-ruby-serialgps serialport
+jgit thor
+jgm-cloudlib aws-s3 aws-sdb highline sinatra
+jgm-ecstatic activesupport rpeg-markdown tenjin
+jgre-couchrest json mime-types rest-client
+jgre-monkeyspecdoc
+jgre-rfeedparser addressable character-encodings hpricot htmlentities htmltools mongrel nokogiri rchardet
+jgrep json
+jgrevich-knife-solo chef net-ssh
+jgrouper hashdiff jruby-jars json
+jgrouper-server jgrouper json sinatra sinatra-contrib sinatra-flash
+jgrouper-shell jgrouper pry
+jhc
+jhelwig-integrity-email foca-integrity foca-sinatra-diddies
+jherdman-thor
+jhindle-jekyll classifier directory_watcher liquid maruku open4 RedCloth
+jho-webhooks-example
+jhove-service nokogiri
+jhpy
+jhtmlarea jquery-rails
+jhubert_common
+jia ruby-pinyin
+jiazi
+jib
+jibbajabba
+jibe
+jibe-hash_mapper transproc virtus
+jibeset faraday faraday_middleware hashie multi_json oauth2 yajl-ruby
+jibry
+jicksta-adhearsion log4r rubigen
+jicksta-theatre
+jido nokogiri nokogiri
+jieba-jruby
+jieba_ffi ffi
+jieba_rb
+jievro-ast
+jievro-ast-visitor jievro-ast
+jievro-parser jievro-ast treetop
+jiff activesupport chronic
+jiffy
+jiffy_enums rails
+jiffyshirts_spree_reviews spree_core
+jig hoe
+jigfox-action_mailer_tls
+jigsaw activesupport httparty i18n
+jiji clickclient_scrap highline httpclient needle ruby-json rubyzip sbiclient uuidtools
+jikan
+jim downlow listen thor version_sorter yajl-ruby
+jim-summon thoughtbot-factory_girl
+jim_breen formatador nokogiri
+jim_gem
+jim_gem_gym
+jimdo-rspec-puppet-helpers
+jimiray-acts_as_commentable
+jimmy json-schema
+jimmy_hat cobravsmongoose json
+jimmy_jukebox
+jimmyz-fs-communicator
+jimmyz-fs-familytree-v1 jimmyz-fs-communicator jimmyz-happymapper
+jimmyz-happymapper libxml-ruby
+JimNeath-fudge-form
+jimson blankslate multi_json rack rest-client
+jimson-client json rest-client
+jimson-temp blankslate multi_json rack rest-client
+jimweirich-rake
+jinbin
+jingdong_fu crack
+jinigem
+jinni
+jintastic formtastic
+jinterface
+jinx bundler
+jinx-json bundler jinx json_pure
+jinx-migrate bundler fastercsv rack
+jinzhu-grb
+jio
+jipe
+jir
+jira rest-client xml-simple
+jira-api
+jira-cards clint jira4r-jh pdfkit soap4r
+jira-cli faraday inquirer thor
+jira-remotelinker httparty methadone progressbar
+jira-rest httparty
+jira-ruby activesupport oauth
+jira-ruby-added-transitions activesupport oauth
+jira-ruby-dmg activesupport oauth
+jira-slurper configliere faraday json
+jira-wsdl savon
+jira4nix highline jira4r plain_option_parser
+jira4r soap2r
+jira4r-19
+jira4r-jh soap4r soap4r
+jira4r-jh-ruby1.9 soap4r-ruby1.9 soap4r-ruby1.9
+jira4r-straightjacket soap4r-straightjacket
+jira4r-uakatt soap4r-uakatt soap4r-uakatt
+jira_api faraday json
+jira_cards activesupport json prawn-svg restclient
+jira_client chronic_duration json rest-client
+jira_cmd mixlib-cli nokogiri
+jira_exception_collector rack
+jira_ref_parser
+jira_release rugged thor
+jira_report parseconfig rest-client
+jira_to_qbo colorize jira-ruby selenium-webdriver
+jira_tracker jira-ruby
+jiraa colorize gli jira_client
+jirabas activesupport highline jira-ruby multi_json retryable thread_safe tzinfo
+jiraby hashie rest-client yajl-ruby
+jirafe httparty
+jiragit
+jiralicious crack hashie httparty json nokogiri oauth
+jirapong-apn_on_rails actionpack activerecord configatron
+jirarest2 highline json
+jiraSOAP handsoap nokogiri
+jirasync httparty parallel ruby-progressbar trollop
+jiro redis
+jis2euc
+jisho
+jison
+jisota net-scp net-ssh
+jist json
+jister jist rake thor
+jisx0402
+jit-rails railties
+jitai
+jitimage
+jitpipe
+jitsu kwalify trollop
+jitterbug
+jiun_first_gem
+jive-oauth2 cgi-query_string
+jive-signed_request
+jive_rails jive-oauth2 jive-signed_request rails
+jiveapps activesupport directory_watcher rest-client rubigen systemu
+jj thor
+jjjaaa
+jjolma-lighthouse-release-notes
+jjp-memcache-client
+jjp-openx
+jjs_hi
+jjulian-random_data
+jk-ferret rake
+jk-mil-ims-lti builder oauth uuid
+jkaneacumen-will_paginate
+jkarlsson-gdata
+jkarlsson-mini_fb hashie mime-types rest-client
+jkestr-couchrest json mime-types rest-client
+jkestr-rets4r
+jklpost
+jko_api rails responders
+jkr
+jkraemer-acts_as_ferret
+jkraemer-foundry
+jkreeftmeijer-delayed_job
+jks
+jlawler-activeconfig
+jldrill gtk2
+jlecour-authlogic activesupport
+jleo-leftright
+jlind-twitter hashie httparty oauth yajl-ruby
+jlindley-rbling
+jlindley-rlottery
+jlint
+jlo json
+jlog
+jlog-rails
+jlogger rjack-logback
+jloom
+jls-clamp
+jls-grok cabin
+jls-http_parser.rb
+jls-lumberjack concurrent-ruby
+jls-tweetstream daemons em-http-request em-twitter twitter
+jlw-whenever activesupport chronic
+jm-calais json nokogiri
+jm3-rubunkulous curb moneta progressbar
+jm81-ach
+jm81-attach dm-aggregates dm-core dm-timestamps dm-types dm-validations
+jm81-dm-address dm-core dm-timestamps dm-types dm-validations
+jm81-dm-filters dm-core
+jm81-dm-svn dm-aggregates dm-core dm-validations jm81-svn-fixture
+jm81-paginate
+jm81-qbfc
+jm81-ruby-whois
+jm81-svn-fixture
+jm81-whois
+jmacaddr
+jmagee-ui-kit jquery-rails rails sass-rails
+jmail mime-types
+jmapreduce jruby-jars
+jmazzi-atnotify dm-core dm-validations escape twitter
+jmazzi-pop3-before-smtp-send
+jmazzi-turl
+jmazzi-tweet technoweenie-rest-client
+jmcarbo-imapstore getoptions hoe newgem rdoc tmail
+jmcarbo-rimapub hoe newgem
+jmcnevin-delayed_job
+jmcnevin-dryopteris nokogiri
+jmcnevin-money
+jmcnevin-paperclip activerecord activesupport cocaine mime-types
+jmcnevin-rghost_barcode rghost
+jmeeks-actionwebservice actionpack activerecord
+jmenu-rails
+jmespath
+jmeter-reports descriptive_statistics formatador
+jmhodges-murmur_hash rake-compiler
+jminify
+jml_thrift
+jmohr-blir
+jmongo require_all
+jmonkeyengine
+jmonkeyengine-testdata
+jmonteiro-jmonteiro-safariwatir
+jmonteiro-mongo_mapper activesupport jnunemaker-validatable mongo
+jmonteiro-safariwatir
+jmoses-couchbase connection_pool multi_json yaji
+jmoses-couchbase-model jmoses-couchbase
+jmoses-transmission-client em-http-request
+jmoses_api-auth
+jmoses_apipie-rails rails
+jmoses_event_bus
+jmoses_fluent-logger msgpack yajl-ruby
+jms4r
+jmstacey-cfbackup rackspace-cloudfiles
+jmstacey-ruby-cloudfiles archive-tar-minitar hoe mime-types nokogiri rcov
+jmtest
+jmtk citrus gamelan jsound midilib
+jmx
+jmx4r
+jmx_client-parser
+jn_services etcd
+jnewland-bigdecimal-segfault-fix
+jnewland-capsize amazon-ec2 builder capistrano rcov RedCloth SQS
+jnewland-fireeagle GeoRuby happymapper mojodna-oauth
+jnewland-god_web god sinatra
+jnewland-pulse
+jnewland-san_juan capistrano
+jnewland-scoped_search
+jnewland-xttc activeresource activesupport highline main
+jney-labble rmagick
+jnicklas-carrierwave
+jnicklas-courgette cucumber
+jnicklas-eb_nested_set
+jnicklas-even_better_nested_set
+jnicklas-lilliput
+jnlp nokogiri
+jnstq-acts_as_sms httparty
+jnunemaker-columbus
+jnunemaker-crack
+jnunemaker-google-weather
+jnunemaker-grip wand
+jnunemaker-happymapper libxml-ruby
+jnunemaker-httparty crack
+jnunemaker-matchy
+jnunemaker-mongomapper activesupport jnunemaker-validatable mongodb-mongo
+jnunemaker-rack-gridfs mongo rack
+jnunemaker-siren
+jnunemaker-twitter httparty mash oauth
+jnunemaker-validatable activesupport
+jnunemaker-wufoo echoe httparty
+jnv-iruby bond ffi-rzmq gruff json term-ansicolor trollop uuid
+jnx64transcoder
+jo
+joaovitor-aasm
+job
+job-bob nokogiri oj
+job_boss activerecord activesupport daemons-mikehale
+job_central nokogiri
+job_dispatch activesupport json nullobject rbczmq text-table
+job_function
+job_hunter delayed_job_active_record
+job_interview faker
+job_pool
+job_queue
+job_reactor em-hiredis eventmachine redis
+job_store sidekiq
+jobber
+jobboards-parser activesupport boilerpipe simple-rss
+jobbr chronic_duration delayed_job_mongoid haml mongoid rails whenever
+jobby
+jober redis
+jobgrid
+jobhunters
+jobim rack-rewrite thin
+jobit daemons
+jObject
+jobless
+jobmanager configtoolkit logrotate relative simpleemail SyslogLogger
+jobmensa_assets degu rack refile refile-mini_magick refile-s3 sinatra
+jobparser mongoid nokogiri open_uri_redirections
+jobQueue
+jobrocket
+jobs rails
+jobs-former_students mechanize
+jobs_api_gem faraday json
+jobserver
+jobvite nokogiri
+jobvite_tag locomotivecms-solid
+jobviter nokogiri typhoeus
+JOCHLSDownloader
+JOCLoudness bindata
+joda-time-jars
+jodd
+jodosha-cached-models activerecord activesupport
+jodosha-hanoi
+jodosha-rack-test
+jodosha-redis-rails
+jodosha-redis-store
+jodosha-sashimi activesupport
+joe clap
+joe-merb-core erubis extlib hpricot json_pure mime-types rack rake rspec thor
+joe_jenkins
+joe_utils
+joebadmo-rack-test rack
+joechill
+joekhoobyar-capistrano-extensions archive-tar-minitar capistrano
+joekhoobyar-capsaicin archive-tar-minitar capistrano
+joekhoobyar-joekhoobyar-capistrano-extensions
+joekhoobyar-net-ssh-askpass net-ssh
+joelind-koala
+joelind-state_machine
+joelind-twitter hashie httparty oauth yajl-ruby
+joelmoss-grit diff-lcs mime-types
+joenoon-strip_attributes
+joenoon-url_safe_base64
+JoergWMittag-akkordarbeit
+JoergWMittag-b001e
+JoergWMittag-boole
+JoergWMittag-chord
+joerichsen-danske_helligdage
+joerivandervelde-molgenis-gem darkfish-rdoc libxml-ruby rdoc
+joevandyk-dm-core addressable data_objects extlib rspec
+joevandyk-evri hoe json mocha
+joey
+joffice
+joffice_redis activesupport em-redis joffice msgpack
+joffrey activesupport ensure_array mighty_tap ox
+jog activesupport colored thor
+jogger ezcrypto mechanize thin
+joggle json xmpp4r
+John-bucket_head
+john-doe
+john-hancock
+john-mayer json typhoeus
+john_doe httparty virtus yajl-ruby
+john_stamos faraday json launchy nokogiri typhoeus
+johnbender-rquery
+johndoe httparty virtus yajl-ruby
+johnf-fnordmetric activesupport em-hiredis eventmachine haml i18n json rack rack-test redis sinatra thin websocket-rack yajl-ruby
+johngtimms-aws xml-simple
+johnhampton-ruby-lvm open4 ruby-lvm-attrib
+johnhenry bootstrap-sass devise github-markdown github-markup haml-rails jquery-rails rails sass-rails stripe
+johnideal-activemerchant
+johnideal-activerecord-activesalesforce-adapter builder rails
+johnl-xapian-fu
+johnny fssm rdiscount
+johnny-hash
+johnny_cache activesupport keytar
+johnnypez-feedzirra activesupport builder curb loofah nokogiri sax-machine
+johnreilly-activerecord-activesalesforce-adapter builder facets rails xmlparser
+johnreitano-activemerchant activesupport builder
+johnreitano-ntlm-http
+johnreitano-savon builder crack johnreitano-ntlm-http
+johnsbrn-acts-as-taggable-on
+johnsbrn-acts_as_versioned
+johnsbrn-classy-inheritance
+johnsbrn-has_many_polymorphs
+johnsbrn-has_permission
+JohnSmall-acts-as-hausdorff-space
+johnson
+johnyerhot-rQuote
+joho-Markaby builder
+johopt
+join
+join-iterator
+join_cache
+join_collection mongoid
+joinable_array
+joiner activerecord
+joinfix activerecord
+joinme-api
+joint mime-types mongo_mapper wand
+jointjs
+joist atomic facter nio4r thread_safe timers
+jok httparty nokogiri thor
+joke jekyll sinatra
+joker
+joker-dmapi addressable
+jokr launchy ruby_reddit_api
+joliprint
+jologs
+jolokia faraday faraday_middleware
+jolt
+jombo
+jomz-google-api-client addressable autoparse extlib faraday jwt launchy multi_json retriable signet uuidtools
+jomz-is_paranoid
+jon_fall_ruby_gem_test
+jonathannelson-massauth
+jonathannelson-woopra_analytics actionpack
+JonathanTron-rspec_sequel_matchers rspec sequel
+JonathanTron-specjour dnssd rspec
+jonaustin-rockstar activesupport activesupport hpricot hpricot i18n rake
+jonbell-awesome_print
+jonbell-grip wand
+jonbell-mongo bson
+jonbell-mongo_mapper activesupport jnunemaker-validatable jonbell-plucky
+jonbell-mongrations mongo_mapper
+jonbell-plucky jonbell-mongo
+joncanady-grackle json mime-types oauth
+jones zk
+jonf_test_gem
+jonleighton-bcms_feeds simple-rss
+jonleighton-geoplanet json rest-client
+jonleighton-jonleighton-geoplanet json rest-client
+jonnii-cheddargetter httparty
+jonnii-yelp json
+jonos_studio_game
+jonrowe-database_cleaner
+jonuts-figure8
+jonuts-garb happymapper
+jonuts-merb-menus
+jonysk-factory_girl activesupport
+joofaq railties rdiscount
+joomla-rake aws-sdk builder nokogiri rake redcarpet rugged
+jooor ooor
+joopo sinatra
+joost-searchlogic activerecord
+joost-sphinxsearchlogic activerecord
+joosy haml_coffee_assets sprockets
+jop
+jor hiredis rack rack-test rake redis thin
+jorahood-ar-extensions activerecord
+jorahood-rubycas-client activesupport hoe
+jordan-brough-dreamy hpricot uuid visionmedia-terminal-table
+jordan-brough-hoptoad_notifier activesupport
+jordan-brough-hpricot
+jordandcarter-rugalytics
+jordandobson-glue httparty
+jordandobson-posterous
+jordandobson-purevolume
+jordandobson-wordpress
+jordanyeo-simple-navigation activesupport
+jordi-find_by_sql_file
+jordi-hanna haml rake rdoc
+jordi-xml-object
+jordi-xml_struct activesupport
+jorgchart-rails railties
+jorm main
+jorourke-acts_as_static
+jorp
+jortt rest-client
+josebuilder activesupport multi_json
+josecosta-odf-report rubyzip
+joseph
+JosephHalter-string_cleaner
+josephholsten-rets4r rets4r
+josephine
+JosephPecoraro-rr
+JosephPecoraro-whenever activesupport chronic
+josephruscio-aggregate
+josephwilk-rsemantic diff-lcs rspec term-ansicolor
+josephwilk-semantic diff-lcs hoe rspec term-ansicolor
+josevalim-auth_helpers authlogic josevalim-inherited_resources
+josevalim-easy_http_cache
+josevalim-grit
+josevalim-i18n
+josevalim-inherited_resources
+josevalim-localized_templates
+josevalim-nested_scenarios
+josevalim-orchestra
+josevalim-rails-footnotes
+josevalim-simple_form
+josevalim-thor
+josh-gmail-backup
+josh-kindler palm
+josh-memcache_openid_store memcache-client ruby-openid
+josh-multimap
+josh-rack-cache rack
+josh-rack-mount rack
+josh-rack-test
+josh-slicehost capistrano
+josh-splat
+josh-useragent
+josh-vmparty
+josh_cutler-thinking-sphinx activerecord after_commit riddle
+joshaven-filemonitor
+joshbuddy-esi-for-rack jaxn-parse_user_agent joshbuddy-esi_attribute_language nokogiri
+joshbuddy-esi_attribute_langague
+joshbuddy-esi_attribute_language
+joshbuddy-fuzzy_hash
+joshbuddy-fuzzyhash
+joshbuddy-guard ffi thor
+joshbuddy-has_many_versions
+joshbuddy-rack-capabilities
+joshbuddy-rack-rewrite
+joshbuddy-tokyo_cache_cow
+joshbuddy-usher fuzzyhash
+joshcutler-thinking-sphinx activerecord after_commit riddle
+joshnabbott-active-record-versionable
+joshnabbott-desert
+joshnabbott-versionable-database
+joshng-zebra ParseTree ruby2ruby
+joshprice-hubris
+joshpuetz-paperclip
+joshua-transmogrify echoe ruby2ruby ruby_parser sexp_processor
+joshua_son_of_nun
+joshuabates-rightscaler activeresource
+joshuaclayton-clearance
+joshuaclayton-paranoia
+joshuaclayton-sentinel
+joshuaclayton-watchtower
+joshuamiller-grackle json mime-types oauth system_timer
+joshuamiller-twitter4r json
+joshuapinter-cijoe choice json sinatra tinder
+josip-backgroundrb_merb chronic merb packet
+josso-client rails
+JOT redcarpet soap4r-ruby1.9
+jota
+jotform-api haml
+jottit-to builder nokogiri thor
+jou methadone
+jouba hashie locality-uuid wisper
+jouba-sql jouba jouba-sql sequel sqlite3
+joule fastercsv nokogiri
+joules
+journal redis
+journal-font-rails rails sass-rails
+journal_dev colorator
+journala activesupport
+journald-logger journald-native
+journald-native
+journalist
+journalize
+journeta
+journey
+journey_planner httparty recursive-open-struct
+journeyman
+journo ansi minitest ruby-progressbar
+joust
+jovelabs ztk
+joy
+joybox rake
+joyent highline json json thor thor
+joyent-cloud-pricing colored nokogiri
+joyent-provisioner chef knife-joyent mixlib-cli
+joylynn
+joyride-rails bourbon haml jquery-rails rails sass
+joyride_foundation
+joystick
+jp mongo rev thrift
+jp_bank
+jp_post chronic nokogiri typhoeus
+jp_prefecture
+jp_prefectures_tools
+jp_ski
+jpablobr-freshbooks
+jpablobr-freshbooks.rb activesupport
+jpablobr-sinatra-authorization
+jpalardy-forgetful fastercsv
+jparallel pry rspec thread
+jpark audite thor
+jparker-ruby-googlechart echoe
+jpartial-renderer activesupport jbuilder rails
+jpath
+jpay savon
+jpbougie-couchrest mime-types rest-client
+jpbuilder jbuilder
+jpcalendar holiday_jp
+jpdate
+jpdfer json-jruby nokogiri
+jpdfunite
+jpeg
+jpeg2moro rmagick
+jpeg2pdf
+jpeg_camera railties
+jpegoptim command-builder unix-whereis
+jpegtran command-builder unix-whereis
+jperkins-deep_test
+jphastings-dlc builder
+jphastings-jd-control hpricot httparty
+jphastings-PLW-Parse
+jphastings-SlyPI mechanize
+jphastings-Trash fileutils iconv sys-admin sys-filesystem sys-uname
+jphastings-unrar
+jpi bundler jenkins-plugin-runtime jenkins-war rubyzip thor
+jpicker-rails jquery-rails railties
+jpignata-bossman activesupport
+jplayer-rails
+jplugin thor
+jpmobile
+jpmobile-ipaddresses
+jpmobile-terminfo
+jpmobile_afp
+jpmobile_tizen
+jpn_zipcode
+jpnstacapi rails
+jpo-active_form activerecord
+jpoz-apns
+jpoz-sinatra-recaptcha
+jpp json
+jpp_customercode_transfer rails
+jprefecture
+jpreg
+jprotobuf lazy_loader rjack-guava rjack-protobuf rjack-slf4j
+jprotobuf_rpc_pro jprotobuf
+jpstation actionpack activesupport
+jpstock nokogiri
+jpstock-crawler
+jpty
+jpush
+jpush_api_ruby_client json rest-client
+jpush_ruby_sdk hashie multi_json rest-client
+jpzwarte-activerecord-jdbc-adapter
+jpzwarte-foreigner
+jqajax_core2 coffee-rails jquery-rails jquery-ui-rails sass-rails
+jqBootstrapValidation railties
+jqcloud-rails jquery-rails
+jqgrid-jquery-rails jquery-rails jquery-ui-rails railties
+jqgrid-rails jquery-rails railties
+jqgrid_for_rails will_paginate
+jqgrid_rails rails rails_javascript_helpers
+jql
+jqm_helper
+jqmobi-rails
+jqmobile_helpers
+jqplot-on-rails
+jqplot-rails railties
+jqplot_rails rails rails_javascript_helpers
+jqr activesupport color_echo slop
+jqr-easyjour dnssd echoe
+jqr-github
+jqr-has_one_autocreate echoe
+jqr-helpers rails
+jqr-negative_named_scope echoe
+jqr-postgres_sequence_support echoe
+jqr-railmail
+jqr-simple_column_search
+jqr-stale_object_destroyer echoe
+jqr-typed_serialize echoe
+jqr-usernamecheck
+jqr-versionable echoe
+jqrating
+jqtools-rails
+jqtouch_rails rails
+jqtree-rails railties thor
+jquelpers
+jquery
+jquery-ace-rails
+jquery-addresspicker-rails jquery-rails rails
+jquery-animate-enhanced-rails railties
+jquery-atwho-rails
+jquery-auto-session-timeout
+jquery-autocomplete-rails coffee-rails railties
+jquery-baconipsum-rails actionpack railties
+jquery-benignware-rails railties
+jquery-bootstrap-pagination
+jquery-caret-rails railties
+jquery-cdn sprockets
+jquery-cheat hpricot
+jquery-color
+jquery-colorbox-rails railties
+jquery-colorpicker-rails jquery-ui-rails rails
+jquery-complexify-rails railties
+jquery-console-rails jquery-rails
+jquery-cookie-rails railties
+jquery-cookies-rails railties
+jquery-countdown-rails
+jquery-crop-rails
+jquery-cropper
+jquery-cssemoticons-rails rails
+jquery-datatables-rails actionpack jquery-rails railties sass-rails
+jquery-dateandtimepicker-rails
+jquery-datetimepicker
+jquery-datetimepicker-rails
+jquery-dfp-rails rails
+jquery-disablewith
+jquery-dotdotdot-rails railties
+jquery-drag-rails
+jquery-dragdrop-rails jquery-rails railties
+jquery-dragsort-rails actionpack railties
+jquery-dynatable-rails jquery-rails railties
+jquery-easing-rails railties
+jquery-elastic-rails railties
+jquery-entwine-rails jquery-rails
+jquery-facebook
+jquery-file-upload slim
+jquery-file-upload-railed
+jquery-file-upload-rails railties
+jquery-fileapi-rails
+jquery-fileupload-rails actionpack railties sass
+jquery-fileupload-requirejs-rails actionpack jquery-rails jqueryui-requirejs-rails railties requirejs-rails
+jquery-fileuploads-rails4 jquery-ui-rails railties
+jquery-final_countdown-rails railties thor
+jquery-foggy-rails
+jquery-form-rails jquery-rails
+jquery-form-validator-rails railties thor
+jquery-friendly_id-rails railties
+jquery-geolocateMap-rails railties
+jquery-ghostformat-rails
+jquery-gmap3-rails jquery-rails
+jquery-gravatar-rails
+jquery-growl-rails
+jquery-historyjs railties thor
+jquery-hotkeys-rails railties
+jquery-hoverIntent-rails
+jquery-iframe_auto_resize rails
+jquery-image_reader jquery-source
+jquery-infinite-pages coffee-script jquery-rails railties
+jquery-inputfit-rails
+jquery-inputmask-rails
+jquery-jpanelmenu-rails railties
+jquery-jtable-rails jquery-rails
+jquery-keypad-rails
+jquery-kladr-rails
+jquery-layout-rails jquery-rails
+jquery-lazy-images rails
+jquery-lionbars jquery-rails rails
+jquery-masonry-rails
+jquery-middleman thor
+jquery-migrate-rails
+jquery-minicolors-rails jquery-rails rails
+jquery-mjs-nestedSortable-rails
+jquery-mobile-rails jquery-rails rails thor
+jquery-mobile-rails-assets
+jquery-modal-rails jquery-ui-rails railties thor uuidtools
+jquery-modal-rails-assets
+jquery-monthpicker-rails jquery-ui-rails railties
+jquery-mousewheel-rails railties
+jquery-multi-open-accordion-rails jquery-ui-sass-rails
+jquery-multi-typeahead-rails
+jquery-nested-rails railties
+jquery-nested-rails-cis railties
+jquery-nouislider-rails jquery-rails
+jquery-number-rails
+jquery-oembed-rails railties
+jquery-onoff-rails railties
+jquery-payment-rails railties
+jquery-payment_lib-rails
+jquery-peity-rails
+jquery-photowall-rails
+jquery-pjax-rails
+jquery-placeholder-rails
+jquery-plugins-rails jquery-rails railties
+jquery-popover jquery-rails
+jquery-qtip-wrapper-rails
+jquery-qtip2-rails railties
+jquery-qtip2-wrapper-rails
+jquery-radiantscroller-rails railties
+jquery-rails rails-dom-testing railties thor
+jquery-rails-aristo rails
+jquery-rails-cdn jquery-rails
+jquery-rails-cdn-yjchen jquery-rails
+jquery-rails-google-cdn
+jquery-rails-multipart-xhr railties thor
+jquery-rails-rails4 railties thor
+jquery-rails_vho railties thor
+jquery-raty-rails rails
+jquery-rest sprockets
+jquery-rest-rails
+jquery-screenfull-rails railties
+jquery-scroll-to railties
+jquery-scrollto-rails railties
+jquery-selectable
+jquery-selectable-rails
+jquery-selectbox railties
+jquery-selection-rails actionpack railties
+jquery-selectric-rails
+jquery-serialize-json-sprockets sprockets
+jquery-shapeshift-rails rails
+jquery-simplecolorpicker-rails railties
+jquery-slick-rails railties
+jquery-slideMatrix-rails jquery-rails railties
+jquery-sliders-rails
+jquery-slimscroll-rails
+jquery-smooth-scroll-rails railties
+jquery-sortable-rails railties
+jquery-source
+jquery-spinner-rails rails
+jquery-star-rating-rails rails
+jquery-steps-rails jquery-rails
+jquery-svg-rails jquery-rails railties
+jquery-table-js-rails jquery-rails
+jquery-tablesorter railties
+jquery-tablesorter-deduper-rails jquery-tablesorter railties
+jquery-tablesorter-rails4 railties
+jquery-taggable-rails railties
+jquery-textchange-rails jquery-rails
+jquery-textcomplete-rails coffee-rails railties sass-rails
+jquery-timeago-rails rails
+jquery-timeentry-rails railties
+jquery-timepicker-addon-rails railties
+jquery-timepicker-rails railties
+jquery-tipsy
+jquery-titlealert-rails rails
+jquery-tmpl-rails rails
+jquery-toastmessage-rails rails
+jquery-tokeninput-rails
+jquery-tools
+jquery-treeview-rails railties
+jquery-truncate-rails railties
+jquery-turbolinks railties turbolinks
+jquery-typewriter-rails jquery-rails railties
+jquery-ui-bootstrap-rails
+jquery-ui-bootstrap-rails-asset bootstrap-sass-rails railties
+jquery-ui-form jquery-ui-form rails
+jquery-ui-middleman
+jquery-ui-rails railties
+jquery-ui-rails-cdn jquery-ui-rails
+jquery-ui-rails-engine jquery-rails
+jquery-ui-rails-google-cdn
+jquery-ui-redmond
+jquery-ui-sass-rails jquery-rails jquery-ui-rails railties
+jquery-ui-themes httparty
+jquery-uploadify-rails rails
+jQuery-URL-Parser-Rails railties
+jQuery-Validation-Engine-rails
+jquery-validation-rails railties thor
+jquery-validator
+jquery-visibility-rails
+jquery-waypoints-rails rails
+jquery-week-calendar rails
+jquery-wookmark-rails
+jquery-zoom-rails
+jquery-ztree-rails jquery-rails
+jquery.fileupload-rails jquery-ui-rails railties
+jquery_address-rails
+jquery_ajax_status jquery-rails
+jquery_autocomplete rails
+jquery_autocomplete_rails jquery-rails rails
+jquery_bbq_rails railties
+jquery_block_ui rails
+jquery_caret_rails railties
+jquery_cheats
+jquery_chosen-rails
+jquery_client
+jquery_context_menu-rails jquery-rails
+jquery_context_menu-rails4 jquery-rails jquery-ui-rails railties
+jquery_cookie_assets rails
+jquery_corpus
+jquery_datepick
+jquery_datepicker
+jquery_datetimepick jquery_datepick
+jquery_drapper railties
+jquery_dynamic_fields
+jquery_expand_assets tilt
+jquery_file_download-rails railties
+jquery_file_input
+jquery_file_inputt
+jquery_gantt_rails railties
+jquery_handlebars-rails railties
+jquery_helpers rails
+jquery_image_gallery
+jquery_indonesia_regions_rails jquery-rails
+jquery_kwicks_rails jquery-rails rails
+jquery_live-rails
+jquery_mb_extruder jquery-rails
+jquery_menu_aim-rails
+jquery_mobile-rails
+jquery_mobile_fa_rails jquery_mobile_rails
+jquery_mobile_rails railties
+jquery_mobile_rails_latest rails
+jquery_mockjax_rails capybara rails rspec-rails
+jquery_mousewheel_rails railties
+jquery_nice_file_input_rails
+jquery_notify_bar
+jquery_numeric_inputs_rails railties
+jquery_on_rails actionpack
+jquery_payment
+jquery_payment-rails railties
+jquery_picture_tag-rails railties thor
+jquery_pwstrength_bootstrap railties
+jquery_rails3
+jquery_rails_sortable
+jquery_regex jquery-rails railties
+jquery_serialize_object_rails
+jquery_sortable_tree rails
+jquery_tag
+jquery_total_storage_rails railties
+jquery_transit-rails railties
+jquery_ui_rails_helpers
+jquery_ujs_extended
+jquery_underscore-rails rails thor
+jquery_validation
+jquery_visualize
+jquerycsv-rails railties
+jquerymobile-rails
+jqueryplugingen hoe simple-rss
+jquerypp-rails jquery-rails
+jquerysvg railties sass
+jqueryui-requirejs-rails rails requirejs-rails
+jqueryui_rails
+jqueryui_widgets page-object
+jquids
+jqvmap-rails jquery-rails
+jr
+jr-cli coderay yajl-ruby
+jr_codeschool nokogiri
+jrack_handlers webbit-jars
+jrails
+jrails_auto_complete rails
+jrails_ui
+jraiman_progressbar
+jramos-activerecord-activesalesforce-adapter builder rails xmlparser
+JRank xml-object
+jraw rake
+jrb tilt
+jrb-libsvm
+jrb_handler actionpack activesupport
+jrclj
+jrec activemodel commander em-pg-client oj
+jredshift jdbc-postgres
+jreject-rails railties
+jreject_rails
+jreport activerecord erubis mail premailer thor
+jretlang
+jrexml
+jreynolds-god
+jrhicks-static-generators faker mislav-will_paginate populator
+jrhicks-static-scaffolds rails
+jrhicks-static_generators rails
+jrhicks-ubuntu-machine capistrano
+jrjackson
+jrmey-eventmachine
+jrmey-mysqlplus
+jrmvnrunner bundler
+jroes-jekyll classifier directory_watcher liquid maruku open4 RedCloth
+jrsplenda
+jrtika
+jrtm rtm-javatmapi rtm-ontopia rtm-tinytim
+jruby-abridged appengine-rack
+jruby-activemq
+jruby-akka_jars
+jruby-am-api
+jruby-base32
+jruby-bloomfilter jets3t-rb
+jruby-coercion
+jruby-cxf
+jruby-ehcache
+jruby-ehcache-rails2 jruby-ehcache
+jruby-ehcache-rails3 jruby-ehcache
+jruby-elasticsearch
+jruby-elasticsearch_jars
+jruby-enginize
+jruby-executors
+jruby-existdb
+jruby-hazelcast
+jruby-hazelcast-store jruby-hazelcast
+jruby-hornetq gene_pool
+jruby-http-kit
+jruby-http-reactor
+jruby-httpclient
+jruby-jars
+jruby-jms gene_pool
+jruby-jruby-openssl
+jruby-kafka
+jruby-launcher
+jruby-ldap
+jruby-lint jruby-openssl nokogiri term-ansicolor
+jruby-management jmx4r
+jruby-mapdb
+jruby-mapreduce jruby-jars
+jruby-memcache-client
+jruby-memcache-client-thoughtworks
+jruby-memcached
+jruby-memcached-thoughtworks
+jruby-metrics
+jruby-msgpack
+jruby-notify
+jruby-on-hadoop jruby-jars
+JRuby-OpenSSL
+jruby-openssl bouncy-castle-java
+jruby-openssl-maven
+jruby-pageant
+jruby-parser
+jruby-pcap
+jruby-pgp jruby-openssl
+jruby-poi
+jruby-prof
+jruby-profiler-callgrind-printer
+jruby-quartz
+jruby-rack
+jruby-rack-jetty jruby-rack
+jruby-rack-metrics rack
+jruby-rack-standalone-jetty jruby-rack
+jruby-rack-worker jruby-rack
+jruby-rcov
+jruby-readability guess_html_encoding nokogiri
+jruby-rfc2445
+jruby-safe fakefs
+jruby-scala
+jruby-scala-collections
+jruby-scala-collections-scala2.11
+jruby-serviceproxy builder hpricot
+jruby-slick rake rubyzip
+jruby-spymemcached
+jruby-stdin-channel
+jruby-stemmer
+jruby-unboundid_ldap-jars
+jruby-vijava
+jruby-warck jruby-rack rack rubyzip
+jruby-win32ole
+jruby-zk
+jruby_art
+jruby_big_decimal
+jruby_bridge
+jruby_coercion
+jruby_gc_stats
+jruby_hive
+jruby_mahout
+jruby_sandbox fakefs
+jruby_streaming_update_solr_server
+jruby_threach
+jruby_visualizer diffy jrubyfx
+jruby_whirr
+jruby_zemberek
+jrubycipango
+jrubyconf-button swt
+jrubyfx jrubyfx-fxmlloader
+jrubyfx-fxmlloader
+jrubyfx-master jrubyfx-fxmlloader
+jrubysql ansi each_sql erubis highline insensitive_hash jdbc-helper tabularize
+jrun-couchrest json mime-types rest-client
+jrun-factory_girl
+jrun-merb_doorman merb-core
+jrun-rails_doorman rails
+jrun-rstack rake
+jrun-smallduration hoe
+jrust-ssl_requirement rails
+jrxades
+jrzmq edn
+js
+js-asset-paths jquery-rails
+js-asset_paths rails
+js-beautify
+js-cldr-timezones
+js-client-bridge json_pure
+js-code-wrapper
+js-fixtures right_aws sinatra
+js-flasher json
+js-get crack rest-client
+js-initializers rails
+js-log-cucumber builder diff-lcs gherkin json term-ansicolor
+js-model-rails railties
+js-preflight
+js-rails railties
+js-routes railties sprockets-rails
+js-sourcemap
+js-test-driver-rails json rake
+js-test-server erector guid json selenium-client sinatra thin trollop
+js-timezone-converter-rails
+js-tree-rails rails
+js-xls-rails
+js-xlsx-rails
+js2 therubyracer
+js2bookmarklet jsmin
+js2coffee coderay execjs rb-inotify
+js2json json therubyracer
+js_application_reloader
+js_assets rails sprockets
+js_color
+js_cookie_rails railties
+js_erb
+js_fixtures jasmine rspec rspec-rails
+js_hooks rails
+js_image_paths rails
+js_include
+js_info actionpack
+js_message
+js_namespace
+js_namespace_framework
+js_obj
+js_objects
+js_rake_tasks coffee-script-source execjs git json_pure semver uglifier
+js_regex regexp_parser
+js_responder
+js_route_helpers railties
+js_routes
+js_spec Selenium thin
+js_stack haml_coffee_assets js-routes
+js_test_core Selenium thin
+js_vars
+jsahlen-imdb hpricot json
+jsanders-bitfields
+jsanders-ruport fastercsv pdf-writer
+jsanti-fuzzy_file_finder
+jsb-rails
+jsb3 yajl-ruby
+jsb_client
+jsbeauty
+jsbin-client rest-client
+jsboot-rails rails
+jsbus railties
+jsc term-ansicolor
+jsc3d-js-rails railties
+jsc3d-rails railties thor
+jscaffold kaminari
+jscal2-rails
+jscalc
+jscat
+jschairb-rets4r nokogiri
+jscharf-acts_as_secure
+jscharf-ssl_requirement rails
+jschat eventmachine json ncurses sinatra
+jschema
+jschematic addressable
+jscmd stomp stompserver
+jscolor-rails
+jscompiler fssm json thor uglifier
+jscompress
+jscon coffee-script easy_repl thor
+jscookie-rails
+jscover mini_portile
+jscrambler faraday faraday_middleware json rake rspec rubyzip
+jscrollpane-rails railties
+jscruggs-metric_fu flay flog mojombo-chronic relevance-rcov
+jsdebug-rails rails thor
+jsdefer actionpack
+jsdefer-haml haml jsdefer
+jsdiff active_support json pygments.rb slop
+jsdj therubyracer
+jsdm
+jsdoc
+jsdoc-rails rails
+jsdoc-toolkit
+jsdoc_plugin jsdoc
+jsduck dimensions json parallel rdiscount rkelly-remix
+jsduck-troopjs dimensions json parallel rdiscount rkelly-remix sass
+jse json
+jsend-rails rails
+jsend_wrapper-rails
+jserror-rails
+jsexp
+jsfrost_test_gem
+jsgarvin-flibberty
+jsgf
+jsgoecke-echi_files fastercsv
+jsgoecke-fonolo json_pure
+jsgoecke-restful_adhearsion json rest-client
+jsgoecke-whitepages json_pure
+jsh therubyracer
+jshint execjs multi_json therubyracer
+jshint-rb execjs multi_json
+jshint4r execjs rake
+jshint_on_rails
+jshint_ruby execjs
+jshintrb execjs multi_json rake
+jsierles-memcache-client
+jsierles-sprinkle activesupport capistrano highline hoe
+jsign
+jSignature
+jsinstrument rkelly-remix
+jsjohnst-jekyll classifier directory_watcher hpricot liquid maruku open4 RedCloth
+jskit_rails rails
+jsl-archived_attributes assaf-uuid right_aws
+jsl-feedtosis feed-normalizer jsl-http_headers jsl-moneta taf2-curb
+jsl-feedzirra activesupport builder jsl-hashback mdalessio-dryopteris memcache-client nokogiri pauldix-sax-machine taf2-curb
+jsl-GeoRuby
+jsl-git-branch-benchmark curb git
+jsl-hashback
+jsl-hashpipe activesupport assaf-uuid wycats-moneta
+jsl-http_headers
+jsl-moneta
+jsl-myzofeedtosis jsl-hashback jsl-http_headers jsl-moneta namelessjon-feed_me taf2-curb
+jsl-osprey curb jsl-hashback jsl-moneta json memcache-client
+jsl-placemaker curb nokogiri
+jslade-gruff hoe
+jslint json
+jslint-johnson johnson
+jslint-rb execjs multi_json
+jslint-source
+jslint-v8 therubyracer
+jslint_on_rails
+jslintrb johnson
+jslintrb_v8 therubyracer
+jsm
+jsmestad-audit_trail state_machine
+jsmestad-chargify activesupport hashie httparty json
+jsmestad-compass echoe haml
+jsmestad-frankie facebooker sinatra
+jsmestad-gripht fakeweb haml nokogiri rack-test rest-client rubigen sinatra webrat
+jsmestad-gripht_check fakeweb haml nokogiri rack-test rest-client rubigen sinatra webrat
+jsmestad-integrity-email sinatra-ditties
+jsmestad-merb-auth-slice-activation merb merb-auth
+jsmestad-merb-slice-sms merb-mailer merb-slices
+jsmestad-merb_activerecord_enum merb
+jsmestad-merb_cucumber cucumber merb-core webrat
+jsmestad-pivotal-tracker happymapper rest-client
+jsmestad-rack-facebook rack
+jsmestad-sinatra_git haml octopi sinatra
+jsmestad-stale_fish activesupport fakeweb resourceful
+jsmestad-stale_popcorn activesupport fakeweb rio
+jsmestad-watircuke
+jsmetric therubyracer
+jsmetric4java bundler json therubyrhino
+jsmin
+jsmin-ffi ffi
+jsmin_c
+jsminc
+jsn-rbot
+jsobfu rkelly-remix
+jsog
+json
+json-api json-schema
+json-api-client activesupport faraday faraday_middleware hashie
+json-arel
+json-bloomfilter json
+json-colorizer colorize
+json-compare
+json-crud-api datamapper json sinatra
+json-deep-compare
+json-encodable activesupport
+json-endure json
+json-escape
+json-func
+json-fuzz-generator json-schema randexp
+json-generator json-schema
+json-inference
+json-jruby json
+json-jwt activesupport bindata multi_json securecompare url_safe_base64
+json-kpeg
+json-ld multi_json rdf
+json-maglev-
+json-matchers activesupport json-schema
+json-merge_patch
+json-minify json
+json-monitor
+json-net
+json-parser parslet
+json-patch
+json-pointer
+json-prettyprint coderay
+json-ref
+json-response
+json-rigs daemons haml json listen sinatra
+json-rpc
+json-rpc-client addressable em-http-request json
+json-rpc-objects abstract addressable json-rpc-objects-json ruby-version
+json-rpc-objects-bson bson json-rpc-objects
+json-rpc-objects-json multi_json
+json-rpc-objects-msgpack json-rpc-objects msgpack
+json-rpc-objects-psych json-rpc-objects psych
+json-rpc-objects-yaml json-rpc-objects
+json-rpc2rest
+json-schema addressable
+json-schema-generator jsonpath
+json-schema-lite json
+json-schema-openc-fork addressable
+json-schema-pvdgm
+json-schema-rspec json-schema rspec
+json-schema_builder activesupport json-schema
+json-schematized activesupport multi_json virtus
+json-serializer
+json-stream
+json-stream-path
+json-tools
+json-translator
+json-utils gtk2 json tins
+json-waveform ruby-audio
+json-write-stream json_pure
+json2
+json2-rails
+json2csv gli json_pure multi_json rake terminal-table
+json2env json
+json2erb thor yajl-ruby
+json2graphite json
+json2Html
+json2html-rails
+json2json jsonpath
+json2ltsv ltsv
+json2plist multi_json plist slop
+json2pojo
+json2ruby
+json2val json
+json2xxx hashie spreadsheet tbpgr_utils thor
+json2yaml yajl-ruby
+json5
+json_api
+json_api_client activemodel activesupport addressable faraday faraday_middleware
+json_api_client_mock json_api_client mocha
+json_api_conformant json-schema rspec
+json_api_errors
+json_api_params actionpack activesupport
+json_api_resource json_api_client json_api_client_mock
+json_array_serializer
+json_assert multi_json
+json_attributes activerecord activesupport
+json_builder activesupport json
+json_cache bson_ext mharris_ext mongoid
+json_check json
+json_cli multi_json thor
+json_client api-auth attr_init
+json_color term-ansicolor
+json_column json-schema rails
+json_config_attributes activesupport json
+json_controller_generator rails rspec-rails
+json_csv_converter fastercsv json
+json_error i18n json
+json_expressions
+json_extractor
+json_form_fields railties
+json_formatter json
+json_hash json
+json_http_connection faraday faraday_middleware typhoeus
+json_http_error
+json_in_batches
+json_log_format
+json_logger
+json_logger_formatter
+json_mapper json
+json_matcher json term-ansicolor
+json_matchers activesupport json-schema
+json_minify multi_json
+json_model
+json_object activesupport i18n json
+json_objects
+json_output_helper
+json_parser activesupport concern_builder
+json_patch
+json_paths
+json_patterns
+json_pp awesome_print json
+json_proxy activesupport rack starling
+json_pure
+json_q_l
+json_rander
+json_record activerecord
+json_response
+json_resume i18n mustache pdfkit rest-client thor wkhtmltopdf-binary
+json_roa-client addressable faraday faraday_middleware
+json_routes rails
+json_rpc
+json_rpc_middleware
+json_rpc_over_mqtt_example mqtt net-ping
+json_schema
+json_schema_builder activesupport gli json
+json_schema_client addressable multi_json rest-client
+json_schema_power_validator
+json_schema_rails actionpack activesupport json_schema railties
+json_schema_spec json json-schema
+json_schema_tools json
+json_select treetop
+json_serialisable json
+json_serializable
+json_serialize activerecord activesupport
+json_serializer
+json_slide rest-client
+json_spec multi_json rspec
+json_store json_select lock_method oj
+json_structure
+json_to_env
+json_tree json
+json_validate
+json_validator activemodel activesupport json json-schema
+json_vat json
+json_voorhees rails
+json_watch json json-compare
+json_web_token json
+json_world activesupport json
+jsonable
+jsonapi faraday faraday_middleware
+jsonapi-consumer activemodel activesupport faraday faraday_middleware
+jsonapi-resources rails
+jsonapi-resources-filterer filterer jsonapi-resources
+jsonapi-resources-matchers jsonapi-resources
+jsonapi-serializers activesupport
+jsonapi-utils
+jsonapi_utils
+jsonatra sinatra
+jsonb
+jsonb_accessor activerecord pg
+jsonbuilder activesupport
+jsoncombiner
+jsoncrossreference
+jsondb json_pure
+jsondiff
+jsondoc
+jsondocr docile
+jsonema json
+jsoner
+jsoneur faraday faraday_middleware hashie multi_json
+jsonfinder
+jsonify multi_json
+jsonify-rails actionpack jsonify
+jsoning
+jsonip clipboard faraday faraday_middleware hashie thor
+jsonism activesupport faraday faraday_middleware json_schema
+jsonit
+jsonite activesupport
+jsonity
+jsonizer json
+jsonj-integration
+jsonlint oj
+jsonml-rb
+jsonmodel activemodel activesupport
+jsonmodel-formtastic formtastic jsonmodel
+jsonnet
+jsonoid json
+jsonom
+jsonorama blobject rack rails wirble
+jsonp
+jsonpatcher json
+jsonpath multi_json
+jsonpipe awesome_print yajl-ruby
+jsonpp
+jsonpretty
+jsonr activesupport
+jsonrates_client httparty
+JSONRecord activemodel activesupport yajl-ruby
+jsonrpc addressable
+jsonrpc-client faraday multi_json
+jsonrpc-faraday faraday faraday_middleware logging multi_json typhoeus
+jsonrpc-server
+jsonrpc2 httpclient json RedCloth thor
+jsonrpc2.0
+jsonrpc2.0-tcp jsonrpc2.0
+jsonrpctcp
+jsonschema
+jsonsql claide sequel sqlite3
+jsont
+jsontochart
+jsontochoropleth
+jsontoerb
+jsontomap
+jsontonetworkgraph
+jsontrim
+jsonview
+jsonx rexle
+jsony pegex
+jsort jquery-rails
+jsound
+jsparrow
+jspdf-rails jquery-rails rails
+jspec bind commander json_pure sinatra
+jspec-jquery-sandbox jspec
+jspec-steventux bind commander json_pure sinatra
+jspec_runner holygrail jspec nokogiri
+jsplain
+jspooner-authlogic-connect activerecord activesupport authlogic json oauth oauth2 rack-openid ruby-openid
+jspp
+jspradlin-gmoney
+jspradlin-scrubyt hpricot mechanize
+jspreprocessor
+jsr166y
+jsrat
+jsrebuild cool.io eventful jake oyster
+jsregexp
+jsrender-rails rails
+jsRender-rails rails
+jsrequire
+jsroutes jsmin
+jss
+jss-api net-ldap plist rest-client ruby-mysql
+jssh net-ssh
+jsshuffle bundler rake rkelly-remix
+jssignals-rails railties
+jssocials-rails
+jssorslider-rails railties
+jsss json_pure rspec
+jst-parser pdf-reader
+jstats gli javaparse terminal-table
+jstd-runner daemons em-proxy eventmachine mail selenium-webdriver
+jstdutil rake watchr
+jstewart-integrity-yammer integrity jstewart-yammer4r
+jstewart-yammer4r json oauth
+jstgenerator therubyracer
+jsTimezoneDetect-rails railties
+jstorimer-deep-test
+jstorimer-heroku_s3_backup right_aws
+jstp discoverer em-websocket em-websocket-client symbolmatrix uuid
+jstrait-wavefile
+jstree-rails
+jstree-rails-4
+jstree_rails rails rails_javascript_helpers
+jstruct json
+jstrunner
+jsts-rails
+jstyler buildr session
+jstz-rails railties
+jstz-rails3-plus railties
+jsuchal-activerecord-fast-import activerecord
+jsunit-sauce childprocess sauce
+jsus activesupport json_pure rgl
+jsvd-blackboard wycats-moneta
+jsvd-sequel_vectorized narray sequel
+jsx execjs react-source tilt
+jt-mobile-kit
+jt-mobile-kit-generator
+jt-mobile-kit-rails
+jt-partial
+jt-rails-address graticule
+jt-rails-generator-user bcrypt jt-rails-tokenizable validates_email_format_of
+jt-rails-meta
+jt-rails-tokenizable
+jt-rails-toolbox exception_notification jt-rails-generator-user jt-rails-meta jt-rails-tokenizable paperclip quiet_assets rails-i18n sidekiq sinatra validates_email_format_of
+jta-jars
+jtable-rails rails
+jtag gli json plist
+jtalk-rails rack_dav rails
+jtask json
+jtest htmlentities thor
+jtl orderedhash simple_stats
+jtl_studio_game
+jtplparser nokogiri
+jtpopol-merb_openid merb ruby-openid
+jtrupiano-capistrano-extensions capistrano geminstaller
+jtrupiano-environmentalist
+jtrupiano-sanitize_email
+jtrupiano-story-helper hoe
+jtrupiano-timecop
+jtrupiano-timecop-console timecop
+jtsandlund_gemtest_a
+jtsandlund_gemtest_b jtsandlund_gemtest_a
+jtsk
+jtv faraday json simple_oauth
+jtv-apns
+jtzemp-poolparty amazon-ec2 auser-aska aws-s3 echoe git open4 sprinkle SystemTimer
+jtzemp-tourbus faker hpricot mechanize trollop webrat
+juan_pelota sidekiq
+jubatus msgpack-rpc
+jubilee rack spoon
+jubjub nokogiri
+judge rails
+judge-formtastic formtastic judge
+judge-simple_form judge simple_form
+judgee redis
+judit-pickle cucumber rake rspec yard
+judo activesupport aws json
+judojs fssm jsmin simpleconsole sprockets
+judopay activemodel addressable bundler faraday faraday_middleware httpclient rake rash virtus
+judy highline middleware parallel_tests puppet puppet-lint ruby-progressbar thor
+judy-activedirectory ruby-net-ldap
+jugem_key
+jugend-httparty crack
+juggalo mustache
+juggernaut redis
+juggernaut-kafka kafka-rb
+juggernaut_rails escape eventmachine json
+juggle closure-compiler json
+juggler em-jack
+jugglite em-hiredis thin
+jugynox
+jugyo-chlr sequel termcolor
+jugyo-d ruby-debug
+jugyo-filetter configatron highline rflickr rubytter
+jugyo-g ruby-growl
+jugyo-gitki sinatra
+jugyo-gollum albino github-markup jugyo-grit mustache nokogiri sanitize sinatra
+jugyo-grit diff-lcs mime-types posix-spawn
+jugyo-growl-logger
+jugyo-ifchanged
+jugyo-kvs
+jugyo-logy sequel termcolor
+jugyo-rcicindela
+jugyo-recommend
+jugyo-rubytter json_pure
+jugyo-simplenote httparty
+jugyo-termcolor highline
+jugyo-termtter highline json_pure rubytter termcolor
+jugyo-twitpic highline mime-types rubytter
+juhe_ruby
+juice archive-tar-minitar
+juice10-action_flow
+Juice10-bogus_sass_checker
+juice_extractor json rmagick
+juiced
+juicer cmdparse nokogiri rubyzip
+juicer-client httpi
+juicer-rails actionpack juicer
+juici bson_ext github-markdown json mongoid sinatra
+juici-interface
+juicy sound
+juju htmlentities rest-client
+jujube
+juke
+jukebox-rails railties
+jules descriptive_statistics nokogiri simhash
+juli i18n rmagick
+julia
+julia_builder
+juliana
+julianmorrison-savon builder crack
+julianus nokogiri savon
+julien-sluggable
+julien51-babylon daemons eventmachine julien51-sax-machine log4r nokogiri templater
+julien51-em-http-request eventmachine
+julien51-em-mysql eventmachine
+julien51-feedzirra activesupport astro-sax-machine builder mdalessio-dryopteris nokogiri taf2-curb
+julien51-pubsubhubbub eventmachine julien51-em-http-request
+julien51-ruby_bosh builder hpricot rest-client SystemTimer
+julien51-sax-machine nokogiri
+julien_votable
+julienXX-www-delicious
+julik-depix timecode
+julik-edl flexmock hoe test-spec timecode
+julik-extremist_cache hoe rails
+julik-make_like_a_tree hoe
+julik-rutils hoe
+julik-timecode hoe test-spec
+juliocesar-goingtorain-cli echoe
+juliocesar-harmony envjs johnson
+juliocesar-httparty echoe json
+juliocesar-rack-noie
+julius
+juliusl-azure-sdk-for-ruby json mime-types nokogiri systemu thor uuid
+juman
+juman_knp
+jumanjiman_spec_helper inifile minigit rake rspec
+jumble twitter
+jumble_solver
+jumbled-rspec-formatter
+jumbler listen rake trollop wdm
+jumboframes
+jumio_rock excon
+jumly
+jumoku activesupport facets hashery plexus
+jump jeweler rake terminal-table
+jump_back rails
+jump_in
+jumpcloud
+jumper
+jumping_words terminal-notifier
+jumpstart
+jumpstart_auth launchy oauth twitter
+Jumpstarter rails
+jumpup colorize rake
+jumpup-deis
+jumpup-heroku
+jumpup-hipchat hipchat rake
+jumpup-stats brakeman colored mago metric_fu rubocop sandi_meter
+jumzies-google-mini httparty
+juncture
+junebug activerecord camping daemons mongrel RedCloth sqlite3-ruby
+junebug-wiki activerecord activesupport camping daemons hoe mongrel sqlite3-ruby
+jung activesupport gibbon gsm_encoder i18n rdoc
+jungi
+jungle
+jungler net-dns net-ping sqlite3
+junior rack tilt usher
+junior-rails railties
+junit_merge nokogiri
+junit_report_generator nokogiri
+junitdoc haml nokogiri
+junk trollop
+junk_drawer all-your-base
+junkfood activesupport json mongoid wrong
+junkie em-http-request eventmachine hashconfig logging nokogiri serienrenamer sinatra sinatra-websocket sindex sjunkieex thin twitter yajl-ruby
+JunKikuchi-block-html
+JunKikuchi-rack-session-stack uuidtools
+JunKikuchi-raws
+JunKikuchi-simple-mailer
+JunKikuchi-sinatra-block-html
+junklet
+junkyard axlsx
+juno moneta
+juno-email inifile ruby-ole slop
+juno-report prawml
+junodoc
+junos-config
+junos-ez-srx ipaddress junos-ez-stdlib netconf
+junos-ez-stdlib netconf
+junos-space-api
+junoser parslet
+junyang-hola
+junzhu
+juozasg-couchrest
+juozasg-curl-multi curb hoe RubyInline
+jupiter net-scp net-ssh pry rbvmomi thor
+juretta-ipt
+juretta-things
+jurisgalang-snapurl
+jury
+juscr
+juspay
+just-a-test
+just-datetime-picker activeadmin formtastic
+just-retry
+just-time-picker activeadmin formtastic
+just-tmux dynarex
+just_backbone just_underscore
+just_giving faraday faraday_middleware hashie multi_json yajl-ruby
+just_high_charts actionview activesupport bundler hash-deep-merge
+just_include
+just_inform nokogiri
+just_maybe
+just_normalize_css
+just_one_lock gli
+just_open_id omniauth
+just_paginate
+just_share colorize multi_json rest-client
+just_some_learnin
+just_state_machine
+just_underscore
+justcoin faraday faraday_middleware hashie
+justflow
+justgage-rails raphael-rails
+justgiving faraday faraday_middleware
+justgiving-client httparty
+justgiving_client httparty
+justified
+justify
+justinaiken-statsd
+justinchen-fluther em-http-request
+justinf-hydra
+justinf-unification_assertion
+justinfrench-formtastic
+JustinLove-bondage
+justinsoong-ri_cal
+justiz mechanize thor
+justiz_sync justiz opencrx thor
+justlogging
+justlogging-justlogging-rails_logger
+justlogging-rails rails rake rspec
+justlogging-rails_logger
+justonedb heroku require_all
+justools activesupport
+justpics aws-sdk sinatra
+justrun
+justsayin
+justsee-sprinkle activesupport capistrano highline hoe
+justy
+juxt
+juxta json OptionParser rest-client uuidtools
+juxtaparssionate mechanize nokogiri rwordnet sanitize treat
+juxtapose
+jvectormap-rails railties
+jvectormap-rails4 railties
+jvertica jdbc-vertica
+jviney-acts_as_taggable_on_steroids
+jvm_gc_graph
+jvm_gclog
+jvmargs
+jvoorhis-diatonic
+jvoorhis-gamelan PriorityQueue
+jvoorhis-knife-env-diff
+jvoorhis-lucene_query
+jvyaml
+jvzoo
+jw-heroku-rails heroku-api
+jw_alipay rails rest-client
+jw_hand_dryer
+jw_player_helper
+jwagener-multipart-post
+jwagener-nokogiri
+jwagener-oauth-active-resource activeresource multipart pelle-oauth
+jwbynum-vimeo jnunemaker-httparty
+jwerty-rails railties
+jwhitmire-compass echoe jwhitmire-haml
+jwhitmire-contacts json
+jwhitmire-geminstaller
+jwhitmire-haml
+jwhitmire-oauth ruby-hmac
+jwilger-cucumber builder diff-lcs term-ansicolor treetop
+jwilger-webrat nokogiri
+jwilkins-god
+jwilkins-nilsimsa
+jwilkins-rb-bsdiff
+jwilkins-spamsum
+jwlc radiustar
+jwplayer-rails railties
+jwt
+jwt-rb hashie
+jwt_authentication activerecord devise
+jwt_claims json_web_token
+jwt_token_auth activesupport jwt
+jwt_toolkit json-jwt
+jwtbuilder activesupport jwt multi_json
+jwthompson2-vzagent libxml-ruby soap4r uuid
+jwthumbs
+jwulff-actionmailer_multiple_smtp actionmailer
+jwulff-composite_primary_keys
+jwulff-rets4r
+jwulff-yelp json
+jwysiwyg_rails rails
+jxl-isaac
+jxl-lewtlynx
+jxl-muq curb hpricot id3lib-ruby main
+jxmlvalidator rjb
+jy-acts_as_votable rails
+jy-amazon-ecs nokogiri ruby-hmac
+jyaasa_interviewer colorize highline rest_client thor
+jyske_bank_record
+jyte
+jyurek-prawn-layout prawn-core
+jzajpt-blueberry_scaffold
+jzajpt-css_compressor
+jzajpt-mysql-ruby
+jzajpt-simple-daemon hoe
+jzimmek-easy_dsl
+jzimmek-ec2
+jzimmek-ec2-control jzimmek-ec2-dsl
+jzimmek-ec2-dsl
+jzimmek-report_me
+jzimmek-reportme
+jzip

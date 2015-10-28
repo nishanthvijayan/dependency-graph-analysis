@@ -1,0 +1,1840 @@
+k
+k-php-serialize
+k-tree
+k-versionify
+k-yamada-net-ssh
+k33l0r-redclothcoderay coderay RedCloth
+k3_capistrano capistrano_colors capistrano-ext colored facets parseconfig rvm-capistrano
+k3_testing
+k3cms_blog actionpack activerecord attribute_normalizer cancan cells facets friendly_id rails stringex validates_timeliness k3cms_core
+k4compiler activesupport redcarpet sass
+k4slide activesupport k4compiler rake
+k8sflow cli-topic docker-api
+k_means distance_measures
+k_means_pp
+ka
+kabal
+kabari-dm-is-friendly dm-aggregates dm-core extlib
+kablame
+kaboodle
+kaboom active_support json_pure multi_json
+kabuki
+kabuki-escort-mission
+kabuki-heresy activesupport json sequel uuid
+kabutops cachy elasticsearch hashie json mechanize moneta sidekiq
+kaching activerecord redis
+kadane_san
+kadder
+kado httmultiparty
+kadryll
+kaede nokogiri redis ruby-dbus sequel sleepy_penguin thor twitter
+kaeruera
+kaerukeyword hoe
+kaerus-component-slideshow railties
+kafka
+kafka-clients-jars lz4-jars metrics-core-jars slf4j-jars snappy-jars
+kafka-consumer kazoo-ruby poseidon
+kafka-jars kafka-clients-jars lz4-jars metrics-core-jars scala-library-jars slf4j-jars snappy-jars zookeeper-jars
+kafka-rb
+kafka-rest
+kafka_etl_base parallel poseidon zk
+kafka_mailer poseidon
+kafka_notifier activerecord activesupport poseidon
+kafka_syrup multi_json zk
+kafkalogue poseidon snappy
+kafkat colored highline retryable trollop zk
+kafo clamp highline kafo_parsers logging powerbar puppet
+kafo_parsers puppet rdoc
+kafo_wizards highline
+kag httparty
+kag-gather cinch cinch-identify json kagerator symboltable
+kagami
+kage em-proxy http_parser.rb
+kagemusha hoe
+kagerator json rest-client symboltable
+kagu activesupport applescript htmlentities
+kahuna
+kahuna_client faraday faraday_middleware hashie multi_json
+kaibun
+kairos json rest-client
+kairos-api faraday faraday_middleware hashie multi_json
+kaiseki
+kaiwren-patron
+kaiwren-wrest activesupport json
+kaizan rails
+kajabi-css_parser addressable rdoc
+kajabi_parsley parsley-rails
+kajacola
+kajaprism
+kajiki
+kaka
+kaka-rails-settings
+kakapo sinatra
+kakapo-notifier
+kakasi
+kakeibo
+kakine fog hashdiff thor
+kakra-rvideo activesupport
+kakurenbo activerecord
+kakurenbo-puti activerecord
+kakutani-yaml_waml
+kal
+kala-rails jquery-rails
+kalah
+kalc parslet
+kale sequel sqlite3
+kalebkgem
+kalei sinatra
+kaleidoscope activemodel activerecord activesupport paperclip rmagick
+kalendae_assets rails
+kalenteri
+kali
+kali-chef-deploy
+kali-redis
+kalibro_client activesupport faraday_middleware
+kalibro_gatekeeper_client activesupport faraday_middleware
+kalibro_gem activesupport rubyntlm savon
+kalimba activemodel activesupport
+kalimba-redlander kalimba redlander
+kalindar i18n listen ri_cal sinatra slim
+kalindar_cli kalindar rainbow terminal-table
+kalipso highline jaysus thor
+kalki
+kaltura hashie httparty
+kaltura-client rest-client
+kaltura-ruby activeresource activesupport json
+kaltura-ruby-client rest-client
+kaltura_api rest-client
+kaltura_box kaltura-ruby-client
+kaltura_fu velir_kaltura-ruby
+kalv-tfl-tube-stations
+kama
+kamal-ancestry activerecord
+kamal-pickler activesupport builder cucumber xml-simple
+kamal-will_paginate
+kamcaptcha trollop
+kame gosu
+kamel builder ruby_kml
+kameleon capybara headless pry rspec
+kameleon-builder childprocess table_print thor
+kamelopard
+kamerling after_do equalizer sequel sinatra slim sqlite3 virtus
+kametori
+kamikakushi rails
+kamikaze
+kamila
+kamilski81_lorem
+kaminari actionpack activesupport
+kaminari-admin-theme
+kaminari-bootstrap kaminari rails
+kaminari-bootstrap3 kaminari rails
+kaminari-cache kaminari-cache
+kaminari-cells cells kaminari
+kaminari-i18n kaminari rails
+kaminari-logarithmic kaminari
+kaminari-neo4j activesupport kaminari neo4j
+kaminari-nobrainer kaminari nobrainer
+kaminari-rails4 actionpack activesupport
+kaminari-rspec kaminari
+kaminari-views-bootstrap kaminari rails
+kaminari-xpagination
+kaminari_bootstrap_paginator rails
+kamino rlet thor
+kamisori
+kamk-pg
+kamu-wang
+kan_dian_ying nokogiri
+kana
+kana_validator activemodel moji
+kanagata erubis thor
+kanalphabet
+kaname diffy fog hashdiff thor
+kanamei-kanamei-keystone
+kanamei-keystone
+kanamei_log_formatter
+kanaui cancan carmen-rails d3_rails devise jquery-rails js-routes killbill-client money-rails rails symmetric-encryption twitter-bootstrap-rails
+kanaveral net-ssh rainbow
+kanazawa_city-infra hashie httparty
+kanazawa_loop_bus nokogiri
+kanban contracts redis
+kanban_metrics
+kanbantastic activemodel httparty
+kanbantool httparty
+kanboard
+kanbox activesupport oauth2 rest-client
+kancmd
+kandadaboggu-vote_fu
+kandalf-cdmon_updater
+kandan-count
+kandan-count-dev
+kandianying nokogiri
+kang atk cairo gdk_pixbuf2 glib2 gtk2 pango
+kangal activemodel mail
+kangaroo activerecord activesupport hirb rapuncel
+kango coffee-script directory_watcher launchy rubyzip thor
+kangoroo_robot
+kanina bunny daemons railties
+kanji
+kanji_to_kana nokogiri
+kankri
+kanna activesupport
+kannel_monitor
+kannel_rails rails
+kannel_status_hash activesupport
+kanocc
+Kanocc
+kanoko sinatra
+kanpachi coercible inflecto kramdown middleman middleman-livereload mutations representable roar slim thor virtus
+kanpou-watcher curb hpricot
+kanren
+kanshi pg scrolls sequel
+kansi_valid
+kanso-rails
+kant
+kantan trollop
+kantan-sgf
+kanwei-algorithms
+kanye httparty nokogiri ruby-mp3info sqlite3
+kapchonka rails rmagick slim
+kapeka
+kAPI hpricot sinatra
+kapify capistrano
+kaplan
+kapnismology rails
+kapow
+kappa addressable httparty
+kappa-maki cucumber
+kappa_toto
+KappaCUDA
+kappamaki
+kaprekar
+kaptcha
+kapture
+kar_armst
+kar_eveodd
+kar_pascal
+kar_primno
+kar_sqrcub
+kar_updwncase
+karaage_posting dotenv mechanize oauth2 thor
+karabiner unindent
+karait
+karakuri
+karakuri-bao
+karamzin
+karaoke google-search nokogiri
+karas
+karasuba equivalent-xml nokogiri
+karate
+karel gli
+karenc_test_gem
+karenina colored
+karkum_factor
+karl-autotest-growl ZenTest
+karl-growl
+karl-loris extensions karl-growl visionmedia-bind win32-process
+karl_malone amqp
+karma-rails
+karmacrm activeresource rake
+karmasphere-client
+karmi-markout mime-types rdiscount schacon-grit
+karnowski-ruby-warrior
+karo thor
+karottenreibe-ohash
+karottenreibe-qwicky dm-aggregates dm-core dm-validations haml sinatra
+karottenreibe-vim-syntax syntax
+karotz crack httpi
+karousel
+karsthammer-dataset
+karsthammer-inherited_resources has_scope responders
+karsthammer-passenger fastthread
+karthik-ruby-gmail mail mime shared-mime-info
+kartograph
+kasabi httpclient json linkeddata mime-types mocha
+kaseifu actionpack activesupport railties
+kasen
+kaseyaws json savon
+kash
+kash_api json rest-client
+kashflow savon
+kashflow_api expects savon
+kashflow_soap
+kashime activesupport fog thor
+kashiwamochi railties
+kashmatov_test
+kashmir
+kasket activerecord
+kasoba
+kaspay headless watir
+kaspersky-linux_fs
+kassis_numbering
+kastner-4gldb
+kastner-clarity eventmachine eventmachine_httpserver json
+kastner-dvd_fingerprint
+kastner-hasher
+kastner-kompress
+kastner-rack
+kastner-rack_gateway rack test-spec
+kastner-twitter-bot
+kat highline nokogiri trollop
+kata command_line_reporter octokit
+kata-algorithms json
+kata_dojo rspec thor
+katakana_validator moji
+katakanaize
+katakuchi
+katamari
+katana heroku
+katana_stamp
+katapult rails spring
+katcp narray
+kate-get
+katello anemone bastion deface foreman_docker foreman-tasks gettext_i18n_rails haml-rails hooks i18n_data jquery-ui-rails json justified logging oauth qpid_messaging rabl rails rest-client runcible strong_parameters tire
+katello-foreman-engine dynflow foreman_api
+katello_api json oauth rest-client
+katex-rails less-rails
+kathy_lee activesupport dummy
+katip
+katipo infraruby-shim
+katipo-markup katipo
+katipo-markup-html katipo-markup
+kato right_aws
+kato-cli kato-rb
+kato-rb httparty
+katoadhoc jwt
+katoadhocexpress jwt
+katsudo active_tools
+katsuya-rcov
+katsuyoujin mojinizer
+katte
+katte_hive_autodep katte
+kattr
+katuv
+katzil-capybara
+kaui cancan carmen-rails d3_rails devise jquery-datatables-rails jquery-rails killbill-client money-rails protected_attributes rails sass-rails symmetric-encryption twitter-bootstrap-rails
+kaupert
+kauperts_link_checker i18n simpleidn
+kauplus activesupport rest-client
+kavlax
+kavu-prawn-core mocha test-spec
+kawaii chipmunk gosu
+kawaii_email_address
+kawaii_validation activerecord railties
+kawana
+kaya bson_ext colorize cuba github-markup gmail mongodb mote redcarpet redis sidekiq syntax thor unicorn
+kayabot json mechanize
+kayak
+kayakfares mechanize
+kayakoapi-ruby
+KayakoClient
+kayessess bourbon kss pygments.rb rails redcarpet to_slug
+kaykay-vlad hoe open4 rake
+kayla
+kazjote-searchlogic activerecord
+kazkom_epay
+kaznachey_payments
+kazoo
+kazoo-rb nestful
+kazoo-ruby thor zookeeper
+kazucocoa_my_first_gem selenium-webdriver
+kazutanaka-ttcluster
+kb-activerecord-jdbc-adapter
+kb-acts_as_revisable
+kb-authlogic activesupport
+kb-config
+kb-configurator
+kb-redstorm rake
+kb-simple-metrics
+kballard-openri launchy
+kballard-osx-plist
+kbam colorize mysql2
+kbaum-mail activesupport mime-types
+kbaum-mongo
+kbaum-mongo_ext
+kbaum-munger
+kbaum-pickle
+kbaum-rails_sequel
+kbaum-rchardet
+kbaum-resque-priority
+kbaum-resque-retry resque resque-scheduler
+kbaum-webrat nokogiri rack
+kbl haml sqlite3 thor
+kblog rails RedCloth sass will_paginate
+kbloom-Hebruby
+kbv2app
+kcache
+kcaco guid
+kcapifony capistrano
+kcar
+kch-dominion
+kch-git_remote_branch colored
+kch-rubycas-server activerecord activesupport gettext picnic
+kch-ya2yaml
+kckstrt activesupport erubis gli highline
+kcluster json
+kco_ruby sys-uname
+kcomp rgl
+kcrw
+kd colorize kramdown prawn prawn-table
+kd-tree
+kd_tree
+kda_gem
+kdaigle-roast tinder
+kdegettext gettext locale ruby_parser sexp_processor
+kder
+kdiff3 activesupport
+kdmny-spree
+kdonaldson_string_gem
+kdonovan-aasm
+kdonovan-duns-lookup mechanize
+kdonovan-happymapper libxml-ruby
+kdonovan-trufina kdonovan-happymapper
+kdtree
+ke
+kea
+kea-rails rails
+kealy_cheese
+kealy_cms friendly_id rails
+kealy_contact_form
+kealy_foobar
+keavy-contacts
+kebab_remote_api enumerize rails vmstat
+kebapage bootstrap-wysihtml5-rails dropzonejs-rails haml haml-rails i18n paperclip rails rails-i18n
+kech catch thor
+kedama
+keeguon-actionwebservice actionpack activerecord activesupport
+keeguon-acts_as_versioned activerecord
+keeguon-geokit multi_json
+keeguon-ruby-ole
+keeguon-spreadsheet keeguon-ruby-ole
+keeguon-yaml_db
+keen addressable multi_json
+keen-cli dotenv keen thor
+keener faraday hashie
+keenser colorize pry sequel
+keep
+keep_alive rails
+keep_running pony
+keepass
+keepass-password-generator
+keepassx fast-aes
+keepcon actionview activesupport faraday gyoku retryable-rb
+keeper
+KeeperChallenge
+KeeperPat-feedupdater feedtools
+keepify
+keepitsafe activesupport i18n mail mailbuilder net-scp net-sftp net-ssh
+keepr activerecord ancestry
+keepsake rails
+keeptesting fssm
+keepyourhead
+kefka coderay method_source rgl sinatra yajl-ruby
+kegbot_api
+keigan haml risu sinatra
+keight baby_erubis rack
+keigo
+keikokuc rest-client
+keima json
+keith
+keithmgould-delayed_job
+keithpitt
+keithsalisbury-subtrac visionmedia-commander
+kekeewin httparty oauth2
+kekipsum
+kekka nokogiri
+kekkan nokogiri rails
+keks
+kelbim aws-sdk-v1 json rspec term-ansicolor uuid
+kellerkind minitar trollop virtus
+kellimohr_test_gem
+kelly
+kellyfelkins-clearance
+KellyMahan-memcachedb-client RubyInline
+kellyredding
+kellysutton-bliptv
+kellysutton-socketio-client rest-client
+kelp capybara
+kelredd-activerecord-sinatra
+kelredd-gemsconfig
+kelredd-mailer kelredd-useful log4r tmail
+kelredd-media-rss nokogiri
+kelredd-pathsconfig
+kelredd-pruview flvtool2 mini_magick
+kelredd-repository
+kelredd-resourceful json kelredd-useful log4r mechanize nokogiri rest-client
+kelredd-simple-gem
+kelredd-sinatra-helpers kelredd-useful
+kelredd-sprockets-sinatra
+kelredd-useful json
+kelredd-wesabe kelredd-resourceful
+Kelsin-Kelsin-lilygraph color-tools
+Kelsin-lilygraph color-tools
+kelsotest
+kelvin haml handlebars_assets sinatra sprockets thor
+kematzy-dm-is-published dm-core dm-validations
+kematzy-dm-is-select dm-core dm-more
+kematzy-sinatra-cache
+kematzy-sinatra-ie6nomore sinatra
+kematzy-tasks rake
+kemen-ruby-odbc
+kemen_foreigner
+keminglabs-fox-rubby ffi-rzmq
+kempelen httparty nori ruby-hmac
+ken addressable extlib json
+ken_all activerecord-import curses rails rubyzip
+kenai_tools highline json multipart-post rest-client
+kender bundler dice_bag
+kendo-page-object-widgets page-object require_all
+kendoui-rails jquery-rails
+kenexa nokogiri
+kenhirakawa-astrotrain addressable data_objects dm-aggregates dm-core dm-timestamps dm-types dm-validations tmail
+kenhirakawa-googlecharts
+kenichi_nakamura
+kenji json rack
+kenn-userify
+kennedy json rack ruby-net-ldap sinatra
+kenneth_the_page
+kennethkalmer-autotest-growl-remote ZenTest
+kennethkalmer-daemon-kit eventmachine rubigen
+kennethkalmer-postini
+kennethkalmer-ruote-amqp amqp ruote
+kennethkalmer-smsinabox hoe
+kenny_dialoggins actionpack
+Kenny_guten_morgen
+keno
+kensa launchy mechanize netrc rest-client term-ansicolor
+kensan
+Kensei mail
+kenshoo
+kent redis render_anywhere uuid
+kent-authlogic_rpx authlogic kent-rpx_now
+kent-rpx_now json_pure
+kentaroi-nicome
+kentaroi-okayu activerecord facter mechanize nokogiri sqlite3-ruby wxruby
+kentouzu activerecord railties
+kentucky sass thor
+kenwaln-whatlanguage
+kenwiesner-adhearsioncw log4r rubigen
+kenyacodes
+kepi
+kepler
+kerbaldyn
+KerbalStuff
+kerberos
+kerckhoffs
+kerfuffle
+kerio-ical icalendar
+kermit commander em-http-request em-websocket json rake redis settingslogic twitter-stream
+kernel-fetch_in
+kernel_assert
+kernel_hash
+kernel_let
+kernow-faker
+kernow-ruby-aaws
+kernul activesupport hoe jchris-couchrest rack
+kerplutz
+kerryb-amazon-ec2 xml-simple
+kerryb-fakettp sinatra-sinatra
+kerryb-httparty crack
+kerryb-net-ssh-socks net-ssh
+kerryb-right_aws kerryb-right_http_connection
+kerryb-right_http_connection
+keshav-actionwebservice actionpack activerecord
+keso jeweler
+kestrel-client memcached
+kestrelrb memcache-client
+ketan-mithril_rails execjs rails tilt
+ketchup httparty
+kete-capistrano-configuration capistrano
+kete-feedzirra activesupport builder curb loofah nokogiri sax-machine
+kete-tiny_mce
+kete_browserid faraday system_timer
+kete_gets_trollied trollied
+kete_trackable_items
+kete_translatable_content
+kev_the_dev-mad_mimi_mailer
+kev_the_dev_mad_mimi_mailer
+kevin_thompson
+kevinclark-nitpick trollop
+kevincolyar-rbsync
+kevinques
+kevinrutherford-reek ruby2ruby ruby_parser sexp_processor
+Kevins-Studio-Game
+kevins_propietary_brain
+kevinthompson kevin_thompson
+kevintyll-kevins_string_extend
+kevintyll-ofac
+kevintyll-ssn_validator
+kevlar warden
+kevorkian
+kevwil-hellotxt bones
+kewego_party api_cache hashie httparty multi_xml rash
+key-db
+key-installer
+key-vault
+key-word-filter-on activerecord
+key_control
+key_metrics
+key_path activesupport
+key_smith
+key_store
+key_struct
+key_value activerecord
+key_value_ext
+key_value_logging activesupport formatted_rails_logger rack railties
+keybase
+keybase-core faraday scrypt
+keyblaster-auth jwt rack
+keyble net-scp
+keyboard
+keyboard_battle
+keyboard_convertor
+keyboard_distance
+keyboardjs-rails railties
+keybox highline
+keycdn
+keychain crypt highline
+keychain_manager
+keychain_osx
+keycodes
+keycounter
+keycutter
+keyczar
+keyczar-jruby
+keyczar_ruby
+keydown compass haml rdiscount sass thor tilt
+keyed_archive CFPropertyList
+keyes
+keyhole
+KeyholeIO json
+keymail rails
+keymaker activemodel activesupport addressable faraday faraday_middleware hashie
+keyman highline net-ssh
+keymap activesupport erubis redis
+keymaster
+keymaster-rails railties
+keyme-fingerprint keyme-rice
+keynote rails
+keynote-client unindent
+keynote_driver rb-appscript
+keyp gli
+Keypad Cartesian
+keypic httpi multi_json
+keyrack clipboard highline net-scp scrypty
+keyremac builder
+keyring slop
+keyring-kwallet keyring ruby-dbus
+keys_generator colours opn save_file
+keysms json patron
+keystok faraday oauth2
+keystone
+keystone-sass
+keystone_image jquery-rails
+keystorage thor version
+keystore aws-sdk trollop
+keytar activesupport
+keyth
+keytoken
+keytrac multi_json rest-client
+keyval
+keyvalidatable
+keyvalue
+keyvaluecoding
+keyvaluetree
+keyword-filter
+keyword_arg_time
+keyword_arguments
+keyword_curry
+keyword_init
+keyword_parameter_matchers
+keyword_params
+keyword_prospector hoe
+keyword_ranking
+keyword_rankr
+keyword_search
+keyword_search_yjchen
+keywords
+keywork
+kf-jquery-fileupload-rails actionpack railties
+kf5
+kffpt thor
+kfold commander
+kfriendly
+kgb rcapture
+kgbhomeAPI httparty hub json kgbhomeAPI sinatra sinatra-contrib thin
+kgem json
+kgestpay soap4r
+kgio
+kgio-monkey kgio
+kgio-sendfile
+khaleesi
+khall-metric_fu chronic flay flog rcov reek roodi
+khalsah-should_be_restful
+khalsah-spiffy-generators
+khammurabi xiacc
+khanolorize
+Kharites-tools thor
+kharon bson
+khayyam hoe
+khelben-autotest-rails autotest
+khelben-daemon_generator
+khipu
+khipu-rails httpclient jquery-rails nokogiri rails
+khkoether-string_extend
+khoj httparty json
+khrl
+khronos activerecord girl_friday json rest-client sinatra
+khronotab
+ki bson_ext bundler coffee-script haml mongo rack rack-cors rack-parser sass thor
+ki-repo coffee-script sass sinatra
+ki_format map methadone multi_json terminal-table
+ki_middleman map methadone multi_json
+ki_pivotal colored gli multi_json multi_xml pivotal-tracker
+ki_trello colored faraday faraday_middleware gli json_pure map multi_json
+ki_youtrack faraday faraday_middleware gli highline multi_json multi_xml patron
+kia rack thor tilt
+kiba
+kibali
+kibana-rack faraday sinatra sinatra-contrib
+kibana-sinatra sinatra
+kibi
+kibiz0r-rspec-rr
+kibo foreman heroku mash netrc rake thor trollop
+kibosh
+kibou rake small
+kic
+kick
+kick-ass
+kick_the_tires awesome_print
+kickbox faraday json
+kickbox-1.0.5 faraday json
+kickbox_rails faraday i18n json
+kickboxer
+kicker listen notify
+kickjack highline
+kickoff
+kickoff_rails railties
+kickscraper faraday faraday_middleware hashie multi_json uri-query_params
+kickscraper-snow faraday faraday_middleware hashie multi_json uri-query_params
+kickstapi mechanize
+kickstart hoe
+kickstart_rails autoprefixer-rails normalize-rails sass
+kickstarter nokogiri
+kickstarter_curl hashie nokogiri thor
+kickstartgem
+kickster thor
+kid80-biggs
+kid80-cijoe choice open4 sinatra
+kidomath cadbury
+kiel aws-sdk capistrano rake
+kienaide activerecord
+kieran-dm-is-slug dm-core
+kieranj-asterisk-manager
+kieranj-currency_source hpricot
+kieranj-google-local-search json
+kieranj-imdb chronic hpricot
+kieranj-kapow
+kieranj-nzb libxml-ruby
+kifla
+kigo
+kiik-api activesupport bundler factory_girl fakeweb faraday hashie i18n json multi_json multi_xml rack rake rdoc rspec simplecov
+kiita activesupport httpclient multi_json
+kiji activesupport faraday nokogiri
+kijirest-client
+kijkwijzer nokogiri
+kik-rails
+kikambii
+kikeru gstreamer gtk3
+kiki
+kiki_gem
+kikito-calendar_date_select
+kikubari
+kill_firefox colours open_in_browser
+kill_switch
+killbill rack sinatra typhoeus tzinfo
+killbill-bitpay actionpack actionview activemerchant activerecord activerecord-jdbcmysql-adapter activesupport jruby-openssl killbill monetize money offsite_payments sinatra
+killbill-braintree_blue actionpack actionview activemerchant activerecord activerecord-jdbcmysql-adapter activesupport braintree jruby-openssl killbill monetize money offsite_payments sinatra
+killbill-client json
+killbill-currency-plugin activerecord activerecord-jdbcmysql-adapter killbill
+killbill-currency-plugin-test killbill
+killbill-cybersource actionpack actionview activemerchant activerecord activerecord-bogacs activerecord-jdbc-adapter jruby-openssl killbill monetize money offsite_payments sinatra thread_safe
+killbill-helloworld activerecord activerecord-bogacs activerecord-jdbc-adapter killbill sinatra
+killbill-invoice-test killbill
+killbill-litle actionpack actionview activemerchant activerecord activerecord-bogacs activerecord-jdbc-adapter jruby-openssl killbill monetize money offsite_payments sinatra thread_safe
+killbill-notification-test killbill
+killbill-payment-test killbill
+killbill-paypal-express actionpack actionview activemerchant activerecord activerecord-bogacs activerecord-jdbc-adapter jruby-openssl killbill monetize money offsite_payments sinatra thread_safe
+killbill-payu-latam actionpack actionview activerecord activerecord-bogacs activerecord-jdbc-adapter aktivemerchant jruby-openssl killbill koffsite_payments monetize money sinatra thread_safe
+killbill-stripe actionpack actionview activemerchant activerecord activerecord-bogacs activerecord-jdbc-adapter jruby-openssl killbill monetize money offsite_payments sinatra thread_safe
+killbill-zendesk activerecord activerecord-jdbcmysql-adapter jruby-openssl killbill sinatra zendesk_api
+killer_rspec_rack
+killergem
+killian-aasm
+killian-killian-aasm
+killrails
+killshot anemone colored nokogiri trollop
+killsite nokogiri
+kiln geomotion sugarcube
+kilt crack rest-client rufus-scheduler
+kilt-cms aws-sdk jquery-rails jquery-ui-rails rails rails_config uglifier
+kim
+kim-logger kim
+kim-toms-starling eventmachine memcache-client
+kimchi bunny uuid
+kimono
+kimono-platform faraday
+kimonolabs httparty
+kimotter mechanize nokogiri
+kimquy_algo
+kimsufi-availability
+kin
+kinata httparty json
+kinbote haml net-scp sinatra
+kind_dom activesupport libxml-ruby
+kinda-composable kinda-core
+kinda-core
+kinda-hookable kinda-core
+kinda-kinda-test
+kinda-test
+kindable
+kindah katuv
+kindai json nokogiri rmagick zipruby
+KindDom activesupport libxml-ruby object_proxy
+kindeditor
+kindergarten activesupport cancancan rufus-json
+kindle highline mechanize nokogiri
+kindle-drm
+kindle-feeds feed-normalizer hoe hpricot
+kindle-highlights mechanize
+kindle_hacks archive-tar-minitar
+kindle_highlights
+kindle_highlights_api mechanize
+kindle_strip
+kindle_util clamp highline logging mechanize
+KindleCG thor
+kindleclippings
+kindlefs rfusefs rindle
+kindlegen
+kindlemail gmail-mailer trollop
+kindler nokogiri
+kindlerb mustache nokogiri
+kindling
+kindly mercenary
+kindred happy_place rails
+kindred-rails happy_place rails
+kindrid_client faraday multi_json rash
+kinect
+kinectable
+kinectaby
+kinesis_cat aws-sdk-core
+kinetic activesupport amqp awesome_print bunny confstruct kgio msgpack
+kinetic-ruby beefcake rake rspec
+kinetic_cafe_error
+kinetic_energy nokogiri
+kineticac-amazon-ecs
+kinetosis
+king
+king_dtaus i18n
+king_hmac
+king_placeholder activesupport statemachine
+king_soa json resque typhoeus
+king_tokens
+king_tut
+king_views
+kingkong em-http-request eventmachine nosey yajl-ruby
+kingpin
+kingpong-bitwise_string_ops
+kingpong-ruby-mcrypt
+kinit
+kinja httparty
+kinney active_admin_editor chosen-rails compass-rails font-awesome-sass-rails formtastic friendly_id html_truncator httpclient jquery-tablesorter rails strip_attributes tire
+kinokero activesupport beefcake cups faraday faraday-cookie_jar faraday_middleware json logger simple_oauth typhoeus xmpp4r
+kinomax_parser httpclient nokogiri
+kinopoisk hpricot
+kinopoisk_parser httpclient nokogiri
+kintama
+kintone faraday faraday_middleware
+kintone_notifier kintone
+kioku
+kiosk nokogiri rails
+kipatra
+kippt faraday faraday_middleware multi_json
+kipu_translations
+kiqit activerecord sidekiq
+kiqstand mongoid moped
+kiran_hola
+kiranmeduri-rmbd
+kirby daemons hpricot
+KirbyBase
+kirel-data-uri
+kirgudu_base chupakabra_tools liquid omniauth omniauth-facebook omniauth-google-oauth2 omniauth-twitter rails validate_as_seo_tag validate_as_url validates_email_format_of
+kirgudu_common kirgudu_base rails
+kirgudu_refs chupakabra_tools kirgudu_base rails validate_as_seo_tag validate_as_url
+kirgudu_sso chupakabra_tools kirgudu_base rails validate_as_seo_tag validate_as_url
+kiriya_honey
+kirk
+kiro-omniauth-ldap net-ldap omniauth
+kiro-ruby-sasl
+kisaweb fastercsv typhoeus
+kisel-test
+kishore_casino
+kisko-suits filewatcher
+kismet
+kismet-gpsxml nokogiri
+kiss erubis highline rack sequel tzinfo
+kiss_amazon_mws
+kissable rack
+kissfft
+kissgen
+kissifer-filter-url-by-remote-user rack
+kissifer-hash-persistent
+kissifer-json-attributes
+kissifer-rack-accept-only
+kissifer-rack-application-json-to-text-json
+kissifer-rack-guest-list
+kissifer-rack-http-for-objects
+kissifer-rack-reflect-env
+kissifer-rack-safe-deposit-box
+kissifer-rack-ticket-office sinatra-response-header-helpers sinatra-options-route hash-persistent
+kissifer-sinatra-options-route
+kissifer-sinatra-response-header-helpers
+kissifer-utils
+kissmetrics
+kissmetrics_rails
+kissy-rails railties thor
+kit activerecord rake
+kit_cms anemone bcrypt-ruby best_in_place browser cancan class-table-inheritance country_select daemons delayed_job_active_record dynamic_form fast-aes file-tail geocoder gibbon grit grocer haml imgkit jquery-rails kaminari kiteditor maruku mysql2 nifty-generators panoramic paperclip rails rails_warden ruby-stemmer sanitize sass-rails tire truncate_html twitter yaml_db
+kitabu activesupport eeepub-with-cover-support i18n nokogiri notifier redcarpet rouge rubyzip sass sass-globbing thor zip-zip
+kitamomonga-mechanize nokogiri
+kitc
+kitchen
+kitchen-all kitchen-bluebox kitchen-cloudstack kitchen-digitalocean kitchen-docker kitchen-ec2 kitchen-fifo kitchen-libvirtlxc kitchen-lxc kitchen-openstack kitchen-rackspace kitchen-scribe kitchen-sshgzip kitchen-vagrant kitchen-zcloudjp
+kitchen-ansible librarian-ansible test-kitchen
+kitchen-ansiblepush test-kitchen
+kitchen-appbundle-updater
+kitchen-azure azure nokogiri test-kitchen
+kitchen-azurerm azure_mgmt_network azure_mgmt_resources inifile
+kitchen-binding pry-remote test-kitchen
+kitchen-bluebox fog test-kitchen
+kitchen-cabinet erubis git
+kitchen-centurylink clc_client highline test-kitchen
+kitchen-cfengine
+kitchen-chef-extended-attributes test-kitchen
+kitchen-chef_zero_berks_env git test-kitchen
+kitchen-cloudformation aws-sdk aws-sdk-v1 excon multi_json test-kitchen
+kitchen-cloudstack fog test-kitchen
+kitchen-digital_ocean rest-client test-kitchen
+kitchen-digitalocean droplet_kit test-kitchen
+kitchen-docker test-kitchen
+kitchen-docker-api docker-api test-kitchen
+kitchen-docker_cli test-kitchen
+kitchen-docker_ssh test-kitchen
+kitchen-driver-vagrant_provision kitchen-vagrant
+kitchen-dsc
+kitchen-ec2 aws-sdk excon multi_json test-kitchen
+kitchen-environment berkshelf
+kitchen-fifo project-fifo-ruby test-kitchen
+kitchen-fog fog test-kitchen
+kitchen-gce fog google-api-client ridley test-kitchen
+kitchen-goiardi test-kitchen
+kitchen-hyperv test-kitchen
+kitchen-inspector chef colorize httparty ridley solve terminal-table thor
+kitchen-itamae test-kitchen
+kitchen-joyent fog test-kitchen
+kitchen-libvirtlxc test-kitchen
+kitchen-local
+kitchen-localhost test-kitchen
+kitchen-lxc elecksee test-kitchen
+kitchen-nodes net-ping test-kitchen win32-security
+kitchen-nodes-fqdn net-ping test-kitchen win32-security
+kitchen-opennebula fog opennebula test-kitchen
+kitchen-openstack fog ohai test-kitchen unf
+kitchen-oraclecloud oraclecloud test-kitchen
+kitchen-pester test-kitchen
+kitchen-provisioner-local_shell
+kitchen-puppet test-kitchen
+kitchen-rackspace fog test-kitchen
+kitchen-rightscale kitchen-vagrant test-kitchen
+kitchen-salt test-kitchen
+kitchen-scaleway scaleway test-kitchen
+kitchen-scribe chef
+kitchen-sharedtests git
+kitchen-softlayer fog fog-softlayer test-kitchen
+kitchen-ssh minitar
+kitchen-ssh_cisco minitar
+kitchen-sshgzip test-kitchen
+kitchen-sync net-sftp test-kitchen
+kitchen-transport-rsync test-kitchen
+kitchen-transport-sshtar test-kitchen
+kitchen-vagrant test-kitchen
+kitchen-vagrant_sandbox test-kitchen
+kitchen-vagrant_winrm test-kitchen
+kitchen-vcair fog test-kitchen
+kitchen-verifier-shell test-kitchen
+kitchen-vra test-kitchen vmware-vra
+kitchen-vro test-kitchen vcoworkflows
+kitchen-vsphere fog rbvmomi test-kitchen
+kitchen-zcloudjp test-kitchen zcloudjp
+kitchen_hooks berkshelf chef daybreak eventmachine faraday git hipchat pmap retryable ridley sinatra thin thor
+kitchenplan deep_merge gabba thor
+kitchensink
+kitco httparty
+kitcrawler damerau-levenshtein highline nokogiri thor
+kite
+kiteditor coffee-script paperclip rails
+kitestrings rails
+kitman-faraday-middleware activesupport bundler faraday
+kitnahua
+kitpay faraday faraday_middleware
+kitsune haml will_paginate
+kitten
+kittenfy
+kitty
+kitty_gen colored rails rvm
+kittybot cinch
+kittytest
+kiva json simplehttp
+kiva_api httparty
+kivanio-acts_as_payment rghost rghost_barcode validatable
+kivanio-brcobranca parseline rghost rghost_barcode
+kiwi
+kiwiclips
+kiwicourse fuzzy_match launchy oga thor
+kiyoka-nendo
+kizapi
+kj sqlite3
+kjappsms
+kjeldahl-metric_fu flay flog mojombo-chronic relevance-rcov
+kjeldahl-mysql_schema_bulk_change activerecord
+kjess
+kjl_test_gem
+kjohnston-lean_scaffold
+kjvarga-net-ssh
+kjvarga-rack
+kk sequel sqlite3
+kkantena-progress_adapter
+kkfinal_gem
+kkkkker
+kknife chef trollop
+kkorach-acts_as_revisable
+kks-gem
+kkt_shoppe awesome_nested_set bcrypt carrierwave dynamic_form fog globalize haml jquery-rails kaminari mini_magick nifty-dialog nifty-key-value-store nifty-utils rails ransack roo
+kkt_shoppe-notification kkt_shoppe
+kkt_shoppe-stripe coffee-rails kkt_shoppe stripe
+kl-ruby-saml nokogiri uuid
+kla-honsolo uhees-php-serialize
+klaas1979-ivy4r Antwrap facets ivy4r-jars
+klaas1979-ivy4r-jars
+klacointe-openpgp
+kladr
+kladr-rails
+kladr_converter dbf progressbar
+klam
+klarlack
+klarna activesupport i18n
+klarna-checkout activemodel activesupport faraday
+klarna-xmlrpc activesupport i18n
+klarna_chef thor
+klarrimore-routengn diff-lcs mime-types
+klass_name_types
+klassy
+klaviyo escape json rack
+klear applix bindata rubyzip
+kleber
+kleisli
+kleisli-contracts contracts kleisli-validation
+kleisli-conversions kleisli-validation
+kleisli-run kleisli-validation
+kleisli-validation kleisli
+klepto activesupport capybara multi_json nokogiri poltergeist
+klink-ruby-api
+klipbook mechanize slop
+klipp bundler colorize formatador grit highline ptools rake zaru
+klis
+klogger cinch jruby-openssl killbill mail
+klomp
+Klondike-basecamper xml-simple
+klondyke dalli faraday faraday_middleware nokogiri
+klookup
+klops
+kloudless
+klout hashie httparty json
+klout-rb hashie httpi multi_json
+klout_stable hashie httparty json
+kloutbg httparty typhoeus
+kludge activemodel
+kluster geocoder
+klyhrd_studio_game
+km
+km-db activerecord andand fog foreman mysql2 oj progressbar resque resque-lock
+km-export-processor kmts thor
+km-psych
+km-resque resque
+km_everything
+km_resque resque
+km_sidekiq sidekiq
+kmandrup-colorist
+kmayer-highrise activeresource activesupport
+kmc damerau-levenshtein httparty nokogiri rubyzip sinatra thin
+kmdata json recursive-open-struct
+kmeans
+kmeans-clusterer narray
+kmeans-clustering cabiri
+kmh
+kmj
+kml_polygon
+kmlbo
+KMQToolKitGem plist thor
+kms-env aws-sdk
+kms_attrs activerecord aws-sdk-resources
+kmts
+kmz_compressor rails rubyzip
+knack
+knack-rails
+knackhq-client blanket_wrapper hashie rest-client
+knao124
+knapo-i18n
+knapo-permalink_fu activerecord activesupport i18n rails
+knapsack rake timecop
+knapsack_pro activesupport rake timecop
+knaveofdiamonds-knave-extras
+knaveofdiamonds-knave_extras
+kneeboard sinatra thin
+kneescraper faraday nokogiri
+knife-acl
+knife-advisor chef
+knife-analytics chef-analytics
+knife-annex chef-vault
+knife-api chef chef-zero json ohai
+knife-attribute chef
+knife-audit
+knife-aws-base chef fog
+knife-axe diffy
+knife-azure knife-windows nokogiri
+knife-backup chef
+knife-baremetalcloud fog
+knife-batch chef
+knife-block test-unit
+knife-bluebox chef fog highline
+knife-bootstrap-resolver chef
+knife-bootstrapsync chef net-sftp
+knife-briefcase chef gpgme highline
+knife-brightbox chef fog-brightbox
+knife-bulkchangeenvironment chef
+knife-cereal chef
+knife-cfn chef fog
+knife-changelog berkshelf chef mixlib-shellout rest-client
+knife-check chef
+knife-chop awesome_print colorize ffi-yajl inifile json logging mixlib-config safe_yaml
+knife-cisco_asa cisco
+knife-clc-chef-server
+knife-cleanup chef
+knife-clodo fog
+knife-cloud chef knife-windows mixlib-shellout
+knife-cloudformation sfn
+knife-cloudstack chef knife-windows
+knife-cloudstack-fog chef fog rake
+knife-community chef grit mixlib-shellout versionomy
+knife-config chef
+knife-container chef json mixlib-config
+knife-convert chef mixlib-cli
+knife-cookbook-bump chef grit
+knife-cookbook-cleanup chef
+knife-cookbook-doc chef erubis
+knife-cookbook-readme chef erubis
+knife-cookbook-sync chef
+knife-cookbook-utils chef
+knife-crawl
+knife-crypt chef
+knife-cs chef fog knife-windows
+knife-cssh
+knife-data-bag-version thor-scmversion
+knife-dependency-tree
+knife-depgraph
+knife-digital_ocean chef droplet_kit
+knife-dns-update chef fog
+knife-docker chef
+knife-draw chef graphviz
+knife-dsl chef
+knife-dwim chef
+knife-easybake mechanize
+knife-ec-backup chef pg sequel
+knife-ec2 fog knife-windows
+knife-ec2-ssh-config fog
+knife-elb knife-ec2
+knife-env-diff
+knife-essentials chef chef-zero
+knife-esx chef esx open4 terminal-table
+knife-eucalyptus fog
+knife-file chef
+knife-flip chef colorize
+knife-flow
+knife-foodcritic chef foodcritic
+knife-gandi
+knife-ghost ghost
+knife-github chef highline mixlib-versioning rb-readline
+knife-github-cookbooks chef launchy
+knife-glesys chef fog
+knife-goiardi-event-log
+knife-goiardi-reporting mixlib-cli
+knife-google chef google-api-client mixlib-config multi_json
+knife-gourmet chef
+knife-graph graph mixlib-shellout
+knife-hadoop chef debugger pg rest-client sequel sqlite3 webhdfs
+knife-hardware chef
+knife-helper chef safe_yaml thor
+knife-hitori chef erubis knife-ec2
+knife-hosts
+knife-hp chef fog rake rspec
+knife-info chef
+knife-inspect chef parallel yajl-ruby
+knife-instance chef fog
+knife-ipmi
+knife-joyent chef fog joyent-cloud-pricing multi_json
+knife-killer chef
+knife-kvm alchemist chef fog terminal-table
+knife-lastrun
+knife-linode chef fog
+knife-lxc chef cucumber-chef toft
+knife-maas chef oauth
+knife-manage chef
+knife-miasma
+knife-mirror chef
+knife-mysql chef net-scp ruby-progressbar
+knife-nc nifty-cloud-sdk
+knife-ninefold chef fog
+knife-node-attribute chef
+knife-nodefu chef knife-ec2
+knife-oca chef fog
+knife-ohno
+knife-ohno2
+knife-oktawave chef savon
+knife-opc
+knife-opc-backup
+knife-opennebula chef fog highline opennebula
+knife-openstack chef fog knife-cloud
+knife-openvpn
+knife-oracle_public_cloud OPC
+knife-oraclecloud chef knife-cloud oraclecloud
+knife-oraclevm chef netaddr
+knife-orchestration knife-cloudformation
+knife-org-utils chef
+knife-ovh chef netaddr rbvmomi
+knife-packager berkshelf bundler chef fog rake s3
+knife-pantry chef ffi-yajl json
+knife-parallel-ec2 chef knife-ec2 parallel
+knife-partial-search chef chef-partial_search
+knife-pinnings chef
+knife-pkg chef
+knife-playground chef colorize git
+knife-plugin chef
+knife-plugin-viz
+knife-podnix chef highline podnix yajl-ruby
+knife-preflight chef
+knife-profitbricks chef profitbricks-sdk-ruby
+knife-proxmox chef json rest-client
+knife-psearch
+knife-push chef
+knife-rackspace chef fog knife-windows
+knife-rackspace-cluster fog knife-rackspace
+knife-rackspace-load-balancer chef cloudlb knife-rackspace
+knife-rds aws-sdk chef
+knife-remotekvm chef
+knife-remotelxc chef
+knife-report-resource chef
+knife-reporting mixlib-cli
+knife-rhn rhn_satellite
+knife-rightscale chef rake right_api_helper rspec yard
+knife-role-convert chef mixlib-cli
+knife-role-replace
+knife-role-spaghetti chef ruby-graphviz
+knife-role-test
+knife-runlist-compare chef diffy
+knife-s3 chef fog
+knife-sakura chef fog
+knife-santoku app_conf chef httparty tinder
+knife-saved_search chef
+knife-sce chef fog
+knife-scrub chef
+knife-server chef fog net-ssh
+knife-setup chef
+knife-sharp chef
+knife-shove chef
+knife-skeleton chef erubis
+knife-sl softlayer_api
+knife-softlayer fog-softlayer knife-windows net-ssh
+knife-solo chef erubis net-ssh
+knife-solo_data_bag
+knife-solve chef
+knife-spec chef
+knife-spork app_conf chef diffy git
+knife-spork-berks app_conf chef diffy git
+knife-stackbuilder berkshelf chef highline knife-attribute knife-container knife-vagrant2
+knife-stalenodes chef
+knife-stash faraday
+knife-stats chef
+knife-stencil chef json
+knife-stormondemand fog
+knife-supermarket chef
+knife-support chef
+knife-syntax-check yajl-ruby
+knife-table foodcritic hub knife-spork
+knife-tagbatch chef
+knife-tagbulk chef
+knife-tar chef yajl-ruby
+knife-tarsnap chef
+knife-terremark chef fog highline net-scp net-ssh net-ssh-multi
+knife-testcoverage
+knife-topo
+knife-toruby awesome_print chef
+knife-twitter chef twitter
+knife-ucs chef nokogiri rest-client ucslib
+knife-undev activesupport chef trollop
+knife-update chef
+knife-update-from-file
+knife-uploader celluloid chef diffy faraday hashie ridley varia_model
+knife-vagrant
+knife-vagrant2 chef
+knife-vagrant3 chef
+knife-vcair em-winrm fog knife-cloud knife-windows
+knife-vcloud chef knife-windows vcloud-rest winrm
+knife-verschart
+knife-voxel voxel-hapi
+knife-vrealize chef knife-cloud vcoworkflows vmware-vra
+knife-vsphere knife-windows netaddr rbvmomi
+knife-whisk safe_yaml
+knife-windows nokogiri winrm winrm-s
+knife-wip app_conf chef
+knife-wrapper
+knife-wrench knife-ec2
+knife-wsfusion chef
+knife-xapi chef highline units
+knife-xenserver chef fog terminal-table uuidtools
+knife-zcloudjp chef formatador zcloudjp
+knife-zero chef
+knife_cookbook_dependencies chef dep_selector minitar
+knife_cookbook_dependencies_over_http chef dep_selector_over_http minitar
+knife_cookbook_sync chef
+knife_sous knife-solo
+knifer_sutherland chef ghost
+knight abstract_type equalizer
+knightlabs-registry
+knights_tour trollop
+knigodej micro-optparse mini_magick prawn rdoba
+knipper ffi
+knish
+knitkit acts-as-taggable-on erp_app kramdown nokogiri routing-filter rubyzip
+knitr-ruby
+knjappserver datet erubis http2 knjrbfw mail php4r tsafe
+knjdbrevision knjrbfw
+knjrbfw datet http2 php4r ruby_process tsafe wref
+knjtasks datet hayabusa knjrbfw
+knmi geokit httparty httparty
+knn distance_measures
+knnball
+knoc-knoc net-ping
+knock bcrypt jwt rails
+knock-knock activesupport hoe newgem xml-object
+knocker
+knockknock rails
+knockout-assets rails
+knockout-rails execjs jquery-rails sprockets
+knockout_forms-rails actionview railties
+knockoutjs-rails railties
+knod
+knodes faraday faraday_middleware
+knot rack rack-protection
+knotice-ruby-statsd statsd-ruby
+knotify railties
+knowledge_base carrierwave embeddable enumerize faker friendly_id mini_magick publishable rails ransack
+knowlesUtils
+knowtify excon
+knowyourgems
+knox
+knox_studio_game
+knoxbox easyrsa
+knoxbox-web knoxbox sinatra
+knp killbill-client rails
+kns_email_endpoint dalli kns_endpoint mail work_queue
+kns_endpoint json rest-client
+knu crack rack
+knu-friendfeed
+knu-mechanize nokogiri
+knu-perlstorable
+knu-svn2git
+Knuckleheads
+knuckler
+knucleheads_game
+knut_tools
+knykode
+koa
+koa-js
+koa-pack koa-js koa-utils
+koa-utils
+koala addressable faraday multi_json
+koala-rails koala
+koalemos
+koality cane rails_best_practices simplecov term-ansicolor terminal-table
+koara
+koboldy
+kobra_client json_pure rest-client
+koda bson_ext dalli mongo rack-methodoverride-with-params rest-client shared-mime-info sinatra sinatra-jsonp
+koda-calais curb json nokogiri
+kodama ruby-binlog
+kode hoe
+kodekopelli
+kodi
+kodiak directory_watcher rb-appscript term-ansicolor
+kodo
+kody liquid nokogiri rake thor xmimodel
+koelner_phonetic_encoder
+koeppen_geiger
+koffsite_payments activesupport active_utils builder i18n json money nokogiri
+kofi trollop
+kofno-trisano_tools
+kofno-trisano_tools.gemspec
+kog
+koha
+koho httparty json
+koi colored
+koi-lang koi-reference-compiler koi-reference-parser koi-vm-ruby
+koi-reference-compiler
+koi-reference-parser treetop
+koi-vm
+koi-vm-ruby
+koine-appgenerator rails
+koine-command_bus
+koine-event_manager
+koine-repository sequel
+koinz multi_json omniauth redis
+kojac active_model_serializers buzztools pundit underscore_plus
+kojak json rainbow
+kojn activemodel activesupport faraday
+koke-grit mime-types
+koke-mydiff highline hoe mysql
+koko-koko
+koko_rails haml rails
+kokuban archive-zip fetcher thor
+kokugo_tagger
+kolach-melomel nokogiri
+kolb psych
+kollus
+kolo
+kolorize
+kolors ai4r cocaine oily_png
+komachi-develop better_errors binding_of_caller bullet hirb-unicode pry-rails pry-rescue pry-stack_explorer quiet_assets rails tapp-awesome_print
+komachi_alive_monitoring rails
+komachi_concerned_with rails
+komachi_heartbeat rails redis
+komachi_validation rails
+komagata-dnsbl_client
+komagata-saimaa systemu
+komagata-talkedbun haml sinatra
+komagata-try systemu
+komagata-web_tracker_helper
+komagata-win32-aques_talk ffi
+komagire activerecord activesupport
+komainu
+komamitsu-gc_monitor
+komandir rake
+komando
+komba-itunes-receipt activesupport faraday i18n json
+komba_countries currencies
+komba_google_currency activesupport money
+komba_itu_codes
+komerci
+kometa
+komic-cli jbuilder json-schema mechanize mime-types mini_magick ruby-progressbar rubyzip thor uglifier
+komicless rack thin
+komiyak
+kommand activesupport inkjet
+kommed faraday
+kommen-freckle-cmd activeresource activesupport hoe json newgem
+komments
+komodo delayed_job heroku
+komoju
+komonzu thor
+kompanee-recipes
+kompar paint
+kompress
+komrade-client
+kona-logger colorize
+konacha actionpack capybara colorize railties sprockets tilt
+konacha-chai-matchers
+KonaLast
+konami-fo foaas konamio pay_dirt
+konamio pay_dirt
+konchikuwa
+kondi
+konekt
+konf
+konfa
+konfig
+konfiguration
+konfigurator
+kongnomal beanstalk-client
+kongo mongo
+KonichiwaAki
+konjac amatch git highline i18n nokogiri rb-appscript sdoc term-ansicolor trollop
+konjak activesupport mem nokogiri
+konjure-bundler-fix motion-objc-runtime-bundler-fix
+konn-rupircd
+konpasu
+konsole alias_e cliner colours opn remove_html rgb_to_hex
+konstant json mail mixlib-cli puma
+konstati json restclient
+kontagent rest-client uuidtools
+kontakt
+kontejner activesupport docker-api rubydns thor
+kontena-cli clamp colorize excon highline shell-spinner
+kontext
+konto_check
+kontoapi-rails kontoapi-ruby rails
+kontoapi-ruby addressable yajl-ruby
+kontocheck
+kontrast bundler fog rmagick selenium-webdriver thor workers
+kontrol
+konverge json
+konzertmeister rest-client
+koo nokogiri sass slim
+kooaba json
+kood activesupport adapter-git thor toystore user_config
+koodmeeter json
+kookaburra rest-client
+kookjr-geodesic
+kookoo-gem builder jwt multi_json
+koombea-delayed_job
+koprol
+kor
+kor-input-json kor
+kor-input-ltsv kor ltsv
+kor-input-yaml kor
+kor-output-json kor
+kor-output-ltsv kor
+kor-output-yaml kor
+korben activesupport
+korboard
+korean-string
+korean_zipcode_finder nokogiri
+korekuto httparty json macaddr
+koremutake
+korfzone-scraper
+kori ice_nine
+korin-resource_controller
+korinthenkacker thor
+korma builder RedCloth
+korobkov-paperclip minad-mimemagic
+korobkov-validates-constancy-rails-plugin activerecord
+kortype
+koseki-mocksmtpd
+kosher certainty money structure
+kosher_bacon
+kosi unicode
+kosmas58-compass-jquery-plugin chriseppstein-compass
+kosmas58-cucumber builder diff-lcs polyglot term-ansicolor treetop
+kosmas58-features2cards cucumber prawn
+kosmas58-pickler activesupport cucumber
+kosmeek_test_tools
+kosmonaut json
+kosmos damerau-levenshtein httparty nokogiri rubyzip sinatra thin
+kostya-bluepill activesupport daemons i18n state_machine
+koszmail
+kotoba
+kotodama kaiseki
+kotosha-kotosha_on_git
+kotsms iconv
+koudoku bluecloth rails stripe stripe_event
+koudoku_coupons haml-rails koudoku rails
+kougu
+koujou
+kount curb json
+kount_complete rest-client
+kounta
+kounta_rest faraday_middleware hashie oauth2 oj pry yell
+kovyrin-composite_primary_keys
+kovyrin-db-charmer rails
+kowabana-parser
+kowala
+koyachi-scissor-video open4 youpy-scissor
+koyomi
+kp_folder kuaipan
+kpeg
+kpi actionmailer activesupport
+kpigen awesome_print evegem eventmachine mysql2 net-ssh rack rails rake redis utest watchme
+kpm highline nexus_cli thor
+kpumuk-rlibsphinxclient echoe
+kqueue
+kr heroics netrc
+kr-beanstalk-client
+kraai httparty
+krack multi_json rack
+kracker capybara chunky_png kramdown
+krackle
+krakatoa-icmp4em eventmachine eventmachine
+krakatoa-openx
+kraken chef net-ssh
+kraken-build httparty
+kraken-io activesupport httparty json multipart-post
+kraken-js eco ejs rails
+kraken_client activesupport addressable hashie httparty
+kraken_ruby addressable hashie httparty
+krakenrails railties
+krakken
+Krakken
+krakow celluloid digest-crc http multi_json
+krambook active_support bundler kramdown thor
+kramdown
+kramdown-gist kramdown
+kramdown-haml haml
+kramdown-man kramdown
+kramdown-metadata-parsers kramdown
+kramdown-rails kramdown
+kramdown-rfc2629 kramdown
+kramdown-tablerize kramdown tablerize
+krammer kramdown
+krappy bson bson_ext mongo sinatra
+krasivotokak-avatar
+krasivotokak-espresso josevalim-inherited_resources mislav-will_paginate searchlogic
+krasivotokak-russian
+krasivotokak-simple-navigation
+krasivotokak-sugar
+krasivotokak-tiny_mce
+krate
+krausefx-shenzhen aws-sdk commander dotenv faraday faraday_middleware highline json net-sftp plist rubyzip security terminal-table
+kraut facets savon
+krawler mechanize
+krazy
+krb5
+krb5-auth
+krbpwd
+kredentials
+kreegerator mini_magick thor tilt
+kreepr
+kren-fib
+krikri analysand audumbla blacklight bootstrap-sass devise dpla-map edtf elasticsearch jsonpath oai rails rails_config rdf-marmotta resque rest-client text therubyracer yajl-ruby
+kris activesupport zircon
+kris-kross
+kris_hola
+krish
+kriskowal-Narwhal
+krisl_gem
+krisr-amazon-ec2 xml-simple
+kriss-associated_records_on_steroids
+kriss-gettext_i18n
+kristal
+kristin spoon
+kristjan-st-elsewhere
+kristopher-scoped-associations echoe
+kristopher-sunspot daemons haml mwmitchell-rsolr optiflag
+kristopher-sunspot_rails escape kristopher-sunspot rails
+krjs
+krk-timetables nokogiri
+krl awesome_print kynetx_am_api launchy sinatra terminal-table thor
+kroman
+kron4eg-wikicloth actionpack
+kron4eg-wikicreole
+kronic
+kronisk active_support chronic chronic_duration eventmachine mail posix-spawn
+kronk cookiejar json mime-types ruby-path simple_oauth
+kronn-has_many_polymorphs activerecord
+kronos kronos
+kronparser
+kropka rainbow thor
+krpc colorize nokogiri ruby_protobuf
+krtek activesupport eventmachine faker
+krukid-cld ffi
+krunaldo-dm-pagination merb
+kruptos
+kruskal json
+kryo commander rake redcarpet sinatra thin
+krypt ffi krypt-core
+krypt-core binyo krypt-provider-openssl
+krypt-ossl krypt
+krypt-provider-jdk
+krypt-provider-openssl ffi
+krypter
+kryptonita
+kryptonite authlogic best_in_place kryptonite paperclip will_paginate
+kryptos gibberish
+ks_faster_require
+kschadeck-active_shipping activesupport active_utils builder i18n json
+kschrader-authlogic activesupport
+kschrader-mtv-music activesupport flexmock hpricot
+kschrader-sinatra-cache
+kschrader-slicehost capistrano
+kschrader-wikipedia-api
+ksd hoe newgem
+kshramt
+ksk bhf paperclip stringex
+ksl_studio_game
+kss
+kss-alan
+kss-rails kss rails
+kss-rails-alan kss-alan rails
+kstarv
+kstats-node sinatra sqlite3
+kstrano broach capifony capistrano-ext json net-ssh newrelic_rpm railsless-deploy
+ksync
+ktcommon git_store
+ktec-commander highline
+ktec-subtrac visionmedia-commander
+kth_omniauth hashie rack
+ktheory-fakefs
+ktheory-fog builder excon formatador mime-types multi_json net-scp net-ssh nokogiri ruby-hmac
+ktheory-json_cookie_store rails
+ktheory-right_aws right_http_connection
+ktheory-vlad open4 rake
+ktheory-vlad-git vlad
+kthxbye
+ktlacaelel-gemi
+ktlacaelel-plog
+ktlacaelel-sitemaps builder
+ktools bacon ffi
+ktopping_acl9
+ktutils
+ku-ldap net-ldap
+ku6vms_sdk em-http-request
+ku_fu activerecord
+ku_ui rails
+kuahyeow-sunspot daemons mwmitchell-rsolr
+kuahyeow-sunspot_rails escape kuahyeow-sunspot
+kuaidi100 rails
+kuaidi100_rails
+kuaipan json rest-client
+kuaipan-example haml kuaipan sinatra
+kuaipan_renamer colored
+kuaiqian
+kuali-rice xml-simple
+kuali-sakai-common-lib page-object
+kuali-test-factory watir-webdriver
+kuali_toolbox builder nokogiri rest-client
+kuality test-factory
+kuality-coeus test-factory
+kuankr
+kube-machine
+kube-rails actionpack less-rails railties therubyracer
+kubeclient activesupport json recursive-open-struct rest-client
+kubernetes
+kubernetes-api
+kubicek-ares activesupport
+kubicek-grit diff-lcs mime-types
+kublai json
+kublog carrierwave coffee-script fb_graph friendly_id jquery-rails liquid rails rmagick sanitize twitter
+kubr activesupport rest-client
+kubrick crack faraday simple_oauth
+kuby excon multi_json
+kucha
+kudough
+kue activerecord
+kuebiko activesupport
+kueda-flickraw json
+kuehne-nagel-despatch-interface
+kueri nokogiri
+kuhsaft ancestry bootstrap-sass bourbon carrierwave ckeditor_rails coffee-rails haml htmlentities jquery-rails jquery-ui-rails mini_magick pg_search rails rdiscount remotipart sass-rails simple_form
+kui-md pygments.rb redcarpet ruby-graphviz
+kuiper hashie multi_json rest-client
+kuiper-account kuiper-auth kuiper-core
+kuiper-auth kuiper-core
+kuiper-core hashie multi_json rest-client
+kuji-cube httpi savon wasabi
+kuji-mercury-rails coffee-script paperclip rails
+kujibiki
+kuku
+kul andand coffee-script sass sinatra thor
+kule-kule-redgreen
+kule-redgreen
+kuler nokogiri
+kulesa-celluloid
+kulesa-contacts hpricot httparty json nokogiri oauth
+kulesa-sidekiq connection_pool kulesa-celluloid multi_json redis redis-namespace
+kumade cocaine heroku rails rake
+kumadori activesupport
+kumo fog gli
+kumo-faker
+kumogata aws-sdk-v1 coderay coffee-script diffy dslh hashie highline json json5 net-ssh retryable term-ansicolor therubyracer uuidtools
+kumulus-stratus
+kung_figure
+kuniri nokogiri
+kunkakunka
+kunley-amazon-ec2 xml-simple
+kunoichi syslog-logger
+kuntoaji-harmony envjs johnson
+kura google-api-client
+kurchatov beefcake ohai
+kuro-gas
+kuro-rs ArgsParser eventmachine eventmachine_httpserver serialport
+kuro7-gas
+kuroko cucumber vagrant
+kuromi optional
+kuromoji rjb
+kuromoji-ruby rjb thor yajl-ruby
+kuroneko mechanize
+kurotoshiro-simpleMailer shared-mime-info
+kurowski-patron
+kurproject
+kurs hpricot
+kursproject colorize
+kurt
+kush
+kusor-sinatra_mailer mailfactory sinatra
+kut
+kuta
+kuva coffee-rails compass-rails flickraw haml jquery-rails rails sass-rails
+kuvert mime-types
+kuztuscms actionmailer coffee-rails devise omniauth rails sass-rails tzinfo uglifier
+kuzushi ohai rest-client
+kv
+kv_cache
+kvanator
+kvbean rails redis
+kvc
+kvetch
+kvk
+kvo publisher
+kvo-rb
+kvom activemodel activesupport multi_json
+kvpair
+kvparser
+kvpbase
+kvs
+kvs-foreigner
+kvx line-tree rxfhelper
+kw_apn
+kwaff
+kwala
+kwalify
+kwartz abstract
+kwatable kwalify
+kwatch-merb_helpers_monkey
+kwatch-mysql-ruby
+kwattr
+kwikemon redis
+kwipper colorize sqlite3
+kwoon grit thor
+kwstruct
+kwyjibo
+kya hipchat-api thor version
+kyanite activesupport drumherum facets hashery rubytree transparent_nil unicode_utils yard yard_klippstein_template
+kyle highline
+kylekthompson-shoppe awesome_nested_set bcrypt dynamic_form globalize haml jquery-rails kaminari nifty-attachments nifty-dialog nifty-key-value-store nifty-utils rails ransack roo
+kylekthompson_shoppe awesome_nested_set bcrypt dynamic_form globalize haml jquery-rails kaminari nifty-attachments nifty-dialog nifty-key-value-store nifty-utils rails ransack roo
+kylichuku-grate-handle
+kymera bson bson_ext chronic cucumber ffi-rzmq json mongo
+kynetx_am_api json multipart-post oauth
+kyoto_record
+kyoto_yumi
+kyotocabinet
+kyotocabinet-ffi ffi
+kyotocabinet-java
+kyotocabinet-ruby
+kyotocabinet-ruby-reanimated
+kyotor
+kyototycoon msgpack
+kyototycoon-client
+kyototycoon-objects activesupport kyototycoon
+kyotoyu
+kyruus-bootstrap-sass bootstrap-sass font-awesome-sass sass-rails
+kytea
+kytoon builder fog json rake thor uuidtools
+kyu aws-sdk daemons eventmachine
+kyusik-google_analytics actionpack activesupport
