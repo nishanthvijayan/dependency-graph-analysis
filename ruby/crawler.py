@@ -19,7 +19,9 @@ def crawl(input_char):
         try:
             page = urlopen("https://rubygems.org/api/v1/gems/"+gem_name+".json")
             req = json.load(page)["dependencies"]["runtime"]
-            for item in req: req_list += " "+(item["name"])
+            for item in req: 
+                if item["name"]!=None:
+                    req_list += " "+(item["name"])
             h.write(req_list+"\n")
         except Exception,err:
             print gem_name,err
