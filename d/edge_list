@@ -1,0 +1,411 @@
+painlesstraits
+mongostore vibe-d
+observe vibe-d
+delegram jsonizer
+onyx-config
+dplug
+dirk
+derelict-gl3 derelict-util
+vibe-d
+mysql-lited vibe-d
+derelict-fmod derelict-util
+libhttp2 memutils
+libasync memutils
+botan botan:compression botan:tls botan:passhash botan:base
+memutils
+dgraph
+elasticsearch-d feature-test-d vibe-d
+far3api
+swaggerize tested vibe-d dyaml
+derelict-steamworks derelict-util
+ddox libdparse vibe-d
+stringex dyaml
+vibemail vibe-d
+dproto
+tango
+icontheme inilike
+unit-threaded
+gcm
+derelict-imgui derelict-util
+wrend
+superstruct
+desktopfile standardpaths inilike
+inilike
+d2sqlite3
+gfm gfm:logger gfm:math gfm:enet gfm:net gfm:assimp gfm:opengl gfm:image gfm:sdl2 gfm:freeimage gfm:core
+fio
+asynchronous libasync
+vibeirc vibe-d
+eventsystem
+fast
+gtk-d gtk-d:sv gtk-d:gtkdgl gtk-d:vte gtk-d:gtkd gtk-d:gstreamer
+derelict-util
+derelict-alure derelict-util derelict-al
+libco
+aammm
+cerealed
+jin-tree
+hashids
+digitalocean_api
+x11
+vibelog vibe-d
+dsfml dsfml:window dsfml:network dsfml:audio dsfml:system dsfml:graphics
+msgpack-rpc vibe-d msgpack-d
+color
+onyx-log onyx-config
+wave-d
+dmech dlib
+awebview pegged carbon msgpack-d derelict-sdl2
+graphite carbon lock-free
+carbon lock-free
+dexcel
+dlib
+s3
+userman vibe-d
+bloom
+dtiled jsonizer
+vibe-mqtt
+sexp
+voxelman anchovy cbor-d sdlang-d tharsis-prof derelict-enet
+poodinis
+endovena
+star-entity
+scriptlike
+webuntis
+dub
+versioning
+hprose-d vibe-d
+pgator-backend derelict-pq vibe-d dlogg
+desil dests desmath desstdx
+desspace desarch dests desmath
+desmath dests desstdx
+imageformats
+dqml
+pathlib
+safeint
+enumap
+undead
+mintegrated scid dstats
+bobby
+jax
+speech4d
+jsonizer
+dgame derelict-sdl2 derelict-gl3
+mambo tango
+anchovy derelict-ft dlib derelict-fi derelict-glfw3 sdlang-d derelict-gl3
+derelict-sfml2 derelict-util
+dcrypt
+skadi-d vibe-d
+mysql-d
+derelict-cuda derelict-util
+painlessjson dunit
+tharsis-dimgui
+derelict-bgfx derelict-util
+imaged
+temple vibe-d
+embaked cssd htmld
+jwtd
+plain htmld
+htmld
+etcetera
+dunit
+derelict-al derelict-util
+liara pegged
+tharsis-prof tinyendian
+dyaml tinyendian
+hdf5-d
+d2dgame gl3n derelict-sdl2 derelict-gl3
+derelict-sdl2 derelict-util
+rcstring
+dstats
+dmathgl
+d_rss
+d_hdf5
+fixed
+std_data_json taggedalgebraic
+gen-package-version scriptlike
+xcb-d
+scid
+mime standardpaths
+atmosphere simple_matrix cblas scid
+zmqd zeromq
+xdr
+docopt
+ddb vibe-d
+sdlang-d libinputvisitor
+libcerf
+ws x11 derelict-ft derelict-fi derelict-gl3
+relationlist
+mysql-native vibe-d
+tinyrenderer-d utga wavefront-obj
+digitalnet
+utga
+wavefront-obj utga
+zeromq
+entitysysd
+sgio-d
+derelict-lua derelict-util
+wafom digitalnet
+logger
+vibenews vibe-d antispam userman
+dip80-ndslice
+derelict-gles derelict-util
+derelict-fi derelict-util
+dmaxminddb
+cbor-d
+smtp
+derelict-ode derelict-util
+defile derelict-physfs
+clayers colorize
+sat
+vibrant-d dquery vibe-d
+ppyd
+subscribed
+d-nanomsg
+jaypha-base
+jaypha-inet jaypha-base
+derelict-cf derelict-util
+db derelict-pq
+gl3n
+windows-headers
+de_window
+derelict-allegro5 derelict-util
+standardpaths
+derelict_extras-mantle derelict-util
+minimized
+d-option
+mcrcd
+nbtd
+desstdx dests
+tinyendian
+dests
+cybuf
+libarow
+autodata infinity interval meta
+d-unit
+meta
+infinity meta
+desflow desarch dests deslog desstdx
+xdg-basedir
+dmarkdown
+desarch dests deslog desstdx
+deslog
+derelict_extras-fann derelict-util
+dlangui
+msgpack-d
+ae-graphics
+dexpect
+derelict_extras-sndfile derelict-util
+derelict_extras-bass derelict-util
+derelict-cl derelict-util
+derelict-enet derelict-util
+dvorm dvorm:orm dvorm:vibeproviders dvorm:email
+mustache-d
+vox-d
+phobosx
+ddbus dunit
+selflinoin
+ctpg compile-time-unittest selflinoin
+libdparse
+libusb-d
+vibrato vibe-d
+dpq2 derelict-pq
+meatbox derelict-sdl2 derelict-gl3
+base32
+dfftw3
+descore
+diggler dirk
+compile-time-unittest
+user-auth vibe-d
+dstack mambo
+d_mruby
+unecht derelict-imgui gl3n derelict-util derelict-ode derelict-glfw3 derelict-fi tharsis-prof derelict-gl3
+ddmp
+dolina serial-port
+cssd
+m3
+dopenvg
+de_image
+quantities
+dstruct
+fpdf imageformats
+fluent-logger msgpack-d
+allegro
+consoled
+semver
+tkd tcltk
+tcltk x11
+jack
+pegged
+stribog
+plot2kill gtk-d:gtkd
+dauth
+anansi
+serve vibe-d
+libinputvisitor
+glib-d
+backtrace-d
+rainbow
+hibernated ddbc
+ddbc mysql-native
+openssl
+duod tested
+libev
+derelict-assimp3 derelict-util
+bessel
+cblas
+des derelict-ft descore derelict-assimp3 derelict-il derelict-sdl2 derelict-gl3
+libpng
+tinyredis
+statsd4d
+ironcache-d
+fdb-d
+derelict-ft derelict-util
+derelict-pq derelict-util
+m3d
+derelict-sass derelict-util
+fcgi-loop
+gccjitd
+derelict-glfw3 derelict-util
+baussini
+descl_interop des descl
+derelict-cef derelict-util
+lua_d_api lua
+descl derelict-cl descore
+derelict_extras-nanomsg derelict-util
+tcenal
+harud
+d_sysdlog
+derelict-theora derelict-ogg derelict-util
+derelict-ogg derelict-util
+derelict-vorbis derelict-ogg derelict-util
+elf-d
+feedly vibe-d
+digestx
+matte
+shaker
+ffmpeg-d
+dfl2
+opencl
+tau
+hap
+dash logger x11 gl3n colorize vibe-d msgpack-d derelict-assimp3 derelict-fi tharsis-prof dyaml gfm:sdl2 derelict-gl3
+dcrypto openssl
+fabd
+dmdscript dmdscript:engine dmdscript:ds-ext dmdscript:ds
+hyphenate
+xtea-d
+magic-d
+dlibgit libgit2
+simple_matrix
+ae
+tornado-pool
+dini
+dlogg
+dinotify
+dinodave
+enet-tutorials
+mathed
+udis86-d
+serial-port
+ddparser
+memcached4d vibe-d
+d-blosc
+diet-coffee vibe-d
+yajl
+libhell derelict-sdl2
+storageclassutils
+derelict-il derelict-util
+derelict-physfs derelict-util
+libevent
+netcdf
+directx-d
+dfl
+moggle derelict-gl3
+pack-d
+daemonize
+stochastic tested
+punycode
+zmq-d zeromq
+y4m-d
+toml-d pegged
+quack tested
+dshell logger colorize sdlang-d linenoise scriptlike
+more
+dgamevfs
+colorize
+dfuse
+archive
+freeimage
+libnoise-d
+aws-d-metadata vibe-d
+miao-string
+scrypt
+miniupnpc-d
+log
+orderedmap
+sockjs-d vibe-d
+gcm-d vibe-d
+syslogservice vibe-d
+clfft derelict_extras-opencl
+lock-free
+antispam vibe-d
+vibenotes vibe-d
+tga
+cassandra-d vibe-d
+dmidifile
+embd
+djack
+shplib_d
+libvpx
+libcelt
+maybe-d
+dgui
+bzip2
+libtomcrypt
+simd
+unencumbered vibe-d
+cassowary-d
+btreader
+leveldb
+d-leveldb leveldb
+libtcc-d
+dcheck
+thrift libevent openssl
+test_repos test_repos:subPackage1
+libgit2
+cmsed cmsed:base
+d-beard
+jpeg-turbo
+geneticd
+batch-engine gl3n derelict-ft derelict-fi derelict-glfw3 derelict-gl3
+tested
+vibe_recaptcha vibe-d
+dejector dunit
+dtext
+gumbo-d
+ircbod
+luad
+dnsmadeeasy
+ncurses
+unstandard
+livereload dub vibe-d
+diet-typescript vibe-d
+three-d logger derelict-ft derelict-util derelict_extras-anttweakbar derelict-assimp3 derelict-fi derelict-glfw3 derelict-gl3
+grape derelict-sdl2 derelict-gl3
+civge derelict:assimp3 derelict:opengl3 derelict:glfw3 derelict:freeimage
+derelict_extras-anttweakbar derelict-util
+derelict_extras-escapi derelict-util
+linenoise
+pubsub-d
+derelict_extras-purple derelict-util derelict_extras-glib
+derelict_extras-glib derelict-util
+std_event
+process-stats
+apn-d vibe-d
+fileslurp
+stalkd
+libwebp
+decklink4d
+llvm-d
+yamkeys dyaml
