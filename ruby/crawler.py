@@ -34,7 +34,7 @@ def crawl(input_char):
     log.write(input_char+" "+str(int(total_time))+" "+str(counter)+'\n')
     log.close()
 
-seq = list("bdefg")
+seq = list("rs")
 for letter in seq:
     t = Thread(target = crawl,args=(letter,))                                                                                                           
     t.start()
