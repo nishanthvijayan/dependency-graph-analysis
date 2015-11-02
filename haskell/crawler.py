@@ -18,7 +18,7 @@ def gen_names():
 
     
 
-def consstruct_edgelist(input_char):
+def construct_edgelist(input_char):
     
     f = open("data/"+input_char+"_input",'r')
     h = open("data/"+input_char+"_output",'w')
@@ -46,9 +46,8 @@ def consstruct_edgelist(input_char):
     f.close()
     h.close()
 
-
 if __name__ == '__main__':
     seq = range(5)
     for number in seq:
-        t = Thread(target = contruct_edgelist,args=(str(number),))                                                                                                           
+        t = Thread(target = construct_edgelist,args=(str(number),))                                                                                                           
         t.start()

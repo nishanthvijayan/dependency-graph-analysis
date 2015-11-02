@@ -1,1 +1,1998 @@
 3d-graphics-examples base GLUT OpenGL random base GLUT OpenGL
+3dmodels attoparsec base bytestring linear packer
+4Blocks base cairo containers gtk haskell98 mtl
+AAI base
+ABList base linear newtype
+AC-Angle base
+AC-Boolean base
+AC-BuildPlatform base
+AC-Colour base
+AC-EasyRaster-GTK array base gtk
+AC-HalfInteger base
+AC-MiniTest base transformers
+AC-PPM base bytestring
+AC-Random base
+AC-Terminal ansi-terminal base
+AC-VanillaArray base ghc-prim
+AC-Vector base
+AC-Vector-Fancy AC-Angle AC-Vector base
+ACME base list-extras mtl random random-shuffle void
+ADPfusion base bits containers ghc-prim mmorph monad-primitive mtl OrderedBits primitive PrimitiveArray QuickCheck strict template-haskell th-orphans transformers tuple vector ADPfusion ADPfusion base PrimitiveArray template-haskell vector ADPfusion base PrimitiveArray template-haskell vector ADPfusion ADPfusion base PrimitiveArray template-haskell vector ADPfusion base PrimitiveArray template-haskell vector ADPfusion ADPfusion base log-domain PrimitiveArray template-haskell vector ADPfusion base log-domain PrimitiveArray template-haskell vector ADPfusion ADPfusion base PrimitiveArray template-haskell vector ADPfusion base PrimitiveArray template-haskell vector ADPfusion ADPfusion base PrimitiveArray template-haskell vector ADPfusion base PrimitiveArray template-haskell vector ADPfusion ADPfusion base PrimitiveArray template-haskell vector ADPfusion base PrimitiveArray template-haskell vector ADPfusion ADPfusion base PrimitiveArray template-haskell vector ADPfusion base PrimitiveArray template-haskell vector
+AERN-Basics base containers criterion deepseq QuickCheck random test-framework test-framework-quickcheck2 base containers directory
+AERN-Net AERN-Real AERN-RnToRm base binary containers html stm time
+AERN-Real AERN-Basics base criterion QuickCheck test-framework test-framework-quickcheck2
+AERN-Real-Double AERN-Basics AERN-Real AERN-Real-Interval base ieee-utils QuickCheck test-framework test-framework-quickcheck2 AERN-Basics AERN-Real AERN-Real-Interval base ieee-utils QuickCheck test-framework test-framework-quickcheck2 AERN-Basics AERN-Real AERN-Real-Interval base criterion ieee-utils QuickCheck test-framework test-framework-quickcheck2 AERN-Basics AERN-Real AERN-Real-Interval base ieee-utils QuickCheck AERN-Basics AERN-Real AERN-Real-Interval base ieee-utils QuickCheck AERN-Basics AERN-Real AERN-Real-Interval base ieee-utils QuickCheck
+AERN-Real-Interval AERN-Basics AERN-Real base deepseq QuickCheck test-framework test-framework-quickcheck2
+AERN-RnToRm AERN-Real base binary containers directory filepath html QuickCheck time
+AERN-RnToRm-Plot AERN-Real AERN-RnToRm base binary containers directory filepath glade glib gtk gtkglext mtl OpenGL stm time
+AES base bytestring cereal monads-tf random transformers
+AGI mtl parsec syb base base network random unix base network base network random unix base network
+ALUT base OpenAL StateVar transformers
+AMI base bytestring containers mtl network pureMD5 stm
+ANum base
+ASN1 HUnit mtl NewBinary QuickCheck base base containers old-time pretty base base containers old-time pretty base
+AVar base
+AWin32Console base regex-compat Win32
+AbortT-monadstf AbortT-transformers base monads-tf
+AbortT-mtl AbortT-transformers base mtl
+AbortT-transformers base transformers
+ActionKid base containers gloss gloss-juicy lens mtl OpenGL StateVar template-haskell base containers gloss gloss-juicy lens mtl OpenGL StateVar template-haskell
+Adaptive base
+Adaptive-Blaisorblade base
+Advgame base haskell98 mtl
+AesonBson aeson attoparsec base bson unordered-containers vector
+Agata base containers mtl QuickCheck tagged template-haskell
+Agda array base binary boxes bytestring containers data-hash deepseq directory edit-distance equivalence filepath geniplate-mirror hashable hashtables haskeline haskell-src-exts mtl parallel pretty process QuickCheck strict template-haskell text time transformers transformers-compat unordered-containers xhtml zlib Win32 Win32 base-orphans base-orphans Win32 base-orphans Agda base base directory filepath process
+Agda-executable Agda base
+AhoCorasick array base hashable mtl unordered-containers
+AlgorithmW base containers mtl pretty
+AlignmentAlgorithms ADPfusion base containers fmlist FormalGrammars GrammarProducts PrimitiveArray vector
+Allure base containers enummapset-th filepath LambdaHack template-haskell text
+AndroidViewHierarchyImporter base bytestring cmdtheline containers mtl network opml pretty process QuickCheck split transformers xml
+Animas base random
+Annotations base mtl multirec parsec
+Ansi2Html base mtl parsec xhtml
+ApplePush base binary bytestring haskell98 json mtl network base
+AppleScript base base bytestring conduit data-default directory haskell-src-meta mtl network template-haskell text text-format base base bytestring conduit data-default directory haskell-src-meta mtl network template-haskell text text-format base
+ApproxFun-hs base vector
+ArrayRef base
+ArrowVHDL base process
+AspectAG base containers HList mtl template-haskell
+AttoBencode attoparsec base blaze-builder blaze-textual bytestring containers
+AttoJson attoparsec base bytestring bytestring-show containers mtl utf8-string
+Attrac array base colour GLUT OpenGL random
+Aurochs base containers parsec pretty
+AutoForms array base haskell98 mtl syb-with-class template-haskell wx wxcore
+AvlTree base COrdering
+BASIC base containers llvm random timeit
+BCMtools base bytestring cereal colour conduit conduit-extra data-default-class matrices transformers unordered-containers vector zlib base BCMtools bytestring bytestring-lexing cereal conduit conduit-extra data-default-class optparse-applicative resourcet split unordered-containers
+BNFC array base array base containers deepseq directory filepath mtl pretty process
+BNFC-meta alex-meta array base happy-meta haskell-src-meta syb template-haskell
+Baggins base cairo containers mtl
+Bang base bifunctors hmidi mtl stm time transformers
+Barracuda adhoc-network array base bytestring containers Crypto dataenc directory filepath gtk HaXml heap hsgnutls mtl network old-locale parsec pkcs1 random regex-compat stm time unix utf8-string xml-parsec adhoc-network array base bytestring containers Crypto dataenc directory filepath gtk HaXml heap hsgnutls mtl network old-locale parsec pkcs1 random regex-compat stm time unix utf8-string xml-parsec
+Befunge93 array base mtl random
+BenchmarkHistory base bytestring cassava deepseq directory statistics time vector base base BenchmarkHistory Chart Chart-diagrams cmdargs base BenchmarkHistory Chart Chart-diagrams cmdargs
+BerkeleyDB base bytestring extensible-exceptions
+BerkeleyDBXML base BerkeleyDB bytestring
+BerlekampAlgorithm base besout
+BigPixel array base bmp bytestring gloss
+Binpack base
+Biobase array base bytestring containers deepseq directory either-unwrap file-embed filemanip filepath ghc-prim HsTools mtl parsec ParsecTools primitive PrimitiveArray split tuple utility-ht vector vector-read-instances zlib
+BiobaseBlast array base BiobaseXNA containers
+BiobaseDotP base bytestring iteratee
+BiobaseFR3D base BiobaseXNA bytestring containers filemanip iteratee tuple
+BiobaseFasta base biocore bytestring conduit containers transformers cmdargs
+BiobaseInfernal attoparsec attoparsec-conduit base BiobaseXNA biocore bytestring bytestring-lexing conduit containers either-unwrap lens primitive PrimitiveArray repa transformers tuple vector
+BiobaseMAF base bytestring containers iteratee
+BiobaseTrainingData base BiobaseDotP BiobaseFR3D BiobaseXNA bytestring either-unwrap iteratee vector cmdargs
+BiobaseTurner base BiobaseXNA bytestring bytestring-lexing conduit containers filepath lens primitive PrimitiveArray repa split vector
+BiobaseTypes aeson base binary cereal cereal-text data-default deepseq hashable log-domain primitive PrimitiveArray QuickCheck stringable text text-binary vector vector-binary-instances vector-th-unbox
+BiobaseVienna base BiobaseTurner BiobaseXNA primitive PrimitiveArray vector
+BiobaseXNA aeson base bimaps binary bytes bytestring cereal cereal-vector containers csv deepseq file-embed hashable lens primitive PrimitiveArray split text tuple vector vector-binary-instances vector-th-unbox base BiobaseXNA cmdargs
+BirdPP base haskell98
+BitSyntax base bytestring QuickCheck template-haskell
+Bitly base HTTP json2
+BlastHTTP base biocore biofasta blastxml bytestring conduit HTTP http-conduit hxt mtl network transformers
+Blobs base containers directory HaXml polyparse pretty wx wxcore base containers directory HaXml polyparse pretty wx wxcore
+BlogLiterately base blaze-html bool-extras bytestring cmdargs containers data-default directory filepath HaXml haxr highlighting-kate hscolour lens mtl pandoc pandoc-citeproc pandoc-types parsec process split strict temporary transformers base BlogLiterately cmdargs
+BlogLiterately-diagrams base BlogLiterately containers diagrams-builder diagrams-lib diagrams-rasterific directory filepath JuicyPixels pandoc safe base BlogLiterately BlogLiterately-diagrams
+BluePrintCSS base mtl blaze-html blaze-html hsx hsx blaze-html hsx
+Blueprint
+Bookshelf base containers directory filepath pandoc pandoc-citeproc pandoc-types parseargs
+Boolean base
+BoundedChan array base
+Bravo haskell-src-exts mtl parsec base base syb base haskell-src-meta haskell-src-meta template-haskell haskell-src-meta template-haskell base syb base haskell-src-meta template-haskell haskell-src-meta template-haskell
+BufferedSocket base bytestring network text
+Buster base bytestring conduit data-default errors hinotify hslogger http-conduit http-types transformers unbounded-delays unix yaml
+CBOR base binary binary-bits bytestring data-binary-ieee754
+CC-delcont base mtl
+CC-delcont-alt base CC-delcont-cxe CC-delcont-exc CC-delcont-ref mtl
+CC-delcont-cxe base mtl
+CC-delcont-exc base mtl
+CC-delcont-ref base mtl
+CC-delcont-ref-tf base ref-tf transformers
+CCA base template-haskell base base ghc-prim syb base ghc-prim syb array base containers haskell-src
+CHXHtml base bytestring hxt-regex-xmlschema utf8-string
+CLASE base containers filepath mtl parsec template-haskell
+CLI base directory split time
+CMCompare array base BiobaseInfernal BiobaseXNA containers lens cmdargs
+CMQ base bytestring cereal containers iproute mtl network PSQueue stm time
+COrdering base
+CPBrainfuck base haskell98
+CPL array base containers mtl parsec readline readline haskeline haskeline readline haskeline haskeline haskeline
+CSPM-CoreLanguage base
+CSPM-FiringRules base containers CSPM-CoreLanguage mtl parallel-tree-search tree-monad QuickCheck QuickCheck random QuickCheck random
+CSPM-Frontend array base containers dlist either ghc-prim mtl parsec2 prettyclass syb transformers
+CSPM-Interpreter array base containers CSPM-CoreLanguage CSPM-Frontend mtl prettyclass syb
+CSPM-ToProlog array base containers CSPM-Frontend ghc-prim pretty
+CSPM-cspm base cmdargs containers CSPM-CoreLanguage CSPM-FiringRules CSPM-Frontend CSPM-Interpreter CSPM-ToProlog hslua parallel pretty prettyclass syb transformers xml base cmdargs containers CSPM-CoreLanguage CSPM-FiringRules CSPM-Frontend CSPM-Interpreter CSPM-ToProlog hslua parallel pretty prettyclass syb transformers xml
+CTRex base containers hashable mtl unordered-containers
+CV array base binary bindings-DSL carray containers deepseq directory filepath lazysmallcheck mtl mwc-random parallel parallel-io primitive QuickCheck storable-complex storable-tuple vector
+Cabal array base bytestring containers deepseq directory filepath pretty process time binary binary binary ghc-prim ghc-prim unix unix binary binary ghc-prim unix
+Cabal-ide-backend array base bytestring containers deepseq directory filepath pretty process time binary binary binary ghc-prim ghc-prim unix unix binary binary ghc-prim unix
+CabalSearch base bytestring directory filepath HDBC HDBC-sqlite3 process unix
+Capabilities base compdata directory free unix
+Cardinality base containers mtl
+CarneadesDSL base containers fgl parsec
+CarneadesIntoDung base CarneadesDSL cmdargs containers Dung fgl
+Cartesian base lens
+Cascade base comonad ghc-prim mtl void
+Catana base mtl
+Chart array base colour data-default-class lens mtl old-locale operational time vector
+Chart-cairo array base cairo Chart colour data-default-class lens mtl old-locale operational time
+Chart-diagrams base blaze-markup bytestring Chart colour containers data-default-class diagrams-core diagrams-lib diagrams-postscript diagrams-svg lens lucid-svg mtl old-locale operational SVGFonts text time
+Chart-gtk array base cairo Chart Chart-cairo colour data-default-class gtk mtl old-locale time
+Chart-simple array base cairo Chart Chart-cairo Chart-gtk colour data-default-class gtk mtl old-locale time
+ChasingBottoms base containers mtl QuickCheck random syb
+CheatSheet base containers directory
+Checked base text
+Chitra base binary bytestring mtl network
+ChristmasTree base containers fgl template-haskell TTTAS uulib
+CirruParser aeson base text vector
+ClassLaws base ChasingBottoms mtl QuickCheck
+ClassyPrelude base strict
+Clean base containers
+Clipboard base base Win32 base base Win32 base
+ClustalParser base parsec vector base ClustalParser cmdargs either-unwrap
+Coadjute array base bytestring bytestring-csv containers directory fgl filepath mtl old-time pretty pureMD5 safe utf8-string
+Codec-Compression-LZF base
+Codec-Image-DevIL array base
+Combinatorrent array attoparsec base bytestring cereal containers deepseq directory filepath hopenssl hslogger HTTP HUnit mtl network network-bytestring parsec pretty PSQueue QuickCheck random random-shuffle stm test-framework test-framework-hunit test-framework-quickcheck2 time
+Command base directory process
+Commando base data-default fsnotify optparse-applicative process system-fileio system-filepath text base data-default fsnotify optparse-applicative process system-fileio system-filepath text
+ComonadSheet applicative-numbers base comonad containers distributive IndexedList NestedFunctor PeanoWitnesses Stream Tape transformers
+ConcurrentUtils array base binary bytestring containers crypto-random cryptohash network parallel process reexport-crypto-random RSA securemem tagged
+Concurrential async base
+Condor base binary containers glider-nlp text base binary containers directory filepath glider-nlp text
+ConfigFile base containers MissingH mtl parsec HUnit HUnit testpack HUnit testpack
+ConfigFileTH base ConfigFile parsec template-haskell
+Configger base Dangerous MissingH mtl parsec
+Configurable base
+ConsStream base Stream
+Conscript base process
+ConstraintKinds base dlist ghc-prim vector
+Consumer base mtl
+ContArrow arrows base
+ContextAlgebra base containers lattices multiset
+Contract base template-haskell
+Control-Engine base BoundedChan stm
+Control-Monad-MultiPass array base containers Control-Monad-ST2 mtl
+Control-Monad-ST2 array base QuickCheck SafeSemaphore
+CoreDump base ghc pretty pretty-show
+CoreErlang base parsec pretty
+CoreFoundation base bytestring containers deepseq filepath network property-list tagged text time transformers vector
+Coroutine base
+CouchDB base bytestring containers HTTP json mtl network network-uri utf8-string network network network-uri network network-uri network network-uri network network-uri
+Craft3e base HUnit mtl old-locale QuickCheck time
+Crypto HUnit QuickCheck array array base pretty random base array base pretty random base
+CurryDB array async attoparsec attoparsec-conduit base binary blaze-builder blaze-textual bytestring conduit containers data-default fast-logger hashable lens lifted-base monad-control monad-logger mtl network network-conduit stm system-fileio system-filepath template-haskell text time transformers transformers-base unordered-containers base CurryDB network-conduit base CurryDB network-conduit optparse-applicative system-filepath
+DAG-Tournament base cairo containers directory filepath gtk mtl time
+DAV base bytestring case-insensitive containers data-default exceptions http-client http-client-tls http-types lens mtl mtl-compat transformers transformers-base transformers-compat utf8-string xml-conduit xml-hamlet base bytestring case-insensitive containers data-default exceptions http-client http-client-tls http-types lens mtl mtl-compat optparse-applicative transformers transformers-base transformers-compat utf8-string xml-conduit xml-hamlet network network network-uri network network network-uri network
+DBlimited base containers parsec
+DBus base bytestring
+DCFL base deepseq HUnit parallel random
+DMuCheck base binary directory distributed-process distributed-process-simplelocalnet hint MuCheck network-transport-tcp unix MuCheck-QuickCheck MuCheck-QuickCheck MuCheck-SmallCheck MuCheck-SmallCheck MuCheck-HUnit MuCheck-HUnit MuCheck-Hspec MuCheck-Hspec MuCheck-QuickCheck MuCheck-SmallCheck MuCheck-HUnit MuCheck-Hspec base binary directory distributed-process distributed-process-simplelocalnet hint MuCheck network-transport-tcp unix MuCheck-QuickCheck MuCheck-QuickCheck MuCheck-SmallCheck MuCheck-SmallCheck MuCheck-HUnit MuCheck-HUnit MuCheck-Hspec MuCheck-Hspec MuCheck-QuickCheck MuCheck-SmallCheck MuCheck-HUnit MuCheck-Hspec base binary directory distributed-process distributed-process-simplelocalnet hint MuCheck network-transport-tcp unix MuCheck-QuickCheck MuCheck-QuickCheck MuCheck-SmallCheck MuCheck-SmallCheck MuCheck-HUnit MuCheck-HUnit MuCheck-Hspec MuCheck-Hspec MuCheck-QuickCheck MuCheck-SmallCheck MuCheck-HUnit MuCheck-Hspec base MuCheck
+DOM base mtl WebBits
+DP array base containers list-tries mtl QuickCheck safe semiring
+DPM array base bytestring containers convertible darcs directory filepath HSH HTF HTTP mtl network old-locale pretty process regex-posix split syb time unix array base bytestring DPM HTF base DPM
+DRBG base bytestring cereal cipher-aes128 crypto-api cryptohash-cryptoapi entropy mtl parallel prettyclass tagged
+DSA base binary bytestring crypto-api crypto-pubkey-types SHA tagged ghc-prim ghc-prim integer-gmp ghc-prim integer-gmp
+DSH aeson algebra-dag ansi-wl-pprint base bytestring containers Decimal dlist either hashable HUnit kure mtl process QuickCheck random semigroups template-haskell test-framework test-framework-hunit test-framework-quickcheck2 text time unordered-containers vector aeson algebra-dag ansi-wl-pprint base bytestring containers Decimal mtl semigroups template-haskell text time vector
+DSTM base containers haskell98 network process unix base containers haskell98 network process unix base containers haskell98 network process unix base containers haskell98 network process unix base containers haskell98 network process unix base containers haskell98 network process unix
+DTC base haskell-src-exts
+Dangerous base MaybeT mtl
+Dao array base binary bytestring containers Crypto data-binary-ieee754 deepseq directory filepath mtl process random time transformers utf8-string array base binary bytestring containers Crypto data-binary-ieee754 deepseq directory filepath mtl process random time transformers utf8-string
+DarcsHelpers base HaXml mtl parsec safe xml-parsec
+Data-Hash-Consistent base bytestring digest utf8-string vector vector-algorithms
+Data-Rope base bytestring unix
+DataTreeView base bytestring containers deepseq glib gtk lifted-base ListLike MissingH monad-control mtl syb transformers-base
+Deadpan-DDP aeson base base64-bytestring bytestring containers hashable lens mtl network network-uri random safe scientific stm text time transformers unordered-containers vector websockets aeson base base64-bytestring bytestring containers hashable haskeline lens mtl network network-uri random safe scientific stm text time transformers unordered-containers vector websockets
+DebugTraceHelpers base mtl
+Decimal base deepseq
+DecisionTree base containers
+DeepArrow base haskell-src mtl TypeCompose
+DefendTheKing base binary bytestring containers GLUT HTTP MaybeT mtl network peakachu random time utility-ht zlib base containers GLUT peakachu
+DescriptiveKeys base containers xmonad xmonad-contrib
+Dflow base containers QuickCheck stm time
+Diff array base pretty
+DifferenceLogic base containers fgl FirstOrderTheory HUnit
+DifferentialEvolution base deepseq fclabels mtl mwc-random parallel primitive vector
+Digit base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2
+DigitalOcean aeson base bytestring containers exceptions lens mtl text transformers unordered-containers vector wreq
+DimensionalHash base
+DirectSound Win32 base base base base base
+DisTract base Cabal chunks containers directory filepath hinstaller old-locale parsec pretty process template-haskell time xhtml
+DiscussionSupportSystem base blaze-html blaze-markup html parsers
+Dish base bytestring base bytestring Dish
+Dist base containers MonadRandom
+DistanceTransform base primitive vector
+DistanceUnits base
+DnaProteinAlignment ADPfusion ansi-wl-pprint array base BiobaseBlast BiobaseFasta BiobaseXNA biocore bytestring cmdargs conduit dlist parallel PrimitiveArray repa split vector ADPfusion ansi-wl-pprint array base BiobaseBlast BiobaseFasta BiobaseXNA biocore bytestring cmdargs conduit dlist DnaProteinAlignment parallel PrimitiveArray repa split vector
+DocTest base containers ghc ghc-paths haddock HUnit process
+Docs base html
+DrHylo base haskell-src-exts mtl pointless-haskell syb containers array array base pretty base array base pretty base
+DrIFT base base DrIFT old-time random base filepath process
+DrIFT-cabalized base old-time random base process
+Dung base cmdargs containers parsec
+Dust base binary bytestring cereal containers crypto-api directory Dust-crypto entropy ghc-prim network random random-extras random-fu random-source split threefish
+Dust-crypto base binary bytestring cereal containers crypto-api cryptohash directory entropy ghc-prim network random random-extras random-fu random-source skein split threefish
+Dust-tools base binary bytestring cereal containers directory Dust Dust-crypto entropy ghc-prim network random random-extras random-fu random-source split base binary bytestring cereal containers directory Dust entropy ghc-prim network random random-extras random-fu random-source split base binary bytestring cereal containers directory Dust entropy ghc-prim network random random-extras random-fu random-source split base binary bytestring cereal containers directory Dust entropy ghc-prim network random random-extras random-fu random-source split base binary bytestring cereal containers directory Dust entropy ghc-prim network random random-extras random-fu random-source split base binary bytestring cereal containers csv directory Dust entropy ghc-prim network random random-extras random-fu random-source split base binary bytestring cereal containers csv directory Dust entropy ghc-prim network random random-extras random-fu random-source split
+Dust-tools-pcap base binary bytestring cereal containers directory Dust Dust-crypto Dust-tools entropy ghc-prim network pcap random random-extras random-fu random-source split base binary bytestring cereal containers csv directory Dust entropy ghc-prim network pcap random random-extras random-fu random-source split
+DynamicTimeWarp array base vector array base criterion random vector array base QuickCheck vector
+DysFRP base contravariant mtl time transformers
+DysFRP-Cairo base cairo DysFRP gtk mtl
+DysFRP-Craftwerk base cairo containers craftwerk craftwerk-gtk DysFRP DysFRP-Cairo gtk
+EEConfig base containers
+Earley base ListLike base Earley unordered-containers base Earley base Earley base Earley unordered-containers base Earley base Earley base Earley
+Ebnf2ps array base containers directory old-time unix
+EdisonAPI base mtl
+EdisonCore array base containers EdisonAPI mtl QuickCheck
+EditTimeReport array base containers csv directory editline filepath haskell98 html pretty xhtml
+EitherT base monad-control transformers transformers-base
+Elm aeson aeson-pretty base binary blaze-html blaze-markup bytestring cheapskate cmdargs containers directory filepath highlighting-kate indents language-ecmascript language-glsl mtl parsec pretty text transformers union-find unordered-containers aeson aeson-pretty base binary blaze-html blaze-markup bytestring cheapskate cmdargs containers directory filepath highlighting-kate indents language-ecmascript language-glsl mtl parsec pretty text transformers union-find unordered-containers aeson aeson-pretty base binary bytestring cmdargs containers directory filepath indents language-glsl mtl parsec pretty text transformers union-find
+Emping array base containers fgl gtk mtl parsec
+Encode base Cabal containers mtl base Cabal containers mtl base Cabal containers mtl
+EntrezHTTP base biocore bytestring conduit HTTP http-conduit hxt mtl network Taxonomy transformers
+EnumContainers base containers deepseq
+EnumMap base containers
+Eq array base containers filepath HaXml mtl parsec template-haskell transformers
+EqualitySolver base containers HUnit mtl union-find-array
+EsounD base base-unicode-symbols bindings-EsounD monad-control network regions safer-file-handles storablevector transformers unix
+EstProgress ansi-terminal base mtl
+EtaMOO array base bytestring case-insensitive containers hashable haskeline mtl network old-locale parsec pipes pipes-bytestring pipes-concurrency pipes-network pureMD5 random stm stm-chans text time transformers unix unordered-containers vector
+Etage base containers ghc mtl operational random SafeSemaphore time unix
+Etage-Graph base containers Etage fgl mtl array base containers deepseq Etage Etage-Graph fgl mtl parallel random time
+Eternal10Seconds base haskell98 SDL SDL-mixer
+Etherbunny base binary bytestring haskell98 network pcap base binary bytestring haskell98 network pcap
+EuroIT base
+Euterpea array arrows base bytestring containers deepseq HCodecs heap markov-chain PortMidi pure-fft random stm UISF base base ghc-prim base ghc-prim
+EventSocket base bytestring containers haskell98 mtl network
+Extra base bytestring bzlib containers directory filepath HUnit mtl old-locale old-time pretty process pureMD5 QuickCheck random regex-compat time unix Unixutils zlib network-uri network-uri network network-uri network
+FComp array base binary deepseq ghc-prim HarmTrace-Base haskore instant-generics ListLike midi mtl random template-haskell time uu-parsinglib QuickCheck QuickCheck QuickCheck QuickCheck QuickCheck array base binary deepseq ghc-prim HarmTrace-Base haskore instant-generics ListLike midi mtl random template-haskell time uu-parsinglib QuickCheck QuickCheck QuickCheck QuickCheck QuickCheck
+FM-SBLEX array base containers haskell98 array base containers haskell98 array base containers haskell98
+FModExRaw base
+FPretty base containers
+FTGL base
+FTGL-bytestring base bytestring StateVar-transformer transformers
+FTPLine ansi-terminal base bytestring directory ftphs haskeline mtl network strict
+Facts AC-Angle base containers digits QuickCheck template-haskell
+FailureT base base-unicode-symbols mmtl
+FastxPipe attoparsec base blaze-builder bytestring pipes pipes-attoparsec pipes-bytestring
+FenwickTree base QuickCheck template-haskell
+FermatsLastMargin base HAppS-Data HAppS-IxSet HAppS-Server HAppS-State HAppS-Util haskell98 HaXml mtl old-time random syb-with-class template-haskell
+FerryCore base containers HaXml mtl parsec pretty TableAlgebra template-haskell
+Feval base containers mtl parsec base base containers mtl parsec base containers mtl parsec
+FieldTrip base GLUT graphicsFormats MemoTrie old-time OpenGL TypeCompose vector-space
+FileManip base base bytestring directory extensible-exceptions filepath mtl unix base extensible-exceptions filepath mtl unix base bytestring directory extensible-exceptions filepath mtl unix base extensible-exceptions filepath mtl unix
+FileManipCompat base base bytestring directory filepath mtl unix-compat base filepath mtl unix-compat base bytestring directory filepath mtl unix-compat base filepath mtl unix-compat
+FilePather base comonad comonad-transformers data-lens directory filepath mtl transformers
+FileSystem base binary bytestring directory filepath mtl old-time
+Finance-Quote-Yahoo base bytestring http-conduit network old-locale time
+Finance-Treasury HTTP HTTP-Simple hxt hxt-filter network old-locale time base base containers old-locale base base containers old-locale base
+FindBin base directory filepath
+FiniteMap base haskell98
+FirstOrderTheory base containers Proper
+FixedPoint-simple base deepseq template-haskell
+Flippi base cgi containers directory haskell98 old-time parsec xhtml
+Focus base MissingH split
+Folly base containers parsec base containers parsec base containers HUnit parsec
+FontyFruity base binary bytestring containers deepseq directory filepath text vector
+ForSyDe array base containers directory filepath mtl old-time parameterized-data pretty process random regex-posix template-haskell type-level
+ForkableT base monad-control mtl resourcet
+FormalGrammars ADPfusion ansi-wl-pprint base bytestring containers data-default HaTeX lens mtl parsers PrimitiveArray semigroups template-haskell text transformers trifecta unordered-containers vector ansi-wl-pprint base cmdargs FormalGrammars ADPfusion ADPfusion base FormalGrammars PrimitiveArray template-haskell vector ADPfusion base FormalGrammars PrimitiveArray template-haskell vector ADPfusion ADPfusion base containers FormalGrammars PrimitiveArray template-haskell vector ADPfusion base containers FormalGrammars PrimitiveArray template-haskell vector
+Foster array base cmdtheline containers random strict
+FpMLv53 base HaXml
+Fractaler base FTGL GLFW-b OpenGLRaw parallel random time
+Frames base ghc-prim pipes primitive readable template-haskell text transformers vector vinyl base base bytestring http-client zip-archive base bytestring http-client zip-archive base base Chart Chart-diagrams containers diagrams-lib diagrams-rasterific Frames lens-family-core pipes readable statistics template-haskell text vector base Chart Chart-diagrams containers diagrams-lib diagrams-rasterific Frames lens-family-core pipes readable statistics template-haskell text vector base base Chart Chart-diagrams containers diagrams-lib diagrams-rasterific Frames lens-family-core pipes readable statistics template-haskell text vector base Chart Chart-diagrams containers diagrams-lib diagrams-rasterific Frames lens-family-core pipes readable statistics template-haskell text vector base base Frames ghc-prim lens-family-core list-t pipes readable template-haskell text transformers vector base Frames ghc-prim lens-family-core list-t pipes readable template-haskell text transformers vector base base foldl Frames lens-family-core pipes readable template-haskell text vector base foldl Frames lens-family-core pipes readable template-haskell text vector base base foldl Frames lens-family-core pipes base foldl Frames lens-family-core pipes base base Frames vinyl base Frames vinyl
+Frank base mtl newtype she void
+FreeTypeGL base freetype2 OpenGL base base FreeTypeGL GLFW-b OpenGL base FreeTypeGL GLFW-b OpenGL
+FunGEn base base-compat GLUT OpenGL random base FunGEn GLUT OpenGL random base FunGEn GLUT OpenGL random base FunGEn GLUT OpenGL random
+Fungi base bytestring containers directory filepath ListZipper mtl mwc-random old-time process random transformers tuple
+GA base directory random transformers
+GGg base bimap
+GHood array base process
+GLFW base OpenGL
+GLFW-OGL base mtl OGL
+GLFW-b base bindings-GLFW
+GLFW-b-demo base GLFW-b mtl OpenGL pretty stm transformers
+GLFW-task base GLFW monad-task OpenGL transformers
+GLHUI base
+GLM aeson base bytestring interpolate lens mtl parsec pureMD5 QuickCheck test-framework test-framework-quickcheck2 test-framework-th transformers base bytestring GLM interpolate lens mtl parsec pureMD5 test-framework test-framework-quickcheck2 test-framework-th base bytestring GLM interpolate lens mtl parsec pureMD5 test-framework test-framework-quickcheck2 test-framework-th aeson base bytestring GLM interpolate lens mtl parsec pureMD5 test-framework test-framework-quickcheck2 test-framework-th
+GLMatrix base OpenGLRaw
+GLURaw base OpenGLRaw transformers
+GLUT array base containers OpenGL OpenGLRaw StateVar transformers
+GLUtil array base bytestring containers directory filepath hpp JuicyPixels linear OpenGL OpenGLRaw transformers vector
+GPX base comonad comonad-transformers containers data-lens hxt newtype xsd
+GPipe base Boolean containers exception-transformers gl hashtables linear transformers
+GPipe-Collada array base containers GPipe HaXml mtl Vec
+GPipe-Examples base GLUT GPipe GPipe-TextureLoad haskell98 Vec Vec-Transform base GLUT GPipe GPipe-TextureLoad haskell98 Vec Vec-Transform base GLUT GPipe GPipe-TextureLoad haskell98 Vec Vec-Transform base GLUT GPipe GPipe-TextureLoad haskell98 Vec Vec-Transform
+GPipe-GLFW base GLFW-b GPipe transformers
+GPipe-TextureLoad base bitmap GPipe stb-image
+GTALib base containers deepseq parallel template-haskell
+Gamgine array base bytestring composition cpphs data-lens directory filepath GLFW-b ListZipper mtl OpenGLRaw parsec pretty-show StateVar time unordered-containers utility-ht Vec zlib
+Ganymede base containers directory filepath mtl parsec transformers
+GaussQuadIntegration base
+GeBoP array base directory random wx wxcore
+GenI base binary bytestring cabal-macosx containers deepseq directory errors filepath hslogger json mtl old-locale ordered parsec process syb text time transformers yaml-light base containers directory errors filepath GenI hslogger json mtl process yaml-light
+GenSmsPdu base haskell98 QuickCheck random
+Genbank base biocore biofasta bytestring parsec split base cmdargs Genbank
+GeneralTicTacToe base
+GenericPretty base ghc-prim pretty
+GenussFold ADPfusion ansi-wl-pprint base bytestring containers data-default FormalGrammars lens mtl PrimitiveArray semigroups template-haskell text transformers unordered-containers vector base cmdargs FormalGrammars GenussFold
+GeoIp base bytestring bytestring-mmap syb
+GeocoderOpenCage aeson base bytestring HTTP text
+Geodetic base
+GeomPredicates base
+GeomPredicates-SSE base GeomPredicates
+GiST base text
+GiveYouAHead base directory extra old-time process
+Glob base containers directory dlist filepath transformers Win32 Win32 Win32
+GlomeTrace array base GlomeVec
+GlomeVec array base
+GlomeView base deepseq GlomeTrace GlomeVec monad-par random SDL time vector
+GoogleChart base
+GoogleDirections AttoJson base bytestring containers dataenc download-curl
+GoogleSB base binary Crypto haskell98 HTTP mtl network split
+GoogleSuggest base dataenc download-curl utf8-string xml
+GoogleTranslate AttoJson base bytestring dataenc download-curl
+GotoT-transformers base transformers
+GrammarProducts ADPfusion ansi-wl-pprint base bytestring containers data-default FormalGrammars lens newtype parsers PrimitiveArray semigroups template-haskell transformers trifecta ADPfusion ADPfusion base containers FormalGrammars GrammarProducts PrimitiveArray template-haskell vector ADPfusion base containers FormalGrammars GrammarProducts PrimitiveArray template-haskell vector
+Graph500 array base containers mersenne-random-pure64 mtl random array base Graph500 mtl
+GraphHammer array base containers Graph500 mtl stm time
+GraphHammer-examples array base containers Graph500 GraphHammer mtl array base containers Graph500 GraphHammer mtl
+GraphSCC array base containers
+Graphalyze array base bktrees containers directory fgl filepath graphviz pandoc process random text old-locale old-locale time time old-locale time time
+Grempa array base containers mtl template-haskell th-lift QuickCheck QuickCheck QuickCheck
+GroteTrap base mtl parsec QuickCheck syb
+Grow array base bytestring clock containers deepseq definitive-base definitive-filesystem definitive-parser definitive-reactive directory filepath old-locale primitive process time unix vector
+GrowlNotify base binary bytestring Crypto haskell98 network base binary bytestring Crypto haskell98 network
+Gtk2hsGenerics array base cairo containers glib gtk haskell98 mtl
+GtkGLTV base bitmap bitmap-opengl gtk gtkglext GtkTV OpenGL stb-image time
+GtkTV base gtk time TV TypeCompose vector-space
+GuiHaskell base containers directory filepath glade gtk parsec process proplang
+GuiTV base DeepArrow phooey TV TypeCompose
+H base bytestring cmdargs file-embed inline-r pretty process temporary-rc vector
+HARM array base base array base
+HAppS-Data binary bytestring containers HAppS-Util HaXml mtl pretty syb-with-class template-haskell base base syb base base syb base
+HAppS-IxSet base containers HAppS-Data HAppS-State HAppS-Util hslogger mtl syb-with-class template-haskell base base syb base base syb base
+HAppS-Server base bytestring containers directory HAppS-Data HAppS-IxSet HAppS-State HAppS-Util HaXml hslogger html HTTP mtl network old-locale old-time parsec process random template-haskell xhtml syb syb unix unix base base syb unix base
+HAppS-State binary bytestring containers directory filepath HAppS-Data HAppS-Util HaXml hslogger hspread mtl network old-locale old-time random stm template-haskell base base syb base unix unix base syb base unix
+HAppS-Util array bytestring directory hslogger mtl old-time process template-haskell base base base base base
+HAppSHelpers
+HCL base containers mtl QuickCheck random base containers mtl QuickCheck random
+HCard base mtl QuickCheck random random-shuffle
+HCodecs array base bytestring QuickCheck random
+HDBC convertible mtl text utf8-string base base bytestring containers old-time time time old-locale time base base base base bytestring containers old-time time time old-locale time time old-locale time base base convertible convertible HUnit mtl QuickCheck testpack text utf8-string base base bytestring containers old-time time time old-locale time base base base convertible HUnit mtl QuickCheck testpack text utf8-string base base bytestring containers old-time time time old-locale time base base base base bytestring containers old-time time time old-locale time time old-locale time base base
+HDBC-mysql base bytestring HDBC time utf8-string
+HDBC-odbc base bytestring HDBC mtl time utf8-string containers containers convertible HUnit old-locale old-time QuickCheck testpack time containers convertible HUnit old-locale old-time QuickCheck testpack time base base HDBC HDBC-odbc random resource-pool base HDBC HDBC-odbc random resource-pool
+HDBC-postgresql base bytestring convertible HDBC mtl old-time parsec utf8-string time time old-locale time base base time old-locale time base base base bytestring containers convertible HDBC HUnit old-time parsec QuickCheck testpack utf8-string time time old-locale time base bytestring containers convertible HDBC HUnit old-time parsec QuickCheck testpack utf8-string time time old-locale time time old-locale time
+HDBC-postgresql-hstore attoparsec base containers HDBC text
+HDBC-session base HDBC
+HDBC-sqlite3 base bytestring HDBC mtl utf8-string containers containers convertible HUnit old-locale old-time testpack time containers convertible HUnit old-locale old-time testpack time
+HDRUtils array base colour containers mtl unix
+HERA base
+HFrequencyQueue base c-storable-deriving
+HFuse base bytestring unix base base bytestring HFuse unix base bytestring HFuse unix
+HGL array array base base Win32 Win32 X11 array base base Win32 X11
+HGamer3D base bytestring cereal clock containers directory filepath messagepack text vect
+HGamer3D-API base haskell98 HGamer3D-Data HGamer3D-Ogre-Binding HGamer3D-SFML-Binding
+HGamer3D-Audio base containers HGamer3D-Common HGamer3D-Data HGamer3D-SFML-Binding
+HGamer3D-Bullet-Binding base HGamer3D-Data
+HGamer3D-CAudio-Binding base haskell98 HGamer3D-Data
+HGamer3D-CEGUI-Binding base HGamer3D-Data
+HGamer3D-Common base clock containers directory filepath FindBin HGamer3D-Data stm vect
+HGamer3D-Data base clock containers directory filepath FindBin stm vect
+HGamer3D-Enet-Binding base HGamer3D-Data
+HGamer3D-GUI base HGamer3D-CEGUI-Binding HGamer3D-Data HGamer3D-WinEvent split
+HGamer3D-Graphics3D base containers directory filepath HGamer3D-CEGUI-Binding HGamer3D-Common HGamer3D-Data HGamer3D-Ogre-Binding HGamer3D-SDL2-Binding mtl split transformers
+HGamer3D-InputSystem base HGamer3D-Common HGamer3D-Data HGamer3D-SDL2-Binding HGamer3D-SFML-Binding
+HGamer3D-Network base HGamer3D-Common HGamer3D-Data HGamer3D-Enet-Binding
+HGamer3D-OIS-Binding base haskell98 HGamer3D-Data HGamer3D-Ogre-Binding
+HGamer3D-Ogre-Binding base HGamer3D-Data mtl transformers
+HGamer3D-SDL2-Binding base bytestring HGamer3D-Data utf8-string
+HGamer3D-SFML-Binding base HGamer3D-Data
+HGamer3D-WinEvent base HGamer3D-Data HGamer3D-SDL2-Binding text
+HGamer3D-Wire base containers HGamer3D HGamer3D-Audio HGamer3D-Data HGamer3D-GUI HGamer3D-InputSystem HGamer3D-WinEvent mtl netwire transformers
+HGraphStorage base binary bytestring containers data-default directory filepath lifted-base monad-control monad-logger resourcet text transformers transformers-base
+HHDL base containers mtl template-haskell
+HJScript base HJavaScript hsp mtl text
+HJVM base containers filepath haskell-src-exts mtl parsec process transformers
+HJavaScript base pretty
+HLearn-algebra base ConstraintKinds containers deepseq hashable MonadRandom parallel random template-haskell vector vector-heterogenous
+HLearn-approximation base ConstraintKinds containers heap HLearn-algebra HLearn-datastructures HLearn-distributions list-extras vector
+HLearn-classification base binary bytestring ConstraintKinds containers deepseq dlist hashable HLearn-algebra HLearn-distributions list-extras logfloat math-functions MonadRandom normaldistribution parsec primitive QuickCheck statistics vector vector-th-unbox
+HLearn-datastructures base ConstraintKinds containers deepseq HLearn-algebra list-extras MonadRandom QuickCheck vector
+HLearn-distributions array base ConstraintKinds containers deepseq erf gamma graphviz HLearn-algebra HLearn-datastructures hmatrix list-extras math-functions MonadRandom normaldistribution process QuickCheck statistics template-haskell vector vector-th-unbox
+HList array base ghc-prim mtl profunctors tagged template-haskell base base base
+HListPP applicative-quoters base regex-applicative
+HLogger base old-locale time base old-locale time
+HMM
+HMap base data-default hashable mtl unordered-containers
+HNM base containers directory glib gtk haskell98 mtl process regex-posix unix base containers glib gtk haskell98 mtl process regex-posix unix
+HODE array base
+HOpenCV allocated-processor base vector-space base
+HPDF array base base64-bytestring binary bytestring containers mtl random vector zlib
+HPath base Cabal containers directory filepath haskell-src-exts mtl parsec utf8-string base Cabal containers directory filepath haskell-src-exts mtl parsec utf8-string
+HPi base bytestring
+HPlot base glade glib gtk base glade glib gtk
+HPong base data-accessor data-accessor-template GLFW OpenGL
+HROOT base fficxx-runtime HROOT-core HROOT-graf HROOT-hist HROOT-io HROOT-math
+HROOT-core base fficxx-runtime
+HROOT-graf base fficxx-runtime HROOT-core HROOT-hist
+HROOT-hist base fficxx-runtime HROOT-core
+HROOT-io base fficxx-runtime HROOT-core
+HROOT-math base fficxx-runtime HROOT-core
+HRay array base directory haskell98
+HSFFIG array base Cabal containers directory filepath parsec process unix array base Cabal containers directory filepath parsec process unix array base Cabal containers directory filepath parsec process unix array base Cabal containers directory filepath parsec process unix
+HSGEP base mersenne-random-pure64 monad-mersenne-random mtl split vector csv
+HSH base bytestring directory filepath hslogger MissingH mtl process regex-base regex-compat regex-posix unix unix unix base base bytestring directory filepath hslogger HUnit MissingH mtl process regex-base regex-compat regex-posix testpack unix unix base bytestring directory filepath hslogger HUnit MissingH mtl process regex-base regex-compat regex-posix testpack unix unix unix
+HSHHelpers base bytestring DebugTraceHelpers directory filepath HSH HStringTemplateHelpers MissingH mtl regex-pcre unix
+HSlippyMap base
+HSmarty aeson attoparsec attoparsec-expr base HTTP mtl scientific text unordered-containers vector
+HSoundFile binary filepath haskell98 mtl parallel base base bytestring base base bytestring base
+HStringTemplate array base blaze-builder bytestring containers deepseq directory filepath mtl old-locale parsec pretty syb template-haskell text time void
+HStringTemplateHelpers base containers directory FileManipCompat filepath HSH HStringTemplate mtl safe strict base base base base base
+HSvm base containers
+HTF aeson array base base64-bytestring bytestring containers cpphs Diff directory haskell-src HUnit lifted-base monad-control mtl old-time pretty process QuickCheck random regex-compat text time vector xmlgen unix unix unix array base cpphs directory HTF HUnit mtl old-time random text
+HTTP array base bytestring old-time parsec mtl mtl mtl network network network-uri network Win32 Win32 mtl mtl network network-uri network Win32
+HTTP-Simple base HTTP network
+HTab base cmdargs containers deepseq hylolib mtl strict
+HTicTacToe array base mtl random SDL SDL-image SDL-ttf
+HUnit base deepseq
+HUnit-Diff ansi-terminal base Diff groom HUnit
+HUnit-Plus base bytestring Cabal cmdargs containers hashable hexpat hostname parsec time timeit
+HUnit-approx base HUnit
+HXMPP base base64-string binary bytestring crypto-api enumerator HLogger network pureMD5 random regex-posix text transformers utf8-string xml-enumerator xml-types base base64-string binary bytestring crypto-api enumerator HLogger network pureMD5 random regex-posix text transformers utf8-string xml-enumerator xml-types
+HXQ array haskeline haskell98 HTTP mtl regex-base regex-compat template-haskell base base base HDBC HDBC HDBC-odbc HDBC HDBC HDBC-sqlite3 base base HDBC HDBC-odbc HDBC HDBC HDBC-sqlite3 HDBC HDBC-sqlite3
+HaLeX base mtl
+HaMinitel base bytestring serialport stm
+HaPy base template-haskell th-lift
+HaRe base Cabal cabal-helper containers directory filepath ghc ghc-exactprint ghc-mod ghc-paths ghc-prim ghc-syb-utils hslogger monad-control monoid-extras mtl old-time pretty rosezipper semigroups Strafunski-StrategyLib syb syz time transformers transformers-base array base Cabal cabal-helper containers directory filepath ghc ghc-exactprint ghc-mod ghc-paths ghc-prim ghc-syb-utils HaRe hslogger monad-control monoid-extras mtl old-time parsec pretty rosezipper semigroups Strafunski-StrategyLib syb syz time transformers transformers-base
+HaTeX base bytestring containers matrix parsec QuickCheck text transformers wl-pprint-extras
+HaTeX-meta base Cabal containers directory filepath ghc haddock haskell-src-exts mtl parsec
+HaTeX-qq antiquoter base haskell-src-meta HaTeX template-haskell text uniplate
+HaVSA base logict base HUnit logict QuickCheck test-framework test-framework-hunit test-framework-quickcheck
+HaXml filepath polyparse base base containers pretty random base base base base bytestring base containers pretty random base base base bytestring base HaXml pretty base HaXml pretty base HaXml pretty base HaXml base HaXml base HaXml pretty base directory HaXml polyparse pretty base directory HaXml polyparse pretty
+Hach base containers network old-locale text vty vty-ui time
+HackMail base Crypto directory hint mtl old-time parsec base Crypto directory hdaemonize hint mtl old-time parsec
+Haggressive base bytestring Cabal cassava containers directory Haggressive HUnit PSQueue text tokenize tuple vector
+HandlerSocketClient base bytestring network
+HandsomeSoup base containers HTTP hxt hxt-http mtl parsec transformers network network network-uri network network-uri network network-uri network network-uri base HandsomeSoup hxt
+Hangman base random transformers
+HarmTrace array base binary deepseq Diff directory filepath ghc-prim HarmTrace-Base HCodecs hmatrix hmatrix-gsl-stats instant-generics ListLike mtl parallel parseargs process template-haskell uu-parsinglib vector array base binary cmdargs deepseq Diff directory filepath ghc-prim HarmTrace-Base hmatrix hmatrix-gsl-stats instant-generics ListLike mtl parallel process sox template-haskell uu-parsinglib vector
+HarmTrace-Base base binary containers ghc-prim ListLike uu-parsinglib
+HasGP base haskell98 hmatrix hmatrix-special mtl parsec random
+Haschoo array base list-tries monad-loops mtl numbers parsec
+Hashell base directory ghc haskell98 parsec process readline regex-compat unix
+HaskRel base containers directory ghc-prim HList lens tagged
+HaskellForMaths array base containers random
+HaskellLM base hmatrix
+HaskellNN base hmatrix random
+HaskellNet array base base64-string bytestring cryptohash mime-mail mtl network old-time pretty text
+HaskellNet-SSL base base bytestring connection data-default HaskellNet network tls base bytestring connection data-default HaskellNet network tls base bytestring connection data-default HaskellNet network tls base bytestring connection data-default HaskellNet network tls
+HaskellTorrent base bytestring cereal cml containers directory hopenssl hslogger HTTP HUnit mtl network parsec pretty QuickCheck random random-shuffle test-framework test-framework-hunit test-framework-quickcheck2 time
+HaskellTutorials base cmdargs text
+Haskelloids base containers HGL hmatrix MonadRandom random Yampa
+Hawk base bytestring bytestring-trie cgi containers convertible data-default dataenc directory filepath hack HDBC HDBC-sqlite3 hslogger hslogger-template HTTP hxt json-b MonadCatchIO-mtl mtl network regex-posix SHA template-haskell time utf8-string
+Hayoo base binary bytestring bzlib enummapset filepath Holumbus-Searchengine hxt hxt-cache hxt-charproperties hxt-curl hxt-http hxt-regex-xmlschema hxt-xpath network old-time parsec process tar zlib containers containers deepseq containers deepseq containers deepseq containers deepseq base bytestring Holumbus-Searchengine hxt hxt-unicode json MonadCatchIO-transformers mtl text transformers xhtml-combinators base base snap snap-core snap-server containers data-lens data-lens-template filepath heist snap snap-core snap-server base snap snap-core snap-server containers data-lens data-lens-template filepath heist snap snap-core snap-server
+Hclip base mtl process strict Win32 Win32 Win32
+Hedi base editline mtl parsec pretty process QuickCheck regex-posix base editline mtl parsec pretty process QuickCheck regex-posix
+HerbiePlugin base deepseq directory ghc mtl process split sqlite-simple template-haskell text
+Hermes AES base bytestring cereal containers hslogger monads-tf network old-time random random-shuffle RSA SHA2 stm syb time transformers unamb yjtools
+Hieroglyph array base buster bytestring cairo colour containers glib GLUT gtk gtkglext IfElse mtl OpenGL parallel pretty random
+HiggsSet base bytestring containers deepseq mtl text th-expand-syns TrieMap vector
+Hipmunk array array base containers StateVar transformers base StateVar transformers array base containers StateVar transformers base StateVar transformers
+HipmunkPlayground GLFW Hipmunk OpenGL StateVar transformers base base containers base base containers base
+Hish base directory MissingH process regex-tdfa time base directory MissingH process regex-tdfa time
+Histogram base containers gnuplot
+Hmpf base ConfigFile Crypto HTTP mtl network time unix utf8-string
+Hoed array base containers directory filepath libgraph mtl process RBTree regex-posix template-haskell threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui array array base filepath Hoed threepenny-gui array base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed network threepenny-gui base filepath Hoed network threepenny-gui base base filepath Hoed network threepenny-gui base filepath Hoed network threepenny-gui base base filepath Hoed network threepenny-gui base filepath Hoed network threepenny-gui base base filepath Hoed network threepenny-gui base filepath Hoed network threepenny-gui base base filepath Hoed network threepenny-gui base filepath Hoed network threepenny-gui array array base filepath Hoed threepenny-gui array base filepath Hoed threepenny-gui array array base filepath Hoed threepenny-gui array base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base Hoed base Hoed base base filepath Hoed network threepenny-gui base filepath Hoed network threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui base base filepath Hoed threepenny-gui base filepath Hoed threepenny-gui
+HoleyMonoid base
+Holumbus-Distribution array base binary bytestring containers deepseq haskell98 hslogger hxt network random readline stm time unix
+Holumbus-MapReduce base binary bytestring containers deepseq directory extensible-exceptions haskell98 Holumbus-Distribution Holumbus-Storage hslogger hxt network readline time unix
+Holumbus-Searchengine base binary bytestring bzlib directory enummapset filepath hslogger hxt hxt-cache hxt-curl hxt-regex-xmlschema hxt-unicode mtl network parallel parsec process SHA unix containers containers deepseq containers deepseq containers deepseq containers deepseq
+Holumbus-Storage base binary bytestring containers directory haskell98 Holumbus-Distribution hslogger hxt network random time unix
+Homology base containers vector
+HongoDB attoparsec attoparsec-binary base blaze-builder bytestring directory enumerator hashable monad-control mtl unix unix-bytestring unordered-containers
+HostAndPort base parsec
+Hricket base containers
+Hs2lib base directory filepath ghc haskell-src-exts old-locale random syb time array base cereal containers directory filepath ghc ghc-paths haddock haskell-src-exts mtl old-locale process QuickCheck random syb time array base cereal containers directory filepath ghc ghc-paths haddock haskell-src-exts mtl old-locale process QuickCheck random syb time array base cereal containers directory filepath ghc ghc-paths haddock haskell-src-exts mtl old-locale process QuickCheck random syb time
+HsASA array base random
+HsHaruPDF base
+HsHyperEstraier base base-unicode-symbols bytestring network text
+HsJudy base bytestring containers
+HsOpenSSL base bytestring network old-locale time integer-gmp integer-gmp integer-gmp ghc-prim integer integer-gmp integer-gmp ghc-prim integer integer-gmp ghc-prim integer
+HsOpenSSL-x509-system base bytestring HsOpenSSL Win32 Win32 process process unix Win32 process process unix process unix
+HsParrot base bytestring HsSyck pretty pugs-DrIFT
+HsPerl5 base
+HsSVN base bytestring mtl stm
+HsSyck base bytestring hashtables syb utf8-string
+HsTools base ghc-prim
+Hsed array base bytestring cmdargs data-accessor data-accessor-template data-accessor-transformers directory filepath Glob GotoT-transformers haskell98 mtl parsec regex-base regex-compat regex-posix
+Hsmtlib base containers parsec pretty process smtLib transformers
+HueAPI aeson base containers lens lens-aeson mtl transformers wreq
+Hungarian-Munkres base
+IDynamic base containers directory
+IFS array array base bytestring containers random base array base bytestring containers random base
+INblobs haskell98 HaXml polyparse wx wxcore base base containers directory pretty process base base containers directory pretty process base
+IOR base mtl
+IORefCAS base bits-atomic ghc-prim
+IOSpec base mtl QuickCheck Stream
+IPv6Addr attoparsec base iproute network network-info random text
+IcoGrid array base GlomeVec
+IfElse base mtl
+Imlib array base X11
+ImperativeHaskell base mtl template-haskell
+IndentParser base parsec
+IndexedList base PeanoWitnesses
+InfixApplicative base haskell98
+Interpolation base haskell-src-meta syb template-haskell
+Interpolation-maxs base syb template-haskell
+IntervalMap base containers deepseq
+Irc base data-default mtl network transformers
+IrrHaskell base random time
+IsNull base bytestring containers text base-compat base-compat base-compat
+JSON-Combinator aeson attoparsec base bytestring bytestring-trie containers failure hjson json JSONb parsec text vector
+JSON-Combinator-Examples base bytestring json JSON-Combinator JSONb
+JSONb attoparsec base bytestring bytestring-nums bytestring-trie containers utf8-string attoparsec base bytestring bytestring-nums bytestring-trie containers utf8-string
+JYU-Utils array base binary bytestring containers deepseq directory filepath lazysmallcheck mtl mwc-random parallel process QuickCheck random stm template-haskell unix zlib
+JackMiniMix base hosc
+Javasf base binary bytestring language-java-classfile
+Javav base
+JsContracts base containers directory filepath mtl parsec pretty syb WebBits WebBits-Html base containers mtl parsec pretty syb WebBits WebBits-Html
+JsonGrammar aeson attoparsec base bytestring containers hashable language-typescript mtl semigroups stack-prism template-haskell text time unordered-containers vector
+JuicyPixels base binary bytestring containers deepseq mtl primitive transformers vector zlib mmap mmap mmap
+JuicyPixels-canvas base containers JuicyPixels
+JuicyPixels-repa base bytestring JuicyPixels repa vector
+JuicyPixels-util base JuicyPixels vector
+JunkDB aeson base binary bytestring conduit data-default directory filepath mtl network resourcet
+JunkDB-driver-gdbm base bytestring conduit directory filepath JunkDB mtl resourcet
+JunkDB-driver-hashtables base bytestring conduit hashable hashtables JunkDB mtl resourcet
+JustParse base
+KMP array base
+KSP base
+Kalman base hmatrix
+KdTree base QuickCheck
+Ketchup base base64-bytestring bytestring directory mime-types network text
+KiCS base containers curry-frontend directory filepath network old-time process random syb unix base containers curry-base curry-frontend directory filepath ghc-paths old-time process base containers curry-base curry-frontend directory filepath ghc-paths old-time process readline
+KiCS-debugger base containers filepath haskell98 KiCS mtl readline syb base curry-base directory haskell-src KiCS KiCS-prophecy
+KiCS-prophecy base filepath KiCS base KiCS
+Kleislify base
+Konf base containers parsec
+KyotoCabinet base bytestring extensible-exceptions
+L-seed base containers mtl old-time parsec random cairo cairo gtk HDBC HDBC HDBC-odbc random-shuffle json json cairo gtk HDBC HDBC-odbc random-shuffle json
+LDAP base base
+LRU base containers QuickCheck
+LTree base transformers
+LambdaCalculator base binary bytestring haskeline mtl parsec pretty
+LambdaHack array assert-failure async base binary bytestring containers data-default deepseq directory enummapset-th filepath ghc-prim hashable hsini keys miniutter mtl old-time pretty-show random stm text transformers unordered-containers vector vector-binary-instances zlib hscurses hscurses vty vty gtk gtk gtk hscurses vty vty gtk gtk gtk vty gtk gtk gtk gtk gtk array assert-failure async base binary bytestring containers data-default deepseq directory enummapset-th filepath ghc-prim hashable hsini keys LambdaHack miniutter mtl old-time pretty-show random stm template-haskell text transformers unordered-containers vector vector-binary-instances zlib
+LambdaINet base containers GLFW GLFW-task monad-task mtl OpenGL transformers vector
+LambdaNet base binary bytestring hmatrix random random-shuffle split
+LambdaPrettyQuote base DebugTraceHelpers HUnit lambda-ast mtl parsec QuickCheck syb template-haskell test-framework test-framework-hunit test-framework-quickcheck2 transformers tuple uniplate
+LambdaShell base mtl parsec Shellac Shellac-compatline containers containers containers
+Lambdaya base mtl unix
+LargeCardinalHierarchy base
+Lastik base bytestring containers directory filemanip filepath process pureMD5 SHA zip-archive
+Lattices array base HaskellForMaths
+LazyVault base directory filepath unix
+Level0 base directory random SDL SDL-ttf
+LibClang base greencard time
+LibZip base bindings-libzip bytestring filepath mtl time utf8-string
+Limit base
+LinearSplit array base cmdargs haskell98 QuickCheck
+LinkChecker base containers haskell98 HTTP mtl network tagsoup
+List base transformers
+ListLike array base bytestring containers dlist fmlist text vector
+ListTree base directory filepath List transformers
+ListWriter base mtl
+ListZipper base QuickCheck
+Logic base
+LogicGrowsOnTrees AbortT-mtl AbortT-transformers base bytestring cereal cmdtheline composition containers data-ivar derive directory hslogger hslogger-template lens MonadCatchIO-transformers monoid-statistics mtl multiset old-locale operational prefix-units pretty PSQueue sequential-index split stm time transformers void yjtools base containers LogicGrowsOnTrees base cmdtheline containers LogicGrowsOnTrees base cmdtheline LogicGrowsOnTrees base cmdtheline containers LogicGrowsOnTrees base cmdtheline containers LogicGrowsOnTrees base cmdtheline containers LogicGrowsOnTrees base cmdtheline containers LogicGrowsOnTrees base cereal cmdtheline LogicGrowsOnTrees base LogicGrowsOnTrees base containers LogicGrowsOnTrees base LogicGrowsOnTrees base LogicGrowsOnTrees base LogicGrowsOnTrees base LogicGrowsOnTrees base LogicGrowsOnTrees transformers base LogicGrowsOnTrees transformers base LogicGrowsOnTrees base LogicGrowsOnTrees base LogicGrowsOnTrees base cmdtheline LogicGrowsOnTrees base cmdtheline LogicGrowsOnTrees
+LogicGrowsOnTrees-MPI base bytestring cereal cmdtheline containers data-ivar derive hslogger hslogger-template LogicGrowsOnTrees MonadCatchIO-transformers stm transformers base cmdtheline hslogger LogicGrowsOnTrees LogicGrowsOnTrees-MPI base hslogger LogicGrowsOnTrees LogicGrowsOnTrees-MPI base cereal cmdtheline hslogger LogicGrowsOnTrees LogicGrowsOnTrees-MPI
+LogicGrowsOnTrees-network base cereal cmdtheline composition containers hslogger hslogger-template lens LogicGrowsOnTrees MonadCatchIO-transformers mtl network pretty transformers base cmdtheline LogicGrowsOnTrees LogicGrowsOnTrees-network base cereal cmdtheline LogicGrowsOnTrees LogicGrowsOnTrees-network
+LogicGrowsOnTrees-processes base bytestring cereal cmdtheline containers filepath FindBin hslogger hslogger-template LogicGrowsOnTrees MonadCatchIO-transformers process transformers base cereal cmdtheline LogicGrowsOnTrees LogicGrowsOnTrees-processes base cereal cmdtheline LogicGrowsOnTrees LogicGrowsOnTrees-processes
+LslPlus array base bytestring containers directory filepath haskell98 HaXml mtl network old-time parsec pureMD5 random syb template-haskell utf8-string
+Lucu base base-unicode-symbols base64-bytestring bytestring containers directory filepath haskell-src HsOpenSSL hxt mtl network stm time time-http unix zlib
+MC-Fold-DP base Biobase PrimitiveArray tuple vector cmdargs split
+MFlow base blaze-html blaze-markup bytestring case-insensitive clientsession conduit conduit-extra containers directory extensible-exceptions http-types monadloc mtl old-time parsec pwstore-fast random RefSerialize resourcet stm TCache text time transformers utf8-string vector wai wai-extra warp warp-tls Workflow
+MHask base transformers
+MSQueue base ghc-prim monad-loops ref-mtl stm
+MTGBuilder base containers mtl parsec
+MagicHaskeller array base bytestring containers directory hashable html mtl old-time pretty random syb template-haskell tf-random tf-random ghc ghc ghc-paths haskell-src haskell-src network network network-uri network network-uri tf-random ghc ghc-paths haskell-src network network-uri network network-uri abstract-par array base bytestring containers directory ghc ghc-paths hashable html MagicHaskeller monad-par mtl old-time pretty process random syb template-haskell transformers unix unix tf-random tf-random haskell-src haskell-src network network network-uri network network-uri unix tf-random haskell-src network network-uri network network-uri array base bytestring cgi containers directory extensible-exceptions hashable haskell-src hint html MagicHaskeller mtl old-time pretty random syb template-haskell mueval mueval tf-random tf-random network network network-uri network network-uri mueval tf-random network network-uri network network-uri
+MailchimpSimple aeson aeson-lens base bytestring directory filepath http-conduit http-types lens text time transformers vector
+MaybeT base mtl
+MaybeT-monads-tf base monads-tf transformers
+MaybeT-transformers base monads-fd transformers
+MazesOfMonad array base containers directory filepath HUnit mtl old-locale pretty random regex-posix time
+MeanShift base vector
+Measure base base base base base
+MemoTrie base void
+MetaHDBC base convertible hashtables HDBC HDBC-odbc mtl template-haskell
+MetaObject base containers stringtable-atom
+Metrics base hstats
+Mhailist base binary bytestring directory filepath haskell98 mtl old-locale process time base base binary bytestring directory filepath haskell98 HUnit mtl old-locale process time base binary bytestring directory filepath haskell98 HUnit mtl old-locale process time
+Michelangelo base bytestring containers GLUtil lens linear OpenGL OpenGLRaw WaveFront
+MicrosoftTranslator aeson base bytestring datetime exceptions http-client lens text transformers url wreq xml
+MiniAgda array base containers haskell-src-exts mtl pretty
+MissingH base filepath hslogger HUnit mtl network parsec regex-compat array array base containers directory old-locale old-time process random time base unix unix array base containers directory old-locale old-time process random time base unix
+MissingK base glib template-haskell
+MissingM base
+MissingPy anydbm base MissingH
+Modulo base numeric-prelude
+Moe base GLUT random base GLUT random
+MoeDict aeson base bytestring containers text unordered-containers
+MonadCatchIO-mtl base extensible-exceptions MonadCatchIO-transformers
+MonadCatchIO-mtl-foreign base MonadCatchIO-mtl mtl primitive primitive primitive
+MonadCatchIO-transformers base extensible-exceptions monads-tf transformers
+MonadCatchIO-transformers-foreign base MonadCatchIO-transformers transformers primitive primitive primitive
+MonadCompose base data-default ghc-prim mmorph monad-loops monad-products mtl parallel random transformers transformers-compat
+MonadLab base parsec template-haskell base haskell98 process
+MonadPrompt base mtl
+MonadRandom base mtl random transformers transformers-compat
+MonadRandomLazy base MonadRandom mtl random
+MonadStack base mtl
+Monadius array base directory GLUT OpenGL
+Monaris array base containers directory free free-game mtl
+Monatron base
+Monatron-IO base Monatron transformers
+Monocle base containers haskell98 mtl
+MorseCode base containers split
+MuCheck base directory hashable haskell-src-exts hint mtl random syb temporary time
+MuCheck-HUnit base HUnit MuCheck base HUnit MuCheck
+MuCheck-Hspec base hspec hspec-core MuCheck base hspec hspec-core MuCheck
+MuCheck-QuickCheck base MuCheck QuickCheck base MuCheck QuickCheck
+MuCheck-SmallCheck base MuCheck smallcheck base MuCheck smallcheck
+Munkres array array base base random random array base base random
+Munkres-simple array base bimap containers Munkres
+MusicBrainz aeson base bytestring conduit conduit-extra HTTP http-conduit http-types monad-control resourcet text time time-locale-compat transformers vector xml-conduit xml-types
+MusicBrainz-libdiscid base containers vector
+MyPrimes base containers base containers MyPrimes
+NGrams base HCL HTTP network regex-compat
+NTRU arithmoi base bytestring containers crypto-api polynomial random SHA split
+NXT base bytestring mtl serialport time unix unix unix base mtl NXT base mtl NXT base bytestring filepath mtl NXT
+NXTDSL attoparsec base hashable mtl resourcet stm text unordered-containers
+NanoProlog base containers ListLike uu-parsinglib base uu-parsinglib
+NaturalLanguageAlphabets array attoparsec base bimaps bytestring deepseq file-embed hashable hashtables intern stringable system-filepath text unordered-containers vector vector-th-unbox
+NaturalSort bytestring strict base base base base base bytestring strict base base base base base bytestring QuickCheck strict base base base base base
+NearContextAlgebra base containers ContextAlgebra lattices multiset QuickCheck
+Neks base bytestring cereal containers directory hashable messagepack network stm vector base bytestring cereal containers directory hashable messagepack network stm vector base bytestring cereal containers directory hashable messagepack network stm vector
+NestedFunctor base comonad distributive
+NestedSampling base random vector
+NetSNMP base bytestring utf8-string
+Network-NineP base binary bytestring containers convertible exceptions monad-loops monad-peel mstate mtl network NineP regex-posix stateref transformers
+NewBinary array base integer
+NineP base base binary base binary bytestring base binary base binary bytestring
+Ninjas base binary bytestring containers filepath gloss network networked-game random
+NoSlow array base criterion template-haskell dph-base dph-base dph-prim-seq vector vector uvector uvector storablevector storablevector dph-base dph-prim-seq vector uvector storablevector base containers criterion statistics
+NoTrace base
+Noise array base data-default vector
+Nomyx base directory exceptions filepath hint-server mtl network Nomyx-Core Nomyx-Language Nomyx-Web safe stm time
+Nomyx-Core acid-state aeson base blaze-html blaze-markup bytestring data-lens data-lens-fd data-lens-template DebugTraceHelpers deepseq directory either-unwrap exceptions filepath happstack-authenticate hint hint-server hscolour ixset mime-mail MissingH mtl network Nomyx-Language old-locale random safe safecopy stm tar template-haskell temporary text time unix unix unix
+Nomyx-Language base Boolean containers data-lens data-lens-fd data-lens-template DebugTraceHelpers ghc mtl old-locale random safe time time-recurrence
+Nomyx-Rules base containers ghc hint-server hslogger mtl old-locale safe stm time time-recurrence
+Nomyx-Web base blaze-html blaze-markup bytestring data-lens data-lens-fd fb filepath happstack-authenticate happstack-server hscolour mtl Nomyx-Core Nomyx-Language old-locale reform reform-blaze reform-happstack safe split stm text time web-routes web-routes-happstack web-routes-regular web-routes-th
+NonEmpty base
+NonEmptyList base category-extras QuickCheck Semigroup test-framework test-framework-hunit test-framework-quickcheck2
+NumInstances base
+NumLazyByteString base binary bytestring
+NumberSieves array base
+Numbers base random
+Nussinov78 ADPfusion base ghc-prim mtl primitive PrimitiveArray vector
+Nutri base
+OGL base mtl
+OSM base comonad-transformers containers data-lens hxt newtype
+OTP base Crypto time
+Object base containers ghc template-haskell
+ObjectIO
+ObjectName base transformers
+Obsidian base containers cuda language-c-quote mainland-pretty mtl mwc-random process rdtsc text value-supply vector
+Octree AC-Vector base QuickCheck
+OddWord base
+Omega base containers
+OneTuple base
+OpenAFP array base binary bytestring containers directory hashable hashtables mtl process regex-compat
+OpenAFP-Utils base bytestring line2pdf OpenAFP base binary bytestring containers OpenAFP base binary bytestring containers OpenAFP base bytestring containers OpenAFP text text-locale-encoding xhtml base OpenAFP base OpenAFP base directory OpenAFP base OpenAFP base OpenAFP base filepath OpenAFP base OpenAFP base hashable OpenAFP regex-base regex-posix base OpenAFP base containers OpenAFP
+OpenAL base ObjectName OpenGL StateVar transformers
+OpenCL base bytestring mtl
+OpenCLRaw base bytestring mtl
+OpenCLWrappers base bytestring mtl
+OpenGL base bytestring containers GLURaw ObjectName OpenGLRaw StateVar text transformers
+OpenGLCheck base checkers haskell98 OpenGL QuickCheck
+OpenGLRaw base bytestring containers half text transformers
+OpenGLRaw21 OpenGLRaw
+OpenSCAD base colour containers filepath semigroups
+OpenVG base GLUT OpenGL OpenGLRaw OpenVGRaw
+OpenVGRaw base OpenGLRaw
+Operads array base containers mtl
+OptDir base hashable syb
+OrPatterns base containers haskell-src-exts haskell-src-meta mtl split syb template-haskell
+OrchestrateDB aeson base bytestring HTTP http-conduit http-types lifted-base
+OrderedBits base bits primitive QuickCheck vector vector-algorithms
+Ordinals base
+PArrows base containers ghc-prim mtl
+PBKDF2 base binary bytestring Crypto random
+PCLT base bytestring containers mtl utf8-string
+PCLT-DB base bytestring containers convertible HDBC HDBC-postgresql mtl PCLT
+PDBtools base bytestring containers
+PSQueue base
+PTQ base containers mtl base containers mtl network xml network network network-uri network network-uri network network-uri network network-uri
+PageIO array attoparsec base base64-string bytestring containers directory iconv network old-time regex-base regex-compat regex-tdfa sqlite stringtable-atom utf8-string uuid array attoparsec base base64-string bytestring containers directory iconv network old-time regex-base regex-compat regex-tdfa sqlite stringtable-atom utf8-string uuid
+Paillier base crypto-numbers crypto-random
+PandocAgda Agda base containers filepath mtl pandoc pandoc-types QuickCheck text xhtml Win32 Win32 directory directory old-time directory time Win32 directory old-time directory time base PandocAgda
+Paraiso array base containers control-monad-failure directory fgl filepath mtl numeric-prelude random text typelevel-tensor vector
+Parry base base binary bytestring containers directory ghc-prim network old-locale process random RSA SafeSemaphore time unix base binary bytestring containers directory ghc-prim network old-locale process random RSA SafeSemaphore time base binary bytestring containers directory ghc-prim network old-locale process random RSA SafeSemaphore time unix base binary bytestring containers directory ghc-prim network old-locale process random RSA SafeSemaphore time
+ParsecTools base parsec
+ParserFunction base containers parsec
+PartialTypeSignatures base containers syb template-haskell
+PasswordGenerator base QuickCheck
+PastePipe base cmdargs HTTP network network-uri base cmdargs PastePipe
+Pathfinder base bytestring text
+Peano base
+PeanoWitnesses base
+PerfectHash array base binary bytestring containers digest time
+PermuteEffects base ReplicateEffects
+Phsu acid-state aeson base blaze-html blaze-markup containers curl filepath friendly-time happstack-server happstack-server-tls lifted-base MissingH monad-control mtl network network-uri old-locale process regex-base regex-pcre safecopy string-conversions temporary text time
+Pipe base filepath process unix unix unix
+Piso base template-haskell
+PlayHangmanGame base containers directory mtl random regex-compat
+PlayingCards base HUnit MonadRandom QuickCheck random-shuffle
+Plot-ho-matic base cairo Chart Chart-cairo containers data-default-class generic-accessors glib gtk lens text time base containers Plot-ho-matic base generic-accessors Plot-ho-matic
+PlslTools array base directory filepath haskell98 old-locale old-time parsec process random
+Plural base containers regex-tdfa
+Pollutocracy array base clock GLUT random
+PortFusion base bytestring splice network network network network network
+PortMidi base
+PostgreSQL base mtl
+PrimitiveArray aeson base binary bits cereal deepseq OrderedBits primitive QuickCheck vector vector-binary-instances vector-th-unbox
+Printf-TH base haskell98 pretty template-haskell
+PriorityChansConverger base containers stm
+ProbabilityMonads base MaybeT MonadRandom mtl
+PropLogic base old-time random base old-time random
+Proper base containers syb base containers parsec syb base containers HUnit parsec syb
+ProxN base mtl
+Pugs array base binary bytestring containers control-timeout directory filepath FindBin hashable hashtables haskeline HsParrot HsSyck MetaObject mtl network parsec pretty process pugs-compat pugs-DrIFT random stm stringtable-atom text time utf8-string
+Pup-Events base Pup-Events-Client Pup-Events-PQueue Pup-Events-Server base
+Pup-Events-Client base network parsec Pup-Events-PQueue stm transformers
+Pup-Events-Demo base parsec Pup-Events-Server base GLUT OpenGL parsec Pup-Events-Client Pup-Events-PQueue stm
+Pup-Events-PQueue base stm
+Pup-Events-Server base network parsec Pup-Events-PQueue stm transformers
+QIO base containers mtl old-time random
+QuadEdge base random vector
+QuadTree base composition lens
+QuasiText attoparsec base haskell-src-meta template-haskell text
+QuickAnnotate base base haskell-src-exts
+QuickCheck containers base base base base base base base random random transformers transformers template-haskell template-haskell ghc ghc extensible-exceptions extensible-exceptions ghc-prim ghc-prim tf-random tf-random old-locale old-locale old-time base base base base base base base base base base base base random transformers template-haskell ghc extensible-exceptions ghc-prim tf-random old-locale old-time
+QuickCheck-GenT base mtl QuickCheck random
+QuickCheck-safe base QuickCheck
+Quickson aeson attoparsec base bytestring either text
+R-pandoc base directory filepath pandoc-types process split base pandoc-types R-pandoc
+RANSAC base random vector
+RBTree base
+RESTng base HDBC HDBC-postgresql mtl old-time parsec redHandlers xhtml yuiGrid
+RFC1751 base binary bytestring
+RJson array base bytestring containers iconv mtl parsec syb-with-class
+RMP allocated-processor base allocated-processor base allocated-processor base cv-combinators HOpenCV vector-space
+RNAFold ADPfusion base BiobaseTurner BiobaseVienna BiobaseXNA cmdargs containers deepseq lens primitive PrimitiveArray repa strict vector base BiobaseTurner BiobaseVienna BiobaseXNA cmdargs RNAFold base BiobaseTurner BiobaseVienna BiobaseXNA cmdargs RNAFold
+RNAFoldProgs base Biobase BiobaseTurner BiobaseTypes BiobaseVienna cmdargs containers HsTools primitive PrimitiveArray RNAFold vector base Biobase cmdargs RNAFold split
+RNAdesign array base BiobaseTurner BiobaseVienna BiobaseXNA containers fgl fgl-extras-decompositions lens monad-primitive mwc-random-monad parallel parsec ParsecTools primitive PrimitiveArray random RNAFold transformers tuple vector ViennaRNA-bindings bytestring cmdargs file-embed
+RNAdraw array base BiobaseXNA bytestring containers PrimitiveArray QuasiText repa split text vector cmdargs
+RNAlien base biocore biofasta BlastHTTP blastxml bytestring cassava ClustalParser cmdargs containers directory edit-distance either-unwrap EntrezHTTP filepath hierarchical-clustering HTTP matrix parsec process random split Taxonomy vector ViennaRNAParser base biocore biofasta cmdargs containers directory either-unwrap filepath random RNAlien time base biocore biofasta bytestring cassava cmdargs directory either-unwrap filepath process RNAlien split vector ViennaRNAParser base cmdargs either-unwrap RNAlien
+RNAwolf base BiobaseTrainingData BiobaseXNA bytestring containers deepseq directory parallel PrimitiveArray random StatisticalMethods vector cmdargs split cmdargs
+RSA base binary bytestring crypto-api crypto-pubkey-types pureMD5 SHA
+Raincat base containers extensible-exceptions GLUT mtl OpenGL random SDL SDL-image SDL-mixer time
+Random123 array base data-dword random
+RandomDotOrg base HTTP-Simple network
+Randometer base random-fu
+Range base
+Ranged-sets base HUnit QuickCheck
+Ranka base HTTP json network utf8-string XMPP
+Rasenschach array base bytestring cereal containers convertible directory filepath ghc GLUT monad-loops OpenGL OpenGLRaw time Yampa
+Rasterific base bytestring containers dlist FontyFruity free JuicyPixels mtl primitive vector vector-algorithms linear linear linear
+ReadArgs base system-filepath text base system-filepath text
+Redmine aeson base bytestring connection containers HTTP http-client-tls http-conduit http-types MissingH network old-locale old-time resourcet text time transformers
+Ref base ghc-prim
+RefSerialize base binary bytestring containers hashtables stringsearch
+Referees base bytestring cassava containers glpk-hs matrix MissingH vector hscolour hscolour hscolour base cmdargs cond containers directory Referees hscolour hscolour hscolour
+RepLib base containers mtl template-haskell transformers type-equality type-equality type-equality
+ReplicateEffects base
+ReviewBoard base HTTP json mtl network random base directory HTTP json mtl network random base directory HTTP json mtl network process random
+RichConditional base
+Rlang-QQ array base binary bytestring Cabal containers data-binary-ieee754 directory filepath haskell-src-meta HList lens mtl process SHA split syb template-haskell temporary text transformers trifecta utf8-string vector zlib repa repa repa
+RollingDirectory base directory filepath hinotify hsyslog monad-parallel unix hdaemonize-buildfix hdaemonize-buildfix hdaemonize hdaemonize-buildfix hdaemonize
+RoyalMonad base
+RxHaskell base containers stm transformers
+SBench base bytestring cassava criterion deepseq directory filepath gnuplot hp2any-core parsec process utf8-string vector
+SConfig base containers
+SDL base
+SDL-gfx base SDL
+SDL-image base SDL
+SDL-mixer base SDL
+SDL-mpeg base SDL
+SDL-ttf base SDL
+SDL2-ttf base SDL2
+SFML base
+SFML-control base mtl SFML template-haskell
+SFont array base SDL Sprig
+SG base mtl
+SGdemo base GLUT OpenGL SG
+SHA array base binary bytestring base bytestring directory SHA base bytestring directory SHA base bytestring directory SHA base bytestring directory SHA base bytestring directory SHA
+SHA2 AES base bytestring monads-tf transformers
+SMTPClient base containers extensible-exceptions hsemail network old-locale old-time
+SNet base bindings-DSL containers data-default lens mtl transformers
+SQLDeps base hashable HDBC HDBC-sqlite3 mtl unordered-containers
+STL attoparsec base bytestring cereal text
+STMonadTrans array array base mtl base array base mtl base
+SVG2Q base haskell98 language-c pretty svgutils syb xml
+SVGFonts attoparsec base blaze-markup blaze-svg containers data-default-class diagrams-core diagrams-lib directory parsec split text tuple vector xml
+SVGPath base parsec
+SWMMoutGetMB base binary bytestring data-binary-ieee754 split
+SableCC2Hs array base containers array base containers filepath loch-th pretty text transformers wl-pprint-text xml
+Safe base
+SafeSemaphore base containers stm
+Salsa base base bytestring file-embed base bytestring file-embed Win32 base bytestring file-embed base bytestring file-embed Win32
+Saturnin base bytestring data-default directory either exceptions filepath formatting ini mtl network old-locale process spawn stm temporary text time unordered-containers yaml base Saturnin
+SciFlow base bytestring data-default-class mtl shelly template-haskell text unordered-containers yaml
+ScratchFs base bytestring directory filepath HFuse hsyslog process regex-compat sqlite-simple unix
+Scurry base binary bytestring containers network network-bytestring parsec random stm time unix unix unix unix unix unix
+SegmentTree base base base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2 base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2
+Semantique base bytestring classify containers mongoDB mtl network process split tagsoup text
+Semigroup base bytestring containers mtl
+SeqAlign base bytestring vector
+SessionLogger base directory filepath hslogger mtl old-locale random time
+ShellCheck base containers directory json mtl parsec QuickCheck regex-tdfa base containers directory json mtl parsec QuickCheck regex-tdfa ShellCheck
+Shellac base directory mtl base base base unix unix base base unix
+Shellac-compatline base Shellac Shellac-editline Shellac-editline Shellac-readline Shellac-readline DependencyResolutionFailure DependencyResolutionFailure Shellac-editline Shellac-readline DependencyResolutionFailure
+Shellac-editline base editline Shellac
+Shellac-haskeline base haskeline mtl Shellac
+Shellac-readline base readline Shellac
+ShowF base
+Shrub base
+Shu-thing base GLUT
+SimpleAES base binary bytestring mwc-random
+SimpleEA base mersenne-random-pure64 MonadRandom
+SimpleGL base GLFW JuicyPixels OpenGL SimpleH vector
+SimpleH base bytestring clock containers cpu directory filepath network time unix
+SimpleLog ansi-terminal attoparsec base bytestring containers directory ForkableT monad-control mtl old-locale resourcet semigroups stm template-haskell text th-lift time transformers transformers-base
+SizeCompare base containers
+Slides base colour diagrams-lib diagrams-svg file-embed regexpr utf8-string
+Smooth base containers DifferenceLogic FirstOrderTheory HUnit Proper
+SmtLib base parsec transformers
+Snusmumrik base bytestring convertible directory filepath haskell98 HDBC HDBC-sqlite3 hslogger iconv LibZip regex-tdfa utf8-string xml base bytestring convertible directory filepath haskell98 HDBC HDBC-sqlite3 HFuse hslogger iconv LibZip regex-tdfa stm unix utf8-string
+SoOSiM base concurrent-supply containers monad-coroutine mtl stm transformers
+SoccerFun base base-unicode-symbols binary derive directory mtl process random zlib
+SoccerFunGL base base-unicode-symbols binary GLUT OpenGL process random SoccerFun
+Sonnex base
+SourceGraph base Cabal containers directory fgl filepath Graphalyze graphviz haskell-src-exts mtl multiset random
+Southpaw ALUT base bytestring cairo containers filepath GLFW-b gtk3 JuicyPixels OpenAL OpenGL vector Win32
+SpaceInvaders array base HGL random Yampa
+SpacePrivateers base containers enummapset-th filepath LambdaHack template-haskell text
+SpinCounter base monad-loops ref-mtl stm
+Spock aeson base base64-bytestring bytestring case-insensitive containers crypto-random directory focus hashable http-types hvect list-t monad-control mtl old-locale path-pieces random reroute resource-pool resourcet stm stm-containers text time transformers transformers-base unordered-containers vault wai wai-extra warp
+Spock-auth base http-types Spock text time
+Spock-digestive base digestive-functors http-types mtl Spock text unordered-containers wai
+Spock-worker base containers lifted-base mtl Spock stm text time transformers vector
+SpreadsheetML base xml
+Sprig base SDL
+Stasis base containers base
+StateVar base stm transformers
+StateVar-transformer base mtl transformers
+StatisticalMethods base statistics tuple vector
+Stomp base binary bytestring network time utf8-string
+Strafunski-ATermLib base containers
+Strafunski-Sdf2Haskell base directory haskell-src mtl pretty process Strafunski-ATermLib Strafunski-StrategyLib template-haskell
+Strafunski-StrategyLib base directory mtl syb transformers
+StrappedTemplates base blaze-builder bytestring containers filemanip filepath mtl parsec text transformers
+StrategyLib base mtl
+Stream base lazysmallcheck QuickCheck
+StrictBench base benchpress parallel
+SuffixStructures aeson base binary bytestring cereal containers data-default-class ListLike primitive vector vector-algorithms vector-binary-instances aeson base binary bytestring cereal cmdargs containers SuffixStructures vector
+SybWidget base containers mtl syb-with-class template-haskell TypeCompose
+SyntaxMacros AspectAG base containers HList ListLike template-haskell TTTAS uu-parsinglib uulib
+Sysmon base ConfigFile filepath fingertree Glob MissingH mtl old-locale pretty statistics template-haskell time vector
+TBC base Cabal deepseq directory filepath process base Cabal directory filepath process unix
+TBit base containers deepseq fgl free hmatrix integration list-extras mtl numeric-tools parallel
+TCache base bytestring containers directory hashtables mtl old-time RefSerialize stm text
+THEff base template-haskell
+TTTAS base
+TV base DeepArrow TypeCompose
+TYB array base containers mtl template-haskell transformers
+TableAlgebra base containers HaXml mtl pretty template-haskell
+Tables base cookbook
+Tablify base parsec xhtml
+Tainted base mtl
+Takusen base mtl time old-time old-time base base base old-time base base base base mtl QuickCheck random Takusen time old-time old-time base base base base mtl QuickCheck random Takusen time old-time base base base mtl base base base base base
+Tape base comonad distributive Stream
+Taxonomy aeson base bytestring either-unwrap fgl graphviz parsec text vector
+TaxonomyTools base bytestring cmdargs either-unwrap fgl Taxonomy base bytestring cassava cmdargs directory either-unwrap EntrezHTTP fgl hxt parsec process Taxonomy vector base bytestring cassava cmdargs directory either-unwrap fgl process Taxonomy vector aeson base bytestring cassava cmdargs directory either-unwrap fgl process Taxonomy vector base bytestring cmdargs directory either-unwrap fgl process Taxonomy vector
+TeaHS array base containers mtl SDL SDL-image SDL-mixer SFont Sprig
+Tensor base
+TernaryTrees base binary base
+TestExplode base containers directory fgl graphviz interpolatedstring-perl6 mtl process text
+Theora base
+Thingie base cairo gtk mtl
+ThreadObjects base
+Thrift base binary bytestring ghc-prim HTTP network
+Tic-Tac-Toe base safe
+TicTacToe base containers HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2
+TigerHash base binary bytestring dataenc
+TimePiece base containers old-locale old-time random SDL SDL-gfx SDL-image SDL-ttf base containers old-locale old-time random SDL SDL-gfx SDL-image SDL-ttf
+TinyLaunchbury base mtl
+TinyURL base HTTP network
+Titim base containers matrix random
+Top base containers mtl base containers mtl parsec
+Tournament base containers mtl
+TraceUtils base
+TransformersStepByStep base containers mtl
+Transhare base containers
+TreeCounter base ref-mtl stm
+TreeStructures base
+TreeT base containers transformers
+Treiber base ghc-prim monad-loops ref-mtl stm
+TrendGraph base containers diagrams-cairo diagrams-lib mtl optparse-applicative time
+TrieMap base bytestring containers primitive template-haskell th-expand-syns transformers unpack-funcs vector
+Twofish array base binary bytestring cereal crypto-api largeword mtl tagged
+TypeClass base containers filepath random reactive-banana reactive-banana-sdl SDL SDL-ttf transformers
+TypeCompose base
+TypeIlluminator base haskell98
+TypeNat base
+TypingTester base containers directory time
+UISF array arrows base containers deepseq GLUT OpenGL stm transformers
+UMM base haskell98 old-time parsec process utf8-string
+URLT applicative-extras base Consumer happstack-server hsp hsx mtl QuickCheck regular template-haskell
+URLb attoparsec base bytestring containers
+UTFTConverter base bytestring directory filepath JuicyPixels time base bytestring directory filepath JuicyPixels time UTFTConverter
+Unique base containers extra hashable unordered-containers
+Unixutils base bytestring directory exceptions filepath mtl process process-extras pureMD5 regex-tdfa unix zlib
+Unixutils-shadow base unix
+Updater base
+UrlDisp base cgi MaybeT mtl
+Useful base containers random
+UtilityTM base
+VKHS aeson base bimap bytestring containers curlhs directory failure filepath mtl optparse-applicative parsec pretty-show regexpr safe split tagsoup template-haskell text time transformers utf8-string vector
+Validation base bifunctors semigroupoids semigroups
+Vec array base ghc-prim
+Vec-Boolean base Boolean Vec
+Vec-OpenGLRaw base OpenGLRaw Vec
+Vec-Transform
+VecN base Peano
+ViennaRNA-bindings array base
+ViennaRNAParser base parsec process
+WAVE base bytestring base bytestring containers parseargs WAVE
+WL500gPControl base WL500gPLib base base directory filepath mtl unix WL500gPLib base directory filepath mtl Win32 WL500gPLib base directory filepath mtl unix WL500gPLib base directory filepath mtl Win32 WL500gPLib
+WL500gPLib base curl mtl tagsoup base
+WMSigner base base64-bytestring binary bytestring cryptohash directory lens mtl random split vector
+WURFL base haskell98 parsec
+WXDiffCtrl base base containers wx wxcore base wx wxcore base containers wx wxcore base wx wxcore
+WashNGo base containers haskell98 parsec regex-compat directory ghc-paths process
+WaveFront base containers filepath GLUtil lens linear OpenGL
+Weather aeson base bytestring HTTP text unordered-containers
+WebBits base containers mtl parsec pretty syb
+WebBits-Html base containers mtl parsec pretty syb WebBits
+WebBits-multiplate base multiplate multiplate-simplified transformers WebBits
+WebCont applicative-extras base concatenative containers formlets happstack-server happstack-state happstack-util mtl utf8-string xhtml
+WeberLogic base parsec base parsec
+Webrexp aeson array base bytestring containers directory filepath HaXml HTTP hxt mtl network parsec process regex-pcre-builtin template-haskell text transformers unordered-containers vector aeson array base bytestring containers directory filepath HaXml HTTP hxt mtl network parsec process regex-pcre-builtin template-haskell text transformers unordered-containers vector
+Wheb base blaze-builder bytestring case-insensitive containers cookie http-types mtl pwstore-fast stm text time transformers unix uuid wai wai-extra wai-websockets warp web-routes websockets
+WikimediaParser base parsec
+Win32 base bytestring
+Win32-dhcp-server base text Win32 Win32-errors
+Win32-errors base template-haskell text Win32
+Win32-extras base Win32
+Win32-junction-point base text Win32 Win32-errors
+Win32-notify base containers directory Win32 base directory Win32-notify
+Win32-security base text Win32 Win32-errors base base text Win32-security base text Win32-security base base text Win32-security base text Win32-security base base Win32-security base Win32-security
+Win32-services base Win32 Win32-errors
+Win32-services-wrapper base directory filepath Win32 Win32-errors Win32-services
+Wired base chalmers-lava2000 containers mtl QuickCheck
+WordNet array base containers filepath
+WordNet-ghc74 array base containers filepath
+Wordlint base boxes cmdargs base boxes cmdargs
+Workflow base binary bytestring containers directory exceptions extensible-exceptions mtl old-time RefSerialize stm TCache vector
+WxGeneric base containers mtl SybWidget wx wxcore xtc
+X11 base data-default
+X11-extras base X11
+X11-rm base X11
+X11-xdamage base X11
+X11-xfixes base X11
+X11-xft base utf8-string X11
+X11-xshape base X11
+XAttr base unix
+XInput base Win32
+XMMS base containers
+XMPP base haskell98 hsdns mtl network parsec random utf8-string
+XSaiga base containers hsparql pretty rdf4h text base cgi containers hsparql pretty rdf4h text
+Xauth base
+Xec base binary bytestring cairo containers directory filepath gtk mtl old-time SHA unix
+XmlHtmlWriter base mtl transformers
+Xorshift128Plus base
+YACPong base data-accessor-transformers fclabels monads-fd random SDL SDL-image SDL-mixer SDL-ttf transformers
+YFrob array base HGL Yampa
+Yablog base blaze-builder blaze-html bytestring case-insensitive clientsession conduit containers data-default directory filepath hamlet hjsmin http-conduit http-types mime-mail monad-control mtl network old-locale pandoc pandoc-types persistent persistent-mongoDB resourcet shakespeare-css shakespeare-js shakespeare-text template-haskell temporary text time wai wai-extra xml-conduit xml-hamlet yaml yesod yesod-auth yesod-core yesod-default yesod-form yesod-newsfeed yesod-platform yesod-recaptcha yesod-static
+YamlReference dlist HUnit regex-compat base base bytestring containers base base bytestring containers base directory directory directory
+Yampa base deepseq random
+Yampa-core base deepseq random vector-space base Yampa-core base Yampa-core
+YampaSynth array array base bytestring containers HCodecs Yampa array base bytestring containers HCodecs Yampa array array base containers HCodecs OpenAL Yampa array base containers HCodecs OpenAL Yampa array array base containers glade gtk HCodecs OpenAL Yampa array base containers glade gtk HCodecs OpenAL Yampa
+Yocto base containers parsec
+Yogurt containers mtl old-locale regex-posix time base base syb base network network process readline base syb base network process readline
+Yogurt-Standalone containers hint mtl network old-locale process regex-posix time Yogurt base base syb base base syb base
+ZEBEDDE base vect
+ZFS base CC-delcont containers mtl network unix
+ZMachine array base gtk mtl random
+ZipFold base TypeCompose
+ZipperAG base syz
+a50 base biofasta biopsl cmdargs containers directory process
+abacate base parsec text
+abc-puzzle array base minisat random random-shuffle Safe
+abcBridge aig base containers directory vector abcBridge abcBridge aig base directory QuickCheck random tasty tasty-hunit tasty-quickcheck tf-random unix vector abcBridge aig base directory QuickCheck random tasty tasty-hunit tasty-quickcheck tf-random unix vector abcBridge base
+abcnotation base parsec prettify process semigroups
+abeson aeson base base64-bytestring bson bytestring data-default-class scientific text time unordered-containers uuid vector
+abstract-deque array base containers random time atomic-primops atomic-primops atomic-primops
+abstract-deque-tests abstract-deque array base containers HUnit random test-framework test-framework-hunit time
+abstract-par base deepseq
+abstract-par-accelerate abstract-par array base vector accelerate accelerate accelerate accelerate-io accelerate-io accelerate accelerate accelerate-io
+abt base profunctors transformers transformers-compat vinyl
+ac-machine base hashable unordered-containers vector
+ac-machine-conduit ac-machine base conduit text
+accelerate array base containers fclabels ghc-prim hashable hashtables pretty template-haskell unordered-containers blaze-html blaze-html blaze-markup bytestring directory filepath mtl text unix blaze-html blaze-markup bytestring directory filepath mtl text unix
+accelerate-arithmetic accelerate accelerate-utility base QuickCheck utility-ht
+accelerate-cublas accelerate accelerate-arithmetic accelerate-cuda accelerate-io accelerate-utility base cublas cuda utility-ht vector accelerate accelerate-arithmetic accelerate-cublas accelerate-cuda accelerate-utility base cublas random
+accelerate-cuda accelerate array base binary bytestring cryptohash cuda directory fclabels filepath hashable hashtables language-c-quote mainland-pretty mtl old-time pretty process SafeSemaphore srcloc template-haskell text transformers unordered-containers Win32 Win32 unix Win32 unix
+accelerate-cufft accelerate accelerate-cuda accelerate-fourier accelerate-utility base cuda cufft accelerate accelerate accelerate-cuda accelerate-cufft base accelerate accelerate-cuda accelerate-cufft base accelerate accelerate accelerate-cuda base cuda cufft accelerate accelerate-cuda base cuda cufft accelerate accelerate accelerate-cuda base cuda cufft accelerate accelerate-cuda base cuda cufft base base cuda cufft base cuda cufft
+accelerate-examples accelerate ansi-wl-pprint base containers criterion directory fclabels HUnit mwc-random QuickCheck test-framework test-framework-hunit test-framework-quickcheck2 accelerate-cuda accelerate-cuda accelerate-llvm-native accelerate-llvm-native accelerate-llvm-ptx accelerate-llvm-ptx accelerate-icc-opencl accelerate-icc-opencl ekg ekg aeson aeson bytestring HTTP http-types network process statistics template-haskell text time accelerate-cuda accelerate-llvm-native accelerate-llvm-ptx accelerate-icc-opencl ekg aeson bytestring HTTP http-types network process statistics template-haskell text time accelerate-cuda accelerate-cuda accelerate accelerate accelerate-examples accelerate-fft accelerate-io array base containers fclabels HUnit QuickCheck random test-framework test-framework-hunit test-framework-quickcheck2 accelerate-cuda accelerate accelerate-examples accelerate-fft accelerate-io array base containers fclabels HUnit QuickCheck random test-framework test-framework-hunit test-framework-quickcheck2 accelerate accelerate accelerate-examples attoparsec base bytestring bytestring-lexing fclabels mwc-random primitive vector vector-algorithms accelerate accelerate-examples attoparsec base bytestring bytestring-lexing fclabels mwc-random primitive vector vector-algorithms accelerate accelerate accelerate-examples base fclabels gloss-raster-accelerate accelerate accelerate-examples base fclabels gloss-raster-accelerate accelerate accelerate accelerate-examples accelerate-io base fclabels repa repa-io vector accelerate accelerate-examples accelerate-io base fclabels repa repa-io vector accelerate accelerate accelerate-examples accelerate-io base fclabels gloss gloss-accelerate accelerate accelerate-examples accelerate-io base fclabels gloss gloss-accelerate accelerate accelerate accelerate-examples accelerate-io base bmp fclabels gloss gloss-rendering accelerate accelerate-examples accelerate-io base bmp fclabels gloss gloss-rendering accelerate accelerate accelerate-examples base fclabels gloss mwc-random accelerate accelerate-examples base fclabels gloss mwc-random accelerate-cuda accelerate-cuda accelerate accelerate accelerate-examples accelerate-fft accelerate-io base fclabels gloss gloss-accelerate mwc-random accelerate-cuda accelerate accelerate-examples accelerate-fft accelerate-io base fclabels gloss gloss-accelerate mwc-random accelerate accelerate accelerate-examples base bytestring bytestring-lexing cereal criterion fclabels mwc-random accelerate accelerate-examples base bytestring bytestring-lexing cereal criterion fclabels mwc-random accelerate accelerate accelerate-examples accelerate-fft accelerate-io base fclabels filepath accelerate accelerate-examples accelerate-fft accelerate-io base fclabels filepath accelerate accelerate accelerate-examples accelerate-io base bytestring containers directory fclabels vector vector-algorithms accelerate accelerate-examples accelerate-io base bytestring containers directory fclabels vector vector-algorithms accelerate accelerate accelerate-examples base fclabels gloss gloss-accelerate gloss-raster-accelerate accelerate accelerate-examples base fclabels gloss gloss-accelerate gloss-raster-accelerate accelerate accelerate accelerate-examples base binary directory fclabels normaldistribution random accelerate accelerate-examples base binary directory fclabels normaldistribution random
+accelerate-fft accelerate base accelerate-cuda accelerate-cuda cuda cufft accelerate-cuda cuda cufft
+accelerate-fftw accelerate accelerate-io base carray fft storable-complex
+accelerate-fourier accelerate accelerate-arithmetic accelerate-utility base containers QuickCheck transformers utility-ht
+accelerate-fourier-benchmark accelerate accelerate-cuda accelerate-cufft accelerate-fftw accelerate-fourier base criterion
+accelerate-io accelerate array base bmp bytestring repa vector
+accelerate-random accelerate base mwc-random
+accelerate-utility accelerate base utility-ht
+accentuateus base bytestring HTTP json network text
+access-time base filepath old-time time Win32 Win32 unix Win32 unix
+ace attoparsec base blaze-html blaze-markup data-default parsec text
+acid-state array base bytestring cereal containers directory extensible-exceptions filepath mtl network safecopy stm template-haskell Win32 Win32 unix Win32 unix
+acid-state-dist acid-state base bytestring cereal concurrent-extra containers filepath mtl safe safecopy semigroups stm transformers zeromq4-haskell
+acid-state-tls acid-state base directory HsOpenSSL network safecopy
+acl2 base process
+acme-all-monad base transformers
+acme-box base acme-box base
+acme-cadre base
+acme-cofunctor base
+acme-colosson base random
+acme-comonad base comonad
+acme-cutegirl base base
+acme-dont base
+acme-flipping-tables base
+acme-grawlix base
+acme-hq9plus base
+acme-http base bytestring extensible-exceptions mtl network pretty
+acme-inator base base
+acme-io base
+acme-lolcat base parsec random random-shuffle text
+acme-lookofdisapproval base
+acme-memorandom base MemoTrie random
+acme-microwave base
+acme-miscorder base random
+acme-missiles base stm
+acme-now base time
+acme-numbersystem base template-haskell
+acme-omitted base
+acme-one
+acme-operators base
+acme-php base
+acme-pointful-numbers base split
+acme-realworld base
+acme-safe acme-dont base
+acme-schoenfinkel base
+acme-strfry base bytestring
+acme-stringly-typed base
+acme-strtok base mtl
+acme-timemachine base ghc-prim mtl transformers
+acme-year base
+acme-zero acme-zero
+action-permutations base
+active base lens linear semigroupoids semigroups vector
+activehs activehs-base array base blaze-html bytestring cmdargs containers data-pprint deepseq dia-base dia-functions directory filepath haskell-src-exts highlighting-kate hint hoogle mtl old-locale old-time pandoc process pureMD5 QuickCheck simple-reflect snap-core snap-server split syb text time utf8-string xhtml
+activehs-base base QuickCheck
+activitystreams-aeson aeson base text time unordered-containers
+actor base haskell98 stm time
+ad array base comonad containers data-reify erf free nats reflection transformers tagged tagged tagged
+adaptive-containers base
+adaptive-tuple template-haskell type-level base base base base base
+adb base bytestring cereal containers mtl network
+adblock2privoxy base containers directory filepath http-conduit MissingH mtl network network-uri old-locale parsec parsec-permutation strict text time
+addLicenseInfo base process
+adhoc-network base bytestring containers Crypto dataenc HaXml hsgnutls network old-locale parsec pkcs1 random time utf8-string xml-parsec
+adict array base binary containers dawg PSQueue vector
+adjunctions array base comonad containers contravariant distributive free mtl profunctors semigroupoids semigroups tagged transformers void
+adobe-swatch-exchange base binary bytestring data-binary-ieee754 language-css mtl pretty base binary bytestring data-binary-ieee754 language-css mtl pretty base binary bytestring data-binary-ieee754 mtl pretty
+adp-multi array base containers htrace array array base containers criterion deepseq htrace HUnit mtl Nussinov78 QuickCheck random-shuffle test-framework test-framework-hunit test-framework-quickcheck2 array base containers criterion deepseq htrace HUnit mtl Nussinov78 QuickCheck random-shuffle test-framework test-framework-hunit test-framework-quickcheck2 array array base containers criterion deepseq htrace HUnit mtl QuickCheck random-shuffle test-framework test-framework-hunit test-framework-quickcheck2 array base containers criterion deepseq htrace HUnit mtl QuickCheck random-shuffle test-framework test-framework-hunit test-framework-quickcheck2 array array base containers htrace HUnit mtl QuickCheck random-shuffle test-framework test-framework-hunit test-framework-quickcheck2 array base containers htrace HUnit mtl QuickCheck random-shuffle test-framework test-framework-hunit test-framework-quickcheck2
+adp-multi-monadiccp adp-multi base containers monadiccp adp-multi adp-multi base containers criterion deepseq monadiccp mtl QuickCheck test-framework test-framework-quickcheck2 adp-multi base containers criterion deepseq monadiccp mtl QuickCheck test-framework test-framework-quickcheck2
+aeson attoparsec base bytestring containers deepseq dlist ghc-prim hashable mtl scientific syb template-haskell text transformers unordered-containers vector old-locale old-locale time time old-locale time time
+aeson-applicative aeson base text unordered-containers
+aeson-better-errors aeson base bytestring dlist mtl scientific text transformers transformers-compat unordered-containers vector void
+aeson-bson aeson array attoparsec base bson bytestring containers text unordered-containers vector
+aeson-casing aeson base
+aeson-diff aeson base bytestring edit-distance-vector hashable mtl scientific text unordered-containers vector aeson aeson-diff base bytestring optparse-applicative text aeson aeson-diff base bytestring optparse-applicative
+aeson-extra aeson attoparsec base bytestring containers exceptions hashable scientific tagged text unordered-containers vector
+aeson-filthy aeson base bytestring text unordered-containers
+aeson-lens aeson base bytestring lens text unordered-containers vector
+aeson-native attoparsec base blaze-builder blaze-textual-native bytestring containers deepseq hashable mtl old-locale syb text time unordered-containers vector
+aeson-pretty aeson base bytestring text unordered-containers vector aeson aeson aeson-pretty attoparsec base bytestring cmdargs aeson aeson-pretty attoparsec base bytestring cmdargs
+aeson-qq aeson attoparsec base base-compat haskell-src-meta parsec scientific template-haskell text vector
+aeson-schema aeson attoparsec base bytestring containers ghc-prim mtl QuickCheck regex-base regex-compat regex-pcre scientific syb template-haskell text th-lift transformers unordered-containers vector
+aeson-serialize aeson base cereal
+aeson-smart aeson base data-default template-haskell text unordered-containers vector
+aeson-streams aeson attoparsec base bytestring HsOpenSSL http-streams io-streams
+aeson-t aeson base bytestring text unordered-containers vector
+aeson-toolkit aeson base bytestring failure text
+aeson-utils aeson attoparsec base bytestring scientific text
+aeson-value-parser aeson base-prelude mtl-prelude scientific text unordered-containers vector
+aeson-yak aeson base
+affine-invariant-ensemble-mcmc base containers mwc-random primitive split vector
+afis base byteable bytestring crypto-random cryptohash packer
+afv base bytestring directory language-c mtl process yices
+agda-server Agda base cmdargs containers directory filepath HJavaScript mtl pandoc snap-core snap-server transformers utf8-string xhtml
+agentx base binary bitwise bytestring containers data-default Diff fclabels mtl network pipes pipes-concurrency pipes-network safe snmp time transformers unix base binary bitwise bytestring containers data-default Diff fclabels mtl network pipes pipes-concurrency pipes-network safe snmp time transformers unix
+agum base containers base containers
+aig base mtl QuickCheck vector
+air array base bytestring containers directory filepath mtl text time
+air-extra air array base bytestring containers directory filepath parallel parsec regexpr text time
+air-spec base hspec text
+air-th air base template-haskell
+airbrake base blaze-markup bytestring directory exceptions filepath http-conduit monad-control network semigroups template-haskell text transformers utf8-string wai
+airship attoparsec base base64-bytestring blaze-builder bytestring bytestring-trie case-insensitive cryptohash directory either filepath http-date http-media http-types lifted-base mime-types monad-control mtl network old-locale random text time transformers transformers-base unix unordered-containers wai airship base blaze-builder bytestring http-types mtl text time unordered-containers wai warp
+aivika array base containers mtl random vector
+aivika-experiment aivika base containers directory filepath mtl network-uri parallel-io split
+aivika-experiment-cairo aivika-experiment aivika-experiment-chart base Chart Chart-cairo
+aivika-experiment-chart aivika aivika-experiment array base Chart colour containers data-default-class filepath lens mtl split
+aivika-experiment-diagrams aivika-experiment aivika-experiment-chart base Chart Chart-diagrams containers filepath
+aivika-transformers aivika array base containers mtl random vector vector vector
+ajhc array base binary bytestring containers cpphs directory fgl filepath haskeline HsSyck mtl old-time pretty process random regex-compat syb temporary utf8-string zlib Win32 Win32 unix Win32 unix ajhc array base binary bytestring containers directory fgl filepath haskeline HsSyck mtl old-time pretty process random regex-compat syb temporary utf8-string zlib Win32 Win32 unix Win32 unix ajhc base bytestring directory filepath HTTP network pretty process unix unix unix
+al base mtl
+alarmclock base stm time unbounded-delays
+alea argparser base containers threefish
+alex base QuickCheck array array base containers directory base array base containers directory base
+alex-meta array base containers haskell-src-meta QuickCheck template-haskell
+alfred aeson base bytestring hexpat http-conduit http-types text xmlgen network-uri network-uri network network-uri network
+algebra adjunctions array base containers distributive mtl nats semigroupoids semigroups tagged transformers void
+algebra-dag aeson base containers fgl mtl parsec template-haskell transformers
+algebra-sql aeson algebra-dag ansi-wl-pprint base bytestring containers Decimal dlist errors fgl filepath ghc-prim mtl multiset parsec pretty process template-haskell text time transformers aeson algebra-dag ansi-wl-pprint base bytestring containers Decimal fgl ghc-prim mtl parsec pretty template-haskell text time transformers aeson algebra-dag ansi-wl-pprint base bytestring containers Decimal dlist errors fgl filepath ghc-prim mtl multiset parsec pretty process template-haskell text time transformers
+algebraic accelerate base
+algebraic-classes base syb template-haskell
+align base containers transformers vector
+align-text base optparse-applicative text
+aligned-foreignptr base base base base base
+allocated-processor base vector-space
+alloy base containers mtl syb vector
+alloy-proxy-fd alloy base mtl
+almost-fix base
+alms array base containers directory fgl filepath HUnit incremental-sat-solver mtl network pretty QuickCheck random stm syb template-haskell transformers tuple readline readline editline editline parsec parsec parsec readline editline editline editline parsec parsec
+alpha array AvlTree base bimap bindings-posix bytestring cereal containers COrdering cpphs directory filepath ghc-prim mtl parsec transformers unix
+alpino-tools base bytestring bytestring-lexing conduit containers hexpat-pickle MonadRandom mtl random-shuffle resourcet rosezipper utf8-string alpino-tools base conduit alpino-tools base conduit containers utf8-string alpino-tools base conduit alpino-tools base conduit MonadRandom mtl resourcet alpino-tools base conduit
+alsa array base extensible-exceptions sample-frame
+alsa-core base extensible-exceptions
+alsa-gui alsa-core alsa-seq base midi midi-alsa wx wxcore alsa-core alsa-seq base wx wxcore alsa-core alsa-seq base wx wxcore
+alsa-midi event-list midi non-negative array array base base array base base
+alsa-mixer alsa-core base unix
+alsa-pcm alsa-core array base extensible-exceptions sample-frame storable-record alsa-pcm alsa-pcm alsa-seq base containers storablevector transformers alsa-pcm alsa-seq base containers storablevector transformers alsa-pcm alsa-pcm base storablevector alsa-pcm base storablevector alsa-pcm alsa-pcm base alsa-pcm base alsa-pcm alsa-pcm base alsa-pcm base alsa-pcm alsa-pcm base alsa-pcm base alsa-pcm alsa-pcm base alsa-pcm base
+alsa-pcm-tests alsa base alsa base alsa base alsa base
+alsa-seq alsa-core array base bytestring data-accessor enumset extensible-exceptions poll transformers utility-ht alsa-core alsa-core alsa-seq base transformers alsa-core alsa-seq base transformers alsa-core alsa-core alsa-seq base transformers alsa-core alsa-seq base transformers alsa-core alsa-core alsa-seq base transformers alsa-core alsa-seq base transformers alsa-core alsa-core alsa-seq base enumset transformers alsa-core alsa-seq base enumset transformers alsa-core alsa-core alsa-seq base transformers alsa-core alsa-seq base transformers alsa-core alsa-core alsa-seq base transformers utility-ht alsa-core alsa-seq base transformers utility-ht alsa-core alsa-core alsa-seq base transformers utility-ht alsa-core alsa-seq base transformers utility-ht alsa-core alsa-core alsa-seq base bytestring transformers alsa-core alsa-seq base bytestring transformers
+alsa-seq-tests alsa base alsa base alsa base alsa base alsa base
+altcomposition base composition
+alternative-io base lifted-base monad-control transformers transformers-base
+altfloat base ghc-prim integer-gmp integer-gmp integer-gmp integer-simple integer integer-gmp integer-gmp integer-simple integer-gmp integer-simple integer
+alure base OpenAL
+amazon-emailer base bytestring configurator http-conduit lifted-base mime-mail mime-mail-ses postgresql-simple resourcet text time base configurator lifted-base postgresql-simple
+amazon-emailer-client-snap base mtl snap snaplet-postgresql-simple text
+amazon-products base base64-bytestring byteable bytestring conduit containers cryptohash http-conduit http-types mtl old-locale resourcet text time transformers transformers-base xml-conduit xml-picklers xml-types amazon-products base bytestring http-conduit text transformers
+amazonka amazonka-core base bytestring conduit conduit-extra directory exceptions http-conduit ini lens mmorph monad-control mtl resourcet retry text time transformers transformers-base transformers-compat
+amazonka-apigateway amazonka-core base
+amazonka-autoscaling amazonka-core base
+amazonka-cloudformation amazonka-core base
+amazonka-cloudfront amazonka-core base
+amazonka-cloudhsm amazonka-core base
+amazonka-cloudsearch amazonka-core base
+amazonka-cloudsearch-domains amazonka-core base
+amazonka-cloudtrail amazonka-core base
+amazonka-cloudwatch amazonka-core base
+amazonka-cloudwatch-logs amazonka-core base
+amazonka-codecommit amazonka-core base
+amazonka-codedeploy amazonka-core base
+amazonka-codepipeline amazonka-core base
+amazonka-cognito-identity amazonka-core base
+amazonka-cognito-sync amazonka-core base
+amazonka-config amazonka-core base
+amazonka-core aeson attoparsec base bifunctors bytestring case-insensitive conduit conduit-extra cryptonite exceptions hashable http-conduit http-types lens memory mtl resourcet scientific semigroups tagged text transformers transformers-compat unordered-containers xml-conduit xml-types nats nats old-locale old-locale time time nats old-locale time time
+amazonka-datapipeline amazonka-core base
+amazonka-devicefarm amazonka-core base
+amazonka-directconnect amazonka-core base
+amazonka-ds amazonka-core base
+amazonka-dynamodb amazonka-core base
+amazonka-dynamodb-streams amazonka-core base
+amazonka-ec2 amazonka-core base
+amazonka-ecs amazonka-core base
+amazonka-efs amazonka-core base
+amazonka-elasticache amazonka-core base
+amazonka-elasticbeanstalk amazonka-core base
+amazonka-elasticsearch amazonka-core base
+amazonka-elastictranscoder amazonka-core base
+amazonka-elb amazonka-core base
+amazonka-emr amazonka-core base
+amazonka-glacier amazonka-core base
+amazonka-iam amazonka-core base
+amazonka-importexport amazonka-core base
+amazonka-inspector amazonka-core base
+amazonka-iot amazonka-core base
+amazonka-iot-dataplane amazonka-core base
+amazonka-kinesis amazonka-core base
+amazonka-kinesis-firehose amazonka-core base
+amazonka-kms amazonka-core base
+amazonka-lambda amazonka-core base
+amazonka-marketplace-analytics amazonka-core base
+amazonka-ml amazonka-core base
+amazonka-opsworks amazonka-core base
+amazonka-rds amazonka-core base
+amazonka-redshift amazonka-core base
+amazonka-route53 amazonka-core base
+amazonka-route53-domains amazonka-core base
+amazonka-s3 amazonka-core base lens text
+amazonka-sdb amazonka-core base
+amazonka-ses amazonka-core base
+amazonka-sns amazonka-core base
+amazonka-sqs amazonka-core base
+amazonka-ssm amazonka-core base
+amazonka-storagegateway amazonka-core base
+amazonka-sts amazonka-core base
+amazonka-support amazonka-core base
+amazonka-swf amazonka-core base
+amazonka-test aeson amazonka-core base bifunctors bytestring case-insensitive conduit conduit-extra groom http-client http-types lens process resourcet tasty tasty-hunit template-haskell temporary text time unordered-containers yaml
+amazonka-waf amazonka-core base
+amazonka-workspaces amazonka-core base
+ampersand base bytestring containers csv directory filepath graphviz hashable HStringTemplate lens MissingH mtl old-locale old-time pandoc pandoc-types parsec process simple-sql-parser split SpreadsheetML text time utf8-string wl-pprint xlsx zlib
+amqp base binary bytestring clock connection containers data-binary-ieee754 monad-control split stm text vector network network network-uri network network network-uri network base containers xml
+amqp-conduit amqp base conduit exceptions lifted-base monad-control mtl resourcet text transformers transformers-base
+amrun base deepseq parsec
+analyze-client base bytestring http-conduit MonadCatchIO-transformers mtl snap snap-core time
+anansi base bytestring containers monads-tf options parsec system-argv0 system-fileio system-filepath text base bytestring containers monads-tf options parsec system-argv0 system-fileio system-filepath text
+anansi-hscolour anansi base bytestring containers hscolour monads-tf text
+anansi-pandoc anansi base bytestring containers monads-tf pandoc text
+anatomy atomo base blaze-html bytestring containers directory filepath hashable haskeline highlighter mtl parsec pretty pretty-show tagsoup text time vector atomo base blaze-html bytestring containers directory filepath hashable haskeline highlighter mtl parsec pretty pretty-show tagsoup text time vector
+android base process
+android-lint-summary base basic-prelude data-default directory filemanip hxt lens mtl optparse-applicative rainbow stringable terminal-size text hscolour hscolour hscolour android-lint-summary base basic-prelude data-default directory filemanip mtl optparse-applicative rainbow stringable terminal-size text
+angel base configurator containers mtl old-locale optparse-applicative process stm text time transformers unix unordered-containers
+animalcase base bytestring text
+annotated-wl-pprint base
+anonymous-sums base base
+anonymous-sums-tests anonymous-sums base QuickCheck
+ansi-pretty aeson ansi-wl-pprint array base bytestring containers generics-sop nats scientific semigroups tagged text time unordered-containers vector
+ansi-terminal base Win32 Win32 unix Win32 unix base Win32 Win32 unix Win32 unix
+ansi-wl-pprint ansi-terminal base base base base base ansi-terminal base base base base base
+ansigraph ansi-terminal base
+antagonist antisplice base chatty chatty-utils mtl shakespeare text time time-locale-compat yesod yesod-auth antisplice base chatty chatty-utils ironforge mtl shakespeare text time time-locale-compat yesod yesod-auth
+antfarm base containers minimorph mtl parsec text transformers antfarm base containers minimorph mtl text
+anticiv antisplice base chatty chatty-text chatty-utils ctpl ironforge mtl network plugins time transformers antisplice base chatty chatty-text chatty-utils ctpl directory ironforge mtl network plugins time transformers
+antigate base bytestring data-default deepseq exceptions failure http-client http-conduit resourcet safe text transformers
+antimirov base containers QuickCheck base containers QuickCheck
+antiquoter base syb template-haskell
+antisplice base chatty chatty-utils haskeline mtl template-haskell text time transformers
+antlrc base haskell98 base bytestring enumerator haskell98 regex-posix
+anydbm base containers MissingH mtl base containers MissingH mtl
+aosd base bindings-DSL cairo colour monad-control pango transformers X11
+ap-reflect base
+apache-md5 base bytestring ghc-prim ghc-prim deepseq deepseq ghc-prim deepseq
+apelsin array base bytestring containers deepseq directory filepath glib gtk HTTP mtl network process transformers tremulous-query xdg-basedir
+api-builder aeson base bifunctors bytestring HTTP http-client http-client-tls http-types text transformers
+api-opentheory-unicode base bytestring opentheory-unicode
+api-tools aeson aeson-pretty array attoparsec base base64-bytestring bytestring Cabal case-insensitive containers deepseq lens old-locale QuickCheck regex-compat-tdfa safe safecopy template-haskell text time unordered-containers vector aeson aeson-pretty api-tools array attoparsec base base64-bytestring bytestring case-insensitive containers lens old-locale QuickCheck regex-compat-tdfa safe safecopy template-haskell text time unordered-containers vector
+apiary base blaze-builder blaze-html blaze-markup bytestring bytestring-read case-insensitive data-default-class exceptions hashable http-date http-types mime-types monad-control mtl process stringsearch template-haskell text time transformers transformers-base types-compat unix-compat unordered-containers vault wai wai-extra web-routing
+apiary-authenticate apiary apiary-session authenticate base blaze-builder bytestring cereal data-default-class http-client http-client-tls http-types monad-control resourcet text types-compat wai web-routing
+apiary-clientsession apiary apiary-cookie apiary-session base bytestring cereal clientsession data-default-class time unix-compat vault
+apiary-cookie apiary base blaze-builder blaze-html bytestring cookie time types-compat wai web-routing
+apiary-eventsource apiary base blaze-builder wai-extra
+apiary-helics apiary base bytestring data-default-class helics helics-wai monad-control text transformers types-compat vault wai
+apiary-logger apiary base data-default-class fast-logger lifted-base monad-control monad-logger transformers transformers-base types-compat
+apiary-memcached apiary base bytestring data-default-class memcached-binary monad-control text transformers types-compat
+apiary-mongoDB apiary base bson data-default-class lifted-base monad-control mongoDB resource-pool text time transformers types-compat
+apiary-persistent apiary apiary-logger base monad-control monad-logger persistent resource-pool resourcet transformers transformers-base types-compat web-routing
+apiary-purescript apiary base bytestring data-default-class filepath Glob parsec purescript text transformers types-compat unordered-containers
+apiary-session apiary base types-compat wai web-routing
+apiary-websockets apiary base wai-websockets web-routing websockets
+apis aeson base containers deepseq directory ecma262 exceptions filemanip filepath hslogger hxt mtl opendatatable split template-haskell text th-lift time transformers unordered-containers utf8-string yql
+apotiki aeson attoparsec base binary bytestring containers crypto-api cryptohash directory http-types old-time openpgp openpgp-asciiarmor openpgp-crypto-api scotty strict tar text transformers wai-extra wai-middleware-static zlib aeson attoparsec base binary bytestring containers crypto-api cryptohash directory http-types old-time openpgp openpgp-asciiarmor openpgp-crypto-api scotty strict tar text transformers wai-extra wai-middleware-static zlib
+app-lens base containers lens mtl
+app-settings base containers directory mtl parsec text
+appar base bytestring
+appc aeson base bytestring containers semver text uuid aeson base bytestring containers optparse-applicative semver text uuid
+applicative-extras base
+applicative-fail base bifunctors dlist mtl transformers transformers-base
+applicative-numbers base
+applicative-parsec base containers lens mtl text
+applicative-quoters base haskell-src-meta template-haskell
+apportionment base containers utility-ht
+approx-rand-test base mersenne-random-pure64 monad-mersenne-random mtl statistics transformers vector approx-rand-test base Chart colour conduit containers data-default data-default-class filepath lens mersenne-random-pure64 monad-mersenne-random mtl statistics text vector vector-algorithms Chart-cairo Chart-cairo Chart-diagrams Chart-cairo Chart-diagrams approx-rand-test base Chart colour conduit containers data-default data-default-class filepath lens mersenne-random-pure64 monad-mersenne-random mtl statistics text vector vector-algorithms Chart-cairo Chart-cairo Chart-diagrams Chart-cairo Chart-diagrams
+approximate base binary bytes cereal comonad deepseq ghc-prim hashable hashable-extras lens log-domain pointed safecopy semigroupoids semigroups vector HerbiePlugin HerbiePlugin ghc-prim ghc-prim HerbiePlugin ghc-prim
+approximate-equality base type-level-natural-number
+ar-timestamp-wiper base bytestring base bytestring
+arb-fft base containers criterion directory filepath primitive transformers vector arb-fft base containers criterion vector
+arbb-vm base bytestring cereal containers directory mtl pretty
+arbtt aeson base binary bytestring deepseq directory filepath transformers utf8-string old-locale old-locale time time Win32 Win32 unix X11 old-locale time time Win32 unix X11 aeson array base binary bytestring bytestring-progress containers deepseq directory filepath parsec pcre-light strict terminal-progress-bar transformers unix utf8-string old-locale old-locale time time old-locale time time aeson array base binary bytestring containers deepseq directory filepath parsec strict transformers unix utf8-string old-locale old-locale time time old-locale time time base binary bytestring containers deepseq directory filepath parsec strict transformers unix utf8-string old-locale old-locale time time old-locale time time base binary bytestring containers deepseq directory filepath unix utf8-string old-locale old-locale time time old-locale time time
+archive base bytestring debian debian-mirror directory Extra filepath help HUnit mtl network old-locale pretty process progress regex-compat regex-posix time unix Unixutils xhtml
+archiver base curl HTTP network base bytestring containers process random
+archlinux base Cabal containers directory filepath pretty
+archlinux-web archlinux base Cabal containers csv deepseq directory filepath HTTP json old-time parallel pretty prettyclass process strict-concurrency xhtml archlinux base Cabal containers csv deepseq directory filepath HTTP json old-time parallel pretty prettyclass process strict-concurrency xhtml archlinux base Cabal containers csv deepseq directory filepath HTTP json old-time parallel pretty prettyclass process strict-concurrency xhtml archlinux base Cabal containers csv directory filepath HTTP json pretty prettyclass process archlinux base Cabal containers csv directory filepath HTTP json pretty prettyclass process base
+archnews base containers download-curl feed tagsoup
+arff base binary bytestring bytestring-lexing bytestring-show old-locale time
+argon aeson ansi-terminal base bytestring ghc ghc-paths ghc-syb-utils syb argon base containers directory docopt filepath pathwalk pathwalk pathwalk pathwalk
+argparser base containers
+arguedit base bimap containers glib gtk HDBC indents mtl parsec
+ariadne async base bert Cabal containers data-lens data-lens-fd data-lens-template directory filepath haskell-names haskell-packages haskell-src-exts hse-cpp hslogger mtl stm tagged transformers utf8-string
+arion base containers directory filemanip fsnotify process regex-posix safe split system-filepath text transformers
+arith-encode arithmoi array base binary Cabal containers fgl hashable unordered-containers
+arithmatic base
+arithmetic base containers opentheory opentheory-bits opentheory-divides opentheory-primitive QuickCheck random base containers opentheory opentheory-bits opentheory-divides opentheory-primitive QuickCheck random
+arithmoi array base containers ghc-prim integer-gmp mtl random
+armada base GLUT mtl OpenGL stm
+arpa base arpa base
+array base
+array-forth array base mcmc-synthesis modular-arithmetic MonadRandom OddWord split vector array-forth array-forth base mcmc-synthesis MonadRandom optparse-applicative array-forth base mcmc-synthesis MonadRandom optparse-applicative array-forth base split vector array-forth array-forth base Chart mcmc-synthesis MonadRandom optparse-applicative array-forth base Chart mcmc-synthesis MonadRandom optparse-applicative
+array-memoize array base
+array-primops base base ghc-prim ghc-prim ghc-prim base ghc-prim ghc-prim ghc-prim ghc-prim
+array-utils array base
+arrow-improve arrows base pointed profunctors semigroupoids
+arrow-list base containers mtl
+arrowapply-utils base
+arrowp array base containers haskell-src
+arrows base Stream
+artery base containers profunctors transformers
+arx attoparsec base blaze-builder bytestring bytestring-nums containers file-embed parsec process shell-escape template-haskell attoparsec base blaze-builder bytestring bytestring-nums containers file-embed parsec process shell-escape template-haskell
+arxiv base parsec split tagsoup
+ascetic base MissingH
+ascii base blaze-builder bytestring case-insensitive hashable text
+ascii-progress ansi-terminal async base data-default time ansi-terminal async base data-default time ansi-terminal async base bytestring conduit data-default HTTP http-conduit http-types time transformers ansi-terminal async base data-default time
+ascii-vector-avc attoparsec base binary bytestring deepseq deepseq-generics HUnit split zlib ascii-vector-avc attoparsec base binary bytestring deepseq deepseq-generics HUnit split zlib
+ascii85-conduit base bytestring conduit
+asciidiagram base bytestring containers FontyFruity JuicyPixels lens linear mtl rasterific-svg svg-tree text vector asciidiagram base bytestring directory filepath FontyFruity JuicyPixels optparse-applicative rasterific-svg svg-tree text
+asic asil base bytestring utf8-string
+asil array base binary bytestring containers data-binary-ieee754 directory filepath haskell-src-exts mtl pretty utf8-string uuagc zip-archive zlib
+asn1-data base bytestring cereal mtl text base base bytestring HUnit QuickCheck test-framework test-framework-quickcheck2 base bytestring HUnit QuickCheck test-framework test-framework-quickcheck2
+asn1-encoding asn1-types base bytestring hourglass
+asn1-parse asn1-encoding asn1-types base bytestring
+asn1-types base bytestring hourglass memory
+asn1dump asn1-encoding asn1-types base bytestring pem
+assembler base containers ghc-binary parsec base containers ghc-binary parsec
+assert base
+assert-failure base pretty-show text
+assertions ansi-terminal base containers
+assimp base haskell98 vect
+astar base containers PSQueue
+astrds base containers directory MonadRandom mtl OpenGL random SDL SDL-image SDL-mixer SDL-ttf unix
+astview astview-utils base bytestring containers directory filepath glade glib Glob gtk gtksourceview2 hint mtl process syb
+astview-utils base containers syb
+async base stm
+async-extras async base lifted-async lifted-base monad-control SafeSemaphore stm transformers-base
+async-manager async base stm unordered-containers async base stm unordered-containers
+async-pool async base containers fgl monad-control stm transformers transformers-base
+asynchronous-exceptions base
+aterm array base containers ghc-prim
+aterm-utils aterm base mtl transformers wl-pprint aterm aterm-utils base transformers wl-pprint
+atl base
+atlassian-connect-core aeson atlassian-connect-descriptor base base64-bytestring bytestring case-insensitive cipher-aes configurator containers cryptohash hostname http-client http-client-tls http-media http-types jwt mtl network-api-support snap snap-core split text time time-units transformers network network network-uri network network-uri network network-uri network network-uri
+atlassian-connect-descriptor aeson base cases text time-units unordered-containers network network network-uri network network-uri network network-uri network network-uri
+atmos base dimensional dimensional-tf
+atmos-dimensional atmos base dimensional
+atmos-dimensional-tf atmos base dimensional-tf
+atom base bimap containers mtl process syb
+atom-basic base base64-bytestring bytestring text time network network network-uri network network-uri network network-uri network network-uri
+atom-conduit base conduit conduit-parse exceptions foldl lens mono-traversable parsers text time timerep total uri-bytestring xml-conduit xml-conduit-parse xml-types
+atom-msp430 atom base mtl
+atomic-primops base ghc-prim primitive
+atomic-primops-foreign base bits-atomic
+atomic-primops-vector atomic-primops base primitive vector
+atomic-write base bytestring directory filepath temporary text unix-compat
+atomo array base bytestring containers directory filepath hashable hint mtl parsec pretty regex-pcre template-haskell text time vector array base bytestring containers directory filepath hashable haskeline hint mtl parsec pretty regex-pcre template-haskell text time vector
+attempt base failure
+atto-lisp attoparsec base blaze-builder blaze-textual bytestring containers deepseq text
+attoparsec array base bytestring containers deepseq scientific text transformers bytestring bytestring bytestring
+attoparsec-arff attoparsec base bytestring
+attoparsec-binary attoparsec base bytestring
+attoparsec-conduit base conduit
+attoparsec-csv attoparsec base text
+attoparsec-enumerator attoparsec base bytestring enumerator text
+attoparsec-expr attoparsec base
+attoparsec-iteratee attoparsec base bytestring iteratee transformers
+attoparsec-parsec attoparsec base parsec text
+attoparsec-text array attoparsec base containers text
+attoparsec-text-enumerator attoparsec-text base enumerator text
+attoparsec-trans attoparsec base transformers
+attosplit attoparsec base bytestring
+atuin array base Cabal directory epic haskell98
+audacity base deepseq utility-ht audacity audacity base filepath non-empty soxlib storablevector utility-ht audacity base filepath non-empty soxlib storablevector utility-ht
+audiovisual base boundingboxes colors deepseq directory filepath free freetype2 hashable JuicyPixels JuicyPixels-util lens linear mtl objective random template-haskell transformers vector void WAVE
+augeas base bytestring directory unix HUnit
+augur base bytestring classify containers directory filepath HaXml mtl process
+aur aeson aeson-pretty base filepath lens lens-aeson mtl text vector wreq
+authenticate aeson attoparsec base blaze-builder bytestring case-insensitive conduit containers http-conduit http-types monad-control resourcet tagstream-conduit text transformers unordered-containers xml-conduit network-uri network-uri network network-uri network
+authenticate-kerberos base process text
+authenticate-ldap base LDAP text transformers
+authenticate-oauth base base64-bytestring blaze-builder bytestring crypto-pubkey-types data-default http-client http-types random RSA SHA time transformers
+authinfo-hs attoparsec base network text
+authoring ansi-wl-pprint base citation-resolve containers data-default haskell-src-meta HaTeX lens mtl parsers safe template-haskell text transformers trifecta
+auto base base-orphans bytestring cereal containers deepseq MonadRandom profunctors random semigroups transformers
+auto-update base
+autonix-deps aeson aeson-pretty base bytestring conduit containers errors filepath lens libarchive-conduit mtl optparse-applicative process regex-tdfa resourcet semigroups text transformers xml
+autonix-deps-kf5 autonix-deps base bytestring conduit containers filepath lens mtl text transformers autonix-deps autonix-deps-kf5 base containers lens mtl
+autoproc base directory mtl process unix
+avahi base dbus-core text
+avatar-generator base JuicyPixels random
+average base semigroups vector-space
+avers aeson attoparsec base base16-bytestring bytestring clock containers cryptohash filepath inflections MonadRandom mtl network network-uri resource-pool rethinkdb-client-driver safe scrypt stm template-haskell text time unordered-containers vector
+avl-static base
+avr-shake base dependent-sum mtl process shake
+awesomium aeson attoparsec awesomium-raw base containers text vector
+awesomium-glut awesomium awesomium-raw base GLUT
+awesomium-raw base
+aws aeson attoparsec base base16-bytestring base64-bytestring blaze-builder byteable bytestring case-insensitive cereal conduit conduit-extra containers cryptohash data-default directory filepath http-conduit http-types lifted-base monad-control mtl network old-locale resourcet safe scientific tagged text time transformers unordered-containers utf8-string vector xml-conduit ghc-prim ghc-prim ghc-prim aws aws base conduit conduit-extra http-conduit aws base conduit conduit-extra http-conduit aws aws base conduit conduit-extra http-conduit resourcet text aws base conduit conduit-extra http-conduit resourcet text aws aws base conduit conduit-extra http-conduit text aws base conduit conduit-extra http-conduit text aws aws base conduit conduit-extra http-conduit text transformers aws base conduit conduit-extra http-conduit text transformers aws aws base conduit conduit-extra http-conduit text transformers aws base conduit conduit-extra http-conduit text transformers aws aws base text aws base text aws aws base conduit data-default exceptions http-conduit text aws base conduit data-default exceptions http-conduit text aws aws base errors text transformers aws base errors text transformers
+aws-cloudfront-signer asn1-encoding asn1-types base base64-bytestring bytestring crypto-pubkey-types RSA time time old-locale time time old-locale time
+aws-configuration-tools aws aws-general aws-kinesis base base-unicode-symbols bytestring configuration-tools mtl text transformers
+aws-dynamodb-conduit aeson attoparsec-trans aws base bytestring conduit containers http-conduit http-types json-togo resourcet text transformers
+aws-dynamodb-streams aeson attoparsec aws aws-general base base-unicode-symbols base16-bytestring base64-bytestring byteable bytestring case-insensitive conduit conduit-extra containers cryptohash http-conduit http-types mtl old-locale parsers profunctors resourcet scientific text time
+aws-ec2 aeson aws base base16-bytestring base64-bytestring blaze-builder byteable bytestring conduit-extra containers cryptohash http-conduit http-types mtl resourcet scientific template-haskell text time unordered-containers vector xml-conduit aws aws-ec2 base bytestring optparse-applicative text aeson aws aws-ec2 base bytestring containers optparse-applicative text unordered-containers vector yaml
+aws-elastic-transcoder aeson aws aws-sign4 base bytestring conduit containers http-conduit http-types QuickCheck regex-compat safe text time transformers aws aws aws-elastic-transcoder base conduit http-conduit text aws aws-elastic-transcoder base conduit http-conduit text
+aws-general aeson attoparsec base base16-bytestring blaze-builder byteable bytestring case-insensitive cryptohash deepseq hashable http-types parsers QuickCheck quickcheck-instances text transformers old-locale old-locale time time old-locale time time
+aws-kinesis aeson aws aws-general base base64-bytestring blaze-builder bytestring conduit conduit-extra deepseq http-conduit http-types parsers QuickCheck quickcheck-instances resourcet text time transformers
+aws-kinesis-client aeson aws aws-kinesis base base-unicode-symbols conduit containers data-carousel enclosed-exceptions http-conduit kan-extensions lens lens-action lifted-async lifted-base monad-control mtl nats random resourcet stm stm-chans stm-queue-extras text transformers unordered-containers aeson aws aws-configuration-tools aws-general aws-kinesis aws-kinesis-client base base-unicode-symbols bytestring conduit configuration-tools http-conduit kan-extensions lens lifted-async lifted-base monad-control mtl optparse-applicative text transformers
+aws-kinesis-reshard aws aws-general aws-kinesis aws-sdk base base-unicode-symbols bytestring conduit hoist-error lens lens-action lifted-async lifted-base monad-control mtl optparse-applicative resourcet text time transformers aws aws-general aws-kinesis aws-kinesis-reshard aws-sdk base base-unicode-symbols conduit either hoist-error lens lens-action lifted-async lifted-base monad-control mtl optparse-applicative resourcet text time transformers
+aws-lambda aeson aws-general base base-unicode-symbols bytestring containers exceptions filepath http-client http-types lens lens-action lens-aeson mtl old-locale text time wreq zip-archive
+aws-performance-tests aeson aws base errors lifted-base monad-control mtl text transformers async aws aws-performance-tests base bytestring configuration-tools containers dlist errors http-client lens monad-control optparse-applicative resourcet statistics text time transformers vector Chart Chart Chart-cairo colour data-default Chart Chart-cairo colour data-default
+aws-route53 aws base bytestring containers http-conduit http-types old-locale resourcet text time xml-conduit xml-hamlet
+aws-sdk base base64-bytestring bytestring containers data-default http-conduit http-types iproute lifted-base monad-control mtl old-locale parallel parsec safe SHA simple-config strptime template-haskell text time tls transformers transformers-base xml-conduit xml-types conduit conduit conduit-extra resourcet conduit conduit conduit-extra resourcet conduit
+aws-sdk-text-converter base bytestring iproute safe strptime template-haskell text time time-locale-compat
+aws-sdk-xml-unordered aws-sdk-text-converter base conduit containers lifted-base mtl resourcet text unordered-containers xml-conduit xml-types
+aws-sign4 aws base blaze-builder byteable bytestring case-insensitive cryptohash http-types old-locale safe time
+aws-sns aeson aws aws-general base blaze-builder bytestring conduit containers http-conduit http-types parsers QuickCheck resourcet text time transformers xml-conduit
+azure-acs attoparsec base bytestring conduit conduit-extra connection http-conduit http-types network time
+azure-service-api base binary bytestring case-insensitive certificate crypto-pubkey-types http-conduit hxt hxt-xpath pretty resourcet tls tls-extra transformers
+azure-servicebus aeson async attoparsec azure-acs base bytestring case-insensitive conduit connection http-client http-conduit http-types network text
+azurify base base64-bytestring bytestring case-insensitive conduit data-default http-conduit http-date http-types network old-locale SHA text time transformers unix-compat utf8-string hxt hxt hxt-unicode hxt hxt-unicode base base64-bytestring bytestring case-insensitive cmdargs conduit data-default directory http-conduit http-date http-types network old-locale SHA text time transformers unix-compat utf8-string hxt hxt hxt-unicode hxt hxt-unicode
+b-tree base binary bytestring containers directory errors filepath lens mmap mtl pipes pipes-interleave transformers vector
+b9 aeson async base bifunctors binary boxes bytestring conduit conduit-extra ConfigFile directory filepath free hashable mtl parallel parsec pretty pretty-show process QuickCheck random semigroups syb template text time transformers unordered-containers vector yaml b9 base bytestring directory optparse-applicative
+babylon array base containers random wx wxcore
+backdropper hslogger base base directory haskell98 old-time process random base base directory haskell98 old-time process random base
+backtracking-exceptions base either free kan-extensions mtl semigroupoids semigroups transformers
+backward-state base transformers
+bacteria base gd X11
+bag base
+bake aeson base bytestring cmdargs containers deepseq direct-sqlite directory disk-free-space extra filepath hashable HTTP http-types old-locale random safe shake smtp-mail sqlite-simple text time transformers unordered-containers wai warp aeson base bytestring cmdargs containers deepseq direct-sqlite directory disk-free-space extra filepath hashable HTTP http-types old-locale process random safe shake smtp-mail sqlite-simple text time transformers unordered-containers wai warp
+bamboo base bytestring containers data-default directory filepath gravatar hack hack-contrib haskell98 mps mtl network old-locale old-time pandoc parsec parsedate process time unix utf8-string xhtml zlib
+bamboo-launcher bamboo bamboo-theme-blueprint base bytestring data-default hack hack-contrib hack-handler-hyena haskell98 mps process
+bamboo-plugin-highlight bamboo base bytestring hack hack-contrib highlighting-kate hxt mps xhtml
+bamboo-plugin-photo base bytestring data-default directory filepath hack hack-contrib haskell98 hxt mps utf8-string xhtml
+bamboo-theme-blueprint bamboo base bytestring containers data-default gravatar hack hack-contrib hcheat mps network rss utf8-string xhtml
+bamboo-theme-mini-html5 bamboo base base64-string bytestring cgi containers data-default directory filepath gravatar hack hack-contrib haskell98 hcheat moe mps mtl network old-locale old-time parsec parsedate process rss time unix utf8-string xhtml yuuko zlib
+bamse com directory filepath old-time pretty process regex-compat base base base base base HUnit QuickCheck
+bamstats base cmdargs samtools
+bank-holidays-england base containers time
+banwords attoparsec base bytestring data-default text vector
+barchart base csv diagrams filepath base cmdargs csv diagrams filepath
+barcodes-code128 base bytestring HPDF
+barecheck base containers QuickCheck text time
+barley base bytestring containers directory filepath ghc ghc-prim html plugins snap-core snap-server text transformers unix-compat
+barrie base containers filepath glib gtk
+barrier base blaze-svg bytestring template-haskell text unordered-containers base base freetype2 base freetype2 barrier barrier base bytestring lens-family-core barrier base bytestring lens-family-core barrier barrier base bytestring lens-family-core barrier base bytestring lens-family-core
+barrier-monad base comonad mtl transformers
+base ghc-prim rts integer-simple integer-simple integer-gmp integer-gmp integer-gmp integer-gmp integer-simple integer-gmp integer-gmp
+base-compat base unix unix unix
+base-generics base
+base-io-access base
+base-noprelude base
+base-orphans base ghc-prim
+base-prelude base
+base-unicode-symbols base base base base base
+base16-bytestring base bytestring ghc-prim
+base32-bytestring base bits-extras bytestring cpu
+base32string aeson base binary bytestring text
+base58-bytestring base bytestring
+base58address base binary bytestring containers cryptohash
+base58string aeson base binary bytestring text
+base64-bytestring base bytestring
+base64-conduit base base64-bytestring bytestring conduit
+base64-string base
+base91 base mono-traversable base base91 bytestring mono-traversable text
+basex-client base network pureMD5 utf8-string
+bash binary bytestring containers hxt-regex-xmlschema mtl SHA shell-escape base base base base base
+basic-lens base
+basic-prelude base bytestring containers filepath hashable lifted-base ReadArgs safe text transformers unordered-containers vector
+basic-sop base deepseq generics-sop QuickCheck text
+baskell base containers mtl parsec pretty unix
+battlenet aeson base containers http-conduit text
+battlenet-yesod base battlenet http-conduit text yesod-core
+battleships aeson array attoparsec base base64-bytestring blaze-svg bytestring cereal colour containers cookie data-default diagrams-lib diagrams-svg fast-logger filepath hamlet hjsmin MonadRandom mtl shakespeare-js shakespeare-text SimpleAES template-haskell text transformers wai-extra wai-logger word8 yaml yesod yesod-core yesod-routes yesod-static directory directory warp directory warp base battleships yesod warp warp wai-handler-fastcgi warp wai-handler-fastcgi base battleships blaze-svg bytestring diagrams-lib diagrams-svg filepath mtl base battleships containers MonadRandom mtl transformers base bytestring crypto-random mtl
+bayes-stack base cereal containers deepseq digamma enummapset gamma ghc-prim logfloat mtl mwc-random pretty random-fu random-source rvar statistics stm transformers vector
+bbdb base mtl parsec
+bcrypt base bytestring entropy memory
+bdd base HUnit mtl transformers
+bdelta base bytestring
+bdo aeson base network text url aeson base network text url
+beamable base blaze-builder bytestring ghc-prim integer-gmp murmur-hash
+beautifHOL array base haskell98 mtl
+bed-and-breakfast array base binary deepseq template-haskell
+bein base happstack-util HDBC HDBC-postgresql process base convertible filepath hdaemonize HDBC HDBC-postgresql hsyslog mtl network parsec process random stm unix base network base directory filepath HDBC HDBC-postgresql hsyslog mtl network parsec process stm unix base bytestring containers Crypto directory filepath happstack-server happstack-util hdaemonize HDBC HDBC-postgresql hsyslog mtl old-locale stm time unix utf8-string xhtml
+benchmark-function base process random time
+benchpress base mtl time
+bencode base binary bytestring containers parsec
+bencoding attoparsec base bytestring deepseq ghc-prim mtl pretty text
+berkeleydb base binary bytestring
+berp array base containers ghc-prim monads-tf template-haskell transformers base containers directory extensible-exceptions filepath ghc ghc-paths haskeline haskell-src-exts language-python monads-tf parseargs process transformers
+bert base binary binary-conduit bytestring conduit conduit-extra containers mtl network parsec time void unix unix unix
+besout base
+bet aeson base bifunctors binary bytestring containers exceptions HsOpenSSL http-client http-client-openssl lens mtl semigroupoids semigroups text time base base bet base bet
+betacode attoparsec base errors hashable text text-icu
+between base
+bf-cata base
+bff base bimap category-extras containers derive haskell98 mtl template-haskell unix base base directory hint base directory hint base base cgi directory hint utf8-string xhtml base cgi directory hint utf8-string xhtml benchpress benchpress benchpress Chart Chart colour data-accessor Chart colour data-accessor
+bff-mono base containers mtl
+bgmax attoparsec base bytestring time
+bgzf base bytestring mtl parallel pipes streaming-commons
+bibtex latex parsec utility-ht base base base special-functors base base special-functors bytestring bytestring Cabal old-time tar utf8-string bytestring Cabal old-time tar utf8-string
+bidirectionalization-combined base containers mtl parsec pretty template-haskell base bytestring cgi containers directory hint mtl parsec pretty template-haskell unix utf8-string xhtml
+bidispec base bytestring mtl
+bidispec-extras base bytestring dataenc mtl
+bifunctors base tagged tagged semigroups semigroups tagged semigroups
+billboard-parser base directory filepath HarmTrace-Base HUnit ListLike mtl uu-parsinglib base directory filepath HarmTrace-Base HUnit ListLike mtl parseargs uu-parsinglib
+billeksah-forms base billeksah-pane billeksah-services Cabal containers directory filepath glib gtk mtl parsec pretty transformers
+billeksah-main base billeksah-services containers directory filepath mtl parsec plugins pretty transformers
+billeksah-main-static base billeksah-forms billeksah-pane billeksah-services containers directory filepath leksah-dummy leksah-main leksah-plugin-pane mtl parsec pretty transformers
+billeksah-pane base billeksah-services containers directory filepath glib gtk mtl parsec pretty time transformers
+billeksah-services base containers directory filepath mtl parsec pretty transformers
+bimap base containers exceptions
+bimap-server aeson base bimap binary directory http-types unix wai warp
+bimaps aeson base binary cereal containers deepseq hashable primitive QuickCheck storable-tuple unordered-containers vector vector-binary-instances vector-th-unbox
+binary array base bytestring containers ghc-prim ghc-prim ghc-prim ghc-prim ghc-prim ghc-prim
+binary-bits base binary bytestring
+binary-communicator base binary bytestring mtl
+binary-conduit base binary bytestring conduit resourcet vector
+binary-derive base binary ghc-prim
+binary-enum base binary
+binary-file base bytestring monads-tf peggy template-haskell
+binary-generic base binary bytestring data-binary-ieee754 syb text
+binary-indexed-tree array base
+binary-list base binary bytestring deepseq phantom-state transformers
+binary-literal-qq base template-haskell
+binary-orphans aeson base binary hashable scientific tagged text text-binary time unordered-containers vector vector-binary-instances
+binary-protocol base binary bytestring mtl
+binary-protocol-zmq base binary bytestring mtl zeromq-haskell base base HUnit test-framework test-framework-hunit base HUnit test-framework test-framework-hunit
+binary-search base containers
+binary-shared base binary bytestring containers mtl
+binary-state base binary bytestring containers mtl
+binary-store base binary binary-list binary-transform bytestring bzlib deepseq reinterpret-cast
+binary-streams base binary bytestring io-streams
+binary-strict array base bytestring containers mtl
+binary-tagged aeson array base binary bytestring containers generics-sop hashable scientific SHA tagged text time unordered-containers vector
+binary-typed base binary bytestring murmur-hash
+binarydefer base
+bind-marshal base bytestring containers deepseq ghc-prim monads-tf mtl numeric-prelude random stm strict transformers type-level-tf unix
+binding-core base stm
+binding-gtk base binding-core gtk mtl
+binding-wx base binding-core stm wx wxcore
+bindings base
+bindings-DSL base
+bindings-EsounD base bindings-audiofile bindings-DSL
+bindings-GLFW base bindings-DSL
+bindings-K8055 base
+bindings-apr base bindings-DSL
+bindings-apr-util base bindings-apr bindings-DSL
+bindings-audiofile base bindings-DSL
+bindings-bfd array base containers unix
+bindings-cctools bindings-DSL base base base base base base
+bindings-codec2 base bindings-DSL base binary bindings-codec2 bytestring split
+bindings-common base
+bindings-dc1394 base bindings-DSL
+bindings-directfb base bindings-DSL bindings-posix
+bindings-eskit array base bindings-DSL
+bindings-fann base bindings-DSL
+bindings-fluidsynth base bindings-DSL
+bindings-friso base bindings-DSL
+bindings-glib base bindings-DSL
+bindings-gobject base bindings-DSL bindings-glib
+bindings-gpgme base bindings-DSL
+bindings-gsl base bindings-DSL
+bindings-gts base bindings-DSL bindings-glib
+bindings-hamlib base bindings-DSL base bindings-hamlib
+bindings-hdf5 base bindings-DSL
+bindings-levmar base bindings-DSL
+bindings-libcddb base bindings-DSL
+bindings-libffi base bindings-DSL
+bindings-libftdi base bindings-DSL
+bindings-librrd base bindings-DSL
+bindings-libstemmer base bindings-DSL resourcet transformers
+bindings-libusb base bindings-DSL
+bindings-libv4l2 base bindings-DSL
+bindings-libzip base bindings-DSL
+bindings-linux-videodev2 base bindings-DSL ioctl
+bindings-lxc base bindings-DSL
+bindings-mmap bindings-posix
+bindings-mpdecimal base bindings-DSL
+bindings-nettle base bindings-DSL
+bindings-parport base bindings-DSL
+bindings-portaudio base bindings-DSL
+bindings-posix base bindings-DSL
+bindings-potrace base bindings-DSL
+bindings-ppdev base bindings-DSL ioctl
+bindings-saga-cmd base containers directory filepath process unix base bindings-saga-cmd cmdargs containers directory filepath process text unix base bindings-saga-cmd cmdargs containers directory filepath process text unix base bindings-saga-cmd
+bindings-sane base bindings-DSL
+bindings-sc3 base bindings-DSL
+bindings-sipc base base bindings-sipc base bindings-sipc base bindings-sipc base bindings-sipc
+bindings-sophia base bindings-DSL
+bindings-sqlite3 base bindings-DSL
+bindings-svm base bindings-DSL
+bindings-uname base
+bindings-yices base
+bindynamic base binary bytestring rank1dynamic
+binembed base bytestring Cabal base containers directory dlist filepath
+binembed-example base binembed bytestring containers filepath
+bio array base binary bytestring containers directory mtl parallel parsec QuickCheck tagsoup base containers old-time process QuickCheck random base bytestring base base base bytestring base base base random
+bioace base bioalign biocore bytestring parsec
+bioalign base biocore bytestring
+biocore base bytestring stringable
+biofasta base biocore bytestring
+biofastq base biocore bytestring
+biophd base binary biocore bytestring parsec text time time-locale-compat
+biopsl base biocore bytestring unordered-containers cmdargs
+biosff array base binary biocore bytestring array base cmdargs mtl base base
+biostockholm attoparsec attoparsec-conduit base biocore blaze-builder blaze-builder-conduit bytestring conduit containers deepseq
+bird base bytestring containers data-default hack hack-handler-happstack haskell98 MissingH mtl parsec process rallod
+bit-array base loch-th numeric-qq placeholders
+bit-vector base vector
+bitarray array base
+bitcoin-api aeson base base58string binary bitcoin-block bitcoin-script bitcoin-tx bitcoin-types bytestring hexstring lens lens-aeson text unordered-containers wreq
+bitcoin-api-extra base binary bitcoin-api bitcoin-block bitcoin-tx bytestring conduit lens stm stm-chans stm-conduit text transformers
+bitcoin-block base binary bitcoin-tx bitcoin-types bytestring cryptohash hexstring largeword lens
+bitcoin-rpc aeson attoparsec base bytestring cereal containers ghc-prim HTTP mtl network text unix unordered-containers watchdog
+bitcoin-script base base16-bytestring binary bytestring text
+bitcoin-tx base binary bitcoin-script bitcoin-types bytestring cryptohash hexstring lens
+bitcoin-types base base58string binary bytestring hexstring text
+bitly-cli base Bitly directory filepath regexpr
+bitmap base base bytestring base bytestring base bytestring base bytestring
+bitmap-opengl base bitmap OpenGL OpenGL OpenGL OpenGL OpenGL
+bitmaps array base binary bitmap bytestring cereal containers monad-state stb-image string-class tagged zlib
+bits base bytes mtl transformers
+bits-atomic base base base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2 base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2
+bits-conduit base bytestring conduit mtl
+bits-extras base base base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2 base HUnit QuickCheck test-framework test-framework-hunit test-framework-quickcheck2
+bitset base deepseq ghc-prim integer-gmp
+bitspeak base bindings-DSL bindings-glib bindings-gobject
+bitstream base base-unicode-symbols bytestring vector
+bitstring bytestring base base base QuickCheck QuickCheck base base QuickCheck
+bittorrent aeson base base16-bytestring base32-bytestring base64-bytestring bencoding binary binary-conduit bits-extras BoundedChan bytestring cereal cereal-conduit conduit containers cryptohash data-default deepseq directory entropy filepath hashable HTTP IntervalMap intset krpc lens mmap mtl network network-conduit old-locale pretty pretty-class resourcet SafeSemaphore split stm text time transformers unordered-containers urlencoded vector
+bitvec base primitive vector
+bitwise base array array bytestring array array bytestring array bytestring array bytestring
+bitx-bitcoin aeson base bytestring http-client http-client-tls http-types microlens microlens-th network scientific split text time
+bk-tree base containers
+bkr base bytestring HDBC-sqlite3 hslogger MissingH pureMD5 strict aws aws bytestring directory filepath haskell98 HDBC http-conduit random text unix utf8-string aws aws directory filepath HDBC http-conduit random text unix utf8-string aws bytestring directory filepath haskell98 HDBC http-conduit random text unix utf8-string aws directory filepath HDBC http-conduit random text unix utf8-string base bytestring HDBC-sqlite3 hslogger MissingH pureMD5 strict aws aws bytestring directory filepath haskell98 HDBC http-conduit random text unix utf8-string aws aws directory filepath HDBC http-conduit random text unix utf8-string aws bytestring directory filepath haskell98 HDBC http-conduit random text unix utf8-string aws directory filepath HDBC http-conduit random text unix utf8-string
+bktrees array array base containers base array base containers base
+bla base haskell98 unix
+black-jewel ansi-terminal base bytestring directory download haskeline HTTP hxt network process safe tagsoup transformers zlib
+blacktip base bitwise bytestring deepseq deepseq-generics locators network-info safe split system-fileio system-filepath time
+blakesum base bytestring text vector
+blakesum-demo base blakesum bytestring haskell98 text vector
+blank-canvas aeson base base64-bytestring bytestring colour containers data-default-class http-types kansas-comet scotty stm text transformers vector wai wai-extra warp
+blas base ieee QuickCheck storable-complex
+blas-hs base storable-complex
+blastxml base biocore bytestring parallel tagsoup
+blaze
+blaze-bootstrap base blaze-html text
+blaze-builder base deepseq text bytestring bytestring bytestring-builder bytestring bytestring bytestring-builder bytestring
+blaze-builder-conduit base conduit
+blaze-builder-enumerator base bytestring enumerator streaming-commons transformers blaze-builder blaze-builder bytestring-builder blaze-builder blaze-builder bytestring-builder blaze-builder
+blaze-from-html base containers directory filepath tagsoup
+blaze-html base blaze-builder blaze-markup bytestring text
+blaze-html-contrib base blaze-html cgi data-default network safe text
+blaze-html-hexpat base blaze-html bytestring hexpat text
+blaze-html-truncate base blaze-markup bytestring html-truncate tagsoup text
+blaze-json base bytestring bytestring-builder containers data-default-class text
+blaze-markup base blaze-builder bytestring text
+blaze-shields base blaze-html blaze-markup blaze-svg text
+blaze-svg base blaze-markup mtl
+blaze-textual base blaze-builder bytestring ghc-prim old-locale text time vector double-conversion double-conversion integer-simple integer-simple integer-gmp double-conversion integer-simple integer-gmp
+blaze-textual-native base blaze-builder bytestring ghc-prim old-locale text time vector double-conversion double-conversion integer-gmp integer-gmp integer integer double-conversion integer-gmp integer
+blazeMarker base blaze-html blaze-markup
+blink1 base unix unix bytestring bytestring text usb vector unix bytestring text usb vector base blink1 unix unix bytestring bytestring text usb vector unix bytestring text usb vector
+blip base bliplib bytestring containers filepath language-python mtl old-time parseargs pretty
+bliplib base binary bytestring containers mtl pretty utf8-string
+blocking-transactions base containers parallel
+blogination base directory feed filepath higherorder highlighting-kate mtl old-locale pandoc regex-compat time utf8-string xhtml xml base ConfigFile haskell98 old-time
+bloodhound aeson base blaze-builder bytestring containers data-default-class exceptions http-client http-types mtl mtl-compat network-uri semigroups text time transformers unordered-containers vector
+bloomfilter array base bytestring deepseq
+bloxorz base GLFW OpenGL
+blubber base blubber-server bytestring cereal containers gloss network unix
+blubber-server base cereal containers random base blubber-server Cabal cereal containers data-default-class network pandoc process random scotty text transformers unix
+bluetile base ConfigFile containers directory filepath mtl process random regex-compat unix utf8-string X11-xft xmonad xmonad-contrib base filepath unix base glade gtk unix X11 base gtk base directory filepath glade gtk
+bluetileutils base gtk
+blunt aeson base bytestring clay flow http-types jmacro lucid pointfree pointful text wai wai-extra wai-websockets warp websockets wl-pprint-text base blunt
+bmp base binary bytestring
+board-games cgi html transformers utility-ht array array base containers random base array base containers random base array array base cgi containers html httpd-shed network random transformers utility-ht array base cgi containers html httpd-shed network random transformers utility-ht
+bogre-banana base hogre hois monad-control random reactive-banana base hogre hois random
+bool-extras base
+boolean-list base bytestring HUnit
+boolean-normal-forms base cond containers
+boolexpr base parsec
+bools
+boolsimplifier base containers
+boomange base containers descrilo directory filepath simtreelo
+boomerang base mtl template-haskell text
+boomslang base base containers data-accessor data-accessor-template font-opengl-basic4x6 GLFW-b MonadRandom mtl OpenGL base containers data-accessor data-accessor-template font-opengl-basic4x6 GLFW-b MonadRandom mtl OpenGL template-haskell base containers data-accessor data-accessor-template font-opengl-basic4x6 GLFW-b MonadRandom mtl OpenGL base containers data-accessor data-accessor-template font-opengl-basic4x6 GLFW-b MonadRandom mtl OpenGL template-haskell
+borel aeson async attoparsec base bimap cassava ceilometer-common chevalier-common configurator containers errors hslogger lens marquise mtl multiset pipes pipes-concurrency pipes-safe text time transformers unordered-containers vaultaire-common vector zeromq4-haskell network network network-uri network network-uri network network-uri network network-uri
+bot arrows base Stream
+both base
+botpp base bytestring
+bound base bifunctors binary bytes cereal comonad hashable hashable-extras prelude-extras profunctors transformers ghc-prim ghc-prim ghc-prim
+bound-gen base bound monad-gen mtl
+bounded-tchan base stm
+boundingboxes base lens
+bower-json aeson aeson-better-errors base bytestring mtl scientific text transformers unordered-containers vector
+boxes base split
+bpann base random split
+brainfuck array base mtl array base mtl unix
+brainfuck-monad base directory process
+brainfuck-tut array base array base brainfuck-tut
+break base mtl transformers
+breakout base haskgame mtl SDL
+breve aeson base binary blaze-html bytestring configurator cryptohash directory hashtables http-types mtl random Spock text tls transformers wai wai-extra wai-middleware-static warp warp-tls xdg-basedir
+brians-brain array base parallel random SDL
+brick base containers contravariant data-default deepseq Diff lens template-haskell text text-zipper transformers vector vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vector vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty base brick data-default lens text vty
+brillig base binary containers directory filepath ListZipper text base binary brillig cmdargs containers directory filepath text
+broadcast-chan base
+broccoli base containers stm time
+broker-haskell base
+bsd-sysctl base
+bson base binary bytestring cryptohash data-binary-ieee754 mtl network text time
+bson-generic base bson ghc-prim text
+bson-generics base bson ghc-prim
+bson-lens base bson lens text
+bson-mapping base bson compact-string-fix template-haskell th-lift
+bspack base bytestring ghc-prim
+bsparse base bytestring
+btree-concurrent array base base64-bytestring bytestring cereal containers directory filepath hashable mtl random snappy stm time
+btrfs base bytestring time unix base base btrfs filepath unix base btrfs filepath unix base base btrfs base btrfs base base btrfs base btrfs
+buffer-builder base bytestring mtl text unordered-containers vector
+buffer-builder-aeson aeson base buffer-builder bytestring integer-gmp scientific unordered-containers vector
+bugzilla aeson base blaze-builder bytestring connection containers data-default http-conduit http-types iso8601-time resourcet text time transformers unordered-containers vector base bugzilla containers text time
+buildable base bytestring containers dlist text
+buildbox base bytestring containers directory mtl old-locale pretty process random stm time
+buildbox-tools base buildbox parseargs
+buildwrapper aeson async attoparsec base bytestring Cabal conduit conduit-extra containers cpphs deepseq directory dynamic-cabal filepath ghc ghc-paths ghc-pkg-lib haskell-src-exts mtl old-time process regex-tdfa syb text transformers unordered-containers utf8-string vector time time time aeson async base buildwrapper bytestring Cabal cmdargs conduit conduit-extra containers cpphs directory dynamic-cabal filepath ghc ghc-paths ghc-pkg-lib haskell-src-exts mtl old-time process regex-tdfa syb text transformers vector time time time
+bullet base vect
+bumper base Cabal containers fclabels process regex-compat split strict
+burst-detection base deepseq
+bus-pirate base bytestring either errors serialport transformers
+buster base binary bytestring containers dataenc mtl old-locale parsec pretty time
+buster-gtk base binary buster bytestring containers dataenc gtk mtl old-locale parsec pretty time
+buster-network base binary buster bytestring containers dataenc haxr HTTP mtl network old-locale pretty time
+bustle base bytestring cairo containers dbus directory filepath gio glib gtk3 hgettext mtl pango parsec pcap process setlocale text time gtk2hs-buildtools gtk2hs-buildtools gtk2hs-buildtools base bytestring cairo containers dbus directory filepath glib gtk3 hgettext mtl pango parsec pcap setlocale text base bytestring containers dbus mtl pcap text
+bv base base base QuickCheck test-framework-quickcheck2 test-framework-th base QuickCheck test-framework-quickcheck2 test-framework-th
+byline ansi-terminal base colour containers exceptions haskeline mtl terminfo-hs text transformers base byline text base byline text
+bytable base bytestring word24
+byteable base bytestring
+bytedump base bytestring base base bytestring base bytestring
+byteorder base
+bytes base binary bytestring cereal containers mtl text time transformers transformers-compat void ghc-prim ghc-prim ghc-prim
+byteset base binary
+bytestring base deepseq ghc-prim integer-gmp integer-gmp integer-gmp integer integer integer-gmp integer-gmp integer-gmp integer
+bytestring-arbitrary base bytestring cryptohash QuickCheck
+bytestring-builder base deepseq bytestring bytestring bytestring bytestring bytestring
+bytestring-class base bytestring utf8-string
+bytestring-conversion attoparsec base bytestring case-insensitive text blaze-textual blaze-textual double-conversion blaze-textual double-conversion
+bytestring-csv dlist array array base bytestring base array base bytestring base
+bytestring-delta base bytestring
+bytestring-from attoparsec base bytestring text
+bytestring-handle base bytestring
+bytestring-lexing base bytestring
+bytestring-mmap unix base base bytestring base base bytestring base
+bytestring-nums base bytestring containers
+bytestring-plain base bytestring deepseq ghc-prim hashable
+bytestring-progress base bytestring time terminal-progress-bar terminal-progress-bar terminal-progress-bar
+bytestring-read base bytestring types-compat
+bytestring-rematch base bytestring
+bytestring-short base bytestring deepseq
+bytestring-show array base binary bytestring containers integer-simple integer-simple integer-gmp integer-gmp integer integer integer-simple integer-gmp integer
+bytestring-trie binary base base base base base base bytestring base base base base base base base bytestring base base
+bytestringparser base base base bytestring containers base base base base base bytestring containers base base
+bytestringparser-temporary base base base bytestring containers base base base base base bytestring containers base base
+bytestringreadp base base bytestring base base bytestring base
+bzlib base bytestring
+bzlib-conduit base bindings-DSL bytestring conduit conduit-extra data-default mtl resourcet
+c-dsl base language-c
+c-io base
+c-storable-deriving base ghc-prim
+c0check base c0parser
+c0parser base parsec
+c10k base network unix
+c2hs base bytestring dlist filepath language-c array array base containers directory pretty process base array base containers directory pretty process base base base filepath shelly text yaml base filepath shelly text yaml
+c2hsc base cmdargs containers directory filepath HStringTemplate language-c mtl pretty split transformers
+cab attoparsec base bytestring Cabal conduit conduit-extra containers directory filepath process resourcet attoparsec base bytestring cab Cabal conduit conduit-extra containers directory filepath process
+cabal-audit base Cabal directory filepath HTTP optparse-applicative
+cabal-bounds base Cabal cabal-lenses cmdargs directory either filepath lens strict transformers unordered-containers base cabal-bounds
+cabal-cargs base Cabal cabal-lenses cmdargs directory either lens strict system-fileio system-filepath text transformers unordered-containers base cabal-cargs
+cabal-constraints base Cabal optparse-applicative
+cabal-db ansi-wl-pprint base bytestring Cabal containers directory filepath mtl optparse-applicative pretty process tar utf8-string
+cabal-debian ansi-wl-pprint base bifunctors Cabal containers data-default deepseq Diff directory exceptions filepath hsemail HUnit lens memoize mtl network-uri newtype-generics optparse-applicative parsec process pureMD5 regex-tdfa set-extra syb text unix Unixutils utf8-string pretty pretty pretty prettyclass bytestring bytestring bzlib exceptions HaXml ListLike network network-uri old-locale process-extras regex-compat template-haskell time zlib debian pretty pretty prettyclass bytestring bzlib exceptions HaXml ListLike network network-uri old-locale process-extras regex-compat template-haskell time zlib debian base Cabal cabal-debian lens mtl pretty Unixutils pretty pretty pretty prettyclass debian debian pretty pretty prettyclass debian
+cabal-dependency-licenses base Cabal containers directory filepath
+cabal-dev bytestring bytestring Cabal directory filepath HTTP mtl network pretty process setenv tar template-haskell transformers zlib base base base containers containers containers containers containers containers Win32 Win32 bytestring Cabal directory filepath HTTP mtl network pretty process setenv tar template-haskell transformers zlib base base base containers containers containers containers containers containers base base containers containers containers Win32 base Cabal process HUnit HUnit MonadRandom random test-framework test-framework-hunit base base base Win32 Win32 HUnit MonadRandom random test-framework test-framework-hunit base base base base base Win32 base
+cabal-dir base Cabal directory filepath
+cabal-file-th base Cabal directory template-haskell
+cabal-ghc-dynflags base Cabal ghc transformers
+cabal-ghci base Cabal directory filepath base Cabal directory filepath process
+cabal-graphdeps base containers directory options parsec process split temporary
+cabal-helper base Cabal directory filepath ghc-prim mtl process transformers base bytestring Cabal directory filepath ghc-prim process template-haskell temporary transformers utf8-string
+cabal-install array base bytestring Cabal containers filepath HTTP mtl pretty random stm time zlib directory directory old-time process directory process network network network-uri network Win32 Win32 unix directory old-time process directory process network network-uri network Win32 unix
+cabal-install-bundle array base bytestring Cabal containers directory filepath old-time pretty process time unix
+cabal-install-ghc72 base Cabal filepath HTTP network time zlib base base array base containers directory old-time pretty process random base base base bytestring Win32 Win32 unix base array base containers directory old-time pretty process random base base bytestring Win32 unix
+cabal-install-ghc74 base Cabal filepath HTTP network time zlib base base array base containers directory old-time pretty process random base base base bytestring Win32 Win32 unix base array base containers directory old-time pretty process random base base bytestring Win32 unix
+cabal-lenses base Cabal either lens strict system-fileio system-filepath text transformers unordered-containers
+cabal-macosx base Cabal directory fgl filepath parsec process text base Cabal directory fgl filepath parsec process text
+cabal-meta shelly system-filepath text base base base base base shelly system-fileio system-filepath text base base base base base
+cabal-mon base containers directory filepath process simple-get-opt vty
+cabal-nirvana base bytestring containers directory HTTP process tar Cabal Cabal containers packdeps transformers Cabal containers packdeps transformers
+cabal-progdeps base Cabal directory filepath
+cabal-query base bytestring Cabal derive ghc MissingH mtl tar template-haskell uniplate
+cabal-rpm base Cabal directory filepath process unix old-locale old-locale time time old-locale time time
+cabal-scripts base
+cabal-setup base Cabal
+cabal-sign base bytestring cereal directory filepath process tar zlib
+cabal-sort base Cabal containers directory explicit-exception fgl filepath transformers base bytestring Cabal containers explicit-exception process transformers utility-ht
+cabal-src base bytestring directory filepath process tar base bytestring conduit conduit-extra containers directory http-conduit http-types network resourcet shelly system-fileio system-filepath tar text transformers
+cabal-test base Cabal filepath ghc pqc QuickCheck
+cabal-test-bin base directory filepath unix base cabal-test-bin directory filepath unix
+cabal-test-compat base Cabal QuickCheck
+cabal-test-quickcheck base Cabal QuickCheck
+cabal-uninstall base directory filepath mtl process
+cabal-upload base filepath HTTP network
+cabal2arch archlinux base bytestring Cabal cmdargs containers directory filepath mtl pretty process
+cabal2doap base Cabal hsemail hxt parsec process
+cabal2ebuild base Cabal directory filepath base cabal2ebuild directory base cabal2ebuild curl
+cabal2ghci base Cabal cmdargs stylish-haskell system-fileio system-filepath text unordered-containers yaml
+cabal2nix base Cabal deepseq directory filepath hackage-db pretty process regex-posix transformers base Cabal containers deepseq directory filepath hackage-db mtl pretty process regex-posix transformers
+cabal2spec base bytestring Cabal directory filepath haskell98 old-locale process tar time unix Unixutils zlib
+cabalQuery base Cabal pretty base Cabal cabalQuery containers directory MissingH
+cabalg base directory filepath process base directory filepath process
+cabalgraph Cabal filepath base base bytestring containers directory pretty process base base bytestring containers directory pretty process base
+cabalmdvrpm base Cabal cabalrpmdeps haskell98 base Cabal cabalrpmdeps haskell98
+cabalrpmdeps base Cabal filepath haskell98 base Cabal filepath haskell98 base Cabal filepath haskell98 base Cabal filepath haskell98
+cabalvchk base Cabal
+cabin base binary bytestring directory filepath optparse-applicative process unix
+cabocha base bytestring text
+cached-io base stm time base stm time
+cached-traversable base binary bytestring containers directory filepath mtl
+cacophony base bytestring cryptonite lens memory mtl
+caf base
+cafeteria-prelude base
+caffegraph base bytestring containers fgl filepath graphviz language-lua lens mtl optparse-applicative process protocol-buffers protocol-buffers-descriptor template-haskell temporary text
+cairo array base bytestring mtl text utf8-string
+cairo-appbase cairo glib gtk base base base base base
+cake base binary bytestring containers derive directory filepath mtl parsek process pureMD5 split array base cmdargs directory filepath process regex-tdfa
+cake3 attoparsec base bytestring containers deepseq directory filepath haskell-src-meta language-javascript mime-types monadloc mtl parsec process syb system-filepath template-haskell text text-format base process attoparsec base bytestring containers directory filepath haskell-src-meta language-javascript mime-types monadloc mtl optparse-applicative parsec process syb template-haskell text
+cakyrespa base GLUT gluturtle lojbanParser yjsvg yjtools
+cal3d base
+cal3d-examples base cal3d cal3d-opengl OpenGL SDL base cal3d cal3d-opengl OpenGL SDL
+cal3d-opengl base cal3d OpenGL
+calc array base harpy haskell98 mtl
+calculator base containers gtk haskeline hmatrix parsec plot-gtk-ui transformers
+caldims base containers directory haskell98 mtl parsec readline base containers directory haskell98 mtl parsec readline
+caledon base containers cpphs lens mtl parsec transformers
+call base bindings-portaudio boundingboxes colors containers control-bool deepseq directory filepath free freetype2 GLFW-b hashable JuicyPixels JuicyPixels-util lens linear mtl objective OpenGL OpenGLRaw random template-haskell text transformers vector WAVE base call lens
+call-haskell-from-anything attoparsec base bytestring msgpack mtl template-haskell base bytestring call-haskell-from-anything msgpack mtl
+camh base bytestring Imlib terminfo
+campfire aeson attoparsec base bytestring containers filepath http-enumerator http-types mtl old-locale process text time transformers unordered-containers url
+canonical-filepath base deepseq directory filepath
+canteven-config base unix yaml
+canteven-log aeson base canteven-config directory filepath hslogger text yaml
+cantor base bytestring containers directory filepath hxt hxt-xpath parsec split
+cao array base cmdargs ConfigFile containers directory dlist filepath language-c mtl pretty process yices
+cap array base containers haskell98
+capped-list base
+capri base Cabal directory filepath process
+car-pool base blaze-html containers digestive-functors digestive-functors-blaze digestive-functors-happstack explicit-exception happstack-server non-empty spreadsheet text transformers utility-ht
+caramia base bytestring containers exceptions gl lens linear mtl semigroups text transformers vector base base caramia linear sdl2 text base caramia linear sdl2 text base base caramia sdl2 base caramia sdl2 base base caramia OpenGLRaw sdl2 base caramia OpenGLRaw sdl2 base base caramia sdl2 text transformers vector base caramia sdl2 text transformers vector base base caramia sdl2 base caramia sdl2
+carboncopy base bytestring filepath haskell98 IfElse MissingH
+carettah base cairo directory filepath gtk hcwiid highlighting-kate mtl pandoc pango text time base filepath process
+carray binary ix-shapable base base base bytestring array array base base base base syb base base base bytestring array base base base syb base
+cartel base directory filepath time transformers base base directory filepath multiarg QuickCheck random tasty tasty-quickcheck tasty-th time transformers base directory filepath multiarg QuickCheck random tasty tasty-quickcheck tasty-th time transformers
+casadi-bindings base binary casadi-bindings-core casadi-bindings-internal cereal containers linear vector vector-binary-instances
+casadi-bindings-control base casadi-bindings-core casadi-bindings-internal vector
+casadi-bindings-core base casadi-bindings-internal containers vector
+casadi-bindings-internal base containers vector
+casadi-bindings-ipopt-interface base casadi-bindings-core casadi-bindings-internal vector
+casadi-bindings-snopt-interface base casadi-bindings-core casadi-bindings-internal vector
+cascading base blaze-builder bytestring colour containers lens mtl text utf8-string web-routes
+case-conversion base
+case-insensitive base bytestring deepseq hashable text
+cased base text
+cases attoparsec base-prelude loch-th text
+cash base deepseq haskell98 HaXml network parallel pretty
+casing base split
+cassandra-cql base bytestring cereal containers cryptohash Decimal hslogger MonadCatchIO-transformers mtl network resource-pool stm text time uuid
+cassandra-thrift base bytestring containers Thrift
+cassava array attoparsec base blaze-builder bytestring containers deepseq hashable text unordered-containers vector ghc-prim ghc-prim ghc-prim
+cassava-conduit array base bifunctors bytestring cassava conduit conduit-extra containers mtl
+cassava-streams base bytestring cassava io-streams vector base base cassava-streams io-streams base cassava-streams io-streams
+cassette base
+cassy aeson async attoparsec base binary bytestring cassandra-thrift cereal conduit containers data-default errors exceptions mtl network resource-pool retry safecopy stm syb text Thrift time transformers-base
+castle base containers optparse-applicative shelly system-fileio system-filepath text
+casui base gtk haskell98 mtl parsec
+catamorphism base template-haskell
+catch-fd base mtl transformers
+categorical-algebra base newtype pointless-haskell void
+categories base void
+category-extras adjunctions bifunctors categories comonad comonad-extras comonad-transformers comonads-fd contravariant distributive either free groupoids indexed indexed-extras invariant kan-extensions keys monad-products pointed profunctor-extras profunctors recursion-schemes reducers representable-functors representable-profunctors semigroupoid-extras semigroupoids semigroups void
+cautious-file base bytestring directory filepath unix unix unix
+cayley-client aeson attoparsec base bytestring exceptions http-client http-conduit lens lens-aeson mtl text transformers unordered-containers vector
+cblrepo aeson ansi-wl-pprint base bytestring Cabal containers directory filepath mtl optparse-applicative process safe stringsearch tar transformers unix Unixutils utf8-string zlib
+cci base bytestring base base bytestring cci base bytestring cci base base bytestring cci time base bytestring cci time base base bytestring cci base bytestring cci base base bytestring cci time base bytestring cci time
+ccnx base bytestring
+cctools-workqueue bindings-cctools bytestring lens monad-loops unix base base base base base base
+cedict base bytestring containers mtl parsec utf8-string
+cef base bytestring text time
+ceilometer-common base bimap binary bytestring containers foldl lens pipes siphash template-haskell text vaultaire-common
+cellrenderer-cairo base cairo glib gtk mtl
+cereal bytestring array array base containers base ghc-prim ghc-prim array base containers base ghc-prim
+cereal-conduit base bytestring cereal conduit resourcet transformers
+cereal-derive base cereal ghc-prim
+cereal-enumerator base bytestring cereal enumerator
+cereal-ieee754 array base cereal
+cereal-plus array base bytestring cereal containers errors hashable hashtables mmorph mtl stm text time unordered-containers vector
+cereal-text base cereal text
+cereal-vector base bytestring cereal vector
+certificate asn1-data base bytestring containers crypto-pubkey-types cryptohash directory filepath mtl pem process time Win32 Win32 Win32 cmdargs cmdargs crypto-pubkey cryptohash directory text cmdargs crypto-pubkey cryptohash directory text base base bytestring directory HUnit QuickCheck base bytestring directory HUnit QuickCheck
+cf base
+cfipu base bytestring containers data-default dequeue mtl
+cflp base containers control-monad-omega HUnit incremental-sat-solver level-monad logict MonadRandom mtl random stream-monad syb value-supply
+cfopu base bytestring containers data-default dequeue mtl
+cg base bytestring cereal containers deepseq directory filepath hashable mtl parallel parsec process split text unordered-containers utf8-string void
+cgen base containers directory filepath mtl parsec regex-posix safe template-haskell base containers directory filepath mtl parsec regex-posix safe template-haskell base containers directory filepath mtl parsec regex-posix safe template-haskell
+cgi base bytestring containers exceptions multipart old-locale old-time parsec xhtml network network network-uri network mtl mtl mtl-compat mtl network network-uri network mtl mtl-compat mtl
+cgi-undecidable base cgi mtl
+cgi-utils base cgi containers mtl random
+cgrep ansi-terminal array async base bytestring cmdargs containers directory dlist either filepath ghc-prim mtl regex-base regex-pcre regex-posix safe split stm stringsearch transformers unix-compat unordered-containers
+chain-codes base containers JuicyPixels
+chalk base
+chalkboard array base binary bytestring Codec-Image-DevIL containers data-reify directory GLUT OpenGLRaw process time base base base
+chalkboard-viewer array base chalkboard GLUT OpenGL time
+chalmers-lava2000 array base process random
+chan-split base stm
+change-monger base process directory
+charade base configurator containers heist mtl QuickCheck random snap text xmlhtml base configurator containers filepath heist lens mtl QuickCheck random snap snap-core snap-extras snap-server text xmlhtml
+charset array base bytestring containers semigroups unordered-containers
+charsetdetect base bytestring
+charsetdetect-ae base bytestring
+chart-histogram base Chart
+chaselev-deque abstract-deque array atomic-primops base ghc-prim transformers vector
+chatter array base bytestring cereal cereal-text containers deepseq directory filepath fullstop hashable mbox MonadRandom parsec QuickCheck quickcheck-instances random-shuffle regex-tdfa regex-tdfa-text text tokenize transformers unordered-containers zlib base bytestring cereal chatter filepath text base bytestring cereal chatter containers filepath text base bytestring cereal chatter containers filepath text base bytestring cereal chatter containers filepath text base bytestring cereal chatter containers filepath text
+chatty ansi-terminal base chatty-utils directory mtl process random setenv template-haskell text time transformers unix
+chatty-text base chatty transformers
+chatty-utils base mtl text transformers
+cheapskate base blaze-html containers data-default mtl syb text uniplate xss-sanitize base blaze-html bytestring cheapskate text aeson base blaze-html cheapskate http-types text wai wai-extra
+check-email base bytestring email-validate
+check-pvp base Cabal containers explicit-exception filepath haskell-src-exts non-empty transformers utility-ht
+checked base
+checkers array base QuickCheck random
