@@ -10,7 +10,7 @@ def gen_names():
             f.write(crate["name"]+","+crate["max_version"]+","+str(crate["downloads"])+"\n")
     f.close()
 
-def contruct_edgelist():
+def construct_edgelist():
     h = open("edge_list",'a')
     f = open("crates_names",'r')
     for line in f.readlines():

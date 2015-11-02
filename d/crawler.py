@@ -12,7 +12,7 @@ def gen_names():
     f.close()
     
 
-def contruct_edgelist():
+def construct_edgelist():
     h = open("edge_list",'w')
     f = open("package_names",'r')
     
